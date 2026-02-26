@@ -1,0 +1,58 @@
+No81 知识库实装记录
+
+更新时间
+- 2026-02-25
+
+已实装内容
+- 新增同步工具目录：`tools/no81_sync/`
+- 新增主脚本：`tools/no81_sync/sync.py`
+- 新增依赖清单：`tools/no81_sync/requirements.txt`
+- 新增使用说明：`tools/no81_sync/README.md`
+- 新增配置示例：`tools/no81_sync/config.example.env`
+- 新增敏感/状态文件忽略：`.gitignore`
+
+已实装能力
+- SMF 登录流程
+  - `action=login` 获取表单与隐藏字段
+  - `action=login2` 提交账号密码与 token
+  - 登录后复用 Session Cookie 抓取内容
+
+- 三类来源收集
+  - 角色卡：从 `topic=1378.0` 抽取全部 `topic=*.0`
+  - 规则书：遍历 `board=15.*` 全分页
+  - 已完结记录：遍历 `board=14.*;prefix=3` 全分页
+
+- 主题导出
+  - 每个主题导出 1 个 Markdown 文件
+  - 按类别落盘到：
+    - `kb/roles/`
+    - `kb/rulebooks/`
+    - `kb/records-completed/`
+  - 文件头包含 YAML 元数据：`topic_id/title/source_url/author/created_at/fetched_at/category`
+  - 正文按楼层组织：`1F/2F/3F...`
+
+- 索引与状态
+  - 索引输出：`kb/index/topics.csv` 与 `kb/index/topics.jsonl`
+  - 告警输出：`kb/index/warnings.txt`
+  - 增量状态：`tools/no81_sync/state/state.json`（按内容 hash 判断更新）
+
+本次增强（更强解析器）
+- 将 printpage 解析从“纯文本正则切块”升级为“DOM 结构解析”
+- 识别并配对：`div.postheader` + `div.postbody`
+- 对楼层正文进行 HTML -> Markdown 结构化转换，增强保真度：
+  - `blockquote` -> Markdown 引用块
+  - `ul/ol/li` -> 列表
+  - `a` -> 链接
+  - `strong/em` -> 粗体/斜体
+  - `pre/code` -> 代码块
+  - `hr` -> 分隔线
+- 默认忽略图片/媒体标签（符合不采集多媒体需求）
+
+已知限制
+- 若论坛账号对 spoiler 仍无权限，正文会出现 `Sorry but you are not allowed to view spoiler contents.` 文本提示。
+- 目前不下载附件，不做图片本地化（按需求 intentionally disabled）。
+
+后续可选增强
+- 在 printpage 异常时自动回退到普通 topic 页面解析。
+- 增加重试与失败队列（网络抖动时更稳）。
+- 增加“仅更新某个 topic_id”参数，便于快速补抓。

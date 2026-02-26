@@ -17,6 +17,8 @@ from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
+from bs4 import NavigableString
+from bs4 import Tag
 
 
 FORUM_TZ = ZoneInfo("Asia/Shanghai")
@@ -39,6 +41,13 @@ class PostBlock:
     author: str
     posted_at: str
     body: str
+
+
+def compact_blank_lines(text: str) -> str:
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = re.sub(r"[ \t]+\n", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
 
 
 def load_env_file(path: Path) -> Dict[str, str]:
@@ -204,31 +213,140 @@ def collect_role_topics(client: ForumClient) -> Set[int]:
     return topic_ids
 
 
-def html_to_clean_text(html: str) -> str:
-    soup = BeautifulSoup(html, "html.parser")
-    text = soup.get_text("\n", strip=True)
-    text = unescape(text)
-    text = text.replace("\r\n", "\n").replace("\r", "\n")
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
+def text_content(node: Tag | NavigableString | None) -> str:
+    if node is None:
+        return ""
+    if isinstance(node, NavigableString):
+        return unescape(str(node).replace("\xa0", " "))
+    return unescape(node.get_text("", strip=False).replace("\xa0", " "))
 
 
-def parse_printpage_posts(text: str) -> List[PostBlock]:
-    pattern = re.compile(
-        r"标题:\s*(?P<title>.+?)\s*作者:\s*(?P<author>.+?)\s*于\s*(?P<time>.+?)\s*(?P<body>.*?)(?=(?:\n标题:\s*.+?\n作者:\s*.+?\s*于\s*.+?)|\Z)",
-        re.S,
-    )
-    posts: List[PostBlock] = []
+def normalize_inline_text(text: str) -> str:
+    text = text.replace("\t", " ")
+    text = re.sub(r"[ \f\v]+", " ", text)
+    return text
 
-    for match in pattern.finditer(text):
-        title = match.group("title").strip()
-        author = match.group("author").strip()
-        posted_at = match.group("time").strip()
-        body = match.group("body").strip()
-        body = re.sub(r"\n{3,}", "\n\n", body)
-        posts.append(PostBlock(title=title, author=author, posted_at=posted_at, body=body))
 
-    return posts
+def render_children(node: Tag, list_depth: int = 0) -> str:
+    chunks: List[str] = []
+    for child in node.children:
+        chunks.append(render_node(child, list_depth=list_depth))
+    return "".join(chunks)
+
+
+def render_list(list_node: Tag, ordered: bool, list_depth: int) -> str:
+    lines: List[str] = []
+    index = 1
+    for child in list_node.children:
+        if not isinstance(child, Tag) or child.name != "li":
+            continue
+        item_text = compact_blank_lines(render_children(child, list_depth=list_depth + 1))
+        if not item_text:
+            continue
+        indent = "  " * list_depth
+        bullet = f"{index}. " if ordered else "- "
+        item_lines = item_text.split("\n")
+        lines.append(f"{indent}{bullet}{item_lines[0]}")
+        for cont in item_lines[1:]:
+            lines.append(f"{indent}  {cont}")
+        index += 1
+    if not lines:
+        return ""
+    return "\n".join(lines) + "\n\n"
+
+
+def render_blockquote(node: Tag, list_depth: int) -> str:
+    text = compact_blank_lines(render_children(node, list_depth=list_depth))
+    if not text:
+        return ""
+    out_lines = []
+    for line in text.split("\n"):
+        if line.strip():
+            out_lines.append(f"> {line}")
+        else:
+            out_lines.append(">")
+    return "\n".join(out_lines) + "\n\n"
+
+
+def render_code_block(node: Tag) -> str:
+    text = node.get_text("\n", strip=False)
+    text = text.replace("\r\n", "\n").replace("\r", "\n").rstrip("\n")
+    return f"```\n{text}\n```\n\n"
+
+
+def render_node(node: Tag | NavigableString, list_depth: int = 0) -> str:
+    if isinstance(node, NavigableString):
+        return normalize_inline_text(text_content(node))
+
+    name = (node.name or "").lower()
+
+    if name in {"script", "style", "noscript", "iframe", "video", "audio", "source"}:
+        return ""
+
+    if name == "br":
+        return "\n"
+
+    if name in {"strong", "b"}:
+        inner = compact_blank_lines(render_children(node, list_depth=list_depth))
+        return f"**{inner}**" if inner else ""
+
+    if name in {"em", "i"}:
+        inner = compact_blank_lines(render_children(node, list_depth=list_depth))
+        return f"*{inner}*" if inner else ""
+
+    if name == "a":
+        label = compact_blank_lines(render_children(node, list_depth=list_depth))
+        href = (node.get("href") or "").strip()
+        if not label:
+            label = href
+        if href:
+            return f"[{label}]({href})"
+        return label
+
+    if name in {"ul", "ol"}:
+        return render_list(node, ordered=(name == "ol"), list_depth=list_depth)
+
+    if name == "blockquote":
+        return render_blockquote(node, list_depth=list_depth)
+
+    if name in {"pre", "code"}:
+        return render_code_block(node)
+
+    if name == "hr":
+        return "\n---\n\n"
+
+    if name in {"img", "svg", "picture", "figure", "figcaption"}:
+        return ""
+
+    if name in {"p", "div", "section", "article", "table", "tr", "td", "th"}:
+        inner = compact_blank_lines(render_children(node, list_depth=list_depth))
+        if not inner:
+            return ""
+        return inner + "\n\n"
+
+    return render_children(node, list_depth=list_depth)
+
+
+def postbody_to_markdown(body: Tag) -> str:
+    text = render_children(body)
+    return compact_blank_lines(text)
+
+
+def parse_post_header(header: Tag) -> Tuple[str, str, str]:
+    raw = compact_blank_lines(header.get_text("\n", strip=True))
+
+    title_match = re.search(r"标题:\s*(.+)", raw)
+    title = title_match.group(1).strip() if title_match else "Untitled"
+
+    author_match = re.search(r"作者:\s*(.+?)\s*于\s*(.+)$", raw)
+    if author_match:
+        author = author_match.group(1).strip()
+        posted_at = author_match.group(2).strip()
+    else:
+        author = "unknown"
+        posted_at = "unknown"
+
+    return title, author, posted_at
 
 
 def parse_topic_from_printpage(html: str) -> Tuple[str, List[PostBlock]]:
@@ -236,11 +354,19 @@ def parse_topic_from_printpage(html: str) -> Tuple[str, List[PostBlock]]:
     page_title = soup.title.get_text(strip=True) if soup.title else "Untitled"
     topic_title = re.sub(r"^打印本页\s*-\s*", "", page_title).strip()
 
-    text = html_to_clean_text(html)
-    posts = parse_printpage_posts(text)
+    posts: List[PostBlock] = []
+    posts_container = soup.select_one("#posts")
+    if posts_container:
+        headers = posts_container.select("div.postheader")
+        bodies = posts_container.select("div.postbody")
+        pair_count = min(len(headers), len(bodies))
+        for idx in range(pair_count):
+            title, author, posted_at = parse_post_header(headers[idx])
+            body_md = postbody_to_markdown(bodies[idx])
+            posts.append(PostBlock(title=title, author=author, posted_at=posted_at, body=body_md))
 
     if not posts:
-        fallback_body = text
+        fallback_body = compact_blank_lines(soup.get_text("\n", strip=True))
         posts = [
             PostBlock(
                 title=topic_title or "Untitled",
