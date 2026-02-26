@@ -9,11 +9,14 @@ import sys
 import time
 from dataclasses import dataclass
 from datetime import datetime
+from datetime import timedelta
+from datetime import timezone
 from html import unescape
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Set, Tuple
 from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfoNotFoundError
 
 import requests
 from bs4 import BeautifulSoup
@@ -21,7 +24,12 @@ from bs4 import NavigableString
 from bs4 import Tag
 
 
-FORUM_TZ = ZoneInfo("Asia/Shanghai")
+try:
+    FORUM_TZ = ZoneInfo("Asia/Shanghai")
+except ZoneInfoNotFoundError:
+    # Fallback for Python environments without IANA timezone data (common on Windows).
+    # Forum time is fixed at UTC+8 for this use case.
+    FORUM_TZ = timezone(timedelta(hours=8), name="CST")
 
 ROLE_INDEX_TOPIC_ID = 1378
 RULEBOOK_BOARD_ID = 15
