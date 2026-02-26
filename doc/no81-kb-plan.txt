@@ -1,0 +1,43 @@
+No81 AI 大乱斗知识库落地计划
+
+目标
+- 将三类论坛内容完整导出为 Markdown，用于归档与后续 LLM Agent 处理。
+- 三类来源：
+  1) 角色卡：topic=1378.0 帖子中的全部 topic 链接。
+  2) 规则书：board=15.0 板块全部主题。
+  3) 记录：board=14.0 且 prefix=3（已完结）全部主题。
+- 导出要求：整帖导出（包含所有楼层），不抓取图片或其他多媒体文件。
+
+目录结构
+- kb/roles/
+- kb/rulebooks/
+- kb/records-completed/
+- kb/index/
+- tools/no81_sync/
+
+技术方案
+- 使用 Python 脚本统一抓取与转换。
+- 登录 Simple Machines Forum (SMF) 后抓取，确保 spoiler 可见。
+- 主题内容优先使用 printpage 页面提取，导出为纯文本 Markdown。
+
+登录与配置
+- 使用专用论坛账号登录，账号信息通过本地配置文件注入。
+- 配置项包含：论坛地址、用户名、密码、请求间隔、User-Agent。
+- 配置文件不入库，仅保留示例配置。
+
+导出规范
+- 每个 topic 输出一个 Markdown 文件。
+- 文件头包含元数据：topic_id、title、source_url、author、created_at、fetched_at、category。
+- 正文按楼层顺序组织：1F/2F/3F...
+- 仅保留文本与链接，不下载媒体资源。
+
+增量更新
+- 维护 state 文件（topic_id -> content hash、文件路径、更新时间）。
+- 二次运行时根据 hash 判断是否重写文件。
+- 每次运行都输出索引：CSV 和 JSONL。
+
+验收标准
+- 三类来源主题可被完整枚举并导出。
+- 输出文件可直接被 LLM 读取。
+- 索引完整，可定位每个主题来源与本地路径。
+- 若出现权限问题（例如 spoiler 不可见），输出告警并记录。
