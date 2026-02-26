@@ -1,0 +1,154 @@
+https://opncd.ai/share/mQLgowU2
+
+Session存档：No81·AI大乱斗知识库建设
+日期：2026-02-25
+
+一、目标与范围
+
+本次会话目标：
+- 将 No81 论坛中的三类内容沉淀为可持续更新的本地知识库（Markdown）。
+- 重点满足两类使用场景：
+  1) 存档与人类阅读
+  2) 直接提供给 LLM / LLM Agent 进行检索、总结、对比分析
+
+用户确认的关键约束：
+- 必须“整帖导出”（不是只导首楼）。
+- 论坛是 SMF（Simple Machines Forum），需支持登录后抓取。
+- 图片/多媒体无需本地化与索引（文本优先）。
+- 时区按论坛本地时间（UTC+8）。
+
+抓取范围定义：
+- 角色卡：topic=1378.0 帖子内全部 topic 链接。
+- 规则书：board=15.0 全分页主题。
+- 记录：board=14.0 且 prefix=3（已完结）全分页主题。
+
+------------------------------------------------------------
+二、本次完成的文件与结构
+
+1) 根目录与文档
+- .gitignore
+- README.md（重写，LLM/Agent优先导览）
+- doc/no81-kb-plan.txt（最初计划）
+- doc/no81-kb-implementation-log.txt（实装记录）
+- doc/session-archive-2026-02-25.txt（本文件）
+
+2) 同步工具
+- tools/no81_sync/sync.py
+- tools/no81_sync/requirements.txt
+- tools/no81_sync/README.md
+- tools/no81_sync/config.example.env
+
+3) 机器检索引导
+- kb/index/README.md（面向 LLM/Agent 的最短检索路径说明）
+
+------------------------------------------------------------
+三、核心实现内容
+
+1) 抓取脚本（sync.py）
+- 支持 SMF 登录流程：
+  - GET action=login 获取表单与隐藏字段
+  - POST action=login2 提交凭据与字段
+  - 通过页面特征校验登录结果
+- 三类来源自动枚举：
+  - 角色卡：从 role index topic 抽取 topic id
+  - 规则书/记录：遍历 board 分页并收集 topic id
+- topic 导出：
+  - 每个 topic 产出一个 Markdown
+  - 带 YAML front matter
+  - 正文按 1F/2F/3F... 分段
+- 增量策略：
+  - 对导出内容计算 hash
+  - state 文件记录上次状态
+  - unchanged 时跳过重写
+- 索引输出：
+  - kb/index/topics.csv
+  - kb/index/topics.jsonl
+  - kb/index/warnings.txt
+
+2) 解析器升级（“更强解析器”）
+- 从“纯文本正则切块”升级为“DOM结构解析”：
+  - 按 printpage 的 div.postheader + div.postbody 一一配对
+- HTML -> Markdown 结构化转换增强：
+  - blockquote、ul/ol/li、a、strong/em、pre/code、hr
+  - 清理多余空白行
+  - 忽略图片/媒体标签（符合需求）
+
+3) 面向 LLM 的信息架构优化
+- README.md 改造为“人类可读 + 机器快速路由”双目标：
+  - 明确先读索引，再读目标文件
+  - 明确 category 与问题类型映射
+  - 降低全库盲扫概率与 token 消耗
+- 新增 kb/index/README.md：
+  - 极简字段与检索策略说明
+  - 供 Agent 首跳使用
+
+------------------------------------------------------------
+四、踩坑与修复记录
+
+坑1：printpage 内容体量巨大，直接文本解析噪音高
+- 现象：某些主题（特别是长串楼、长文本）输出非常长，简单正则易误分段。
+- 处理：改为 DOM 解析（postheader/postbody 配对）后稳定性显著提升。
+
+坑2：spoiler 可见性依赖登录权限
+- 现象：出现 "Sorry but you are not allowed to view spoiler contents."。
+- 结论：不是解析器问题，而是账号权限问题。
+- 处理：
+  - 支持账号登录抓取
+  - 仍出现时写入 warnings，便于后续人工核查权限
+
+坑3：Windows + Python 3.9 下 ZoneInfo 缺少时区数据库
+- 现象：
+  - ModuleNotFoundError: No module named 'tzdata'
+  - ZoneInfoNotFoundError: No time zone found with key Asia/Shanghai
+- 处理：
+  - requirements 增加 tzdata
+  - 代码增加兜底：若 ZoneInfo 失败则使用固定 UTC+8 timezone
+- 结果：无论 tzdata 是否可用，脚本都可运行并保持本地时区语义。
+
+坑4：本地 py_compile 产生 __pycache__ 噪音
+- 现象：工作区出现 __pycache__ 文件，影响状态整洁。
+- 处理：将 tools/no81_sync/__pycache__/ 加入 .gitignore。
+
+坑5：面向 LLM 使用时容易先全库扫文件
+- 现象：Agent 常见低效路径是直接 grep 全库正文。
+- 处理：在 README 与 index README 中明确“先索引后正文”的标准流程。
+
+------------------------------------------------------------
+五、最终产出能力（当前状态）
+
+已具备：
+- 一键全量抓取与导出
+- 分类存储（roles/rulebooks/records-completed）
+- 增量更新
+- 机器可读索引
+- LLM/Agent 低噪音导航文档
+
+适用问题示例：
+- “总结作者 X 的角色设计风格”
+- “角色 Y 在每次乱斗中的表现”
+- “某规则/模型在实战中的问题模式”
+
+------------------------------------------------------------
+六、建议的后续维护节奏
+
+- 日常：按需执行增量同步（建议每天或每周一次）。
+- 校验：定期抽样检查 warnings.txt 与索引完整性。
+- 权限：保持抓取账号具备目标版块与 spoiler 可见权限。
+
+------------------------------------------------------------
+七、会话总结
+
+本次会话从“需求澄清 -> 方案设计 -> 仓库落地 -> 解析器增强 -> 文档工程化”完整闭环。
+最终结果已达到“可归档、可增量、可被LLM高效消费”的目标。
+
+合作愉快，收工。
+
+——————————————————————
+
+                                   ▄
+  █▀▀█ █▀▀█ █▀▀█ █▀▀▄ █▀▀▀ █▀▀█ █▀▀█ █▀▀█
+  █  █ █  █ █▀▀▀ █  █ █    █  █ █  █ █▀▀▀
+  ▀▀▀▀ █▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀
+
+  Session   将内容转为知识库的MD文件计划
+  Continue  opencode -s ses_3686f7c9affexsRavYmQLgowU2
