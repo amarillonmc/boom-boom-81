@@ -4,8 +4,16 @@ title: "Justfish的角色 - 悉达·凯隐 (Sydan Kayn)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1888.0"
 author: "Justfish"
-created_at: "十月 23, 2025, 01:44 下午"
-fetched_at: "2026-02-26 10:11:26 +0800"
+created_at_raw: "十月 23, 2025, 01:44 下午"
+created_at_iso: "2025-10-23T13:44:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:26 +0800"
+fetched_at_iso: "2026-02-26T10:11:26+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4747
+approx_tokens: 2374
 ---
 
 # Justfish的角色 - 悉达·凯隐 (Sydan Kayn)

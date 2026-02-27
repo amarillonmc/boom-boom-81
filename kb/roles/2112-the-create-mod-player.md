@@ -4,8 +4,16 @@ title: "小可的角色 - 机械动力玩家 (The Create Mod Player)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2112.0"
 author: "小可"
-created_at: "十月 29, 2025, 03:34 下午"
-fetched_at: "2026-02-26 10:13:01 +0800"
+created_at_raw: "十月 29, 2025, 03:34 下午"
+created_at_iso: "2025-10-29T15:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:01 +0800"
+fetched_at_iso: "2026-02-26T10:13:01+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5137
+approx_tokens: 2569
 ---
 
 # 小可的角色 - 机械动力玩家 (The Create Mod Player)

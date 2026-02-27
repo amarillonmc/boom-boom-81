@@ -4,8 +4,16 @@ title: "特殊议程——失落帝国"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=846.0"
 author: "梦梦"
-created_at: "九月 25, 2025, 12:01 上午"
-fetched_at: "2026-02-26 10:19:31 +0800"
+created_at_raw: "九月 25, 2025, 12:01 上午"
+created_at_iso: "2025-09-25T00:01:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:31 +0800"
+fetched_at_iso: "2026-02-26T10:19:31+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1408
+approx_tokens: 704
 ---
 
 # 特殊议程——失落帝国

@@ -4,8 +4,16 @@ title: "终末的角色 - 终局Frisk-LV20"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1611.0"
 author: "Ender_Eragon"
-created_at: "十月 15, 2025, 10:53 上午"
-fetched_at: "2026-02-26 10:09:22 +0800"
+created_at_raw: "十月 15, 2025, 10:53 上午"
+created_at_iso: "2025-10-15T10:53:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:22 +0800"
+fetched_at_iso: "2026-02-26T10:09:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2174
+approx_tokens: 1087
 ---
 
 # 终末的角色 - 终局Frisk-LV20

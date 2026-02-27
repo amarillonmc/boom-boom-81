@@ -4,8 +4,16 @@ title: "特殊议程-何意味杯规则书"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=1649.0"
 author: "Justfish"
-created_at: "十月 16, 2025, 12:55 下午"
-fetched_at: "2026-02-26 10:19:56 +0800"
+created_at_raw: "十月 16, 2025, 12:55 下午"
+created_at_iso: "2025-10-16T12:55:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:56 +0800"
+fetched_at_iso: "2026-02-26T10:19:56+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6090
+approx_tokens: 3045
 ---
 
 # 特殊议程-何意味杯规则书

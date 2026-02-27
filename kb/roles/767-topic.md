@@ -4,8 +4,16 @@ title: "普通人的无聊生活的角色 - 江之岛盾子"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=767.0"
 author: "普通人的无聊生活"
-created_at: "九月 23, 2025, 12:34 下午"
-fetched_at: "2026-02-26 10:03:25 +0800"
+created_at_raw: "九月 23, 2025, 12:34 下午"
+created_at_iso: "2025-09-23T12:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:25 +0800"
+fetched_at_iso: "2026-02-26T10:03:25+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1418
+approx_tokens: 709
 ---
 
 # 普通人的无聊生活的角色 - 江之岛盾子

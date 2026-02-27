@@ -4,8 +4,16 @@ title: "Ombre的角色 - 缪尔娜"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1984.0"
 author: "Ombre"
-created_at: "十月 26, 2025, 10:26 下午"
-fetched_at: "2026-02-26 10:12:03 +0800"
+created_at_raw: "十月 26, 2025, 10:26 下午"
+created_at_iso: "2025-10-26T22:26:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:03 +0800"
+fetched_at_iso: "2026-02-26T10:12:03+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7754
+approx_tokens: 3877
 ---
 
 # Ombre的角色 - 缪尔娜

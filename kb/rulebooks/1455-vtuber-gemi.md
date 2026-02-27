@@ -4,8 +4,16 @@ title: "新人VTuber哈Gemi一問一答自己紹介"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=1455.0"
 author: "紫宵"
-created_at: "十月 10, 2025, 12:49 下午"
-fetched_at: "2026-02-26 10:19:52 +0800"
+created_at_raw: "十月 10, 2025, 12:49 下午"
+created_at_iso: "2025-10-10T12:49:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:52 +0800"
+fetched_at_iso: "2026-02-26T10:19:52+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 153834
+approx_tokens: 76917
 ---
 
 # 新人VTuber哈Gemi一問一答自己紹介

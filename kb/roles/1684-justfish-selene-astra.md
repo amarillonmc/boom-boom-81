@@ -4,8 +4,16 @@ title: "Justfish的角色 - 塞勒涅·阿斯特拉 (Selene Astra)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1684.0"
 author: "Justfish"
-created_at: "十月 17, 2025, 01:14 下午"
-fetched_at: "2026-02-26 10:09:59 +0800"
+created_at_raw: "十月 17, 2025, 01:14 下午"
+created_at_iso: "2025-10-17T13:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:59 +0800"
+fetched_at_iso: "2026-02-26T10:09:59+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4503
+approx_tokens: 2252
 ---
 
 # Justfish的角色 - 塞勒涅·阿斯特拉 (Selene Astra)

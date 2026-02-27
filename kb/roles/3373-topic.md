@@ -12,6 +12,8 @@ has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
+approx_chars: 2152
+approx_tokens: 1076
 ---
 
 # 失智毛玉的角色 - 卢本伟

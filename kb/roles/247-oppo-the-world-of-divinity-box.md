@@ -4,8 +4,16 @@ title: "OPPO的角色 - 神盒世界【The World of Divinity Box】"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=247.0"
 author: "OPPO"
-created_at: "九月 13, 2025, 12:59 下午"
-fetched_at: "2026-02-26 09:58:43 +0800"
+created_at_raw: "九月 13, 2025, 12:59 下午"
+created_at_iso: "2025-09-13T12:59:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:43 +0800"
+fetched_at_iso: "2026-02-26T09:58:43+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3144
+approx_tokens: 1572
 ---
 
 # OPPO的角色 - 神盒世界【The World of Divinity Box】

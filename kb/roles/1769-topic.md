@@ -4,8 +4,16 @@ title: "终末的角色 - 第八罪孽-“虚荣”索沃姆"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1769.0"
 author: "Ender_Eragon"
-created_at: "十月 19, 2025, 12:14 下午"
-fetched_at: "2026-02-26 10:10:44 +0800"
+created_at_raw: "十月 19, 2025, 12:14 下午"
+created_at_iso: "2025-10-19T12:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:44 +0800"
+fetched_at_iso: "2026-02-26T10:10:44+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3396
+approx_tokens: 1698
 ---
 
 # 终末的角色 - 第八罪孽-“虚荣”索沃姆

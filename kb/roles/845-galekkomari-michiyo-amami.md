@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 天海 三千代（Michiyo Amami）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=845.0"
 author: "galekkomari"
-created_at: "九月 24, 2025, 11:51 下午"
-fetched_at: "2026-02-26 10:03:56 +0800"
+created_at_raw: "九月 24, 2025, 11:51 下午"
+created_at_iso: "2025-09-24T23:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:56 +0800"
+fetched_at_iso: "2026-02-26T10:03:56+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5002
+approx_tokens: 2501
 ---
 
 # galekkomari的角色 - 天海 三千代（Michiyo Amami）

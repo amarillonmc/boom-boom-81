@@ -12,6 +12,8 @@ has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
+approx_chars: 1869
+approx_tokens: 935
 ---
 
 # 老凤凰的角色 - 克莱恩·莫雷蒂

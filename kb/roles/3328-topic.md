@@ -4,8 +4,16 @@ title: "终末的角色 - 「灾厄博士」（未完成）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3328.0"
 author: "Ender_Eragon"
-created_at: "二月 04, 2026, 06:34 上午"
-fetched_at: "2026-02-26 10:18:50 +0800"
+created_at_raw: "二月 04, 2026, 06:34 上午"
+created_at_iso: "2026-02-04T06:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:50 +0800"
+fetched_at_iso: "2026-02-26T10:18:50+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 534
+approx_tokens: 267
 ---
 
 # 终末的角色 - 「灾厄博士」（未完成）

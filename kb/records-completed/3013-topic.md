@@ -4,8 +4,16 @@ title: "百合攻略主义(夺爱大乱斗第二期)"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=3013.0"
 author: "OPPO"
-created_at: "十一月 23, 2025, 10:50 下午"
-fetched_at: "2026-02-26 10:27:27 +0800"
+created_at_raw: "十一月 23, 2025, 10:50 下午"
+created_at_iso: "2025-11-23T22:50:00+08:00"
+fetched_at_raw: "2026-02-26 10:27:27 +0800"
+fetched_at_iso: "2026-02-26T10:27:27+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 114430
+approx_tokens: 57215
 ---
 
 # 百合攻略主义(夺爱大乱斗第二期)

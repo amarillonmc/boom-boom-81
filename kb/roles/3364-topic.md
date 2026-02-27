@@ -12,6 +12,8 @@ has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
+approx_chars: 1171
+approx_tokens: 586
 ---
 
 # 增熵星的角色 - 故障极其人

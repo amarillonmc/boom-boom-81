@@ -4,8 +4,16 @@ title: "Justfish的角色 - 仲裁者 (The Arbiter)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2526.0"
 author: "Justfish"
-created_at: "十一月 09, 2025, 02:06 上午"
-fetched_at: "2026-02-26 10:15:09 +0800"
+created_at_raw: "十一月 09, 2025, 02:06 上午"
+created_at_iso: "2025-11-09T02:06:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:09 +0800"
+fetched_at_iso: "2026-02-26T10:15:09+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4619
+approx_tokens: 2310
 ---
 
 # Justfish的角色 - 仲裁者 (The Arbiter)

@@ -4,8 +4,16 @@ title: "玄羽的角色 - 极战·阿尔斯兰"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=531.0"
 author: "玄羽"
-created_at: "九月 19, 2025, 12:53 下午"
-fetched_at: "2026-02-26 10:01:27 +0800"
+created_at_raw: "九月 19, 2025, 12:53 下午"
+created_at_iso: "2025-09-19T12:53:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:27 +0800"
+fetched_at_iso: "2026-02-26T10:01:27+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7483
+approx_tokens: 3742
 ---
 
 # 玄羽的角色 - 极战·阿尔斯兰

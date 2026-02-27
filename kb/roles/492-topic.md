@@ -4,8 +4,16 @@ title: "小兵的角色 - 巨魔与精灵"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=492.0"
 author: "小兵"
-created_at: "九月 19, 2025, 02:29 上午"
-fetched_at: "2026-02-26 10:01:03 +0800"
+created_at_raw: "九月 19, 2025, 02:29 上午"
+created_at_iso: "2025-09-19T02:29:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:03 +0800"
+fetched_at_iso: "2026-02-26T10:01:03+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 675
+approx_tokens: 338
 ---
 
 # 小兵的角色 - 巨魔与精灵

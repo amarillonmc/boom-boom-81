@@ -4,8 +4,16 @@ title: "小可的角色 - 圣骑士雷蒙·斯特朗"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1606.0"
 author: "小可"
-created_at: "十月 15, 2025, 08:25 上午"
-fetched_at: "2026-02-26 10:09:20 +0800"
+created_at_raw: "十月 15, 2025, 08:25 上午"
+created_at_iso: "2025-10-15T08:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:20 +0800"
+fetched_at_iso: "2026-02-26T10:09:20+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4088
+approx_tokens: 2044
 ---
 
 # 小可的角色 - 圣骑士雷蒙·斯特朗

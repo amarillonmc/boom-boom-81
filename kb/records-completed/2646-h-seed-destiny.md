@@ -4,8 +4,16 @@ title: "内测线程-H-《猩红诡局》-《高达SEED DESTINY》"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2646.0"
 author: "zweizergain"
-created_at: "十一月 13, 2025, 07:47 上午"
-fetched_at: "2026-02-26 10:26:34 +0800"
+created_at_raw: "十一月 13, 2025, 07:47 上午"
+created_at_iso: "2025-11-13T07:47:00+08:00"
+fetched_at_raw: "2026-02-26 10:26:34 +0800"
+fetched_at_iso: "2026-02-26T10:26:34+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 51334
+approx_tokens: 25667
 ---
 
 # 内测线程-H-《猩红诡局》-《高达SEED DESTINY》

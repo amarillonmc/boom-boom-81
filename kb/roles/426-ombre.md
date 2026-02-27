@@ -4,8 +4,16 @@ title: "Ombre的角色 - 瓦古·赤"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=426.0"
 author: "Ombre"
-created_at: "九月 18, 2025, 02:41 上午"
-fetched_at: "2026-02-26 10:00:33 +0800"
+created_at_raw: "九月 18, 2025, 02:41 上午"
+created_at_iso: "2025-09-18T02:41:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:33 +0800"
+fetched_at_iso: "2026-02-26T10:00:33+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3322
+approx_tokens: 1661
 ---
 
 # Ombre的角色 - 瓦古·赤

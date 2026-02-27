@@ -4,8 +4,16 @@ title: "米线降低版有点弱大乱斗"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=1546.0"
 author: "AD钙"
-created_at: "十月 13, 2025, 11:14 上午"
-fetched_at: "2026-02-26 10:23:06 +0800"
+created_at_raw: "十月 13, 2025, 11:14 上午"
+created_at_iso: "2025-10-13T11:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:23:06 +0800"
+fetched_at_iso: "2026-02-26T10:23:06+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 111852
+approx_tokens: 55926
 ---
 
 # 米线降低版有点弱大乱斗

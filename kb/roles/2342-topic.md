@@ -4,8 +4,16 @@ title: "依然的角色 - 墓园守护者-葛尔裴沃"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2342.0"
 author: "依然"
-created_at: "十一月 05, 2025, 05:26 上午"
-fetched_at: "2026-02-26 10:14:17 +0800"
+created_at_raw: "十一月 05, 2025, 05:26 上午"
+created_at_iso: "2025-11-05T05:26:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:17 +0800"
+fetched_at_iso: "2026-02-26T10:14:17+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6213
+approx_tokens: 3107
 ---
 
 # 依然的角色 - 墓园守护者-葛尔裴沃

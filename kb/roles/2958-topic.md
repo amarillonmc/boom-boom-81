@@ -4,8 +4,16 @@ title: "塔.的角色 - 伊藤诚"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2958.0"
 author: "塔."
-created_at: "十一月 21, 2025, 01:40 上午"
-fetched_at: "2026-02-26 10:17:22 +0800"
+created_at_raw: "十一月 21, 2025, 01:40 上午"
+created_at_iso: "2025-11-21T01:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:22 +0800"
+fetched_at_iso: "2026-02-26T10:17:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4500
+approx_tokens: 2250
 ---
 
 # 塔.的角色 - 伊藤诚

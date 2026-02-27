@@ -4,8 +4,16 @@ title: "紫宵的角色 - 虚龙魔王 无形矢·心灵"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=81.0"
 author: "紫宵"
-created_at: "九月 08, 2025, 11:52 上午"
-fetched_at: "2026-02-26 09:57:15 +0800"
+created_at_raw: "九月 08, 2025, 11:52 上午"
+created_at_iso: "2025-09-08T11:52:00+08:00"
+fetched_at_raw: "2026-02-26 09:57:15 +0800"
+fetched_at_iso: "2026-02-26T09:57:15+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 600
+approx_tokens: 300
 ---
 
 # 紫宵的角色 - 虚龙魔王 无形矢·心灵

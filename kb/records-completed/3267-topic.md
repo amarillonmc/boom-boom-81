@@ -4,8 +4,16 @@ title: "强制神人原教旨大乱斗"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=3267.0"
 author: "增熵星"
-created_at: "十二月 16, 2025, 01:33 上午"
-fetched_at: "2026-02-26 10:28:23 +0800"
+created_at_raw: "十二月 16, 2025, 01:33 上午"
+created_at_iso: "2025-12-16T01:33:00+08:00"
+fetched_at_raw: "2026-02-26 10:28:23 +0800"
+fetched_at_iso: "2026-02-26T10:28:23+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 34067
+approx_tokens: 17034
 ---
 
 # 强制神人原教旨大乱斗

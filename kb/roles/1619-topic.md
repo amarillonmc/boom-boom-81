@@ -4,8 +4,16 @@ title: "小兵的角色 - 红色小姐"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1619.0"
 author: "小兵"
-created_at: "十月 15, 2025, 07:03 下午"
-fetched_at: "2026-02-26 10:09:28 +0800"
+created_at_raw: "十月 15, 2025, 07:03 下午"
+created_at_iso: "2025-10-15T19:03:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:28 +0800"
+fetched_at_iso: "2026-02-26T10:09:28+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 974
+approx_tokens: 487
 ---
 
 # 小兵的角色 - 红色小姐

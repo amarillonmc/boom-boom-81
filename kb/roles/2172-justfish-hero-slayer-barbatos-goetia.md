@@ -4,8 +4,16 @@ title: "Justfish的角色 - 英雄杀手 - 巴鲁巴托斯·盖迪亚 (Hero-Slay
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2172.0"
 author: "Justfish"
-created_at: "十月 31, 2025, 02:04 上午"
-fetched_at: "2026-02-26 10:13:15 +0800"
+created_at_raw: "十月 31, 2025, 02:04 上午"
+created_at_iso: "2025-10-31T02:04:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:15 +0800"
+fetched_at_iso: "2026-02-26T10:13:15+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4218
+approx_tokens: 2109
 ---
 
 # Justfish的角色 - 英雄杀手 - 巴鲁巴托斯·盖迪亚 (Hero-Slayer - Barbatos Goetia)

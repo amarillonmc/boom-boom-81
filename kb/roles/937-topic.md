@@ -4,8 +4,16 @@ title: "冈部伦太郎"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=937.0"
 author: "zweizergain"
-created_at: "九月 26, 2025, 05:25 下午"
-fetched_at: "2026-02-26 10:04:39 +0800"
+created_at_raw: "九月 26, 2025, 05:25 下午"
+created_at_iso: "2025-09-26T17:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:39 +0800"
+fetched_at_iso: "2026-02-26T10:04:39+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 14843
+approx_tokens: 7422
 ---
 
 # 冈部伦太郎

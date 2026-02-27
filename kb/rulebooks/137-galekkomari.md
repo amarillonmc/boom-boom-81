@@ -4,8 +4,16 @@ title: "galekkomari流补充规则（旧）"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=137.0"
 author: "galekkomari"
-created_at: "九月 09, 2025, 11:31 上午"
-fetched_at: "2026-02-26 10:19:06 +0800"
+created_at_raw: "九月 09, 2025, 11:31 上午"
+created_at_iso: "2025-09-09T11:31:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:06 +0800"
+fetched_at_iso: "2026-02-26T10:19:06+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 13224
+approx_tokens: 6612
 ---
 
 # galekkomari流补充规则（旧）

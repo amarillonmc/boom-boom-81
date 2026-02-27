@@ -4,8 +4,16 @@ title: "Justfish的角色 - 隐藏的真机壳盖塔 （Apoqliphort Getter）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=158.0"
 author: "Justfish"
-created_at: "九月 10, 2025, 07:51 上午"
-fetched_at: "2026-02-26 09:58:00 +0800"
+created_at_raw: "九月 10, 2025, 07:51 上午"
+created_at_iso: "2025-09-10T07:51:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:00 +0800"
+fetched_at_iso: "2026-02-26T09:58:00+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1613
+approx_tokens: 807
 ---
 
 # Justfish的角色 - 隐藏的真机壳盖塔 （Apoqliphort Getter）

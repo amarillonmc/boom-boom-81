@@ -4,8 +4,16 @@ title: "Justfish的角色 - 光辉之人（The One of Aura）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2412.0"
 author: "Justfish"
-created_at: "十一月 07, 2025, 12:06 下午"
-fetched_at: "2026-02-26 10:14:44 +0800"
+created_at_raw: "十一月 07, 2025, 12:06 下午"
+created_at_iso: "2025-11-07T12:06:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:44 +0800"
+fetched_at_iso: "2026-02-26T10:14:44+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3169
+approx_tokens: 1585
 ---
 
 # Justfish的角色 - 光辉之人（The One of Aura）

@@ -4,8 +4,16 @@ title: "机甲少女们"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=967.0"
 author: "zweizergain"
-created_at: "九月 27, 2025, 06:25 上午"
-fetched_at: "2026-02-26 10:04:55 +0800"
+created_at_raw: "九月 27, 2025, 06:25 上午"
+created_at_iso: "2025-09-27T06:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:55 +0800"
+fetched_at_iso: "2026-02-26T10:04:55+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 22095
+approx_tokens: 11048
 ---
 
 # 机甲少女们

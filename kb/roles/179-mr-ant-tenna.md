@@ -4,8 +4,16 @@ title: "终末的角色 - Mr.(ant) Tenna"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=179.0"
 author: "Ender_Eragon"
-created_at: "九月 11, 2025, 07:58 上午"
-fetched_at: "2026-02-26 09:58:12 +0800"
+created_at_raw: "九月 11, 2025, 07:58 上午"
+created_at_iso: "2025-09-11T07:58:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:12 +0800"
+fetched_at_iso: "2026-02-26T09:58:12+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 892
+approx_tokens: 446
 ---
 
 # 终末的角色 - Mr.(ant) Tenna

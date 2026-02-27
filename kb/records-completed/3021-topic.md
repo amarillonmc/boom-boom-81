@@ -4,8 +4,16 @@ title: "安科卡牌测试（第二章）"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=3021.0"
 author: "普通人的无聊生活"
-created_at: "十一月 24, 2025, 03:43 上午"
-fetched_at: "2026-02-26 10:27:28 +0800"
+created_at_raw: "十一月 24, 2025, 03:43 上午"
+created_at_iso: "2025-11-24T03:43:00+08:00"
+fetched_at_raw: "2026-02-26 10:27:28 +0800"
+fetched_at_iso: "2026-02-26T10:27:28+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 47538
+approx_tokens: 23769
 ---
 
 # 安科卡牌测试（第二章）

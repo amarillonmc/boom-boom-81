@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 寻血者 - Elise"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=369.0"
 author: "galekkomari"
-created_at: "九月 16, 2025, 12:07 下午"
-fetched_at: "2026-02-26 09:59:55 +0800"
+created_at_raw: "九月 16, 2025, 12:07 下午"
+created_at_iso: "2025-09-16T12:07:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:55 +0800"
+fetched_at_iso: "2026-02-26T09:59:55+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7441
+approx_tokens: 3721
 ---
 
 # galekkomari的角色 - 寻血者 - Elise

@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 三枝 葉留佳 (Saigusa Haruka)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=347.0"
 author: "galekkomari"
-created_at: "九月 15, 2025, 10:40 下午"
-fetched_at: "2026-02-26 09:59:45 +0800"
+created_at_raw: "九月 15, 2025, 10:40 下午"
+created_at_iso: "2025-09-15T22:40:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:45 +0800"
+fetched_at_iso: "2026-02-26T09:59:45+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1477
+approx_tokens: 739
 ---
 
 # galekkomari的角色 - 三枝 葉留佳 (Saigusa Haruka)

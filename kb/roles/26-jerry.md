@@ -4,8 +4,16 @@ title: "Jerry的角色 - 天道总司"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=26.0"
 author: "Jerry"
-created_at: "九月 08, 2025, 09:48 上午"
-fetched_at: "2026-02-26 09:56:39 +0800"
+created_at_raw: "九月 08, 2025, 09:48 上午"
+created_at_iso: "2025-09-08T09:48:00+08:00"
+fetched_at_raw: "2026-02-26 09:56:39 +0800"
+fetched_at_iso: "2026-02-26T09:56:39+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9601
+approx_tokens: 4801
 ---
 
 # Jerry的角色 - 天道总司

@@ -4,8 +4,16 @@ title: "限制大乱斗----神以下"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2040.0"
 author: "小可"
-created_at: "十月 28, 2025, 06:43 上午"
-fetched_at: "2026-02-26 10:24:55 +0800"
+created_at_raw: "十月 28, 2025, 06:43 上午"
+created_at_iso: "2025-10-28T06:43:00+08:00"
+fetched_at_raw: "2026-02-26 10:24:55 +0800"
+fetched_at_iso: "2026-02-26T10:24:55+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 119946
+approx_tokens: 59973
 ---
 
 # 限制大乱斗----神以下

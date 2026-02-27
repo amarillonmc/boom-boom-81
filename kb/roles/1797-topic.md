@@ -4,8 +4,16 @@ title: "小可的角色 - 不毁の静谧追求者 - 吉良吉影"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1797.0"
 author: "小可"
-created_at: "十月 20, 2025, 10:59 上午"
-fetched_at: "2026-02-26 10:10:52 +0800"
+created_at_raw: "十月 20, 2025, 10:59 上午"
+created_at_iso: "2025-10-20T10:59:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:52 +0800"
+fetched_at_iso: "2026-02-26T10:10:52+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4778
+approx_tokens: 2389
 ---
 
 # 小可的角色 - 不毁の静谧追求者 - 吉良吉影

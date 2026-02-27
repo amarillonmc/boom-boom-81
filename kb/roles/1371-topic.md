@@ -4,8 +4,16 @@ title: "小可的角色 - 万我一心"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1371.0"
 author: "小可"
-created_at: "十月 07, 2025, 06:40 上午"
-fetched_at: "2026-02-26 10:07:42 +0800"
+created_at_raw: "十月 07, 2025, 06:40 上午"
+created_at_iso: "2025-10-07T06:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:07:42 +0800"
+fetched_at_iso: "2026-02-26T10:07:42+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2546
+approx_tokens: 1273
 ---
 
 # 小可的角色 - 万我一心

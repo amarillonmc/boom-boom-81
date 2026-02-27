@@ -4,8 +4,16 @@ title: "Jerry的角色 - 波风水门（秽土）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1266.0"
 author: "Jerry"
-created_at: "十月 04, 2025, 12:36 下午"
-fetched_at: "2026-02-26 10:06:53 +0800"
+created_at_raw: "十月 04, 2025, 12:36 下午"
+created_at_iso: "2025-10-04T12:36:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:53 +0800"
+fetched_at_iso: "2026-02-26T10:06:53+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7368
+approx_tokens: 3684
 ---
 
 # Jerry的角色 - 波风水门（秽土）

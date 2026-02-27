@@ -4,8 +4,16 @@ title: "明日晴高中人气战 议程"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=3186.0"
 author: "galekkomari"
-created_at: "十二月 05, 2025, 09:25 上午"
-fetched_at: "2026-02-26 10:21:04 +0800"
+created_at_raw: "十二月 05, 2025, 09:25 上午"
+created_at_iso: "2025-12-05T09:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:21:04 +0800"
+fetched_at_iso: "2026-02-26T10:21:04+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 8762
+approx_tokens: 4381
 ---
 
 # 明日晴高中人气战 议程

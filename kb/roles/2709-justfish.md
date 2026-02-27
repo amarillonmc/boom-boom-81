@@ -4,8 +4,16 @@ title: "Justfish的角色 - “超脱者”-纤羽织"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2709.0"
 author: "Justfish"
-created_at: "十一月 15, 2025, 07:41 上午"
-fetched_at: "2026-02-26 10:16:20 +0800"
+created_at_raw: "十一月 15, 2025, 07:41 上午"
+created_at_iso: "2025-11-15T07:41:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:20 +0800"
+fetched_at_iso: "2026-02-26T10:16:20+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 11584
+approx_tokens: 5792
 ---
 
 # Justfish的角色 - “超脱者”-纤羽织

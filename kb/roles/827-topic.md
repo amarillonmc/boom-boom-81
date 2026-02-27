@@ -4,8 +4,16 @@ title: "终末的角色 - 入侵者 卫灵天玑"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=827.0"
 author: "Ender_Eragon"
-created_at: "九月 24, 2025, 01:33 下午"
-fetched_at: "2026-02-26 10:03:47 +0800"
+created_at_raw: "九月 24, 2025, 01:33 下午"
+created_at_iso: "2025-09-24T13:33:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:47 +0800"
+fetched_at_iso: "2026-02-26T10:03:47+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2710
+approx_tokens: 1355
 ---
 
 # 终末的角色 - 入侵者 卫灵天玑

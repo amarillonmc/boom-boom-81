@@ -4,8 +4,16 @@ title: "普通人的无聊生活的角色 - 东风谷早苗（御主）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2852.0"
 author: "普通人的无聊生活"
-created_at: "十一月 18, 2025, 05:04 上午"
-fetched_at: "2026-02-26 10:17:01 +0800"
+created_at_raw: "十一月 18, 2025, 05:04 上午"
+created_at_iso: "2025-11-18T05:04:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:01 +0800"
+fetched_at_iso: "2026-02-26T10:17:01+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2576
+approx_tokens: 1288
 ---
 
 # 普通人的无聊生活的角色 - 东风谷早苗（御主）

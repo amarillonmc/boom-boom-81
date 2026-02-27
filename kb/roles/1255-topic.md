@@ -4,8 +4,16 @@ title: "小可的角色 - 枯血老魔"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1255.0"
 author: "小可"
-created_at: "十月 04, 2025, 08:10 上午"
-fetched_at: "2026-02-26 10:06:45 +0800"
+created_at_raw: "十月 04, 2025, 08:10 上午"
+created_at_iso: "2025-10-04T08:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:45 +0800"
+fetched_at_iso: "2026-02-26T10:06:45+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4355
+approx_tokens: 2178
 ---
 
 # 小可的角色 - 枯血老魔

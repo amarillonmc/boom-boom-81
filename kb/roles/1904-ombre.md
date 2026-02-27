@@ -4,8 +4,16 @@ title: "Ombre的角色 - 布莱德"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1904.0"
 author: "Ombre"
-created_at: "十月 24, 2025, 09:57 上午"
-fetched_at: "2026-02-26 10:11:35 +0800"
+created_at_raw: "十月 24, 2025, 09:57 上午"
+created_at_iso: "2025-10-24T09:57:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:35 +0800"
+fetched_at_iso: "2026-02-26T10:11:35+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 14523
+approx_tokens: 7262
 ---
 
 # Ombre的角色 - 布莱德

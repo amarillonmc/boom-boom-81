@@ -4,8 +4,16 @@ title: "烛火的角色 - 白王·上杉越"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1335.0"
 author: "烛火"
-created_at: "十月 06, 2025, 04:29 上午"
-fetched_at: "2026-02-26 10:07:22 +0800"
+created_at_raw: "十月 06, 2025, 04:29 上午"
+created_at_iso: "2025-10-06T04:29:00+08:00"
+fetched_at_raw: "2026-02-26 10:07:22 +0800"
+fetched_at_iso: "2026-02-26T10:07:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 13400
+approx_tokens: 6700
 ---
 
 # 烛火的角色 - 白王·上杉越

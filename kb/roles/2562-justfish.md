@@ -4,8 +4,16 @@ title: "Justfish的角色 - 恐怖铁皮人"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2562.0"
 author: "Justfish"
-created_at: "十一月 10, 2025, 10:40 上午"
-fetched_at: "2026-02-26 10:15:23 +0800"
+created_at_raw: "十一月 10, 2025, 10:40 上午"
+created_at_iso: "2025-11-10T10:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:23 +0800"
+fetched_at_iso: "2026-02-26T10:15:23+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5219
+approx_tokens: 2610
 ---
 
 # Justfish的角色 - 恐怖铁皮人

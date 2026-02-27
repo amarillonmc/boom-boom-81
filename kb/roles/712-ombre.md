@@ -4,8 +4,16 @@ title: "Ombre的角色 - 荷妮特"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=712.0"
 author: "Ombre"
-created_at: "九月 22, 2025, 11:58 下午"
-fetched_at: "2026-02-26 10:03:00 +0800"
+created_at_raw: "九月 22, 2025, 11:58 下午"
+created_at_iso: "2025-09-22T23:58:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:00 +0800"
+fetched_at_iso: "2026-02-26T10:03:00+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10043
+approx_tokens: 5022
 ---
 
 # Ombre的角色 - 荷妮特

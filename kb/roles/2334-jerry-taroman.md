@@ -4,8 +4,16 @@ title: "Jerry的角色 - 太郎超人（TAROMAN）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2334.0"
 author: "Jerry"
-created_at: "十一月 04, 2025, 11:22 下午"
-fetched_at: "2026-02-26 10:14:14 +0800"
+created_at_raw: "十一月 04, 2025, 11:22 下午"
+created_at_iso: "2025-11-04T23:22:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:14 +0800"
+fetched_at_iso: "2026-02-26T10:14:14+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3637
+approx_tokens: 1819
 ---
 
 # Jerry的角色 - 太郎超人（TAROMAN）

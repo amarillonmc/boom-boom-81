@@ -4,8 +4,16 @@ title: "终末的角色 - 御主伊尔塞斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2687.0"
 author: "Ender_Eragon"
-created_at: "十一月 14, 2025, 11:11 下午"
-fetched_at: "2026-02-26 10:16:08 +0800"
+created_at_raw: "十一月 14, 2025, 11:11 下午"
+created_at_iso: "2025-11-14T23:11:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:08 +0800"
+fetched_at_iso: "2026-02-26T10:16:08+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2774
+approx_tokens: 1387
 ---
 
 # 终末的角色 - 御主伊尔塞斯

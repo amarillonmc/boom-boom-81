@@ -4,8 +4,16 @@ title: "小可的角色 - 赤辉"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=374.0"
 author: "小可"
-created_at: "九月 16, 2025, 03:25 下午"
-fetched_at: "2026-02-26 10:00:00 +0800"
+created_at_raw: "九月 16, 2025, 03:25 下午"
+created_at_iso: "2025-09-16T15:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:00 +0800"
+fetched_at_iso: "2026-02-26T10:00:00+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3561
+approx_tokens: 1781
 ---
 
 # 小可的角色 - 赤辉

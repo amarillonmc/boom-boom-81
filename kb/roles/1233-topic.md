@@ -4,8 +4,16 @@ title: "终末的角色 - 污染赌徒"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1233.0"
 author: "Ender_Eragon"
-created_at: "十月 03, 2025, 01:28 下午"
-fetched_at: "2026-02-26 10:06:33 +0800"
+created_at_raw: "十月 03, 2025, 01:28 下午"
+created_at_iso: "2025-10-03T13:28:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:33 +0800"
+fetched_at_iso: "2026-02-26T10:06:33+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 757
+approx_tokens: 379
 ---
 
 # 终末的角色 - 污染赌徒

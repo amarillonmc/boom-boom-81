@@ -4,8 +4,16 @@ title: "OPPO的角色 - RAZ-Ω「受缚之王」"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3256.0"
 author: "OPPO"
-created_at: "十二月 13, 2025, 09:56 上午"
-fetched_at: "2026-02-26 10:18:32 +0800"
+created_at_raw: "十二月 13, 2025, 09:56 上午"
+created_at_iso: "2025-12-13T09:56:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:32 +0800"
+fetched_at_iso: "2026-02-26T10:18:32+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2697
+approx_tokens: 1349
 ---
 
 # OPPO的角色 - RAZ-Ω「受缚之王」

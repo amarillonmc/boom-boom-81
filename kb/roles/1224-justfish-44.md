@@ -4,8 +4,16 @@ title: "Justfish的角色 - 【棱-44】"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1224.0"
 author: "Justfish"
-created_at: "十月 03, 2025, 10:51 上午"
-fetched_at: "2026-02-26 10:06:28 +0800"
+created_at_raw: "十月 03, 2025, 10:51 上午"
+created_at_iso: "2025-10-03T10:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:28 +0800"
+fetched_at_iso: "2026-02-26T10:06:28+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3082
+approx_tokens: 1541
 ---
 
 # Justfish的角色 - 【棱-44】

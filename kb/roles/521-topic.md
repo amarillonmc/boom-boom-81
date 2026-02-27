@@ -4,8 +4,16 @@ title: "小可的角色 - 「无相诡祖」贾诩"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=521.0"
 author: "小可"
-created_at: "九月 19, 2025, 10:51 上午"
-fetched_at: "2026-02-26 10:01:23 +0800"
+created_at_raw: "九月 19, 2025, 10:51 上午"
+created_at_iso: "2025-09-19T10:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:23 +0800"
+fetched_at_iso: "2026-02-26T10:01:23+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2980
+approx_tokens: 1490
 ---
 
 # 小可的角色 - 「无相诡祖」贾诩

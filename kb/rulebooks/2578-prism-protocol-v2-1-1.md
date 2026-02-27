@@ -4,8 +4,16 @@ title: "PRISM Protocol V2.1.1"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=2578.0"
 author: "小可"
-created_at: "十一月 11, 2025, 08:16 上午"
-fetched_at: "2026-02-26 10:20:30 +0800"
+created_at_raw: "十一月 11, 2025, 08:16 上午"
+created_at_iso: "2025-11-11T08:16:00+08:00"
+fetched_at_raw: "2026-02-26 10:20:30 +0800"
+fetched_at_iso: "2026-02-26T10:20:30+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10810
+approx_tokens: 5405
 ---
 
 # PRISM Protocol V2.1.1

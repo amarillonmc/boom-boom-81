@@ -4,8 +4,16 @@ title: "小可的角色 - 「朔御龙霆」袁绍"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=64.0"
 author: "小可"
-created_at: "九月 08, 2025, 11:27 上午"
-fetched_at: "2026-02-26 09:57:04 +0800"
+created_at_raw: "九月 08, 2025, 11:27 上午"
+created_at_iso: "2025-09-08T11:27:00+08:00"
+fetched_at_raw: "2026-02-26 09:57:04 +0800"
+fetched_at_iso: "2026-02-26T09:57:04+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3716
+approx_tokens: 1858
 ---
 
 # 小可的角色 - 「朔御龙霆」袁绍

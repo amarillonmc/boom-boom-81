@@ -4,8 +4,16 @@ title: "增熵星的角色 - 诸葛亮"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=316.0"
 author: "增熵星"
-created_at: "九月 15, 2025, 06:31 上午"
-fetched_at: "2026-02-26 09:59:25 +0800"
+created_at_raw: "九月 15, 2025, 06:31 上午"
+created_at_iso: "2025-09-15T06:31:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:25 +0800"
+fetched_at_iso: "2026-02-26T09:59:25+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 733
+approx_tokens: 367
 ---
 
 # 增熵星的角色 - 诸葛亮

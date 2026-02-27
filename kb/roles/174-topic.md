@@ -4,8 +4,16 @@ title: "紫宵的角色 - 水无月真"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=174.0"
 author: "紫宵"
-created_at: "九月 11, 2025, 03:01 上午"
-fetched_at: "2026-02-26 09:58:08 +0800"
+created_at_raw: "九月 11, 2025, 03:01 上午"
+created_at_iso: "2025-09-11T03:01:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:08 +0800"
+fetched_at_iso: "2026-02-26T09:58:08+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 25374
+approx_tokens: 12687
 ---
 
 # 紫宵的角色 - 水无月真

@@ -4,8 +4,16 @@ title: "紫宵的角色 - 澹台烛隐"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1941.0"
 author: "紫宵"
-created_at: "十月 25, 2025, 12:16 下午"
-fetched_at: "2026-02-26 10:11:45 +0800"
+created_at_raw: "十月 25, 2025, 12:16 下午"
+created_at_iso: "2025-10-25T12:16:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:45 +0800"
+fetched_at_iso: "2026-02-26T10:11:45+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5000
+approx_tokens: 2500
 ---
 
 # 紫宵的角色 - 澹台烛隐

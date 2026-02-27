@@ -4,8 +4,16 @@ title: "黑莲的角色 - 小女孩"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=608.0"
 author: "Huager"
-created_at: "九月 21, 2025, 01:50 上午"
-fetched_at: "2026-02-26 10:02:05 +0800"
+created_at_raw: "九月 21, 2025, 01:50 上午"
+created_at_iso: "2025-09-21T01:50:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:05 +0800"
+fetched_at_iso: "2026-02-26T10:02:05+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 417
+approx_tokens: 209
 ---
 
 # 黑莲的角色 - 小女孩

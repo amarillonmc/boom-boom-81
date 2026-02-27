@@ -4,8 +4,16 @@ title: "Justfish的角色 - 燃剑舞者 熔"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=957.0"
 author: "Justfish"
-created_at: "九月 27, 2025, 03:44 上午"
-fetched_at: "2026-02-26 10:04:47 +0800"
+created_at_raw: "九月 27, 2025, 03:44 上午"
+created_at_iso: "2025-09-27T03:44:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:47 +0800"
+fetched_at_iso: "2026-02-26T10:04:47+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2246
+approx_tokens: 1123
 ---
 
 # Justfish的角色 - 燃剑舞者 熔

@@ -4,8 +4,16 @@ title: "Ombre的角色 - “你小姐”"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1055.0"
 author: "Ombre"
-created_at: "九月 29, 2025, 06:52 上午"
-fetched_at: "2026-02-26 10:05:29 +0800"
+created_at_raw: "九月 29, 2025, 06:52 上午"
+created_at_iso: "2025-09-29T06:52:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:29 +0800"
+fetched_at_iso: "2026-02-26T10:05:29+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 31713
+approx_tokens: 15857
 ---
 
 # Ombre的角色 - “你小姐”

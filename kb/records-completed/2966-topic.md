@@ -4,8 +4,16 @@ title: "黄金乡第二期。开始喵。"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2966.0"
 author: "烛火"
-created_at: "十一月 21, 2025, 08:40 上午"
-fetched_at: "2026-02-26 10:27:18 +0800"
+created_at_raw: "十一月 21, 2025, 08:40 上午"
+created_at_iso: "2025-11-21T08:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:27:18 +0800"
+fetched_at_iso: "2026-02-26T10:27:18+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 225915
+approx_tokens: 112958
 ---
 
 # 黄金乡第二期。开始喵。

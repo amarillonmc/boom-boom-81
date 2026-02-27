@@ -4,8 +4,16 @@ title: "Justfish的角色 - 无尽魂渊 (Infinite Soulabyss)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2212.0"
 author: "Justfish"
-created_at: "十一月 01, 2025, 03:17 上午"
-fetched_at: "2026-02-26 10:13:29 +0800"
+created_at_raw: "十一月 01, 2025, 03:17 上午"
+created_at_iso: "2025-11-01T03:17:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:29 +0800"
+fetched_at_iso: "2026-02-26T10:13:29+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5679
+approx_tokens: 2840
 ---
 
 # Justfish的角色 - 无尽魂渊 (Infinite Soulabyss)

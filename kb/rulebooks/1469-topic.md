@@ -4,8 +4,16 @@ title: "角色多维度评定体系"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=1469.0"
 author: "小可"
-created_at: "十月 11, 2025, 03:39 上午"
-fetched_at: "2026-02-26 10:19:53 +0800"
+created_at_raw: "十月 11, 2025, 03:39 上午"
+created_at_iso: "2025-10-11T03:39:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:53 +0800"
+fetched_at_iso: "2026-02-26T10:19:53+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10819
+approx_tokens: 5410
 ---
 
 # 角色多维度评定体系

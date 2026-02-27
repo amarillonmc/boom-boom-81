@@ -4,8 +4,16 @@ title: "全装甲高达七号机的角色 - 孤高的初始之圣 - 阿尔法兽
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2017.0"
 author: "全装甲高达七号机"
-created_at: "十月 27, 2025, 03:10 下午"
-fetched_at: "2026-02-26 10:12:24 +0800"
+created_at_raw: "十月 27, 2025, 03:10 下午"
+created_at_iso: "2025-10-27T15:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:24 +0800"
+fetched_at_iso: "2026-02-26T10:12:24+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7327
+approx_tokens: 3664
 ---
 
 # 全装甲高达七号机的角色 - 孤高的初始之圣 - 阿尔法兽 (Alphamon)

@@ -4,8 +4,16 @@ title: "OPPO的角色 - Aurora"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2976.0"
 author: "OPPO"
-created_at: "十一月 21, 2025, 10:53 下午"
-fetched_at: "2026-02-26 10:17:27 +0800"
+created_at_raw: "十一月 21, 2025, 10:53 下午"
+created_at_iso: "2025-11-21T22:53:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:27 +0800"
+fetched_at_iso: "2026-02-26T10:17:27+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1777
+approx_tokens: 889
 ---
 
 # OPPO的角色 - Aurora

@@ -4,8 +4,16 @@ title: "跑团测试（第七章-第八章）"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2383.0"
 author: "增熵星"
-created_at: "十一月 06, 2025, 10:30 上午"
-fetched_at: "2026-02-26 10:25:56 +0800"
+created_at_raw: "十一月 06, 2025, 10:30 上午"
+created_at_iso: "2025-11-06T10:30:00+08:00"
+fetched_at_raw: "2026-02-26 10:25:56 +0800"
+fetched_at_iso: "2026-02-26T10:25:56+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 72018
+approx_tokens: 36009
 ---
 
 # 跑团测试（第七章-第八章）

@@ -4,8 +4,16 @@ title: "ALTER的角色 - 码丽丝"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1151.0"
 author: "ALTER"
-created_at: "十月 01, 2025, 10:06 上午"
-fetched_at: "2026-02-26 10:06:01 +0800"
+created_at_raw: "十月 01, 2025, 10:06 上午"
+created_at_iso: "2025-10-01T10:06:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:01 +0800"
+fetched_at_iso: "2026-02-26T10:06:01+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2199
+approx_tokens: 1100
 ---
 
 # ALTER的角色 - 码丽丝

@@ -4,8 +4,16 @@ title: "Justfish的角色 - 柒月 天月 (Nanatsuki Amatsuki)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1613.0"
 author: "Justfish"
-created_at: "十月 15, 2025, 11:07 上午"
-fetched_at: "2026-02-26 10:09:23 +0800"
+created_at_raw: "十月 15, 2025, 11:07 上午"
+created_at_iso: "2025-10-15T11:07:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:23 +0800"
+fetched_at_iso: "2026-02-26T10:09:23+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 14343
+approx_tokens: 7172
 ---
 
 # Justfish的角色 - 柒月 天月 (Nanatsuki Amatsuki)

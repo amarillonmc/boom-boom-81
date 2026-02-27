@@ -4,8 +4,16 @@ title: "金戎之龙——百戈"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3303.0"
 author: "tt"
-created_at: "一月 03, 2026, 03:37 上午"
-fetched_at: "2026-02-26 10:18:42 +0800"
+created_at_raw: "一月 03, 2026, 03:37 上午"
+created_at_iso: "2026-01-03T03:37:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:42 +0800"
+fetched_at_iso: "2026-02-26T10:18:42+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1970
+approx_tokens: 985
 ---
 
 # 金戎之龙——百戈

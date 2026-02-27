@@ -4,8 +4,16 @@ title: "Ombre的角色 - 夏弥"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1280.0"
 author: "Ombre"
-created_at: "十月 05, 2025, 02:14 上午"
-fetched_at: "2026-02-26 10:06:56 +0800"
+created_at_raw: "十月 05, 2025, 02:14 上午"
+created_at_iso: "2025-10-05T02:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:56 +0800"
+fetched_at_iso: "2026-02-26T10:06:56+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4349
+approx_tokens: 2175
 ---
 
 # Ombre的角色 - 夏弥

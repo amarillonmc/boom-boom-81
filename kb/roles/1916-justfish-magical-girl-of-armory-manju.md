@@ -4,8 +4,16 @@ title: "Justfish的角色 - 武库之魔法少女 - 曼珠 (Magical Girl of Armo
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1916.0"
 author: "Justfish"
-created_at: "十月 24, 2025, 02:49 下午"
-fetched_at: "2026-02-26 10:11:40 +0800"
+created_at_raw: "十月 24, 2025, 02:49 下午"
+created_at_iso: "2025-10-24T14:49:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:40 +0800"
+fetched_at_iso: "2026-02-26T10:11:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 28207
+approx_tokens: 14104
 ---
 
 # Justfish的角色 - 武库之魔法少女 - 曼珠 (Magical Girl of Armory - Manju)

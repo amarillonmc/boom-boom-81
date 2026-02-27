@@ -4,8 +4,16 @@ title: "Justfish的角色 - 训练假人 (Dummmmmmmmmmmmmmmy)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1566.0"
 author: "Justfish"
-created_at: "十月 14, 2025, 09:22 上午"
-fetched_at: "2026-02-26 10:09:07 +0800"
+created_at_raw: "十月 14, 2025, 09:22 上午"
+created_at_iso: "2025-10-14T09:22:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:07 +0800"
+fetched_at_iso: "2026-02-26T10:09:07+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3698
+approx_tokens: 1849
 ---
 
 # Justfish的角色 - 训练假人 (Dummmmmmmmmmmmmmmy)

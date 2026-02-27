@@ -4,8 +4,16 @@ title: "烛火的角色 - 藤丸立香&玛修"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1618.0"
 author: "烛火"
-created_at: "十月 15, 2025, 06:02 下午"
-fetched_at: "2026-02-26 10:09:27 +0800"
+created_at_raw: "十月 15, 2025, 06:02 下午"
+created_at_iso: "2025-10-15T18:02:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:27 +0800"
+fetched_at_iso: "2026-02-26T10:09:27+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 54032
+approx_tokens: 27016
 ---
 
 # 烛火的角色 - 藤丸立香&玛修

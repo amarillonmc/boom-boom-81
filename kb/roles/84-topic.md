@@ -4,8 +4,16 @@ title: "紫宵的角色 - 天霆号 阿宙斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=84.0"
 author: "紫宵"
-created_at: "九月 08, 2025, 12:20 下午"
-fetched_at: "2026-02-26 09:57:17 +0800"
+created_at_raw: "九月 08, 2025, 12:20 下午"
+created_at_iso: "2025-09-08T12:20:00+08:00"
+fetched_at_raw: "2026-02-26 09:57:17 +0800"
+fetched_at_iso: "2026-02-26T09:57:17+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 542
+approx_tokens: 271
 ---
 
 # 紫宵的角色 - 天霆号 阿宙斯

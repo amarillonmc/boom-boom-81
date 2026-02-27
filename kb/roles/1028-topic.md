@@ -4,8 +4,16 @@ title: "小壶的角色 - 八点档之心"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1028.0"
 author: "小壶"
-created_at: "九月 28, 2025, 02:07 下午"
-fetched_at: "2026-02-26 10:05:19 +0800"
+created_at_raw: "九月 28, 2025, 02:07 下午"
+created_at_iso: "2025-09-28T14:07:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:19 +0800"
+fetched_at_iso: "2026-02-26T10:05:19+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 503
+approx_tokens: 252
 ---
 
 # 小壶的角色 - 八点档之心

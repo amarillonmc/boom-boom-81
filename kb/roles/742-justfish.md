@@ -4,8 +4,16 @@ title: "Justfish的角色 - 奎隆，摩诃萨埵权化"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=742.0"
 author: "Justfish"
-created_at: "九月 23, 2025, 08:10 上午"
-fetched_at: "2026-02-26 10:03:11 +0800"
+created_at_raw: "九月 23, 2025, 08:10 上午"
+created_at_iso: "2025-09-23T08:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:11 +0800"
+fetched_at_iso: "2026-02-26T10:03:11+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5242
+approx_tokens: 2621
 ---
 
 # Justfish的角色 - 奎隆，摩诃萨埵权化

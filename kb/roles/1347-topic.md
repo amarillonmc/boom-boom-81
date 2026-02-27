@@ -4,8 +4,16 @@ title: "褚岩"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1347.0"
 author: "zweizergain"
-created_at: "十月 06, 2025, 10:46 上午"
-fetched_at: "2026-02-26 10:07:29 +0800"
+created_at_raw: "十月 06, 2025, 10:46 上午"
+created_at_iso: "2025-10-06T10:46:00+08:00"
+fetched_at_raw: "2026-02-26 10:07:29 +0800"
+fetched_at_iso: "2026-02-26T10:07:29+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4836
+approx_tokens: 2418
 ---
 
 # 褚岩

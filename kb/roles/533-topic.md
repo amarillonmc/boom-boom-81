@@ -4,8 +4,16 @@ title: "小可的角色 - 最强最耀眼的魔法少女"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=533.0"
 author: "小可"
-created_at: "九月 19, 2025, 01:20 下午"
-fetched_at: "2026-02-26 10:01:29 +0800"
+created_at_raw: "九月 19, 2025, 01:20 下午"
+created_at_iso: "2025-09-19T13:20:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:29 +0800"
+fetched_at_iso: "2026-02-26T10:01:29+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3845
+approx_tokens: 1923
 ---
 
 # 小可的角色 - 最强最耀眼的魔法少女

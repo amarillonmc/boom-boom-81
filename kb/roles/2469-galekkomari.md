@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 界·白虎"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2469.0"
 author: "galekkomari"
-created_at: "十一月 07, 2025, 09:47 下午"
-fetched_at: "2026-02-26 10:14:48 +0800"
+created_at_raw: "十一月 07, 2025, 09:47 下午"
+created_at_iso: "2025-11-07T21:47:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:48 +0800"
+fetched_at_iso: "2026-02-26T10:14:48+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7271
+approx_tokens: 3636
 ---
 
 # galekkomari的角色 - 界·白虎

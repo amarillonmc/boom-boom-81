@@ -4,8 +4,16 @@ title: "玄羽的角色 - 锦绣黛眉（术士）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2402.0"
 author: "玄羽"
-created_at: "十一月 07, 2025, 04:14 上午"
-fetched_at: "2026-02-26 10:14:40 +0800"
+created_at_raw: "十一月 07, 2025, 04:14 上午"
+created_at_iso: "2025-11-07T04:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:40 +0800"
+fetched_at_iso: "2026-02-26T10:14:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6202
+approx_tokens: 3101
 ---
 
 # 玄羽的角色 - 锦绣黛眉（术士）

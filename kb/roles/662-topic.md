@@ -4,8 +4,16 @@ title: "乐乐的角色 - 爱神•丘比特（字数压缩版）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=662.0"
 author: "乐乐"
-created_at: "九月 22, 2025, 07:34 上午"
-fetched_at: "2026-02-26 10:02:27 +0800"
+created_at_raw: "九月 22, 2025, 07:34 上午"
+created_at_iso: "2025-09-22T07:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:27 +0800"
+fetched_at_iso: "2026-02-26T10:02:27+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4367
+approx_tokens: 2184
 ---
 
 # 乐乐的角色 - 爱神•丘比特（字数压缩版）

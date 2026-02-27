@@ -4,8 +4,16 @@ title: "小兵的角色 - 东仙要"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2339.0"
 author: "小兵"
-created_at: "十一月 05, 2025, 02:23 上午"
-fetched_at: "2026-02-26 10:14:16 +0800"
+created_at_raw: "十一月 05, 2025, 02:23 上午"
+created_at_iso: "2025-11-05T02:23:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:16 +0800"
+fetched_at_iso: "2026-02-26T10:14:16+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2072
+approx_tokens: 1036
 ---
 
 # 小兵的角色 - 东仙要

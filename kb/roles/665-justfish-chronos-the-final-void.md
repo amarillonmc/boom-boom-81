@@ -4,8 +4,16 @@ title: "Justfish的角色 - 克洛诺斯，最终虚空 (Chronos, the Final Void
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=665.0"
 author: "Justfish"
-created_at: "九月 22, 2025, 08:47 上午"
-fetched_at: "2026-02-26 10:02:29 +0800"
+created_at_raw: "九月 22, 2025, 08:47 上午"
+created_at_iso: "2025-09-22T08:47:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:29 +0800"
+fetched_at_iso: "2026-02-26T10:02:29+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2771
+approx_tokens: 1386
 ---
 
 # Justfish的角色 - 克洛诺斯，最终虚空 (Chronos, the Final Void)

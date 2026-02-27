@@ -4,8 +4,16 @@ title: "Justfish的角色 - 界·混乱因素"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=502.0"
 author: "Justfish"
-created_at: "九月 19, 2025, 08:41 上午"
-fetched_at: "2026-02-26 10:01:08 +0800"
+created_at_raw: "九月 19, 2025, 08:41 上午"
+created_at_iso: "2025-09-19T08:41:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:08 +0800"
+fetched_at_iso: "2026-02-26T10:01:08+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2401
+approx_tokens: 1201
 ---
 
 # Justfish的角色 - 界·混乱因素

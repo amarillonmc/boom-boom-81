@@ -4,8 +4,16 @@ title: "烛火的角色 - 鲍勃"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1738.0"
 author: "烛火"
-created_at: "十月 19, 2025, 12:31 上午"
-fetched_at: "2026-02-26 10:10:33 +0800"
+created_at_raw: "十月 19, 2025, 12:31 上午"
+created_at_iso: "2025-10-19T00:31:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:33 +0800"
+fetched_at_iso: "2026-02-26T10:10:33+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 16797
+approx_tokens: 8399
 ---
 
 # 烛火的角色 - 鲍勃

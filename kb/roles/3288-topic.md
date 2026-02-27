@@ -4,8 +4,16 @@ title: "终末的角色 - 量子网络的天神-卫灵天玑"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3288.0"
 author: "Ender_Eragon"
-created_at: "十二月 28, 2025, 10:40 上午"
-fetched_at: "2026-02-26 10:18:39 +0800"
+created_at_raw: "十二月 28, 2025, 10:40 上午"
+created_at_iso: "2025-12-28T10:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:39 +0800"
+fetched_at_iso: "2026-02-26T10:18:39+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4329
+approx_tokens: 2165
 ---
 
 # 终末的角色 - 量子网络的天神-卫灵天玑

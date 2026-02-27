@@ -4,8 +4,16 @@ title: "Jerry的角色-恶搞蝙蝠侠合集"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1727.0"
 author: "Jerry"
-created_at: "十月 18, 2025, 12:06 下午"
-fetched_at: "2026-02-26 10:10:18 +0800"
+created_at_raw: "十月 18, 2025, 12:06 下午"
+created_at_iso: "2025-10-18T12:06:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:18 +0800"
+fetched_at_iso: "2026-02-26T10:10:18+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 33345
+approx_tokens: 16673
 ---
 
 # Jerry的角色-恶搞蝙蝠侠合集

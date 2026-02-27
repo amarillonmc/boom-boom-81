@@ -4,8 +4,16 @@ title: "Justfish的角色 - 睿智之蓝 / 认知之栏"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1220.0"
 author: "Justfish"
-created_at: "十月 03, 2025, 09:00 上午"
-fetched_at: "2026-02-26 10:06:25 +0800"
+created_at_raw: "十月 03, 2025, 09:00 上午"
+created_at_iso: "2025-10-03T09:00:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:25 +0800"
+fetched_at_iso: "2026-02-26T10:06:25+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1138
+approx_tokens: 569
 ---
 
 # Justfish的角色 - 睿智之蓝 / 认知之栏

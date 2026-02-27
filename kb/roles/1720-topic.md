@@ -4,8 +4,16 @@ title: "老凤凰的角色 - 卢米安·李"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1720.0"
 author: "王者的老凤凰"
-created_at: "十月 18, 2025, 08:52 上午"
-fetched_at: "2026-02-26 10:10:16 +0800"
+created_at_raw: "十月 18, 2025, 08:52 上午"
+created_at_iso: "2025-10-18T08:52:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:16 +0800"
+fetched_at_iso: "2026-02-26T10:10:16+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 965
+approx_tokens: 483
 ---
 
 # 老凤凰的角色 - 卢米安·李

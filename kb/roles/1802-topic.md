@@ -4,8 +4,16 @@ title: "小壶的角色 - 陆仁嘉"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1802.0"
 author: "小壶"
-created_at: "十月 20, 2025, 01:40 下午"
-fetched_at: "2026-02-26 10:10:56 +0800"
+created_at_raw: "十月 20, 2025, 01:40 下午"
+created_at_iso: "2025-10-20T13:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:56 +0800"
+fetched_at_iso: "2026-02-26T10:10:56+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 426
+approx_tokens: 213
 ---
 
 # 小壶的角色 - 陆仁嘉

@@ -4,8 +4,16 @@ title: "Justfish的角色 - 半透明の魔法使-二階堂 真紅 (The Transluc
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1962.0"
 author: "Justfish"
-created_at: "十月 26, 2025, 06:34 上午"
-fetched_at: "2026-02-26 10:11:53 +0800"
+created_at_raw: "十月 26, 2025, 06:34 上午"
+created_at_iso: "2025-10-26T06:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:53 +0800"
+fetched_at_iso: "2026-02-26T10:11:53+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6322
+approx_tokens: 3161
 ---
 
 # Justfish的角色 - 半透明の魔法使-二階堂 真紅 (The Translucent Sorceress - Nikaidou Shinku)

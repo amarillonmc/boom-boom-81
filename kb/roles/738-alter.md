@@ -4,8 +4,16 @@ title: "ALTER的角色 - 塔伊兹育罗斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=738.0"
 author: "ALTER"
-created_at: "九月 23, 2025, 07:37 上午"
-fetched_at: "2026-02-26 10:03:08 +0800"
+created_at_raw: "九月 23, 2025, 07:37 上午"
+created_at_iso: "2025-09-23T07:37:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:08 +0800"
+fetched_at_iso: "2026-02-26T10:03:08+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 12080
+approx_tokens: 6040
 ---
 
 # ALTER的角色 - 塔伊兹育罗斯

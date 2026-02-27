@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 逸散墨菲 ACT III"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=11.0"
 author: "galekkomari"
-created_at: "九月 07, 2025, 10:39 下午"
-fetched_at: "2026-02-26 09:56:34 +0800"
+created_at_raw: "九月 07, 2025, 10:39 下午"
+created_at_iso: "2025-09-07T22:39:00+08:00"
+fetched_at_raw: "2026-02-26 09:56:34 +0800"
+fetched_at_iso: "2026-02-26T09:56:34+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1106
+approx_tokens: 553
 ---
 
 # galekkomari的角色 - 逸散墨菲 ACT III

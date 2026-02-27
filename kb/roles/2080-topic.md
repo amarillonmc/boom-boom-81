@@ -4,8 +4,16 @@ title: "波士"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2080.0"
 author: "zweizergain"
-created_at: "十月 29, 2025, 03:11 上午"
-fetched_at: "2026-02-26 10:12:47 +0800"
+created_at_raw: "十月 29, 2025, 03:11 上午"
+created_at_iso: "2025-10-29T03:11:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:47 +0800"
+fetched_at_iso: "2026-02-26T10:12:47+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4149
+approx_tokens: 2075
 ---
 
 # 波士

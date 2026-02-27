@@ -4,8 +4,16 @@ title: "小可的角色 - 法尼·瓦伦泰"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=617.0"
 author: "小可"
-created_at: "九月 21, 2025, 05:47 上午"
-fetched_at: "2026-02-26 10:02:10 +0800"
+created_at_raw: "九月 21, 2025, 05:47 上午"
+created_at_iso: "2025-09-21T05:47:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:10 +0800"
+fetched_at_iso: "2026-02-26T10:02:10+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3882
+approx_tokens: 1941
 ---
 
 # 小可的角色 - 法尼·瓦伦泰

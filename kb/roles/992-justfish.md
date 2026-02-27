@@ -4,8 +4,16 @@ title: "Justfish的角色 - 球磨川禊"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=992.0"
 author: "Justfish"
-created_at: "九月 27, 2025, 11:02 下午"
-fetched_at: "2026-02-26 10:05:05 +0800"
+created_at_raw: "九月 27, 2025, 11:02 下午"
+created_at_iso: "2025-09-27T23:02:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:05 +0800"
+fetched_at_iso: "2026-02-26T10:05:05+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3201
+approx_tokens: 1601
 ---
 
 # Justfish的角色 - 球磨川禊

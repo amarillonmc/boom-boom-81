@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 西園 美魚 (Nishizono Mio)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=348.0"
 author: "galekkomari"
-created_at: "九月 15, 2025, 11:01 下午"
-fetched_at: "2026-02-26 09:59:46 +0800"
+created_at_raw: "九月 15, 2025, 11:01 下午"
+created_at_iso: "2025-09-15T23:01:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:46 +0800"
+fetched_at_iso: "2026-02-26T09:59:46+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1637
+approx_tokens: 819
 ---
 
 # galekkomari的角色 - 西園 美魚 (Nishizono Mio)

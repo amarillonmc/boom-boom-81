@@ -4,8 +4,16 @@ title: "黑森谨的角色 - 黑龟"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1386.0"
 author: "黑森谨"
-created_at: "十月 07, 2025, 01:14 下午"
-fetched_at: "2026-02-26 10:07:49 +0800"
+created_at_raw: "十月 07, 2025, 01:14 下午"
+created_at_iso: "2025-10-07T13:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:07:49 +0800"
+fetched_at_iso: "2026-02-26T10:07:49+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2447
+approx_tokens: 1224
 ---
 
 # 黑森谨的角色 - 黑龟

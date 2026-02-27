@@ -4,8 +4,16 @@ title: "紫宵的角色 - 断罪之迪亚贝尔斯塔尔"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=48.0"
 author: "紫宵"
-created_at: "九月 08, 2025, 10:52 上午"
-fetched_at: "2026-02-26 09:56:53 +0800"
+created_at_raw: "九月 08, 2025, 10:52 上午"
+created_at_iso: "2025-09-08T10:52:00+08:00"
+fetched_at_raw: "2026-02-26 09:56:53 +0800"
+fetched_at_iso: "2026-02-26T09:56:53+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5598
+approx_tokens: 2799
 ---
 
 # 紫宵的角色 - 断罪之迪亚贝尔斯塔尔

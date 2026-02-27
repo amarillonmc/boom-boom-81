@@ -4,8 +4,16 @@ title: "小兵的角色 - 伊鲁索"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=297.0"
 author: "小兵"
-created_at: "九月 14, 2025, 12:58 下午"
-fetched_at: "2026-02-26 09:59:15 +0800"
+created_at_raw: "九月 14, 2025, 12:58 下午"
+created_at_iso: "2025-09-14T12:58:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:15 +0800"
+fetched_at_iso: "2026-02-26T09:59:15+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 593
+approx_tokens: 297
 ---
 
 # 小兵的角色 - 伊鲁索

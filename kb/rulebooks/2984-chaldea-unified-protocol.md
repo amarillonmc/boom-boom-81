@@ -4,8 +4,16 @@ title: "CHALDEA UNIFIED PROTOCOL - 迦勒底统合判定协议"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=2984.0"
 author: "小可"
-created_at: "十一月 22, 2025, 04:43 上午"
-fetched_at: "2026-02-26 10:20:56 +0800"
+created_at_raw: "十一月 22, 2025, 04:43 上午"
+created_at_iso: "2025-11-22T04:43:00+08:00"
+fetched_at_raw: "2026-02-26 10:20:56 +0800"
+fetched_at_iso: "2026-02-26T10:20:56+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9808
+approx_tokens: 4904
 ---
 
 # CHALDEA UNIFIED PROTOCOL - 迦勒底统合判定协议

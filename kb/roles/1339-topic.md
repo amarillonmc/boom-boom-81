@@ -4,8 +4,16 @@ title: "亚娴·布雷迪尔"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1339.0"
 author: "zweizergain"
-created_at: "十月 06, 2025, 06:08 上午"
-fetched_at: "2026-02-26 10:07:24 +0800"
+created_at_raw: "十月 06, 2025, 06:08 上午"
+created_at_iso: "2025-10-06T06:08:00+08:00"
+fetched_at_raw: "2026-02-26 10:07:24 +0800"
+fetched_at_iso: "2026-02-26T10:07:24+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4327
+approx_tokens: 2164
 ---
 
 # 亚娴·布雷迪尔

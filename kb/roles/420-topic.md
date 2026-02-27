@@ -4,8 +4,16 @@ title: "小兵的角色 - 最邪恶最欠打最混蛋最十三的人"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=420.0"
 author: "小兵"
-created_at: "九月 18, 2025, 12:14 上午"
-fetched_at: "2026-02-26 10:00:30 +0800"
+created_at_raw: "九月 18, 2025, 12:14 上午"
+created_at_iso: "2025-09-18T00:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:30 +0800"
+fetched_at_iso: "2026-02-26T10:00:30+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 705
+approx_tokens: 353
 ---
 
 # 小兵的角色 - 最邪恶最欠打最混蛋最十三的人

@@ -4,8 +4,16 @@ title: "弗尔·伏朗托"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1844.0"
 author: "zweizergain"
-created_at: "十月 22, 2025, 05:25 上午"
-fetched_at: "2026-02-26 10:11:12 +0800"
+created_at_raw: "十月 22, 2025, 05:25 上午"
+created_at_iso: "2025-10-22T05:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:12 +0800"
+fetched_at_iso: "2026-02-26T10:11:12+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7492
+approx_tokens: 3746
 ---
 
 # 弗尔·伏朗托

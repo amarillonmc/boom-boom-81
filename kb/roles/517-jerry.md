@@ -4,8 +4,16 @@ title: "Jerry的角色 - 灭霸萝莉（无限宝石·少儿版全装）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=517.0"
 author: "Jerry"
-created_at: "九月 19, 2025, 10:36 上午"
-fetched_at: "2026-02-26 10:01:21 +0800"
+created_at_raw: "九月 19, 2025, 10:36 上午"
+created_at_iso: "2025-09-19T10:36:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:21 +0800"
+fetched_at_iso: "2026-02-26T10:01:21+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3678
+approx_tokens: 1839
 ---
 
 # Jerry的角色 - 灭霸萝莉（无限宝石·少儿版全装）

@@ -4,8 +4,16 @@ title: "条目式-大乱斗规则书（低米线大乱斗使用）"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=2842.0"
 author: "AD钙"
-created_at: "十一月 18, 2025, 03:24 上午"
-fetched_at: "2026-02-26 10:20:45 +0800"
+created_at_raw: "十一月 18, 2025, 03:24 上午"
+created_at_iso: "2025-11-18T03:24:00+08:00"
+fetched_at_raw: "2026-02-26 10:20:45 +0800"
+fetched_at_iso: "2026-02-26T10:20:45+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 27010
+approx_tokens: 13505
 ---
 
 # 条目式-大乱斗规则书（低米线大乱斗使用）

@@ -4,8 +4,16 @@ title: "公测线程-剧本协议-《白色永恒监牢》-扩大测试"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=1412.0"
 author: "zweizergain"
-created_at: "十月 09, 2025, 05:36 上午"
-fetched_at: "2026-02-26 10:22:43 +0800"
+created_at_raw: "十月 09, 2025, 05:36 上午"
+created_at_iso: "2025-10-09T05:36:00+08:00"
+fetched_at_raw: "2026-02-26 10:22:43 +0800"
+fetched_at_iso: "2026-02-26T10:22:43+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 77560
+approx_tokens: 38780
 ---
 
 # 公测线程-剧本协议-《白色永恒监牢》-扩大测试

@@ -4,8 +4,16 @@ title: "Justfish的角色 - 「战神」玛尔斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=422.0"
 author: "Justfish"
-created_at: "九月 18, 2025, 01:14 上午"
-fetched_at: "2026-02-26 10:00:30 +0800"
+created_at_raw: "九月 18, 2025, 01:14 上午"
+created_at_iso: "2025-09-18T01:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:30 +0800"
+fetched_at_iso: "2026-02-26T10:00:30+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1625
+approx_tokens: 813
 ---
 
 # Justfish的角色 - 「战神」玛尔斯

@@ -4,8 +4,16 @@ title: "小可的角色 - 杀手皇后·镇魂曲 (Killer Queen Requiem)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2592.0"
 author: "小可"
-created_at: "十一月 11, 2025, 05:06 下午"
-fetched_at: "2026-02-26 10:15:33 +0800"
+created_at_raw: "十一月 11, 2025, 05:06 下午"
+created_at_iso: "2025-11-11T17:06:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:33 +0800"
+fetched_at_iso: "2026-02-26T10:15:33+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3983
+approx_tokens: 1992
 ---
 
 # 小可的角色 - 杀手皇后·镇魂曲 (Killer Queen Requiem)

@@ -4,8 +4,16 @@ title: "英格拉姆·普利斯坎"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2617.0"
 author: "zweizergain"
-created_at: "十一月 12, 2025, 08:46 上午"
-fetched_at: "2026-02-26 10:15:40 +0800"
+created_at_raw: "十一月 12, 2025, 08:46 上午"
+created_at_iso: "2025-11-12T08:46:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:40 +0800"
+fetched_at_iso: "2026-02-26T10:15:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9222
+approx_tokens: 4611
 ---
 
 # 英格拉姆·普利斯坎

@@ -4,8 +4,16 @@ title: "Justfish的角色 - 游梦客 - 沃克 (Dreamwalker - Walker)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1825.0"
 author: "Justfish"
-created_at: "十月 21, 2025, 12:22 下午"
-fetched_at: "2026-02-26 10:11:03 +0800"
+created_at_raw: "十月 21, 2025, 12:22 下午"
+created_at_iso: "2025-10-21T12:22:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:03 +0800"
+fetched_at_iso: "2026-02-26T10:11:03+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2965
+approx_tokens: 1483
 ---
 
 # Justfish的角色 - 游梦客 - 沃克 (Dreamwalker - Walker)

@@ -4,8 +4,16 @@ title: "小兵的角色 - 沉默术士"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=404.0"
 author: "小兵"
-created_at: "九月 17, 2025, 12:18 下午"
-fetched_at: "2026-02-26 10:00:18 +0800"
+created_at_raw: "九月 17, 2025, 12:18 下午"
+created_at_iso: "2025-09-17T12:18:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:18 +0800"
+fetched_at_iso: "2026-02-26T10:00:18+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1221
+approx_tokens: 611
 ---
 
 # 小兵的角色 - 沉默术士

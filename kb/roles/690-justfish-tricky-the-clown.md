@@ -4,8 +4,16 @@ title: "Justfish的角色 - Tricky the Clown"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=690.0"
 author: "Justfish"
-created_at: "九月 22, 2025, 12:19 下午"
-fetched_at: "2026-02-26 10:02:41 +0800"
+created_at_raw: "九月 22, 2025, 12:19 下午"
+created_at_iso: "2025-09-22T12:19:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:41 +0800"
+fetched_at_iso: "2026-02-26T10:02:41+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2556
+approx_tokens: 1278
 ---
 
 # Justfish的角色 - Tricky the Clown

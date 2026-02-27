@@ -4,8 +4,16 @@ title: "烛火的角色 - 无证骑士"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3239.0"
 author: "烛火"
-created_at: "十二月 10, 2025, 11:14 下午"
-fetched_at: "2026-02-26 10:18:31 +0800"
+created_at_raw: "十二月 10, 2025, 11:14 下午"
+created_at_iso: "2025-12-10T23:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:31 +0800"
+fetched_at_iso: "2026-02-26T10:18:31+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4181
+approx_tokens: 2091
 ---
 
 # 烛火的角色 - 无证骑士

@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 界·美西螈"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1621.0"
 author: "galekkomari"
-created_at: "十月 15, 2025, 09:35 下午"
-fetched_at: "2026-02-26 10:09:29 +0800"
+created_at_raw: "十月 15, 2025, 09:35 下午"
+created_at_iso: "2025-10-15T21:35:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:29 +0800"
+fetched_at_iso: "2026-02-26T10:09:29+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 11658
+approx_tokens: 5829
 ---
 
 # galekkomari的角色 - 界·美西螈

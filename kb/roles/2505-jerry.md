@@ -4,8 +4,16 @@ title: "Jerry的角色 - 大群（大卫·查尔斯·哈勒）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2505.0"
 author: "Jerry"
-created_at: "十一月 08, 2025, 11:53 上午"
-fetched_at: "2026-02-26 10:14:55 +0800"
+created_at_raw: "十一月 08, 2025, 11:53 上午"
+created_at_iso: "2025-11-08T11:53:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:55 +0800"
+fetched_at_iso: "2026-02-26T10:14:55+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5335
+approx_tokens: 2668
 ---
 
 # Jerry的角色 - 大群（大卫·查尔斯·哈勒）

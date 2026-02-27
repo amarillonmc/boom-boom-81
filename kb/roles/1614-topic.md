@@ -4,8 +4,16 @@ title: "终末的角色 - 「终末」利莱恩"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1614.0"
 author: "Ender_Eragon"
-created_at: "十月 15, 2025, 12:51 下午"
-fetched_at: "2026-02-26 10:09:24 +0800"
+created_at_raw: "十月 15, 2025, 12:51 下午"
+created_at_iso: "2025-10-15T12:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:24 +0800"
+fetched_at_iso: "2026-02-26T10:09:24+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3980
+approx_tokens: 1990
 ---
 
 # 终末的角色 - 「终末」利莱恩

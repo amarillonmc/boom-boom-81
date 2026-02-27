@@ -4,8 +4,16 @@ title: "小兵的角色 - 神灵武士"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1175.0"
 author: "小兵"
-created_at: "十月 02, 2025, 02:26 上午"
-fetched_at: "2026-02-26 10:06:12 +0800"
+created_at_raw: "十月 02, 2025, 02:26 上午"
+created_at_iso: "2025-10-02T02:26:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:12 +0800"
+fetched_at_iso: "2026-02-26T10:06:12+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1111
+approx_tokens: 556
 ---
 
 # 小兵的角色 - 神灵武士

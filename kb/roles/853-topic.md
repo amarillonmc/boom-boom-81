@@ -4,8 +4,16 @@ title: "黑莲的角色 - 水仙"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=853.0"
 author: "Huager"
-created_at: "九月 25, 2025, 02:59 上午"
-fetched_at: "2026-02-26 10:03:57 +0800"
+created_at_raw: "九月 25, 2025, 02:59 上午"
+created_at_iso: "2025-09-25T02:59:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:57 +0800"
+fetched_at_iso: "2026-02-26T10:03:57+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 441
+approx_tokens: 221
 ---
 
 # 黑莲的角色 - 水仙

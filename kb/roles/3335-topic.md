@@ -4,8 +4,16 @@ title: "小可的角色 - 年兽"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3335.0"
 author: "小可"
-created_at: "二月 17, 2026, 09:37 下午"
-fetched_at: "2026-02-26 10:18:53 +0800"
+created_at_raw: "二月 17, 2026, 09:37 下午"
+created_at_iso: "2026-02-17T21:37:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:53 +0800"
+fetched_at_iso: "2026-02-26T10:18:53+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7474
+approx_tokens: 3737
 ---
 
 # 小可的角色 - 年兽

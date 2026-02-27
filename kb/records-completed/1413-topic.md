@@ -4,8 +4,16 @@ title: "强度限制局（爆城）（某个最最最伟大的考古学家开的
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=1413.0"
 author: "小兵"
-created_at: "十月 09, 2025, 05:46 上午"
-fetched_at: "2026-02-26 10:22:43 +0800"
+created_at_raw: "十月 09, 2025, 05:46 上午"
+created_at_iso: "2025-10-09T05:46:00+08:00"
+fetched_at_raw: "2026-02-26 10:22:43 +0800"
+fetched_at_iso: "2026-02-26T10:22:43+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 25304
+approx_tokens: 12652
 ---
 
 # 强度限制局（爆城）（某个最最最伟大的考古学家开的局）

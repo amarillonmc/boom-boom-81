@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 明月哨兵团 (Silvermoon Sentinel)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=575.0"
 author: "galekkomari"
-created_at: "九月 20, 2025, 10:22 上午"
-fetched_at: "2026-02-26 10:01:50 +0800"
+created_at_raw: "九月 20, 2025, 10:22 上午"
+created_at_iso: "2025-09-20T10:22:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:50 +0800"
+fetched_at_iso: "2026-02-26T10:01:50+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6596
+approx_tokens: 3298
 ---
 
 # galekkomari的角色 - 明月哨兵团 (Silvermoon Sentinel)

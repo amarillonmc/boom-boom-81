@@ -4,8 +4,16 @@ title: "搜打撤地图《潮汐监狱》"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=788.0"
 author: "Ombre"
-created_at: "九月 24, 2025, 05:43 上午"
-fetched_at: "2026-02-26 10:19:25 +0800"
+created_at_raw: "九月 24, 2025, 05:43 上午"
+created_at_iso: "2025-09-24T05:43:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:25 +0800"
+fetched_at_iso: "2026-02-26T10:19:25+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4677
+approx_tokens: 2339
 ---
 
 # 搜打撤地图《潮汐监狱》

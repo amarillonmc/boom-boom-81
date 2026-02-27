@@ -4,8 +4,16 @@ title: "Ombre的角色 - 商之溟 (Shang Zhiming)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1016.0"
 author: "Ombre"
-created_at: "九月 28, 2025, 10:23 上午"
-fetched_at: "2026-02-26 10:05:15 +0800"
+created_at_raw: "九月 28, 2025, 10:23 上午"
+created_at_iso: "2025-09-28T10:23:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:15 +0800"
+fetched_at_iso: "2026-02-26T10:05:15+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 8977
+approx_tokens: 4489
 ---
 
 # Ombre的角色 - 商之溟 (Shang Zhiming)

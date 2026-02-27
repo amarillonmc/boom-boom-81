@@ -4,8 +4,16 @@ title: "真人聊天风格复现协议"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=1437.0"
 author: "Ombre"
-created_at: "十月 10, 2025, 03:51 上午"
-fetched_at: "2026-02-26 10:19:48 +0800"
+created_at_raw: "十月 10, 2025, 03:51 上午"
+created_at_iso: "2025-10-10T03:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:48 +0800"
+fetched_at_iso: "2026-02-26T10:19:48+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1761
+approx_tokens: 881
 ---
 
 # 真人聊天风格复现协议

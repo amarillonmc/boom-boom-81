@@ -4,8 +4,16 @@ title: "Jerry的角色 - 猩红蜘蛛 (Scarlet Spider) - 本·莱利 (Ben Reilly
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=687.0"
 author: "Jerry"
-created_at: "九月 22, 2025, 12:16 下午"
-fetched_at: "2026-02-26 10:02:38 +0800"
+created_at_raw: "九月 22, 2025, 12:16 下午"
+created_at_iso: "2025-09-22T12:16:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:38 +0800"
+fetched_at_iso: "2026-02-26T10:02:38+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6044
+approx_tokens: 3022
 ---
 
 # Jerry的角色 - 猩红蜘蛛 (Scarlet Spider) - 本·莱利 (Ben Reilly)

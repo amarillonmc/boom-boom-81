@@ -4,8 +4,16 @@ title: "紫宵的角色 - Agnosis"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1750.0"
 author: "紫宵"
-created_at: "十月 19, 2025, 06:38 上午"
-fetched_at: "2026-02-26 10:10:38 +0800"
+created_at_raw: "十月 19, 2025, 06:38 上午"
+created_at_iso: "2025-10-19T06:38:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:38 +0800"
+fetched_at_iso: "2026-02-26T10:10:38+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 12347
+approx_tokens: 6174
 ---
 
 # 紫宵的角色 - Agnosis

@@ -4,8 +4,16 @@ title: "小可的角色 - 圣地·土豆泥教堂"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1650.0"
 author: "小可"
-created_at: "十月 16, 2025, 01:09 下午"
-fetched_at: "2026-02-26 10:09:46 +0800"
+created_at_raw: "十月 16, 2025, 01:09 下午"
+created_at_iso: "2025-10-16T13:09:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:46 +0800"
+fetched_at_iso: "2026-02-26T10:09:46+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10047
+approx_tokens: 5024
 ---
 
 # 小可的角色 - 圣地·土豆泥教堂

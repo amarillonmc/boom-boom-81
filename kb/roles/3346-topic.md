@@ -4,8 +4,16 @@ title: "终末的角色 - 否定与反调的使者 冰凝天晴"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3346.0"
 author: "Ender_Eragon"
-created_at: "二月 24, 2026, 02:03 下午"
-fetched_at: "2026-02-26 10:18:58 +0800"
+created_at_raw: "二月 24, 2026, 02:03 下午"
+created_at_iso: "2026-02-24T14:03:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:58 +0800"
+fetched_at_iso: "2026-02-26T10:18:58+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3634
+approx_tokens: 1817
 ---
 
 # 终末的角色 - 否定与反调的使者 冰凝天晴

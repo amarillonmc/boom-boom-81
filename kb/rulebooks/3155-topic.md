@@ -4,8 +4,16 @@ title: "从酒馆“借”来的主神空间规则书（等大佬适配）"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=3155.0"
 author: "全装甲高达七号机"
-created_at: "十二月 02, 2025, 08:40 下午"
-fetched_at: "2026-02-26 10:21:03 +0800"
+created_at_raw: "十二月 02, 2025, 08:40 下午"
+created_at_iso: "2025-12-02T20:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:21:03 +0800"
+fetched_at_iso: "2026-02-26T10:21:03+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 24569
+approx_tokens: 12285
 ---
 
 # 从酒馆“借”来的主神空间规则书（等大佬适配）

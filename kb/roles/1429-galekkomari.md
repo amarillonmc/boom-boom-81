@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 界·竖琴海豹（魔改·钥刃使）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1429.0"
 author: "galekkomari"
-created_at: "十月 09, 2025, 11:59 下午"
-fetched_at: "2026-02-26 10:08:09 +0800"
+created_at_raw: "十月 09, 2025, 11:59 下午"
+created_at_iso: "2025-10-09T23:59:00+08:00"
+fetched_at_raw: "2026-02-26 10:08:09 +0800"
+fetched_at_iso: "2026-02-26T10:08:09+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 14994
+approx_tokens: 7497
 ---
 
 # galekkomari的角色 - 界·竖琴海豹（魔改·钥刃使）

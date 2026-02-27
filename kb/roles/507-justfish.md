@@ -4,8 +4,16 @@ title: "Justfish的角色 - 界·玻璃幻梦"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=507.0"
 author: "Justfish"
-created_at: "九月 19, 2025, 09:24 上午"
-fetched_at: "2026-02-26 10:01:13 +0800"
+created_at_raw: "九月 19, 2025, 09:24 上午"
+created_at_iso: "2025-09-19T09:24:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:13 +0800"
+fetched_at_iso: "2026-02-26T10:01:13+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1866
+approx_tokens: 933
 ---
 
 # Justfish的角色 - 界·玻璃幻梦

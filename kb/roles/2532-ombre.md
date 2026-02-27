@@ -4,8 +4,16 @@ title: "Ombre的角色 - 铃鹿御前"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2532.0"
 author: "Ombre"
-created_at: "十一月 09, 2025, 08:11 上午"
-fetched_at: "2026-02-26 10:15:13 +0800"
+created_at_raw: "十一月 09, 2025, 08:11 上午"
+created_at_iso: "2025-11-09T08:11:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:13 +0800"
+fetched_at_iso: "2026-02-26T10:15:13+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6580
+approx_tokens: 3290
 ---
 
 # Ombre的角色 - 铃鹿御前

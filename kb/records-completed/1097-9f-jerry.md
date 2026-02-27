@@ -4,8 +4,16 @@ title: "公测线程-9f-Jerry规则节选（日常局）-机甲少女应用（�
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=1097.0"
 author: "zweizergain"
-created_at: "九月 30, 2025, 06:49 上午"
-fetched_at: "2026-02-26 10:21:44 +0800"
+created_at_raw: "九月 30, 2025, 06:49 上午"
+created_at_iso: "2025-09-30T06:49:00+08:00"
+fetched_at_raw: "2026-02-26 10:21:44 +0800"
+fetched_at_iso: "2026-02-26T10:21:44+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 336940
+approx_tokens: 168470
 ---
 
 # 公测线程-9f-Jerry规则节选（日常局）-机甲少女应用（附催化协议）

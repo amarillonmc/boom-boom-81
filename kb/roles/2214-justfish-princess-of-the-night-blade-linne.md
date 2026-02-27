@@ -4,8 +4,16 @@ title: "Justfish的角色 - 夜刀公主 - 凛音 (Princess of the Night Blade -
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2214.0"
 author: "Justfish"
-created_at: "十一月 01, 2025, 03:52 上午"
-fetched_at: "2026-02-26 10:13:31 +0800"
+created_at_raw: "十一月 01, 2025, 03:52 上午"
+created_at_iso: "2025-11-01T03:52:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:31 +0800"
+fetched_at_iso: "2026-02-26T10:13:31+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2814
+approx_tokens: 1407
 ---
 
 # Justfish的角色 - 夜刀公主 - 凛音 (Princess of the Night Blade - Linne)

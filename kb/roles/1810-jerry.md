@@ -4,8 +4,16 @@ title: "Jerry的角色 - 五五开队长"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1810.0"
 author: "Jerry"
-created_at: "十月 21, 2025, 02:44 上午"
-fetched_at: "2026-02-26 10:11:01 +0800"
+created_at_raw: "十月 21, 2025, 02:44 上午"
+created_at_iso: "2025-10-21T02:44:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:01 +0800"
+fetched_at_iso: "2026-02-26T10:11:01+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4649
+approx_tokens: 2325
 ---
 
 # Jerry的角色 - 五五开队长

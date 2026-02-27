@@ -4,8 +4,16 @@ title: "阿姆罗·雷 & 夏亚·阿兹纳布 - 邻居家的宿敌"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1056.0"
 author: "zweizergain"
-created_at: "九月 29, 2025, 06:53 上午"
-fetched_at: "2026-02-26 10:05:30 +0800"
+created_at_raw: "九月 29, 2025, 06:53 上午"
+created_at_iso: "2025-09-29T06:53:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:30 +0800"
+fetched_at_iso: "2026-02-26T10:05:30+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2614
+approx_tokens: 1307
 ---
 
 # 阿姆罗·雷 & 夏亚·阿兹纳布 - 邻居家的宿敌

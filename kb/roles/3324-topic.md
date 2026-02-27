@@ -4,8 +4,16 @@ title: "终末的角色 - 「魔法少女海德薇」"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3324.0"
 author: "Ender_Eragon"
-created_at: "二月 01, 2026, 03:36 上午"
-fetched_at: "2026-02-26 10:18:48 +0800"
+created_at_raw: "二月 01, 2026, 03:36 上午"
+created_at_iso: "2026-02-01T03:36:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:48 +0800"
+fetched_at_iso: "2026-02-26T10:18:48+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2701
+approx_tokens: 1351
 ---
 
 # 终末的角色 - 「魔法少女海德薇」

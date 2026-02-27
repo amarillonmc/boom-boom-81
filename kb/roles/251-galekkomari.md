@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 良辰 & 美景"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=251.0"
 author: "galekkomari"
-created_at: "九月 13, 2025, 10:34 下午"
-fetched_at: "2026-02-26 09:58:46 +0800"
+created_at_raw: "九月 13, 2025, 10:34 下午"
+created_at_iso: "2025-09-13T22:34:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:46 +0800"
+fetched_at_iso: "2026-02-26T09:58:46+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1259
+approx_tokens: 630
 ---
 
 # galekkomari的角色 - 良辰 & 美景

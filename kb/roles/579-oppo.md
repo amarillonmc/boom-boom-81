@@ -4,8 +4,16 @@ title: "OPPO的角色 - 阿莱夫与虚构集"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=579.0"
 author: "OPPO"
-created_at: "九月 20, 2025, 11:46 上午"
-fetched_at: "2026-02-26 10:01:52 +0800"
+created_at_raw: "九月 20, 2025, 11:46 上午"
+created_at_iso: "2025-09-20T11:46:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:52 +0800"
+fetched_at_iso: "2026-02-26T10:01:52+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2170
+approx_tokens: 1085
 ---
 
 # OPPO的角色 - 阿莱夫与虚构集

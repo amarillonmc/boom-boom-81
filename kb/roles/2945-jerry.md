@@ -4,8 +4,16 @@ title: "Jerry的角色 - 美树沙耶香"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2945.0"
 author: "Jerry"
-created_at: "十一月 20, 2025, 12:09 下午"
-fetched_at: "2026-02-26 10:17:19 +0800"
+created_at_raw: "十一月 20, 2025, 12:09 下午"
+created_at_iso: "2025-11-20T12:09:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:19 +0800"
+fetched_at_iso: "2026-02-26T10:17:19+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3149
+approx_tokens: 1575
 ---
 
 # Jerry的角色 - 美树沙耶香

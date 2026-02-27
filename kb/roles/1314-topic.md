@@ -4,8 +4,16 @@ title: "小兵的角色 - “米迦勒”"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1314.0"
 author: "小兵"
-created_at: "十月 05, 2025, 11:13 下午"
-fetched_at: "2026-02-26 10:07:14 +0800"
+created_at_raw: "十月 05, 2025, 11:13 下午"
+created_at_iso: "2025-10-05T23:13:00+08:00"
+fetched_at_raw: "2026-02-26 10:07:14 +0800"
+fetched_at_iso: "2026-02-26T10:07:14+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1237
+approx_tokens: 619
 ---
 
 # 小兵的角色 - “米迦勒”

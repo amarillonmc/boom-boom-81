@@ -4,8 +4,16 @@ title: "Justfish的角色 - 新条茜&亚历克西斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1122.0"
 author: "Justfish"
-created_at: "九月 30, 2025, 11:44 下午"
-fetched_at: "2026-02-26 10:05:49 +0800"
+created_at_raw: "九月 30, 2025, 11:44 下午"
+created_at_iso: "2025-09-30T23:44:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:49 +0800"
+fetched_at_iso: "2026-02-26T10:05:49+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2796
+approx_tokens: 1398
 ---
 
 # Justfish的角色 - 新条茜&亚历克西斯

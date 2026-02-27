@@ -4,8 +4,16 @@ title: "星野琉璃"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1522.0"
 author: "zweizergain"
-created_at: "十月 12, 2025, 10:39 上午"
-fetched_at: "2026-02-26 10:08:56 +0800"
+created_at_raw: "十月 12, 2025, 10:39 上午"
+created_at_iso: "2025-10-12T10:39:00+08:00"
+fetched_at_raw: "2026-02-26 10:08:56 +0800"
+fetched_at_iso: "2026-02-26T10:08:56+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4750
+approx_tokens: 2375
 ---
 
 # 星野琉璃

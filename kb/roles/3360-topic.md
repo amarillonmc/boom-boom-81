@@ -12,6 +12,8 @@ has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
+approx_chars: 4582
+approx_tokens: 2291
 ---
 
 # 全装甲高达七号机的角色 - 卡欧斯机械赛文奥特曼

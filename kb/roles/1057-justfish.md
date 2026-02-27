@@ -4,8 +4,16 @@ title: "Justfish的角色 - 【永恒修女】硫磺 砂"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1057.0"
 author: "Justfish"
-created_at: "九月 29, 2025, 07:30 上午"
-fetched_at: "2026-02-26 10:05:30 +0800"
+created_at_raw: "九月 29, 2025, 07:30 上午"
+created_at_iso: "2025-09-29T07:30:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:30 +0800"
+fetched_at_iso: "2026-02-26T10:05:30+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5863
+approx_tokens: 2932
 ---
 
 # Justfish的角色 - 【永恒修女】硫磺 砂

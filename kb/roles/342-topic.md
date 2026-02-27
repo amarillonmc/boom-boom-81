@@ -4,8 +4,16 @@ title: "老凤凰的角色 - 威尔·昂赛汀"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=342.0"
 author: "王者的老凤凰"
-created_at: "九月 15, 2025, 09:48 下午"
-fetched_at: "2026-02-26 09:59:41 +0800"
+created_at_raw: "九月 15, 2025, 09:48 下午"
+created_at_iso: "2025-09-15T21:48:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:41 +0800"
+fetched_at_iso: "2026-02-26T09:59:41+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 505
+approx_tokens: 253
 ---
 
 # 老凤凰的角色 - 威尔·昂赛汀

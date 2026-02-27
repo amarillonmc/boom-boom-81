@@ -4,8 +4,16 @@ title: "Jerry的角色 - 启示录"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1364.0"
 author: "Jerry"
-created_at: "十月 07, 2025, 03:13 上午"
-fetched_at: "2026-02-26 10:07:39 +0800"
+created_at_raw: "十月 07, 2025, 03:13 上午"
+created_at_iso: "2025-10-07T03:13:00+08:00"
+fetched_at_raw: "2026-02-26 10:07:39 +0800"
+fetched_at_iso: "2026-02-26T10:07:39+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 8201
+approx_tokens: 4101
 ---
 
 # Jerry的角色 - 启示录

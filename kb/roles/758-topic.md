@@ -4,8 +4,16 @@ title: "小兵的角色 - 朗基努斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=758.0"
 author: "小兵"
-created_at: "九月 23, 2025, 11:20 上午"
-fetched_at: "2026-02-26 10:03:20 +0800"
+created_at_raw: "九月 23, 2025, 11:20 上午"
+created_at_iso: "2025-09-23T11:20:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:20 +0800"
+fetched_at_iso: "2026-02-26T10:03:20+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 961
+approx_tokens: 481
 ---
 
 # 小兵的角色 - 朗基努斯

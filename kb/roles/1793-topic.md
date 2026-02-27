@@ -4,8 +4,16 @@ title: "小兵的角色 - 百鬼罗刹 巨魁加邦加"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1793.0"
 author: "小兵"
-created_at: "十月 20, 2025, 08:32 上午"
-fetched_at: "2026-02-26 10:10:50 +0800"
+created_at_raw: "十月 20, 2025, 08:32 上午"
+created_at_iso: "2025-10-20T08:32:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:50 +0800"
+fetched_at_iso: "2026-02-26T10:10:50+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1356
+approx_tokens: 678
 ---
 
 # 小兵的角色 - 百鬼罗刹 巨魁加邦加

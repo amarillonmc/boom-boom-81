@@ -4,8 +4,16 @@ title: "神必议程：不深情告白就无法离开的房间"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=1052.0"
 author: "tt"
-created_at: "九月 29, 2025, 06:28 上午"
-fetched_at: "2026-02-26 10:21:28 +0800"
+created_at_raw: "九月 29, 2025, 06:28 上午"
+created_at_iso: "2025-09-29T06:28:00+08:00"
+fetched_at_raw: "2026-02-26 10:21:28 +0800"
+fetched_at_iso: "2026-02-26T10:21:28+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 129644
+approx_tokens: 64822
 ---
 
 # 神必议程：不深情告白就无法离开的房间

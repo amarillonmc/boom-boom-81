@@ -4,8 +4,16 @@ title: "小可的角色 - 终末方舟的进化究极完全体"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3191.0"
 author: "小可"
-created_at: "十二月 05, 2025, 10:39 上午"
-fetched_at: "2026-02-26 10:18:23 +0800"
+created_at_raw: "十二月 05, 2025, 10:39 上午"
+created_at_iso: "2025-12-05T10:39:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:23 +0800"
+fetched_at_iso: "2026-02-26T10:18:23+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 11235
+approx_tokens: 5618
 ---
 
 # 小可的角色 - 终末方舟的进化究极完全体

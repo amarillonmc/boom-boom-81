@@ -4,8 +4,16 @@ title: "小可的角色 - 万能小工具组"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1770.0"
 author: "小可"
-created_at: "十月 19, 2025, 01:42 下午"
-fetched_at: "2026-02-26 10:10:45 +0800"
+created_at_raw: "十月 19, 2025, 01:42 下午"
+created_at_iso: "2025-10-19T13:42:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:45 +0800"
+fetched_at_iso: "2026-02-26T10:10:45+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7795
+approx_tokens: 3898
 ---
 
 # 小可的角色 - 万能小工具组

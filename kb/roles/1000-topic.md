@@ -4,8 +4,16 @@ title: "终末的角色 - 螟灵·安德拉（多层自适应强度）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1000.0"
 author: "Ender_Eragon"
-created_at: "九月 28, 2025, 02:15 上午"
-fetched_at: "2026-02-26 10:05:08 +0800"
+created_at_raw: "九月 28, 2025, 02:15 上午"
+created_at_iso: "2025-09-28T02:15:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:08 +0800"
+fetched_at_iso: "2026-02-26T10:05:08+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5638
+approx_tokens: 2819
 ---
 
 # 终末的角色 - 螟灵·安德拉（多层自适应强度）

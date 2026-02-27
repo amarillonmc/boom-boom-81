@@ -4,8 +4,16 @@ title: "老凤凰的角色 - 德瓦霍·安德雷拉德"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2708.0"
 author: "王者的老凤凰"
-created_at: "十一月 15, 2025, 07:14 上午"
-fetched_at: "2026-02-26 10:16:18 +0800"
+created_at_raw: "十一月 15, 2025, 07:14 上午"
+created_at_iso: "2025-11-15T07:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:18 +0800"
+fetched_at_iso: "2026-02-26T10:16:18+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1254
+approx_tokens: 627
 ---
 
 # 老凤凰的角色 - 德瓦霍·安德雷拉德

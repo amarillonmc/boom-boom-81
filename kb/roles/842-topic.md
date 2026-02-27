@@ -4,8 +4,16 @@ title: "小兵的角色 - 远古恐惧"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=842.0"
 author: "小兵"
-created_at: "九月 24, 2025, 10:40 下午"
-fetched_at: "2026-02-26 10:03:55 +0800"
+created_at_raw: "九月 24, 2025, 10:40 下午"
+created_at_iso: "2025-09-24T22:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:55 +0800"
+fetched_at_iso: "2026-02-26T10:03:55+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1148
+approx_tokens: 574
 ---
 
 # 小兵的角色 - 远古恐惧

@@ -4,8 +4,16 @@ title: "张华（十剑化龙）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2865.0"
 author: "zweizergain"
-created_at: "十一月 18, 2025, 11:37 上午"
-fetched_at: "2026-02-26 10:17:02 +0800"
+created_at_raw: "十一月 18, 2025, 11:37 上午"
+created_at_iso: "2025-11-18T11:37:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:02 +0800"
+fetched_at_iso: "2026-02-26T10:17:02+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 8450
+approx_tokens: 4225
 ---
 
 # 张华（十剑化龙）

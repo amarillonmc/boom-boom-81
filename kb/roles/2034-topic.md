@@ -4,8 +4,16 @@ title: "增熵星的角色 - 商业中心老板"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2034.0"
 author: "增熵星"
-created_at: "十月 28, 2025, 03:34 上午"
-fetched_at: "2026-02-26 10:12:28 +0800"
+created_at_raw: "十月 28, 2025, 03:34 上午"
+created_at_iso: "2025-10-28T03:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:28 +0800"
+fetched_at_iso: "2026-02-26T10:12:28+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 880
+approx_tokens: 440
 ---
 
 # 增熵星的角色 - 商业中心老板

@@ -4,8 +4,16 @@ title: "增熵星的角色 - 海龟坏兽 加美西耶勒"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=378.0"
 author: "增熵星"
-created_at: "九月 16, 2025, 09:19 下午"
-fetched_at: "2026-02-26 10:00:05 +0800"
+created_at_raw: "九月 16, 2025, 09:19 下午"
+created_at_iso: "2025-09-16T21:19:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:05 +0800"
+fetched_at_iso: "2026-02-26T10:00:05+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 703
+approx_tokens: 352
 ---
 
 # 增熵星的角色 - 海龟坏兽 加美西耶勒

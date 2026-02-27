@@ -4,8 +4,16 @@ title: "活路的角色 - 贝吉特XENO"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=261.0"
 author: "zweizergain"
-created_at: "九月 14, 2025, 05:16 上午"
-fetched_at: "2026-02-26 09:58:52 +0800"
+created_at_raw: "九月 14, 2025, 05:16 上午"
+created_at_iso: "2025-09-14T05:16:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:52 +0800"
+fetched_at_iso: "2026-02-26T09:58:52+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2553
+approx_tokens: 1277
 ---
 
 # 活路的角色 - 贝吉特XENO

@@ -12,6 +12,8 @@ has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
+approx_chars: 815
+approx_tokens: 408
 ---
 
 # 终末的角色 - 胜利龙

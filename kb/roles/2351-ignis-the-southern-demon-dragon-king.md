@@ -4,8 +4,16 @@ title: "小可的角色 - 伊格尼斯，南方魔龙王（Ignis, the Southern D
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2351.0"
 author: "小可"
-created_at: "十一月 05, 2025, 12:02 下午"
-fetched_at: "2026-02-26 10:14:22 +0800"
+created_at_raw: "十一月 05, 2025, 12:02 下午"
+created_at_iso: "2025-11-05T12:02:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:22 +0800"
+fetched_at_iso: "2026-02-26T10:14:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5147
+approx_tokens: 2574
 ---
 
 # 小可的角色 - 伊格尼斯，南方魔龙王（Ignis, the Southern Demon Dragon King）

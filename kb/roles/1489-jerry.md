@@ -4,8 +4,16 @@ title: "Jerry的角色 - 亚兹"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1489.0"
 author: "Jerry"
-created_at: "十月 11, 2025, 11:45 上午"
-fetched_at: "2026-02-26 10:08:35 +0800"
+created_at_raw: "十月 11, 2025, 11:45 上午"
+created_at_iso: "2025-10-11T11:45:00+08:00"
+fetched_at_raw: "2026-02-26 10:08:35 +0800"
+fetched_at_iso: "2026-02-26T10:08:35+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10466
+approx_tokens: 5233
 ---
 
 # Jerry的角色 - 亚兹

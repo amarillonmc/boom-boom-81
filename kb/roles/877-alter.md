@@ -4,8 +4,16 @@ title: "ALTER的角色 - 艾格勒"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=877.0"
 author: "ALTER"
-created_at: "九月 25, 2025, 11:09 上午"
-fetched_at: "2026-02-26 10:04:08 +0800"
+created_at_raw: "九月 25, 2025, 11:09 上午"
+created_at_iso: "2025-09-25T11:09:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:08 +0800"
+fetched_at_iso: "2026-02-26T10:04:08+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6538
+approx_tokens: 3269
 ---
 
 # ALTER的角色 - 艾格勒

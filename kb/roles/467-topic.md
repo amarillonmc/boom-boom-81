@@ -4,8 +4,16 @@ title: "活路的角色 - 安吉拉·巴尔扎克"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=467.0"
 author: "zweizergain"
-created_at: "九月 18, 2025, 03:39 下午"
-fetched_at: "2026-02-26 10:00:50 +0800"
+created_at_raw: "九月 18, 2025, 03:39 下午"
+created_at_iso: "2025-09-18T15:39:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:50 +0800"
+fetched_at_iso: "2026-02-26T10:00:50+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4858
+approx_tokens: 2429
 ---
 
 # 活路的角色 - 安吉拉·巴尔扎克

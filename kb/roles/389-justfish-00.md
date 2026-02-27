@@ -4,8 +4,16 @@ title: "Justfish的角色 - 【元-00】"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=389.0"
 author: "Justfish"
-created_at: "九月 17, 2025, 02:55 上午"
-fetched_at: "2026-02-26 10:00:11 +0800"
+created_at_raw: "九月 17, 2025, 02:55 上午"
+created_at_iso: "2025-09-17T02:55:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:11 +0800"
+fetched_at_iso: "2026-02-26T10:00:11+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3894
+approx_tokens: 1947
 ---
 
 # Justfish的角色 - 【元-00】

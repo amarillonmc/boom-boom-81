@@ -4,8 +4,16 @@ title: "杰西的角色 - 阿斯托罗姆斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3356.0"
 author: "Jessie"
-created_at: "二月 25, 2026, 09:52 上午"
-fetched_at: "2026-02-26 10:19:02 +0800"
+created_at_raw: "二月 25, 2026, 09:52 上午"
+created_at_iso: "2026-02-25T09:52:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:02 +0800"
+fetched_at_iso: "2026-02-26T10:19:02+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 637
+approx_tokens: 319
 ---
 
 # 杰西的角色 - 阿斯托罗姆斯

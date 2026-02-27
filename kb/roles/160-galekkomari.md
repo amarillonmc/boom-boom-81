@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 能美·库特莉亚芙卡"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=160.0"
 author: "galekkomari"
-created_at: "九月 10, 2025, 08:32 上午"
-fetched_at: "2026-02-26 09:58:02 +0800"
+created_at_raw: "九月 10, 2025, 08:32 上午"
+created_at_iso: "2025-09-10T08:32:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:02 +0800"
+fetched_at_iso: "2026-02-26T09:58:02+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 955
+approx_tokens: 478
 ---
 
 # galekkomari的角色 - 能美·库特莉亚芙卡

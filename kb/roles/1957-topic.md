@@ -4,8 +4,16 @@ title: "无羁的角色 - 姆忍宗师"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1957.0"
 author: "无羁"
-created_at: "十月 26, 2025, 02:25 上午"
-fetched_at: "2026-02-26 10:11:52 +0800"
+created_at_raw: "十月 26, 2025, 02:25 上午"
+created_at_iso: "2025-10-26T02:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:52 +0800"
+fetched_at_iso: "2026-02-26T10:11:52+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1186
+approx_tokens: 593
 ---
 
 # 无羁的角色 - 姆忍宗师

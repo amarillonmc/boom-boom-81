@@ -4,8 +4,16 @@ title: "小兵的角色 - 堕姬&妓夫太郎"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2139.0"
 author: "小兵"
-created_at: "十月 30, 2025, 08:17 上午"
-fetched_at: "2026-02-26 10:13:06 +0800"
+created_at_raw: "十月 30, 2025, 08:17 上午"
+created_at_iso: "2025-10-30T08:17:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:06 +0800"
+fetched_at_iso: "2026-02-26T10:13:06+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2683
+approx_tokens: 1342
 ---
 
 # 小兵的角色 - 堕姬&妓夫太郎

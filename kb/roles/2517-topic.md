@@ -4,8 +4,16 @@ title: "小可的角色 - 西门吹雪"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2517.0"
 author: "小可"
-created_at: "十一月 08, 2025, 11:27 下午"
-fetched_at: "2026-02-26 10:15:03 +0800"
+created_at_raw: "十一月 08, 2025, 11:27 下午"
+created_at_iso: "2025-11-08T23:27:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:03 +0800"
+fetched_at_iso: "2026-02-26T10:15:03+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4595
+approx_tokens: 2298
 ---
 
 # 小可的角色 - 西门吹雪

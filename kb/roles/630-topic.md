@@ -4,8 +4,16 @@ title: "小兵的角色 - 懒惰贝尔芬格"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=630.0"
 author: "小兵"
-created_at: "九月 21, 2025, 12:28 下午"
-fetched_at: "2026-02-26 10:02:16 +0800"
+created_at_raw: "九月 21, 2025, 12:28 下午"
+created_at_iso: "2025-09-21T12:28:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:16 +0800"
+fetched_at_iso: "2026-02-26T10:02:16+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 866
+approx_tokens: 433
 ---
 
 # 小兵的角色 - 懒惰贝尔芬格

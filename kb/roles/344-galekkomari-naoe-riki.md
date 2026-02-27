@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 直枝 理树 (Naoe Riki)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=344.0"
 author: "galekkomari"
-created_at: "九月 15, 2025, 09:58 下午"
-fetched_at: "2026-02-26 09:59:43 +0800"
+created_at_raw: "九月 15, 2025, 09:58 下午"
+created_at_iso: "2025-09-15T21:58:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:43 +0800"
+fetched_at_iso: "2026-02-26T09:59:43+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1413
+approx_tokens: 707
 ---
 
 # galekkomari的角色 - 直枝 理树 (Naoe Riki)

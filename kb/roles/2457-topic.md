@@ -4,8 +4,16 @@ title: "烛火的角色 - 圣园未花=米迦勒"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2457.0"
 author: "烛火"
-created_at: "十一月 07, 2025, 03:53 下午"
-fetched_at: "2026-02-26 10:14:47 +0800"
+created_at_raw: "十一月 07, 2025, 03:53 下午"
+created_at_iso: "2025-11-07T15:53:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:47 +0800"
+fetched_at_iso: "2026-02-26T10:14:47+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 15966
+approx_tokens: 7983
 ---
 
 # 烛火的角色 - 圣园未花=米迦勒

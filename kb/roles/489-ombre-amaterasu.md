@@ -4,8 +4,16 @@ title: "Ombre的角色 - 天照 (Amaterasu)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=489.0"
 author: "Ombre"
-created_at: "九月 19, 2025, 01:45 上午"
-fetched_at: "2026-02-26 10:01:02 +0800"
+created_at_raw: "九月 19, 2025, 01:45 上午"
+created_at_iso: "2025-09-19T01:45:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:02 +0800"
+fetched_at_iso: "2026-02-26T10:01:02+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3901
+approx_tokens: 1951
 ---
 
 # Ombre的角色 - 天照 (Amaterasu)

@@ -4,8 +4,16 @@ title: "小可的角色 - 大白鲨"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1304.0"
 author: "小可"
-created_at: "十月 05, 2025, 12:13 下午"
-fetched_at: "2026-02-26 10:07:07 +0800"
+created_at_raw: "十月 05, 2025, 12:13 下午"
+created_at_iso: "2025-10-05T12:13:00+08:00"
+fetched_at_raw: "2026-02-26 10:07:07 +0800"
+fetched_at_iso: "2026-02-26T10:07:07+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7309
+approx_tokens: 3655
 ---
 
 # 小可的角色 - 大白鲨

@@ -4,8 +4,16 @@ title: "小兵的角色 - 血魔"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=474.0"
 author: "小兵"
-created_at: "九月 18, 2025, 09:46 下午"
-fetched_at: "2026-02-26 10:00:54 +0800"
+created_at_raw: "九月 18, 2025, 09:46 下午"
+created_at_iso: "2025-09-18T21:46:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:54 +0800"
+fetched_at_iso: "2026-02-26T10:00:54+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 973
+approx_tokens: 487
 ---
 
 # 小兵的角色 - 血魔

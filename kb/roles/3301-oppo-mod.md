@@ -4,8 +4,16 @@ title: "OPPO的角色 - 泰拉瑞亚玩家•终极MOD整合形态•“旅途�
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3301.0"
 author: "OPPO"
-created_at: "一月 01, 2026, 09:58 上午"
-fetched_at: "2026-02-26 10:18:41 +0800"
+created_at_raw: "一月 01, 2026, 09:58 上午"
+created_at_iso: "2026-01-01T09:58:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:41 +0800"
+fetched_at_iso: "2026-02-26T10:18:41+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 11238
+approx_tokens: 5619
 ---
 
 # OPPO的角色 - 泰拉瑞亚玩家•终极MOD整合形态•“旅途的终点”

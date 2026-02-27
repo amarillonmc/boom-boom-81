@@ -4,8 +4,16 @@ title: "黑莲的角色 - [size =7][b]蛙袄！！！！[/b][/size]"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=910.0"
 author: "Huager"
-created_at: "九月 26, 2025, 05:10 上午"
-fetched_at: "2026-02-26 10:04:23 +0800"
+created_at_raw: "九月 26, 2025, 05:10 上午"
+created_at_iso: "2025-09-26T05:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:23 +0800"
+fetched_at_iso: "2026-02-26T10:04:23+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 902
+approx_tokens: 451
 ---
 
 # 黑莲的角色 - [size =7][b]蛙袄！！！！[/b][/size]

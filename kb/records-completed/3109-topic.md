@@ -4,8 +4,16 @@ title: "厨神争霸战——“献给主的礼物”"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=3109.0"
 author: "tt"
-created_at: "十一月 29, 2025, 04:06 上午"
-fetched_at: "2026-02-26 10:27:49 +0800"
+created_at_raw: "十一月 29, 2025, 04:06 上午"
+created_at_iso: "2025-11-29T04:06:00+08:00"
+fetched_at_raw: "2026-02-26 10:27:49 +0800"
+fetched_at_iso: "2026-02-26T10:27:49+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 30977
+approx_tokens: 15489
 ---
 
 # 厨神争霸战——“献给主的礼物”

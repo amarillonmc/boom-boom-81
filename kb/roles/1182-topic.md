@@ -4,8 +4,16 @@ title: "终末的角色 - 无限上之规则"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1182.0"
 author: "Ender_Eragon"
-created_at: "十月 02, 2025, 04:33 上午"
-fetched_at: "2026-02-26 10:06:15 +0800"
+created_at_raw: "十月 02, 2025, 04:33 上午"
+created_at_iso: "2025-10-02T04:33:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:15 +0800"
+fetched_at_iso: "2026-02-26T10:06:15+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1724
+approx_tokens: 862
 ---
 
 # 终末的角色 - 无限上之规则

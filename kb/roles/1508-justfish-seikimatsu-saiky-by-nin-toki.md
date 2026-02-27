@@ -4,8 +4,16 @@ title: "Justfish的角色 - 世纪末最强病人 托奇 (Seikimatsu Saikyō By�
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1508.0"
 author: "Justfish"
-created_at: "十月 12, 2025, 05:17 上午"
-fetched_at: "2026-02-26 10:08:47 +0800"
+created_at_raw: "十月 12, 2025, 05:17 上午"
+created_at_iso: "2025-10-12T05:17:00+08:00"
+fetched_at_raw: "2026-02-26 10:08:47 +0800"
+fetched_at_iso: "2026-02-26T10:08:47+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4339
+approx_tokens: 2170
 ---
 
 # Justfish的角色 - 世纪末最强病人 托奇 (Seikimatsu Saikyō Byōnin - Toki)

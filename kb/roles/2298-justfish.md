@@ -4,8 +4,16 @@ title: "Justfish的角色 - 无尽风暴-尤涅若"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2298.0"
 author: "Justfish"
-created_at: "十一月 04, 2025, 01:34 上午"
-fetched_at: "2026-02-26 10:13:57 +0800"
+created_at_raw: "十一月 04, 2025, 01:34 上午"
+created_at_iso: "2025-11-04T01:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:57 +0800"
+fetched_at_iso: "2026-02-26T10:13:57+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2991
+approx_tokens: 1496
 ---
 
 # Justfish的角色 - 无尽风暴-尤涅若

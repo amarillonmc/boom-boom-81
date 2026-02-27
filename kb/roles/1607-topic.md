@@ -4,8 +4,16 @@ title: "老凤凰的角色 - 亚利斯塔·图铎"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1607.0"
 author: "王者的老凤凰"
-created_at: "十月 15, 2025, 09:30 上午"
-fetched_at: "2026-02-26 10:09:21 +0800"
+created_at_raw: "十月 15, 2025, 09:30 上午"
+created_at_iso: "2025-10-15T09:30:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:21 +0800"
+fetched_at_iso: "2026-02-26T10:09:21+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1181
+approx_tokens: 591
 ---
 
 # 老凤凰的角色 - 亚利斯塔·图铎

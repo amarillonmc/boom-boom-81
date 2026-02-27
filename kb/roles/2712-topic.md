@@ -4,8 +4,16 @@ title: "普通人的无聊生活的角色 - 凑斗景明"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2712.0"
 author: "普通人的无聊生活"
-created_at: "十一月 15, 2025, 09:56 上午"
-fetched_at: "2026-02-26 10:16:23 +0800"
+created_at_raw: "十一月 15, 2025, 09:56 上午"
+created_at_iso: "2025-11-15T09:56:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:23 +0800"
+fetched_at_iso: "2026-02-26T10:16:23+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5620
+approx_tokens: 2810
 ---
 
 # 普通人的无聊生活的角色 - 凑斗景明

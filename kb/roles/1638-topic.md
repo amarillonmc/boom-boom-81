@@ -4,8 +4,16 @@ title: "小可的角色 - 土豆神的神眷者"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1638.0"
 author: "小可"
-created_at: "十月 16, 2025, 08:58 上午"
-fetched_at: "2026-02-26 10:09:38 +0800"
+created_at_raw: "十月 16, 2025, 08:58 上午"
+created_at_iso: "2025-10-16T08:58:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:38 +0800"
+fetched_at_iso: "2026-02-26T10:09:38+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4504
+approx_tokens: 2252
 ---
 
 # 小可的角色 - 土豆神的神眷者

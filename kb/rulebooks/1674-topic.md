@@ -4,8 +4,16 @@ title: "特殊议程：胡闹厨房·土豆大战"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=1674.0"
 author: "小可"
-created_at: "十月 17, 2025, 11:00 上午"
-fetched_at: "2026-02-26 10:19:58 +0800"
+created_at_raw: "十月 17, 2025, 11:00 上午"
+created_at_iso: "2025-10-17T11:00:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:58 +0800"
+fetched_at_iso: "2026-02-26T10:19:58+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 18293
+approx_tokens: 9147
 ---
 
 # 特殊议程：胡闹厨房·土豆大战

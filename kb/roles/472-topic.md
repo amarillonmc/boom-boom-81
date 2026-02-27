@@ -4,8 +4,16 @@ title: "烛火的角色 - 荀彧"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=472.0"
 author: "烛火"
-created_at: "九月 18, 2025, 07:34 下午"
-fetched_at: "2026-02-26 10:00:53 +0800"
+created_at_raw: "九月 18, 2025, 07:34 下午"
+created_at_iso: "2025-09-18T19:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:53 +0800"
+fetched_at_iso: "2026-02-26T10:00:53+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 11811
+approx_tokens: 5906
 ---
 
 # 烛火的角色 - 荀彧

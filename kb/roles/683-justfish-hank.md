@@ -4,8 +4,16 @@ title: "Justfish的角色 - Hank"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=683.0"
 author: "Justfish"
-created_at: "九月 22, 2025, 12:09 下午"
-fetched_at: "2026-02-26 10:02:34 +0800"
+created_at_raw: "九月 22, 2025, 12:09 下午"
+created_at_iso: "2025-09-22T12:09:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:34 +0800"
+fetched_at_iso: "2026-02-26T10:02:34+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2477
+approx_tokens: 1239
 ---
 
 # Justfish的角色 - Hank

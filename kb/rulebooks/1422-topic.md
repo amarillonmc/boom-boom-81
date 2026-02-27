@@ -4,8 +4,16 @@ title: "特殊议程-天下第一武道会"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=1422.0"
 author: "小可"
-created_at: "十月 09, 2025, 12:49 下午"
-fetched_at: "2026-02-26 10:19:47 +0800"
+created_at_raw: "十月 09, 2025, 12:49 下午"
+created_at_iso: "2025-10-09T12:49:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:47 +0800"
+fetched_at_iso: "2026-02-26T10:19:47+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 20299
+approx_tokens: 10150
 ---
 
 # 特殊议程-天下第一武道会

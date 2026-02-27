@@ -4,8 +4,16 @@ title: "终末的角色 - 「魔法少女时刻」"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3327.0"
 author: "Ender_Eragon"
-created_at: "二月 03, 2026, 10:36 上午"
-fetched_at: "2026-02-26 10:18:49 +0800"
+created_at_raw: "二月 03, 2026, 10:36 上午"
+created_at_iso: "2026-02-03T10:36:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:49 +0800"
+fetched_at_iso: "2026-02-26T10:18:49+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2967
+approx_tokens: 1484
 ---
 
 # 终末的角色 - 「魔法少女时刻」

@@ -4,8 +4,16 @@ title: "【云顶之奕】测试"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=3028.0"
 author: "OPPO"
-created_at: "十一月 24, 2025, 10:37 上午"
-fetched_at: "2026-02-26 10:27:31 +0800"
+created_at_raw: "十一月 24, 2025, 10:37 上午"
+created_at_iso: "2025-11-24T10:37:00+08:00"
+fetched_at_raw: "2026-02-26 10:27:31 +0800"
+fetched_at_iso: "2026-02-26T10:27:31+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 26525
+approx_tokens: 13263
 ---
 
 # 【云顶之奕】测试

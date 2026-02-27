@@ -4,8 +4,16 @@ title: "小兵的角色 - 真实实力的试炼"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=536.0"
 author: "小兵"
-created_at: "九月 19, 2025, 10:39 下午"
-fetched_at: "2026-02-26 10:01:31 +0800"
+created_at_raw: "九月 19, 2025, 10:39 下午"
+created_at_iso: "2025-09-19T22:39:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:31 +0800"
+fetched_at_iso: "2026-02-26T10:01:31+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 699
+approx_tokens: 350
 ---
 
 # 小兵的角色 - 真实实力的试炼

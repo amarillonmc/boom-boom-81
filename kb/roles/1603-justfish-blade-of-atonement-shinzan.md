@@ -4,8 +4,16 @@ title: "Justfish的角色 - 赎罪之刃 - 心斩 (Blade of Atonement - Shinzan)
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1603.0"
 author: "Justfish"
-created_at: "十月 15, 2025, 05:35 上午"
-fetched_at: "2026-02-26 10:09:20 +0800"
+created_at_raw: "十月 15, 2025, 05:35 上午"
+created_at_iso: "2025-10-15T05:35:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:20 +0800"
+fetched_at_iso: "2026-02-26T10:09:20+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5643
+approx_tokens: 2822
 ---
 
 # Justfish的角色 - 赎罪之刃 - 心斩 (Blade of Atonement - Shinzan)

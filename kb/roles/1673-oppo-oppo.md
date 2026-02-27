@@ -4,8 +4,16 @@ title: "OPPO的角色 - 【无无定义者】OPPO"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1673.0"
 author: "OPPO"
-created_at: "十月 17, 2025, 10:53 上午"
-fetched_at: "2026-02-26 10:09:54 +0800"
+created_at_raw: "十月 17, 2025, 10:53 上午"
+created_at_iso: "2025-10-17T10:53:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:54 +0800"
+fetched_at_iso: "2026-02-26T10:09:54+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4592
+approx_tokens: 2296
 ---
 
 # OPPO的角色 - 【无无定义者】OPPO

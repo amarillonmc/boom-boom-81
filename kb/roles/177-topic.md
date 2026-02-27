@@ -4,8 +4,16 @@ title: "玄羽的角色 - 阿蒂拉"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=177.0"
 author: "玄羽"
-created_at: "九月 11, 2025, 07:06 上午"
-fetched_at: "2026-02-26 09:58:10 +0800"
+created_at_raw: "九月 11, 2025, 07:06 上午"
+created_at_iso: "2025-09-11T07:06:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:10 +0800"
+fetched_at_iso: "2026-02-26T09:58:10+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3343
+approx_tokens: 1672
 ---
 
 # 玄羽的角色 - 阿蒂拉

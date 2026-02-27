@@ -4,8 +4,16 @@ title: "Jerry的角色 - 灭霸(无限宝石全装)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=239.0"
 author: "Jerry"
-created_at: "九月 13, 2025, 11:23 上午"
-fetched_at: "2026-02-26 09:58:42 +0800"
+created_at_raw: "九月 13, 2025, 11:23 上午"
+created_at_iso: "2025-09-13T11:23:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:42 +0800"
+fetched_at_iso: "2026-02-26T09:58:42+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3123
+approx_tokens: 1562
 ---
 
 # Jerry的角色 - 灭霸(无限宝石全装)

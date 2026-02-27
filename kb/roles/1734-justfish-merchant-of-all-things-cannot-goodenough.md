@@ -4,8 +4,16 @@ title: "Justfish的角色 - 万物行商 - 坎诺特·古德因那夫 (Merchant 
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1734.0"
 author: "Justfish"
-created_at: "十月 18, 2025, 09:36 下午"
-fetched_at: "2026-02-26 10:10:31 +0800"
+created_at_raw: "十月 18, 2025, 09:36 下午"
+created_at_iso: "2025-10-18T21:36:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:31 +0800"
+fetched_at_iso: "2026-02-26T10:10:31+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6148
+approx_tokens: 3074
 ---
 
 # Justfish的角色 - 万物行商 - 坎诺特·古德因那夫 (Merchant of All Things - Cannot Goodenough)

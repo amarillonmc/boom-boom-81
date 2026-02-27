@@ -12,6 +12,8 @@ has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
+approx_chars: 16204
+approx_tokens: 8102
 ---
 
 # 小可的角色 - 「闪光」

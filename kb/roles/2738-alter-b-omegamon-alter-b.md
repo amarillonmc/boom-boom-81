@@ -4,8 +4,16 @@ title: "全装甲高达七号机的角色 - 跨维度清理协议 / 潜在的数
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2738.0"
 author: "全装甲高达七号机"
-created_at: "十一月 16, 2025, 04:49 上午"
-fetched_at: "2026-02-26 10:16:38 +0800"
+created_at_raw: "十一月 16, 2025, 04:49 上午"
+created_at_iso: "2025-11-16T04:49:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:38 +0800"
+fetched_at_iso: "2026-02-26T10:16:38+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 11894
+approx_tokens: 5947
 ---
 
 # 全装甲高达七号机的角色 - 跨维度清理协议 / 潜在的数字天灾 - 奥米加兽 Alter-B (Omegamon Alter-B)

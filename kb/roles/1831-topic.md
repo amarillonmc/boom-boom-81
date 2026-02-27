@@ -4,8 +4,16 @@ title: "烛火的角色 - 右代宫战人&贝阿朵莉切"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1831.0"
 author: "烛火"
-created_at: "十月 21, 2025, 06:53 下午"
-fetched_at: "2026-02-26 10:11:06 +0800"
+created_at_raw: "十月 21, 2025, 06:53 下午"
+created_at_iso: "2025-10-21T18:53:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:06 +0800"
+fetched_at_iso: "2026-02-26T10:11:06+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9599
+approx_tokens: 4800
 ---
 
 # 烛火的角色 - 右代宫战人&贝阿朵莉切

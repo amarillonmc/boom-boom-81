@@ -4,8 +4,16 @@ title: "Jerry的角色 - 杨戬（封神演义）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2541.0"
 author: "Jerry"
-created_at: "十一月 09, 2025, 11:21 上午"
-fetched_at: "2026-02-26 10:15:17 +0800"
+created_at_raw: "十一月 09, 2025, 11:21 上午"
+created_at_iso: "2025-11-09T11:21:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:17 +0800"
+fetched_at_iso: "2026-02-26T10:15:17+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7343
+approx_tokens: 3672
 ---
 
 # Jerry的角色 - 杨戬（封神演义）

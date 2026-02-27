@@ -4,8 +4,16 @@ title: "烛火的角色 - 黑战人&安田莎代"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2062.0"
 author: "烛火"
-created_at: "十月 28, 2025, 12:14 下午"
-fetched_at: "2026-02-26 10:12:39 +0800"
+created_at_raw: "十月 28, 2025, 12:14 下午"
+created_at_iso: "2025-10-28T12:14:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:39 +0800"
+fetched_at_iso: "2026-02-26T10:12:39+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7434
+approx_tokens: 3717
 ---
 
 # 烛火的角色 - 黑战人&安田莎代

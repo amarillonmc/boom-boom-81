@@ -4,8 +4,16 @@ title: "战斗场地补充-【光与纷争交错的失落世界】"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=558.0"
 author: "Ombre"
-created_at: "九月 20, 2025, 05:28 上午"
-fetched_at: "2026-02-26 10:19:15 +0800"
+created_at_raw: "九月 20, 2025, 05:28 上午"
+created_at_iso: "2025-09-20T05:28:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:15 +0800"
+fetched_at_iso: "2026-02-26T10:19:15+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1617
+approx_tokens: 809
 ---
 
 # 战斗场地补充-【光与纷争交错的失落世界】

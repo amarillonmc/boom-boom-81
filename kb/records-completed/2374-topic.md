@@ -4,8 +4,16 @@ title: "跑团测试（第三章-第四章）"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2374.0"
 author: "增熵星"
-created_at: "十一月 06, 2025, 07:10 上午"
-fetched_at: "2026-02-26 10:25:50 +0800"
+created_at_raw: "十一月 06, 2025, 07:10 上午"
+created_at_iso: "2025-11-06T07:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:25:50 +0800"
+fetched_at_iso: "2026-02-26T10:25:50+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 62514
+approx_tokens: 31257
 ---
 
 # 跑团测试（第三章-第四章）

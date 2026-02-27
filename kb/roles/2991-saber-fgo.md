@@ -4,8 +4,16 @@ title: "小兵的角色 - 迪尔姆德·奥迪那(Saber)（FGO）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2991.0"
 author: "小兵"
-created_at: "十一月 22, 2025, 08:06 上午"
-fetched_at: "2026-02-26 10:17:32 +0800"
+created_at_raw: "十一月 22, 2025, 08:06 上午"
+created_at_iso: "2025-11-22T08:06:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:32 +0800"
+fetched_at_iso: "2026-02-26T10:17:32+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2212
+approx_tokens: 1106
 ---
 
 # 小兵的角色 - 迪尔姆德·奥迪那(Saber)（FGO）

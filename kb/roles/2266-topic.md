@@ -4,8 +4,16 @@ title: "小兵的角色 - 涅茧利"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2266.0"
 author: "小兵"
-created_at: "十一月 02, 2025, 11:25 下午"
-fetched_at: "2026-02-26 10:13:48 +0800"
+created_at_raw: "十一月 02, 2025, 11:25 下午"
+created_at_iso: "2025-11-02T23:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:48 +0800"
+fetched_at_iso: "2026-02-26T10:13:48+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2113
+approx_tokens: 1057
 ---
 
 # 小兵的角色 - 涅茧利

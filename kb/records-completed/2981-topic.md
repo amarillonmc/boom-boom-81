@@ -4,8 +4,16 @@ title: "塔的神人圣杯战争风味大乱斗第一期提问楼"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2981.0"
 author: "塔."
-created_at: "十一月 22, 2025, 02:29 上午"
-fetched_at: "2026-02-26 10:27:19 +0800"
+created_at_raw: "十一月 22, 2025, 02:29 上午"
+created_at_iso: "2025-11-22T02:29:00+08:00"
+fetched_at_raw: "2026-02-26 10:27:19 +0800"
+fetched_at_iso: "2026-02-26T10:27:19+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2669
+approx_tokens: 1335
 ---
 
 # 塔的神人圣杯战争风味大乱斗第一期提问楼

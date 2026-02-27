@@ -4,8 +4,16 @@ title: "无羁的角色 - 艾希连德凛克"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2007.0"
 author: "无羁"
-created_at: "十月 27, 2025, 10:47 上午"
-fetched_at: "2026-02-26 10:12:15 +0800"
+created_at_raw: "十月 27, 2025, 10:47 上午"
+created_at_iso: "2025-10-27T10:47:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:15 +0800"
+fetched_at_iso: "2026-02-26T10:12:15+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1083
+approx_tokens: 542
 ---
 
 # 无羁的角色 - 艾希连德凛克

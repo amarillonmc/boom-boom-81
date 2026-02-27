@@ -4,8 +4,16 @@ title: "小兵的角色 - 贪婪玛门"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=559.0"
 author: "小兵"
-created_at: "九月 20, 2025, 05:36 上午"
-fetched_at: "2026-02-26 10:01:39 +0800"
+created_at_raw: "九月 20, 2025, 05:36 上午"
+created_at_iso: "2025-09-20T05:36:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:39 +0800"
+fetched_at_iso: "2026-02-26T10:01:39+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 936
+approx_tokens: 468
 ---
 
 # 小兵的角色 - 贪婪玛门

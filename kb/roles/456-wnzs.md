@@ -4,8 +4,16 @@ title: "塔的角色 - 伪作万能之神“WNZS”"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=456.0"
 author: "塔."
-created_at: "九月 18, 2025, 11:59 上午"
-fetched_at: "2026-02-26 10:00:46 +0800"
+created_at_raw: "九月 18, 2025, 11:59 上午"
+created_at_iso: "2025-09-18T11:59:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:46 +0800"
+fetched_at_iso: "2026-02-26T10:00:46+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2059
+approx_tokens: 1030
 ---
 
 # 塔的角色 - 伪作万能之神“WNZS”

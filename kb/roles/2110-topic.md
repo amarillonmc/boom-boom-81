@@ -4,8 +4,16 @@ title: "终极奥特侮辱者 - 伪型希卡利（需要反派就随意使用）
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2110.0"
 author: "全装甲高达七号机"
-created_at: "十月 29, 2025, 03:00 下午"
-fetched_at: "2026-02-26 10:12:59 +0800"
+created_at_raw: "十月 29, 2025, 03:00 下午"
+created_at_iso: "2025-10-29T15:00:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:59 +0800"
+fetched_at_iso: "2026-02-26T10:12:59+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 15147
+approx_tokens: 7574
 ---
 
 # 终极奥特侮辱者 - 伪型希卡利（需要反派就随意使用）

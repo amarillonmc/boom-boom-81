@@ -4,8 +4,16 @@ title: "紫宵的角色 - 塔南"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2157.0"
 author: "紫宵"
-created_at: "十月 30, 2025, 07:59 下午"
-fetched_at: "2026-02-26 10:13:10 +0800"
+created_at_raw: "十月 30, 2025, 07:59 下午"
+created_at_iso: "2025-10-30T19:59:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:10 +0800"
+fetched_at_iso: "2026-02-26T10:13:10+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 12191
+approx_tokens: 6096
 ---
 
 # 紫宵的角色 - 塔南

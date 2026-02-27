@@ -4,8 +4,16 @@ title: "大逃杀测试局"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2091.0"
 author: "增熵星"
-created_at: "十月 29, 2025, 09:04 上午"
-fetched_at: "2026-02-26 10:25:04 +0800"
+created_at_raw: "十月 29, 2025, 09:04 上午"
+created_at_iso: "2025-10-29T09:04:00+08:00"
+fetched_at_raw: "2026-02-26 10:25:04 +0800"
+fetched_at_iso: "2026-02-26T10:25:04+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 73748
+approx_tokens: 36874
 ---
 
 # 大逃杀测试局

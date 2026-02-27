@@ -4,8 +4,16 @@ title: "跑团测试第二期大结局 万象之城-阿卡迪亚（第十章-第
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2546.0"
 author: "增熵星"
-created_at: "十一月 09, 2025, 11:00 下午"
-fetched_at: "2026-02-26 10:26:17 +0800"
+created_at_raw: "十一月 09, 2025, 11:00 下午"
+created_at_iso: "2025-11-09T23:00:00+08:00"
+fetched_at_raw: "2026-02-26 10:26:17 +0800"
+fetched_at_iso: "2026-02-26T10:26:17+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 53417
+approx_tokens: 26709
 ---
 
 # 跑团测试第二期大结局 万象之城-阿卡迪亚（第十章-第十一章）

@@ -4,8 +4,16 @@ title: "Justfish的角色 - KING"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=982.0"
 author: "Justfish"
-created_at: "九月 27, 2025, 01:19 下午"
-fetched_at: "2026-02-26 10:05:00 +0800"
+created_at_raw: "九月 27, 2025, 01:19 下午"
+created_at_iso: "2025-09-27T13:19:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:00 +0800"
+fetched_at_iso: "2026-02-26T10:05:00+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2577
+approx_tokens: 1289
 ---
 
 # Justfish的角色 - KING

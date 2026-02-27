@@ -4,8 +4,16 @@ title: "终末的角色 - Frisk"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1580.0"
 author: "Ender_Eragon"
-created_at: "十月 14, 2025, 01:36 下午"
-fetched_at: "2026-02-26 10:09:13 +0800"
+created_at_raw: "十月 14, 2025, 01:36 下午"
+created_at_iso: "2025-10-14T13:36:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:13 +0800"
+fetched_at_iso: "2026-02-26T10:09:13+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2281
+approx_tokens: 1141
 ---
 
 # 终末的角色 - Frisk

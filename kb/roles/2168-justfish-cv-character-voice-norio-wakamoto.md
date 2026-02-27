@@ -4,8 +4,16 @@ title: "Justfish的角色 - CV：若本规夫 (Character Voice : Norio Wakamoto)
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2168.0"
 author: "Justfish"
-created_at: "十月 31, 2025, 01:26 上午"
-fetched_at: "2026-02-26 10:13:13 +0800"
+created_at_raw: "十月 31, 2025, 01:26 上午"
+created_at_iso: "2025-10-31T01:26:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:13 +0800"
+fetched_at_iso: "2026-02-26T10:13:13+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6971
+approx_tokens: 3486
 ---
 
 # Justfish的角色 - CV：若本规夫 (Character Voice : Norio Wakamoto)

@@ -4,8 +4,16 @@ title: "特殊议程-杯战参考"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=2669.0"
 author: "Justfish"
-created_at: "十一月 14, 2025, 02:48 上午"
-fetched_at: "2026-02-26 10:20:38 +0800"
+created_at_raw: "十一月 14, 2025, 02:48 上午"
+created_at_iso: "2025-11-14T02:48:00+08:00"
+fetched_at_raw: "2026-02-26 10:20:38 +0800"
+fetched_at_iso: "2026-02-26T10:20:38+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3299
+approx_tokens: 1650
 ---
 
 # 特殊议程-杯战参考

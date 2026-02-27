@@ -4,8 +4,16 @@ title: "公测线程-P-统一框架-《MACROSS 30》"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2338.0"
 author: "zweizergain"
-created_at: "十一月 05, 2025, 01:54 上午"
-fetched_at: "2026-02-26 10:25:44 +0800"
+created_at_raw: "十一月 05, 2025, 01:54 上午"
+created_at_iso: "2025-11-05T01:54:00+08:00"
+fetched_at_raw: "2026-02-26 10:25:44 +0800"
+fetched_at_iso: "2026-02-26T10:25:44+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 277342
+approx_tokens: 138671
 ---
 
 # 公测线程-P-统一框架-《MACROSS 30》

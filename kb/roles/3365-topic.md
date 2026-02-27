@@ -12,6 +12,8 @@ has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
+approx_chars: 9743
+approx_tokens: 4872
 ---
 
 # 终末的角色 - 螟灵「机械先导」

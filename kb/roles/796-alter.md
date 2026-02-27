@@ -4,8 +4,16 @@ title: "ALTER的角色 - 佩恩·六道「漂泊浪客」"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=796.0"
 author: "ALTER"
-created_at: "九月 24, 2025, 07:44 上午"
-fetched_at: "2026-02-26 10:03:33 +0800"
+created_at_raw: "九月 24, 2025, 07:44 上午"
+created_at_iso: "2025-09-24T07:44:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:33 +0800"
+fetched_at_iso: "2026-02-26T10:03:33+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2980
+approx_tokens: 1490
 ---
 
 # ALTER的角色 - 佩恩·六道「漂泊浪客」

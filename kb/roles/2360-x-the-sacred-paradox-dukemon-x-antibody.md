@@ -4,8 +4,16 @@ title: "全装甲高达七号机的角色 - 神圣的悖论-红莲骑士兽X (Th
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2360.0"
 author: "全装甲高达七号机"
-created_at: "十一月 05, 2025, 09:10 下午"
-fetched_at: "2026-02-26 10:14:27 +0800"
+created_at_raw: "十一月 05, 2025, 09:10 下午"
+created_at_iso: "2025-11-05T21:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:27 +0800"
+fetched_at_iso: "2026-02-26T10:14:27+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9615
+approx_tokens: 4808
 ---
 
 # 全装甲高达七号机的角色 - 神圣的悖论-红莲骑士兽X (The Sacred Paradox - Dukemon X-Antibody)

@@ -4,8 +4,16 @@ title: "Ombre的角色 - 上杉绘梨衣 (Uesugi Erii)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=978.0"
 author: "Ombre"
-created_at: "九月 27, 2025, 12:20 下午"
-fetched_at: "2026-02-26 10:04:58 +0800"
+created_at_raw: "九月 27, 2025, 12:20 下午"
+created_at_iso: "2025-09-27T12:20:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:58 +0800"
+fetched_at_iso: "2026-02-26T10:04:58+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3051
+approx_tokens: 1526
 ---
 
 # Ombre的角色 - 上杉绘梨衣 (Uesugi Erii)

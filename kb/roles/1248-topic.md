@@ -4,8 +4,16 @@ title: "比鲁斯 & 维斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1248.0"
 author: "zweizergain"
-created_at: "十月 04, 2025, 05:47 上午"
-fetched_at: "2026-02-26 10:06:41 +0800"
+created_at_raw: "十月 04, 2025, 05:47 上午"
+created_at_iso: "2025-10-04T05:47:00+08:00"
+fetched_at_raw: "2026-02-26 10:06:41 +0800"
+fetched_at_iso: "2026-02-26T10:06:41+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3771
+approx_tokens: 1886
 ---
 
 # 比鲁斯 & 维斯

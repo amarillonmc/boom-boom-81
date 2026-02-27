@@ -4,8 +4,16 @@ title: "补充规则-夺旗模式"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=551.0"
 author: "Jerry"
-created_at: "九月 20, 2025, 03:02 上午"
-fetched_at: "2026-02-26 10:19:13 +0800"
+created_at_raw: "九月 20, 2025, 03:02 上午"
+created_at_iso: "2025-09-20T03:02:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:13 +0800"
+fetched_at_iso: "2026-02-26T10:19:13+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 12509
+approx_tokens: 6255
 ---
 
 # 补充规则-夺旗模式

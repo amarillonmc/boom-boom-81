@@ -4,8 +4,16 @@ title: "紫宵的角色 - 闭锁天之月"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=408.0"
 author: "紫宵"
-created_at: "九月 17, 2025, 03:13 下午"
-fetched_at: "2026-02-26 10:00:20 +0800"
+created_at_raw: "九月 17, 2025, 03:13 下午"
+created_at_iso: "2025-09-17T15:13:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:20 +0800"
+fetched_at_iso: "2026-02-26T10:00:20+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10409
+approx_tokens: 5205
 ---
 
 # 紫宵的角色 - 闭锁天之月

@@ -4,8 +4,16 @@ title: "小兵的角色 - 闲心的宙斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1361.0"
 author: "小兵"
-created_at: "十月 07, 2025, 01:16 上午"
-fetched_at: "2026-02-26 10:07:37 +0800"
+created_at_raw: "十月 07, 2025, 01:16 上午"
+created_at_iso: "2025-10-07T01:16:00+08:00"
+fetched_at_raw: "2026-02-26 10:07:37 +0800"
+fetched_at_iso: "2026-02-26T10:07:37+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1116
+approx_tokens: 558
 ---
 
 # 小兵的角色 - 闲心的宙斯

@@ -4,8 +4,16 @@ title: "Justfish的角色 - 【共感偶像】橘 爱丽丝"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1070.0"
 author: "Justfish"
-created_at: "九月 29, 2025, 12:08 下午"
-fetched_at: "2026-02-26 10:05:33 +0800"
+created_at_raw: "九月 29, 2025, 12:08 下午"
+created_at_iso: "2025-09-29T12:08:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:33 +0800"
+fetched_at_iso: "2026-02-26T10:05:33+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6582
+approx_tokens: 3291
 ---
 
 # Justfish的角色 - 【共感偶像】橘 爱丽丝

@@ -4,8 +4,16 @@ title: "Justfish的角色 - Jebus"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=765.0"
 author: "Justfish"
-created_at: "九月 23, 2025, 12:13 下午"
-fetched_at: "2026-02-26 10:03:24 +0800"
+created_at_raw: "九月 23, 2025, 12:13 下午"
+created_at_iso: "2025-09-23T12:13:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:24 +0800"
+fetched_at_iso: "2026-02-26T10:03:24+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2498
+approx_tokens: 1249
 ---
 
 # Justfish的角色 - Jebus

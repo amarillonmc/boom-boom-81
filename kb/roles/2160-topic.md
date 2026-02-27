@@ -4,8 +4,16 @@ title: "小兵的角色 - 界·阿雷西"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2160.0"
 author: "小兵"
-created_at: "十月 30, 2025, 09:27 下午"
-fetched_at: "2026-02-26 10:13:11 +0800"
+created_at_raw: "十月 30, 2025, 09:27 下午"
+created_at_iso: "2025-10-30T21:27:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:11 +0800"
+fetched_at_iso: "2026-02-26T10:13:11+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 880
+approx_tokens: 440
 ---
 
 # 小兵的角色 - 界·阿雷西

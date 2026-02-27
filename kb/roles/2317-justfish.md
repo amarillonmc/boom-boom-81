@@ -4,8 +4,16 @@ title: "Justfish的角色 - 泉研 (チャージマン研)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2317.0"
 author: "Justfish"
-created_at: "十一月 04, 2025, 08:51 上午"
-fetched_at: "2026-02-26 10:14:05 +0800"
+created_at_raw: "十一月 04, 2025, 08:51 上午"
+created_at_iso: "2025-11-04T08:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:05 +0800"
+fetched_at_iso: "2026-02-26T10:14:05+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3347
+approx_tokens: 1674
 ---
 
 # Justfish的角色 - 泉研 (チャージマン研)

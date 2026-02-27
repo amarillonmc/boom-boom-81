@@ -4,8 +4,16 @@ title: "终末的角色 - 神力觉醒-格里弗斯将军（未完成"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3218.0"
 author: "Ender_Eragon"
-created_at: "十二月 07, 2025, 10:30 上午"
-fetched_at: "2026-02-26 10:18:28 +0800"
+created_at_raw: "十二月 07, 2025, 10:30 上午"
+created_at_iso: "2025-12-07T10:30:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:28 +0800"
+fetched_at_iso: "2026-02-26T10:18:28+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1290
+approx_tokens: 645
 ---
 
 # 终末的角色 - 神力觉醒-格里弗斯将军（未完成

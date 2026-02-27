@@ -4,8 +4,16 @@ title: "小可的角色 - 模因聚合体-零号协议 (Meme Aggregate - Protoco
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2659.0"
 author: "小可"
-created_at: "十一月 13, 2025, 10:46 下午"
-fetched_at: "2026-02-26 10:15:57 +0800"
+created_at_raw: "十一月 13, 2025, 10:46 下午"
+created_at_iso: "2025-11-13T22:46:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:57 +0800"
+fetched_at_iso: "2026-02-26T10:15:57+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4450
+approx_tokens: 2225
 ---
 
 # 小可的角色 - 模因聚合体-零号协议 (Meme Aggregate - Protocol Zero)

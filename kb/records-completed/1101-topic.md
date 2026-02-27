@@ -4,8 +4,16 @@ title: "宇宙旅馆—温泉乡杀人事件"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=1101.0"
 author: "tt"
-created_at: "九月 30, 2025, 08:54 上午"
-fetched_at: "2026-02-26 10:21:45 +0800"
+created_at_raw: "九月 30, 2025, 08:54 上午"
+created_at_iso: "2025-09-30T08:54:00+08:00"
+fetched_at_raw: "2026-02-26 10:21:45 +0800"
+fetched_at_iso: "2026-02-26T10:21:45+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 82271
+approx_tokens: 41136
 ---
 
 # 宇宙旅馆—温泉乡杀人事件

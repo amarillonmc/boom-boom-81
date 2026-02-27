@@ -4,8 +4,16 @@ title: "Justfish的角色 - 桜黒の忍者殺手-矢本·四季 (Sakuraguro no 
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2323.0"
 author: "Justfish"
-created_at: "十一月 04, 2025, 11:50 上午"
-fetched_at: "2026-02-26 10:14:07 +0800"
+created_at_raw: "十一月 04, 2025, 11:50 上午"
+created_at_iso: "2025-11-04T11:50:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:07 +0800"
+fetched_at_iso: "2026-02-26T10:14:07+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 15147
+approx_tokens: 7574
 ---
 
 # Justfish的角色 - 桜黒の忍者殺手-矢本·四季 (Sakuraguro no Ninja Slayer - Yamoto Shiki)

@@ -4,8 +4,16 @@ title: "Justfish的角色 - 万物之敌 - 四季 (All-Encompassing Enemy - Shik
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2195.0"
 author: "Justfish"
-created_at: "十月 31, 2025, 01:51 下午"
-fetched_at: "2026-02-26 10:13:22 +0800"
+created_at_raw: "十月 31, 2025, 01:51 下午"
+created_at_iso: "2025-10-31T13:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:22 +0800"
+fetched_at_iso: "2026-02-26T10:13:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2181
+approx_tokens: 1091
 ---
 
 # Justfish的角色 - 万物之敌 - 四季 (All-Encompassing Enemy - Shiki)

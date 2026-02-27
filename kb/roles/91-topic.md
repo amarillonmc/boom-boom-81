@@ -4,8 +4,16 @@ title: "普通人的无聊生活的角色 - 神·丰川祥子"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=91.0"
 author: "普通人的无聊生活"
-created_at: "九月 08, 2025, 11:13 下午"
-fetched_at: "2026-02-26 09:57:23 +0800"
+created_at_raw: "九月 08, 2025, 11:13 下午"
+created_at_iso: "2025-09-08T23:13:00+08:00"
+fetched_at_raw: "2026-02-26 09:57:23 +0800"
+fetched_at_iso: "2026-02-26T09:57:23+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 654
+approx_tokens: 327
 ---
 
 # 普通人的无聊生活的角色 - 神·丰川祥子

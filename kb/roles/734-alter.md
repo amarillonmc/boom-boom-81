@@ -4,8 +4,16 @@ title: "ALTER的角色 - 来古士（本名吕枯尔戈斯）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=734.0"
 author: "ALTER"
-created_at: "九月 23, 2025, 07:16 上午"
-fetched_at: "2026-02-26 10:03:06 +0800"
+created_at_raw: "九月 23, 2025, 07:16 上午"
+created_at_iso: "2025-09-23T07:16:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:06 +0800"
+fetched_at_iso: "2026-02-26T10:03:06+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2833
+approx_tokens: 1417
 ---
 
 # ALTER的角色 - 来古士（本名吕枯尔戈斯）

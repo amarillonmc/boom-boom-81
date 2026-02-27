@@ -4,8 +4,16 @@ title: "Justfish的角色 - “三步必杀”塞蕾娅 (\"Three-Step Fatality\"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2073.0"
 author: "Justfish"
-created_at: "十月 28, 2025, 02:25 下午"
-fetched_at: "2026-02-26 10:12:45 +0800"
+created_at_raw: "十月 28, 2025, 02:25 下午"
+created_at_iso: "2025-10-28T14:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:45 +0800"
+fetched_at_iso: "2026-02-26T10:12:45+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2631
+approx_tokens: 1316
 ---
 
 # Justfish的角色 - “三步必杀”塞蕾娅 ("Three-Step Fatality" Saria)

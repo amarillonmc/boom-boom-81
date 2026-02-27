@@ -4,8 +4,16 @@ title: "Jerry的角色 - 宇智波佐助（博人传时期）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=430.0"
 author: "Jerry"
-created_at: "九月 18, 2025, 04:31 上午"
-fetched_at: "2026-02-26 10:00:36 +0800"
+created_at_raw: "九月 18, 2025, 04:31 上午"
+created_at_iso: "2025-09-18T04:31:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:36 +0800"
+fetched_at_iso: "2026-02-26T10:00:36+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5516
+approx_tokens: 2758
 ---
 
 # Jerry的角色 - 宇智波佐助（博人传时期）

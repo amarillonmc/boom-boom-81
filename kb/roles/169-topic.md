@@ -4,8 +4,16 @@ title: "小可的角色 - 内心的囚笼"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=169.0"
 author: "小可"
-created_at: "九月 10, 2025, 11:15 上午"
-fetched_at: "2026-02-26 09:58:07 +0800"
+created_at_raw: "九月 10, 2025, 11:15 上午"
+created_at_iso: "2025-09-10T11:15:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:07 +0800"
+fetched_at_iso: "2026-02-26T09:58:07+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3004
+approx_tokens: 1502
 ---
 
 # 小可的角色 - 内心的囚笼

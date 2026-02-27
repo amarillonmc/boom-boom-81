@@ -4,8 +4,16 @@ title: "全装甲高达七号机的角色 - 卡欧斯机械初代奥特曼-贝�
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3347.0"
 author: "全装甲高达七号机"
-created_at: "二月 25, 2026, 04:51 上午"
-fetched_at: "2026-02-26 10:18:59 +0800"
+created_at_raw: "二月 25, 2026, 04:51 上午"
+created_at_iso: "2026-02-25T04:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:59 +0800"
+fetched_at_iso: "2026-02-26T10:18:59+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3067
+approx_tokens: 1534
 ---
 
 # 全装甲高达七号机的角色 - 卡欧斯机械初代奥特曼-贝塔型

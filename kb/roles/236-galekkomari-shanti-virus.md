@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 香缇病毒 (Shanti Virus)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=236.0"
 author: "galekkomari"
-created_at: "九月 13, 2025, 11:00 上午"
-fetched_at: "2026-02-26 09:58:40 +0800"
+created_at_raw: "九月 13, 2025, 11:00 上午"
+created_at_iso: "2025-09-13T11:00:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:40 +0800"
+fetched_at_iso: "2026-02-26T09:58:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5840
+approx_tokens: 2920
 ---
 
 # galekkomari的角色 - 香缇病毒 (Shanti Virus)

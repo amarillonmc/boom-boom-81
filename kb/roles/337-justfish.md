@@ -4,8 +4,16 @@ title: "Justfish的角色 - 路过的普通人类（不是成龙）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=337.0"
 author: "Justfish"
-created_at: "九月 15, 2025, 12:50 下午"
-fetched_at: "2026-02-26 09:59:39 +0800"
+created_at_raw: "九月 15, 2025, 12:50 下午"
+created_at_iso: "2025-09-15T12:50:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:39 +0800"
+fetched_at_iso: "2026-02-26T09:59:39+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 866
+approx_tokens: 433
 ---
 
 # Justfish的角色 - 路过的普通人类（不是成龙）

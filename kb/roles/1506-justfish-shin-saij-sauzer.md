@@ -4,8 +4,16 @@ title: "Justfish的角色 - 神最上 沙奥萨 (Shin-Saijō Sauzer)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1506.0"
 author: "Justfish"
-created_at: "十月 12, 2025, 04:11 上午"
-fetched_at: "2026-02-26 10:08:44 +0800"
+created_at_raw: "十月 12, 2025, 04:11 上午"
+created_at_iso: "2025-10-12T04:11:00+08:00"
+fetched_at_raw: "2026-02-26 10:08:44 +0800"
+fetched_at_iso: "2026-02-26T10:08:44+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3471
+approx_tokens: 1736
 ---
 
 # Justfish的角色 - 神最上 沙奥萨 (Shin-Saijō Sauzer)

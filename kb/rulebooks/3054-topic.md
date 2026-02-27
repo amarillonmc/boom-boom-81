@@ -4,8 +4,16 @@ title: "霓虹巴别塔·品牌独占战争"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=3054.0"
 author: "galekkomari"
-created_at: "十一月 25, 2025, 11:19 上午"
-fetched_at: "2026-02-26 10:21:00 +0800"
+created_at_raw: "十一月 25, 2025, 11:19 上午"
+created_at_iso: "2025-11-25T11:19:00+08:00"
+fetched_at_raw: "2026-02-26 10:21:00 +0800"
+fetched_at_iso: "2026-02-26T10:21:00+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6042
+approx_tokens: 3021
 ---
 
 # 霓虹巴别塔·品牌独占战争

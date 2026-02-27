@@ -4,8 +4,16 @@ title: "黑森谨的角色 - 灾厄之种"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3262.0"
 author: "黑森谨"
-created_at: "十二月 14, 2025, 11:27 上午"
-fetched_at: "2026-02-26 10:18:34 +0800"
+created_at_raw: "十二月 14, 2025, 11:27 上午"
+created_at_iso: "2025-12-14T11:27:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:34 +0800"
+fetched_at_iso: "2026-02-26T10:18:34+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3235
+approx_tokens: 1618
 ---
 
 # 黑森谨的角色 - 灾厄之种

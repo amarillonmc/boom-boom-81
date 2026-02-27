@@ -4,8 +4,16 @@ title: "临时规则-能力载具化"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=1177.0"
 author: "Ombre"
-created_at: "十月 02, 2025, 02:52 上午"
-fetched_at: "2026-02-26 10:19:42 +0800"
+created_at_raw: "十月 02, 2025, 02:52 上午"
+created_at_iso: "2025-10-02T02:52:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:42 +0800"
+fetched_at_iso: "2026-02-26T10:19:42+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3130
+approx_tokens: 1565
 ---
 
 # 临时规则-能力载具化

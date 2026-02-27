@@ -4,8 +4,16 @@ title: "小兵的角色 - 脩杜·月咒"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=872.0"
 author: "小兵"
-created_at: "九月 25, 2025, 09:40 上午"
-fetched_at: "2026-02-26 10:04:05 +0800"
+created_at_raw: "九月 25, 2025, 09:40 上午"
+created_at_iso: "2025-09-25T09:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:05 +0800"
+fetched_at_iso: "2026-02-26T10:04:05+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 800
+approx_tokens: 400
 ---
 
 # 小兵的角色 - 脩杜·月咒

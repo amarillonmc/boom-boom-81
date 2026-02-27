@@ -4,8 +4,16 @@ title: "增熵星的角色 - 超级机枪豌豆"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2608.0"
 author: "增熵星"
-created_at: "十一月 12, 2025, 04:39 上午"
-fetched_at: "2026-02-26 10:15:35 +0800"
+created_at_raw: "十一月 12, 2025, 04:39 上午"
+created_at_iso: "2025-11-12T04:39:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:35 +0800"
+fetched_at_iso: "2026-02-26T10:15:35+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2652
+approx_tokens: 1326
 ---
 
 # 增熵星的角色 - 超级机枪豌豆

@@ -4,8 +4,16 @@ title: "小可的角色 - 怪盗“残雪天”（英灵）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2818.0"
 author: "小可"
-created_at: "十一月 17, 2025, 01:10 下午"
-fetched_at: "2026-02-26 10:16:57 +0800"
+created_at_raw: "十一月 17, 2025, 01:10 下午"
+created_at_iso: "2025-11-17T13:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:57 +0800"
+fetched_at_iso: "2026-02-26T10:16:57+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2708
+approx_tokens: 1354
 ---
 
 # 小可的角色 - 怪盗“残雪天”（英灵）

@@ -4,8 +4,16 @@ title: "终末的角色 - 螟灵「甘美祭品」"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3321.0"
 author: "Ender_Eragon"
-created_at: "一月 23, 2026, 01:47 下午"
-fetched_at: "2026-02-26 10:18:46 +0800"
+created_at_raw: "一月 23, 2026, 01:47 下午"
+created_at_iso: "2026-01-23T13:47:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:46 +0800"
+fetched_at_iso: "2026-02-26T10:18:46+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6189
+approx_tokens: 3095
 ---
 
 # 终末的角色 - 螟灵「甘美祭品」

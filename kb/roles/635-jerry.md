@@ -4,8 +4,16 @@ title: "Jerry的角色 - 天空寺尊"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=635.0"
 author: "Jerry"
-created_at: "九月 21, 2025, 01:39 下午"
-fetched_at: "2026-02-26 10:02:19 +0800"
+created_at_raw: "九月 21, 2025, 01:39 下午"
+created_at_iso: "2025-09-21T13:39:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:19 +0800"
+fetched_at_iso: "2026-02-26T10:02:19+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6990
+approx_tokens: 3495
 ---
 
 # Jerry的角色 - 天空寺尊

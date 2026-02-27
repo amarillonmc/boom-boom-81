@@ -4,8 +4,16 @@ title: "OPPO的角色 - 焰魔"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=539.0"
 author: "OPPO"
-created_at: "九月 19, 2025, 10:47 下午"
-fetched_at: "2026-02-26 10:01:32 +0800"
+created_at_raw: "九月 19, 2025, 10:47 下午"
+created_at_iso: "2025-09-19T22:47:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:32 +0800"
+fetched_at_iso: "2026-02-26T10:01:32+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3266
+approx_tokens: 1633
 ---
 
 # OPPO的角色 - 焰魔

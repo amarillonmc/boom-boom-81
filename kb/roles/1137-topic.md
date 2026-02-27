@@ -4,8 +4,16 @@ title: "小兵的角色 - 科克斯蒂亚·月咒"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1137.0"
 author: "小兵"
-created_at: "十月 01, 2025, 05:48 上午"
-fetched_at: "2026-02-26 10:05:54 +0800"
+created_at_raw: "十月 01, 2025, 05:48 上午"
+created_at_iso: "2025-10-01T05:48:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:54 +0800"
+fetched_at_iso: "2026-02-26T10:05:54+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1222
+approx_tokens: 611
 ---
 
 # 小兵的角色 - 科克斯蒂亚·月咒

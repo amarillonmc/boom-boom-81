@@ -4,8 +4,16 @@ title: "OPPO的角色 - 【LCB】良秀"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3319.0"
 author: "OPPO"
-created_at: "一月 16, 2026, 06:51 下午"
-fetched_at: "2026-02-26 10:18:45 +0800"
+created_at_raw: "一月 16, 2026, 06:51 下午"
+created_at_iso: "2026-01-16T18:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:45 +0800"
+fetched_at_iso: "2026-02-26T10:18:45+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3367
+approx_tokens: 1684
 ---
 
 # OPPO的角色 - 【LCB】良秀

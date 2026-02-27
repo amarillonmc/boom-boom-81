@@ -4,8 +4,16 @@ title: "Ombre的角色 - 楚子航"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=814.0"
 author: "Ombre"
-created_at: "九月 24, 2025, 11:04 上午"
-fetched_at: "2026-02-26 10:03:42 +0800"
+created_at_raw: "九月 24, 2025, 11:04 上午"
+created_at_iso: "2025-09-24T11:04:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:42 +0800"
+fetched_at_iso: "2026-02-26T10:03:42+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10857
+approx_tokens: 5429
 ---
 
 # Ombre的角色 - 楚子航

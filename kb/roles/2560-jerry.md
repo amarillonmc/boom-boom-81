@@ -4,8 +4,16 @@ title: "Jerry的角色 - 燃灯道人"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2560.0"
 author: "Jerry"
-created_at: "十一月 10, 2025, 09:44 上午"
-fetched_at: "2026-02-26 10:15:22 +0800"
+created_at_raw: "十一月 10, 2025, 09:44 上午"
+created_at_iso: "2025-11-10T09:44:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:22 +0800"
+fetched_at_iso: "2026-02-26T10:15:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4116
+approx_tokens: 2058
 ---
 
 # Jerry的角色 - 燃灯道人

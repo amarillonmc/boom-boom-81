@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 新史演绎者·高导"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2974.0"
 author: "galekkomari"
-created_at: "十一月 21, 2025, 10:09 下午"
-fetched_at: "2026-02-26 10:17:26 +0800"
+created_at_raw: "十一月 21, 2025, 10:09 下午"
+created_at_iso: "2025-11-21T22:09:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:26 +0800"
+fetched_at_iso: "2026-02-26T10:17:26+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7004
+approx_tokens: 3502
 ---
 
 # galekkomari的角色 - 新史演绎者·高导

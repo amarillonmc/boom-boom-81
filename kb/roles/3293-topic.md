@@ -4,8 +4,16 @@ title: "格拉摩根的角色 - 莉娅斯·乌洛玻尔恩"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3293.0"
 author: "格拉摩根"
-created_at: "十二月 31, 2025, 03:07 上午"
-fetched_at: "2026-02-26 10:18:40 +0800"
+created_at_raw: "十二月 31, 2025, 03:07 上午"
+created_at_iso: "2025-12-31T03:07:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:40 +0800"
+fetched_at_iso: "2026-02-26T10:18:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3202
+approx_tokens: 1601
 ---
 
 # 格拉摩根的角色 - 莉娅斯·乌洛玻尔恩

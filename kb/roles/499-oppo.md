@@ -4,8 +4,16 @@ title: "OPPO的角色 - 至高天•病毒魔人•扎克"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=499.0"
 author: "OPPO"
-created_at: "九月 19, 2025, 07:29 上午"
-fetched_at: "2026-02-26 10:01:06 +0800"
+created_at_raw: "九月 19, 2025, 07:29 上午"
+created_at_iso: "2025-09-19T07:29:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:06 +0800"
+fetched_at_iso: "2026-02-26T10:01:06+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1279
+approx_tokens: 640
 ---
 
 # OPPO的角色 - 至高天•病毒魔人•扎克

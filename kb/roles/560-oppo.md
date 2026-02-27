@@ -4,8 +4,16 @@ title: "OPPO的角色 - 圣灵使者•雷克顿"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=560.0"
 author: "OPPO"
-created_at: "九月 20, 2025, 05:56 上午"
-fetched_at: "2026-02-26 10:01:40 +0800"
+created_at_raw: "九月 20, 2025, 05:56 上午"
+created_at_iso: "2025-09-20T05:56:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:40 +0800"
+fetched_at_iso: "2026-02-26T10:01:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1680
+approx_tokens: 840
 ---
 
 # OPPO的角色 - 圣灵使者•雷克顿

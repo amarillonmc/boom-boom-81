@@ -4,8 +4,16 @@ title: "塔的角色 - 万能之神"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=235.0"
 author: "塔."
-created_at: "九月 13, 2025, 10:58 上午"
-fetched_at: "2026-02-26 09:58:39 +0800"
+created_at_raw: "九月 13, 2025, 10:58 上午"
+created_at_iso: "2025-09-13T10:58:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:39 +0800"
+fetched_at_iso: "2026-02-26T09:58:39+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4689
+approx_tokens: 2345
 ---
 
 # 塔的角色 - 万能之神

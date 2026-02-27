@@ -4,8 +4,16 @@ title: "小兵的角色 - 德古拉·弗拉德·特佩斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1459.0"
 author: "小兵"
-created_at: "十月 10, 2025, 08:42 下午"
-fetched_at: "2026-02-26 10:08:21 +0800"
+created_at_raw: "十月 10, 2025, 08:42 下午"
+created_at_iso: "2025-10-10T20:42:00+08:00"
+fetched_at_raw: "2026-02-26 10:08:21 +0800"
+fetched_at_iso: "2026-02-26T10:08:21+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1962
+approx_tokens: 981
 ---
 
 # 小兵的角色 - 德古拉·弗拉德·特佩斯

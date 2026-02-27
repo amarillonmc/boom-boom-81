@@ -4,8 +4,16 @@ title: "Ombre的角色 - 无名魔王"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1654.0"
 author: "Ombre"
-created_at: "十月 16, 2025, 10:57 下午"
-fetched_at: "2026-02-26 10:09:47 +0800"
+created_at_raw: "十月 16, 2025, 10:57 下午"
+created_at_iso: "2025-10-16T22:57:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:47 +0800"
+fetched_at_iso: "2026-02-26T10:09:47+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4970
+approx_tokens: 2485
 ---
 
 # Ombre的角色 - 无名魔王

@@ -4,8 +4,16 @@ title: "普通人的无聊生活的角色 - 芙兰朵露·斯卡雷特（魔法�
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2744.0"
 author: "普通人的无聊生活"
-created_at: "十一月 16, 2025, 06:58 上午"
-fetched_at: "2026-02-26 10:16:41 +0800"
+created_at_raw: "十一月 16, 2025, 06:58 上午"
+created_at_iso: "2025-11-16T06:58:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:41 +0800"
+fetched_at_iso: "2026-02-26T10:16:41+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4911
+approx_tokens: 2456
 ---
 
 # 普通人的无聊生活的角色 - 芙兰朵露·斯卡雷特（魔法少女）

@@ -4,8 +4,16 @@ title: "小兵的角色 - 京乐春水"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2240.0"
 author: "小兵"
-created_at: "十一月 01, 2025, 10:09 下午"
-fetched_at: "2026-02-26 10:13:41 +0800"
+created_at_raw: "十一月 01, 2025, 10:09 下午"
+created_at_iso: "2025-11-01T22:09:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:41 +0800"
+fetched_at_iso: "2026-02-26T10:13:41+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3423
+approx_tokens: 1712
 ---
 
 # 小兵的角色 - 京乐春水

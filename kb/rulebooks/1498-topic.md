@@ -4,8 +4,16 @@ title: "超次元厨神大乱斗（代传）"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=1498.0"
 author: "Ombre"
-created_at: "十月 12, 2025, 12:45 上午"
-fetched_at: "2026-02-26 10:19:54 +0800"
+created_at_raw: "十月 12, 2025, 12:45 上午"
+created_at_iso: "2025-10-12T00:45:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:54 +0800"
+fetched_at_iso: "2026-02-26T10:19:54+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 15358
+approx_tokens: 7679
 ---
 
 # 超次元厨神大乱斗（代传）

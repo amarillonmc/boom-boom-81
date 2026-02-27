@@ -4,8 +4,16 @@ title: "Jerry的角色 - 汤姆"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1472.0"
 author: "Jerry"
-created_at: "十月 11, 2025, 04:54 上午"
-fetched_at: "2026-02-26 10:08:25 +0800"
+created_at_raw: "十月 11, 2025, 04:54 上午"
+created_at_iso: "2025-10-11T04:54:00+08:00"
+fetched_at_raw: "2026-02-26 10:08:25 +0800"
+fetched_at_iso: "2026-02-26T10:08:25+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2980
+approx_tokens: 1490
 ---
 
 # Jerry的角色 - 汤姆

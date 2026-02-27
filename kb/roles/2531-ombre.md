@@ -4,8 +4,16 @@ title: "Ombre的角色 - 泷夜叉姬"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2531.0"
 author: "Ombre"
-created_at: "十一月 09, 2025, 07:35 上午"
-fetched_at: "2026-02-26 10:15:12 +0800"
+created_at_raw: "十一月 09, 2025, 07:35 上午"
+created_at_iso: "2025-11-09T07:35:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:12 +0800"
+fetched_at_iso: "2026-02-26T10:15:12+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7570
+approx_tokens: 3785
 ---
 
 # Ombre的角色 - 泷夜叉姬

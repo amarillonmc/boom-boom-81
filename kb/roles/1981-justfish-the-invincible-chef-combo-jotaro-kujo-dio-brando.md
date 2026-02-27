@@ -4,8 +4,16 @@ title: "Justfish的角色 - 無敵の料理人コンビ - 空条承太郎＆デ�
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1981.0"
 author: "Justfish"
-created_at: "十月 26, 2025, 01:10 下午"
-fetched_at: "2026-02-26 10:12:01 +0800"
+created_at_raw: "十月 26, 2025, 01:10 下午"
+created_at_iso: "2025-10-26T13:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:01 +0800"
+fetched_at_iso: "2026-02-26T10:12:01+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4003
+approx_tokens: 2002
 ---
 
 # Justfish的角色 - 無敵の料理人コンビ - 空条承太郎＆ディオ・ブランドー (The Invincible Chef Combo - Jotaro Kujo & DIO Brando)

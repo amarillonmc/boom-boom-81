@@ -4,8 +4,16 @@ title: "乐乐的角色 - 爱神•丘比特（万象导演）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=574.0"
 author: "乐乐"
-created_at: "九月 20, 2025, 10:18 上午"
-fetched_at: "2026-02-26 10:01:49 +0800"
+created_at_raw: "九月 20, 2025, 10:18 上午"
+created_at_iso: "2025-09-20T10:18:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:49 +0800"
+fetched_at_iso: "2026-02-26T10:01:49+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 16205
+approx_tokens: 8103
 ---
 
 # 乐乐的角色 - 爱神•丘比特（万象导演）

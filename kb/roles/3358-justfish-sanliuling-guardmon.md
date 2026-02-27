@@ -4,8 +4,16 @@ title: "Justfish的角色 - 三六零卫士兽（Sanliuling-Guardmon）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3358.0"
 author: "Justfish"
-created_at: "二月 25, 2026, 12:02 下午"
-fetched_at: "2026-02-26 10:19:03 +0800"
+created_at_raw: "二月 25, 2026, 12:02 下午"
+created_at_iso: "2026-02-25T12:02:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:03 +0800"
+fetched_at_iso: "2026-02-26T10:19:03+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5796
+approx_tokens: 2898
 ---
 
 # Justfish的角色 - 三六零卫士兽（Sanliuling-Guardmon）

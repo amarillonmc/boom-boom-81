@@ -4,8 +4,16 @@ title: "Justfish的角色 - 上千主上"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=636.0"
 author: "Justfish"
-created_at: "九月 21, 2025, 01:54 下午"
-fetched_at: "2026-02-26 10:02:20 +0800"
+created_at_raw: "九月 21, 2025, 01:54 下午"
+created_at_iso: "2025-09-21T13:54:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:20 +0800"
+fetched_at_iso: "2026-02-26T10:02:20+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3769
+approx_tokens: 1885
 ---
 
 # Justfish的角色 - 上千主上

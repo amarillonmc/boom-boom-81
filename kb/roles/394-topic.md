@@ -4,8 +4,16 @@ title: "小兵的角色 - 阿鼻"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=394.0"
 author: "小兵"
-created_at: "九月 17, 2025, 07:13 上午"
-fetched_at: "2026-02-26 10:00:13 +0800"
+created_at_raw: "九月 17, 2025, 07:13 上午"
+created_at_iso: "2025-09-17T07:13:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:13 +0800"
+fetched_at_iso: "2026-02-26T10:00:13+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1183
+approx_tokens: 592
 ---
 
 # 小兵的角色 - 阿鼻

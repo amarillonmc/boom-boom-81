@@ -4,8 +4,16 @@ title: "塔的角色 - 简洁而高效的裁判官"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1648.0"
 author: "塔."
-created_at: "十月 16, 2025, 12:31 下午"
-fetched_at: "2026-02-26 10:09:44 +0800"
+created_at_raw: "十月 16, 2025, 12:31 下午"
+created_at_iso: "2025-10-16T12:31:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:44 +0800"
+fetched_at_iso: "2026-02-26T10:09:44+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 676
+approx_tokens: 338
 ---
 
 # 塔的角色 - 简洁而高效的裁判官

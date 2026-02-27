@@ -4,8 +4,16 @@ title: "能恶心到伪希掀桌子的约战"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2600.0"
 author: "全装甲高达七号机"
-created_at: "十一月 12, 2025, 01:29 上午"
-fetched_at: "2026-02-26 10:26:26 +0800"
+created_at_raw: "十一月 12, 2025, 01:29 上午"
+created_at_iso: "2025-11-12T01:29:00+08:00"
+fetched_at_raw: "2026-02-26 10:26:26 +0800"
+fetched_at_iso: "2026-02-26T10:26:26+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 153607
+approx_tokens: 76804
 ---
 
 # 能恶心到伪希掀桌子的约战

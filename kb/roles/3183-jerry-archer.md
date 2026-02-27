@@ -4,8 +4,16 @@ title: "Jerry的角色 - 一个路过的Archer"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3183.0"
 author: "Jerry"
-created_at: "十二月 05, 2025, 12:40 上午"
-fetched_at: "2026-02-26 10:18:22 +0800"
+created_at_raw: "十二月 05, 2025, 12:40 上午"
+created_at_iso: "2025-12-05T00:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:22 +0800"
+fetched_at_iso: "2026-02-26T10:18:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4563
+approx_tokens: 2282
 ---
 
 # Jerry的角色 - 一个路过的Archer

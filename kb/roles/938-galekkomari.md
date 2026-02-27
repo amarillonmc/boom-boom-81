@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 界·薮猫"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=938.0"
 author: "galekkomari"
-created_at: "九月 26, 2025, 08:49 下午"
-fetched_at: "2026-02-26 10:04:40 +0800"
+created_at_raw: "九月 26, 2025, 08:49 下午"
+created_at_iso: "2025-09-26T20:49:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:40 +0800"
+fetched_at_iso: "2026-02-26T10:04:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5906
+approx_tokens: 2953
 ---
 
 # galekkomari的角色 - 界·薮猫

@@ -4,8 +4,16 @@ title: "小兵的角色 - 乌鲁鲁"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2243.0"
 author: "小兵"
-created_at: "十一月 01, 2025, 11:10 下午"
-fetched_at: "2026-02-26 10:13:42 +0800"
+created_at_raw: "十一月 01, 2025, 11:10 下午"
+created_at_iso: "2025-11-01T23:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:42 +0800"
+fetched_at_iso: "2026-02-26T10:13:42+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 768
+approx_tokens: 384
 ---
 
 # 小兵的角色 - 乌鲁鲁

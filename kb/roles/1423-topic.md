@@ -4,8 +4,16 @@ title: "黑森谨的角色 - 东际（旅人）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1423.0"
 author: "黑森谨"
-created_at: "十月 09, 2025, 01:49 下午"
-fetched_at: "2026-02-26 10:08:06 +0800"
+created_at_raw: "十月 09, 2025, 01:49 下午"
+created_at_iso: "2025-10-09T13:49:00+08:00"
+fetched_at_raw: "2026-02-26 10:08:06 +0800"
+fetched_at_iso: "2026-02-26T10:08:06+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 13036
+approx_tokens: 6518
 ---
 
 # 黑森谨的角色 - 东际（旅人）

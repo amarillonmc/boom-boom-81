@@ -4,8 +4,16 @@ title: "galekkomari的角色 - Navigator"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1010.0"
 author: "galekkomari"
-created_at: "九月 28, 2025, 08:49 上午"
-fetched_at: "2026-02-26 10:05:13 +0800"
+created_at_raw: "九月 28, 2025, 08:49 上午"
+created_at_iso: "2025-09-28T08:49:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:13 +0800"
+fetched_at_iso: "2026-02-26T10:05:13+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2298
+approx_tokens: 1149
 ---
 
 # galekkomari的角色 - Navigator

@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 赵小月（参赛者版）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=191.0"
 author: "galekkomari"
-created_at: "九月 11, 2025, 02:14 下午"
-fetched_at: "2026-02-26 09:58:16 +0800"
+created_at_raw: "九月 11, 2025, 02:14 下午"
+created_at_iso: "2025-09-11T14:14:00+08:00"
+fetched_at_raw: "2026-02-26 09:58:16 +0800"
+fetched_at_iso: "2026-02-26T09:58:16+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1000
+approx_tokens: 500
 ---
 
 # galekkomari的角色 - 赵小月（参赛者版）

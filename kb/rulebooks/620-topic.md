@@ -4,8 +4,16 @@ title: "大乱斗规则（新）"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=620.0"
 author: "增熵星"
-created_at: "九月 21, 2025, 09:34 上午"
-fetched_at: "2026-02-26 10:19:17 +0800"
+created_at_raw: "九月 21, 2025, 09:34 上午"
+created_at_iso: "2025-09-21T09:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:17 +0800"
+fetched_at_iso: "2026-02-26T10:19:17+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5897
+approx_tokens: 2949
 ---
 
 # 大乱斗规则（新）

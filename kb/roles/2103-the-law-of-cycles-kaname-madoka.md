@@ -4,8 +4,16 @@ title: "小可的角色 - 圆环之理 (The Law of Cycles) / 鹿目圆 (Kaname M
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2103.0"
 author: "小可"
-created_at: "十月 29, 2025, 02:19 下午"
-fetched_at: "2026-02-26 10:12:53 +0800"
+created_at_raw: "十月 29, 2025, 02:19 下午"
+created_at_iso: "2025-10-29T14:19:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:53 +0800"
+fetched_at_iso: "2026-02-26T10:12:53+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4397
+approx_tokens: 2199
 ---
 
 # 小可的角色 - 圆环之理 (The Law of Cycles) / 鹿目圆 (Kaname Madoka)

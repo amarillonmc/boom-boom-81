@@ -4,8 +4,16 @@ title: "Justfish的角色 - 谁 (Who)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1596.0"
 author: "Justfish"
-created_at: "十月 15, 2025, 02:27 上午"
-fetched_at: "2026-02-26 10:09:19 +0800"
+created_at_raw: "十月 15, 2025, 02:27 上午"
+created_at_iso: "2025-10-15T02:27:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:19 +0800"
+fetched_at_iso: "2026-02-26T10:09:19+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9894
+approx_tokens: 4947
 ---
 
 # Justfish的角色 - 谁 (Who)

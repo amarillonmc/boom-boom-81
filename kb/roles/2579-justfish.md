@@ -4,8 +4,16 @@ title: "Justfish的角色 - 尤格萨隆"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2579.0"
 author: "Justfish"
-created_at: "十一月 11, 2025, 08:23 上午"
-fetched_at: "2026-02-26 10:15:29 +0800"
+created_at_raw: "十一月 11, 2025, 08:23 上午"
+created_at_iso: "2025-11-11T08:23:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:29 +0800"
+fetched_at_iso: "2026-02-26T10:15:29+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4825
+approx_tokens: 2413
 ---
 
 # Justfish的角色 - 尤格萨隆

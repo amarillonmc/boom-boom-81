@@ -4,8 +4,16 @@ title: "普通人的无聊生活的角色 - 慕容求道"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1046.0"
 author: "普通人的无聊生活"
-created_at: "九月 29, 2025, 02:04 上午"
-fetched_at: "2026-02-26 10:05:24 +0800"
+created_at_raw: "九月 29, 2025, 02:04 上午"
+created_at_iso: "2025-09-29T02:04:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:24 +0800"
+fetched_at_iso: "2026-02-26T10:05:24+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 8594
+approx_tokens: 4297
 ---
 
 # 普通人的无聊生活的角色 - 慕容求道

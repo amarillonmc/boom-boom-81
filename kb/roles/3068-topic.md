@@ -4,8 +4,16 @@ title: "小可的角色 - 星野梦"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3068.0"
 author: "小可"
-created_at: "十一月 26, 2025, 07:17 上午"
-fetched_at: "2026-02-26 10:17:47 +0800"
+created_at_raw: "十一月 26, 2025, 07:17 上午"
+created_at_iso: "2025-11-26T07:17:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:47 +0800"
+fetched_at_iso: "2026-02-26T10:17:47+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7104
+approx_tokens: 3552
 ---
 
 # 小可的角色 - 星野梦

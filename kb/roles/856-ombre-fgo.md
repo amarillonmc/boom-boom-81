@@ -4,8 +4,16 @@ title: "Ombre的角色 - 源赖光 (Fgo)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=856.0"
 author: "Ombre"
-created_at: "九月 25, 2025, 03:32 上午"
-fetched_at: "2026-02-26 10:04:00 +0800"
+created_at_raw: "九月 25, 2025, 03:32 上午"
+created_at_iso: "2025-09-25T03:32:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:00 +0800"
+fetched_at_iso: "2026-02-26T10:04:00+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7180
+approx_tokens: 3590
 ---
 
 # Ombre的角色 - 源赖光 (Fgo)

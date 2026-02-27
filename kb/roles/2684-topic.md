@@ -4,8 +4,16 @@ title: "螟灵安德拉（从者"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2684.0"
 author: "Ender_Eragon"
-created_at: "十一月 14, 2025, 10:01 下午"
-fetched_at: "2026-02-26 10:16:07 +0800"
+created_at_raw: "十一月 14, 2025, 10:01 下午"
+created_at_iso: "2025-11-14T22:01:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:07 +0800"
+fetched_at_iso: "2026-02-26T10:16:07+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3630
+approx_tokens: 1815
 ---
 
 # 螟灵安德拉（从者

@@ -4,8 +4,16 @@ title: "小兵的角色 - 最后的旅人 “士兵”"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1561.0"
 author: "小兵"
-created_at: "十月 14, 2025, 02:59 上午"
-fetched_at: "2026-02-26 10:09:06 +0800"
+created_at_raw: "十月 14, 2025, 02:59 上午"
+created_at_iso: "2025-10-14T02:59:00+08:00"
+fetched_at_raw: "2026-02-26 10:09:06 +0800"
+fetched_at_iso: "2026-02-26T10:09:06+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1624
+approx_tokens: 812
 ---
 
 # 小兵的角色 - 最后的旅人 “士兵”

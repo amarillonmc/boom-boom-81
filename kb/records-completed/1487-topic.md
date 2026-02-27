@@ -4,8 +4,16 @@ title: "公测线程（转内测）-剧本协议-《白色永恒监牢》-扩大
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=1487.0"
 author: "zweizergain"
-created_at: "十月 11, 2025, 10:39 上午"
-fetched_at: "2026-02-26 10:22:53 +0800"
+created_at_raw: "十月 11, 2025, 10:39 上午"
+created_at_iso: "2025-10-11T10:39:00+08:00"
+fetched_at_raw: "2026-02-26 10:22:53 +0800"
+fetched_at_iso: "2026-02-26T10:22:53+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 94729
+approx_tokens: 47365
 ---
 
 # 公测线程（转内测）-剧本协议-《白色永恒监牢》-扩大测试-复杂导演指令

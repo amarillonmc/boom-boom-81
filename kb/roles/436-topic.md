@@ -4,8 +4,16 @@ title: "黑莲的角色 - 诸葛亮"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=436.0"
 author: "Huager"
-created_at: "九月 18, 2025, 06:59 上午"
-fetched_at: "2026-02-26 10:00:38 +0800"
+created_at_raw: "九月 18, 2025, 06:59 上午"
+created_at_iso: "2025-09-18T06:59:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:38 +0800"
+fetched_at_iso: "2026-02-26T10:00:38+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1253
+approx_tokens: 627
 ---
 
 # 黑莲的角色 - 诸葛亮

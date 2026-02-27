@@ -4,8 +4,16 @@ title: "小可的角色 - “无言的勇者王”伊莱亚斯"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2349.0"
 author: "小可"
-created_at: "十一月 05, 2025, 11:43 上午"
-fetched_at: "2026-02-26 10:14:20 +0800"
+created_at_raw: "十一月 05, 2025, 11:43 上午"
+created_at_iso: "2025-11-05T11:43:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:20 +0800"
+fetched_at_iso: "2026-02-26T10:14:20+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5742
+approx_tokens: 2871
 ---
 
 # 小可的角色 - “无言的勇者王”伊莱亚斯

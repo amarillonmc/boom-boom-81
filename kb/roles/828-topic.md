@@ -4,8 +4,16 @@ title: "烛火的角色 - 米斯塔尔西亚的双姬"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=828.0"
 author: "烛火"
-created_at: "九月 24, 2025, 01:42 下午"
-fetched_at: "2026-02-26 10:03:48 +0800"
+created_at_raw: "九月 24, 2025, 01:42 下午"
+created_at_iso: "2025-09-24T13:42:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:48 +0800"
+fetched_at_iso: "2026-02-26T10:03:48+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9908
+approx_tokens: 4954
 ---
 
 # 烛火的角色 - 米斯塔尔西亚的双姬

@@ -4,8 +4,16 @@ title: "终末的角色 - 没有魔法技能的“魔法少女”银色闪光"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3343.0"
 author: "Ender_Eragon"
-created_at: "二月 24, 2026, 02:00 上午"
-fetched_at: "2026-02-26 10:18:57 +0800"
+created_at_raw: "二月 24, 2026, 02:00 上午"
+created_at_iso: "2026-02-24T02:00:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:57 +0800"
+fetched_at_iso: "2026-02-26T10:18:57+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2338
+approx_tokens: 1169
 ---
 
 # 终末的角色 - 没有魔法技能的“魔法少女”银色闪光

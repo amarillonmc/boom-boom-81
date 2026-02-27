@@ -4,8 +4,16 @@ title: "塔的角色 - 锡琳"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1017.0"
 author: "塔."
-created_at: "九月 28, 2025, 10:34 上午"
-fetched_at: "2026-02-26 10:05:16 +0800"
+created_at_raw: "九月 28, 2025, 10:34 上午"
+created_at_iso: "2025-09-28T10:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:16 +0800"
+fetched_at_iso: "2026-02-26T10:05:16+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10795
+approx_tokens: 5398
 ---
 
 # 塔的角色 - 锡琳

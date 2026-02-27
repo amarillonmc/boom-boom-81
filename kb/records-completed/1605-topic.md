@@ -4,8 +4,16 @@ title: "天下第一武道会第二期"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=1605.0"
 author: "Jerry"
-created_at: "十月 15, 2025, 06:25 上午"
-fetched_at: "2026-02-26 10:23:21 +0800"
+created_at_raw: "十月 15, 2025, 06:25 上午"
+created_at_iso: "2025-10-15T06:25:00+08:00"
+fetched_at_raw: "2026-02-26 10:23:21 +0800"
+fetched_at_iso: "2026-02-26T10:23:21+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 197088
+approx_tokens: 98544
 ---
 
 # 天下第一武道会第二期

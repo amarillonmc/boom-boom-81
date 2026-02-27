@@ -4,8 +4,16 @@ title: "Justfish的角色 - 戏言玩家 - 「我」 (The Zaregoto Player - \"Bo
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2193.0"
 author: "Justfish"
-created_at: "十月 31, 2025, 12:28 下午"
-fetched_at: "2026-02-26 10:13:21 +0800"
+created_at_raw: "十月 31, 2025, 12:28 下午"
+created_at_iso: "2025-10-31T12:28:00+08:00"
+fetched_at_raw: "2026-02-26 10:13:21 +0800"
+fetched_at_iso: "2026-02-26T10:13:21+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6521
+approx_tokens: 3261
 ---
 
 # Justfish的角色 - 戏言玩家 - 「我」 (The Zaregoto Player - "Boku")

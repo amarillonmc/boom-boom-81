@@ -4,8 +4,16 @@ title: "Ombre的角色 - 魔想 志津香"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2641.0"
 author: "Ombre"
-created_at: "十一月 13, 2025, 06:40 上午"
-fetched_at: "2026-02-26 10:15:53 +0800"
+created_at_raw: "十一月 13, 2025, 06:40 上午"
+created_at_iso: "2025-11-13T06:40:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:53 +0800"
+fetched_at_iso: "2026-02-26T10:15:53+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 8940
+approx_tokens: 4470
 ---
 
 # Ombre的角色 - 魔想 志津香

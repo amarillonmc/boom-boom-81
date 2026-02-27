@@ -4,8 +4,16 @@ title: "烛火的角色 - 卫宫绮罗"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3131.0"
 author: "烛火"
-created_at: "十一月 30, 2025, 02:43 下午"
-fetched_at: "2026-02-26 10:18:13 +0800"
+created_at_raw: "十一月 30, 2025, 02:43 下午"
+created_at_iso: "2025-11-30T14:43:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:13 +0800"
+fetched_at_iso: "2026-02-26T10:18:13+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 18321
+approx_tokens: 9161
 ---
 
 # 烛火的角色 - 卫宫绮罗

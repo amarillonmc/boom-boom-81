@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 天命之傻狍 - Kiko"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2001.0"
 author: "galekkomari"
-created_at: "十月 27, 2025, 09:48 上午"
-fetched_at: "2026-02-26 10:12:12 +0800"
+created_at_raw: "十月 27, 2025, 09:48 上午"
+created_at_iso: "2025-10-27T09:48:00+08:00"
+fetched_at_raw: "2026-02-26 10:12:12 +0800"
+fetched_at_iso: "2026-02-26T10:12:12+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 6807
+approx_tokens: 3404
 ---
 
 # galekkomari的角色 - 天命之傻狍 - Kiko

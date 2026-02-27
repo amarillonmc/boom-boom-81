@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 二木 佳奈多 (Futaki Kanata)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=350.0"
 author: "galekkomari"
-created_at: "九月 15, 2025, 11:19 下午"
-fetched_at: "2026-02-26 09:59:48 +0800"
+created_at_raw: "九月 15, 2025, 11:19 下午"
+created_at_iso: "2025-09-15T23:19:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:48 +0800"
+fetched_at_iso: "2026-02-26T09:59:48+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1383
+approx_tokens: 692
 ---
 
 # galekkomari的角色 - 二木 佳奈多 (Futaki Kanata)

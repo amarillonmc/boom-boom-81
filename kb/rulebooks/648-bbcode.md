@@ -4,8 +4,16 @@ title: "追加规则:bbcode风格的输出"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=648.0"
 author: "增熵星"
-created_at: "九月 22, 2025, 03:50 上午"
-fetched_at: "2026-02-26 10:19:18 +0800"
+created_at_raw: "九月 22, 2025, 03:50 上午"
+created_at_iso: "2025-09-22T03:50:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:18 +0800"
+fetched_at_iso: "2026-02-26T10:19:18+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4308
+approx_tokens: 2154
 ---
 
 # 追加规则:bbcode风格的输出

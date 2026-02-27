@@ -4,8 +4,16 @@ title: "终末的角色 - 万魔殿情景"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1495.0"
 author: "Ender_Eragon"
-created_at: "十月 11, 2025, 01:42 下午"
-fetched_at: "2026-02-26 10:08:40 +0800"
+created_at_raw: "十月 11, 2025, 01:42 下午"
+created_at_iso: "2025-10-11T13:42:00+08:00"
+fetched_at_raw: "2026-02-26 10:08:40 +0800"
+fetched_at_iso: "2026-02-26T10:08:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1359
+approx_tokens: 680
 ---
 
 # 终末的角色 - 万魔殿情景

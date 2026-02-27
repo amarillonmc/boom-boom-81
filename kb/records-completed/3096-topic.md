@@ -4,8 +4,16 @@ title: "我的世界第一期提问"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=3096.0"
 author: "OPPO"
-created_at: "十一月 28, 2025, 09:54 上午"
-fetched_at: "2026-02-26 10:27:46 +0800"
+created_at_raw: "十一月 28, 2025, 09:54 上午"
+created_at_iso: "2025-11-28T09:54:00+08:00"
+fetched_at_raw: "2026-02-26 10:27:46 +0800"
+fetched_at_iso: "2026-02-26T10:27:46+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7240
+approx_tokens: 3620
 ---
 
 # 我的世界第一期提问

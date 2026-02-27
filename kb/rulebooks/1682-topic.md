@@ -4,8 +4,16 @@ title: "适用于将大乱斗角色卡进行故事性修正的协议"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=1682.0"
 author: "tt"
-created_at: "十月 17, 2025, 12:07 下午"
-fetched_at: "2026-02-26 10:20:00 +0800"
+created_at_raw: "十月 17, 2025, 12:07 下午"
+created_at_iso: "2025-10-17T12:07:00+08:00"
+fetched_at_raw: "2026-02-26 10:20:00 +0800"
+fetched_at_iso: "2026-02-26T10:20:00+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1306
+approx_tokens: 653
 ---
 
 # 适用于将大乱斗角色卡进行故事性修正的协议

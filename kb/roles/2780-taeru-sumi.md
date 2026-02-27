@@ -4,8 +4,16 @@ title: "塔.的角色 - たえる澄(Taeru Sumi)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2780.0"
 author: "塔."
-created_at: "十一月 17, 2025, 08:18 上午"
-fetched_at: "2026-02-26 10:16:51 +0800"
+created_at_raw: "十一月 17, 2025, 08:18 上午"
+created_at_iso: "2025-11-17T08:18:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:51 +0800"
+fetched_at_iso: "2026-02-26T10:16:51+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7946
+approx_tokens: 3973
 ---
 
 # 塔.的角色 - たえる澄(Taeru Sumi)

@@ -4,8 +4,16 @@ title: "全装甲高达七号机的角色 - 《Black Souls》格林"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3292.0"
 author: "全装甲高达七号机"
-created_at: "十二月 30, 2025, 10:15 下午"
-fetched_at: "2026-02-26 10:18:39 +0800"
+created_at_raw: "十二月 30, 2025, 10:15 下午"
+created_at_iso: "2025-12-30T22:15:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:39 +0800"
+fetched_at_iso: "2026-02-26T10:18:39+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4788
+approx_tokens: 2394
 ---
 
 # 全装甲高达七号机的角色 - 《Black Souls》格林

@@ -4,8 +4,16 @@ title: "Jerry的角色 - 达斯·维达"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=334.0"
 author: "Jerry"
-created_at: "九月 15, 2025, 11:58 上午"
-fetched_at: "2026-02-26 09:59:37 +0800"
+created_at_raw: "九月 15, 2025, 11:58 上午"
+created_at_iso: "2025-09-15T11:58:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:37 +0800"
+fetched_at_iso: "2026-02-26T09:59:37+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3441
+approx_tokens: 1721
 ---
 
 # Jerry的角色 - 达斯·维达

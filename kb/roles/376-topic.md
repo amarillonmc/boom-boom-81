@@ -4,8 +4,16 @@ title: "小兵的角色 - “正义”市长 贾斯汀"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=376.0"
 author: "小兵"
-created_at: "九月 16, 2025, 07:51 下午"
-fetched_at: "2026-02-26 10:00:02 +0800"
+created_at_raw: "九月 16, 2025, 07:51 下午"
+created_at_iso: "2025-09-16T19:51:00+08:00"
+fetched_at_raw: "2026-02-26 10:00:02 +0800"
+fetched_at_iso: "2026-02-26T10:00:02+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1465
+approx_tokens: 733
 ---
 
 # 小兵的角色 - “正义”市长 贾斯汀

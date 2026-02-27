@@ -4,8 +4,16 @@ title: "Justfish的角色 - 檀正宗"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1129.0"
 author: "Justfish"
-created_at: "十月 01, 2025, 02:44 上午"
-fetched_at: "2026-02-26 10:05:50 +0800"
+created_at_raw: "十月 01, 2025, 02:44 上午"
+created_at_iso: "2025-10-01T02:44:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:50 +0800"
+fetched_at_iso: "2026-02-26T10:05:50+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2505
+approx_tokens: 1253
 ---
 
 # Justfish的角色 - 檀正宗

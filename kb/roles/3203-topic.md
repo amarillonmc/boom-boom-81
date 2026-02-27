@@ -4,8 +4,16 @@ title: "御御症重度依赖的角色 - 曦"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3203.0"
 author: "御御症重度依赖"
-created_at: "十二月 06, 2025, 08:52 上午"
-fetched_at: "2026-02-26 10:18:25 +0800"
+created_at_raw: "十二月 06, 2025, 08:52 上午"
+created_at_iso: "2025-12-06T08:52:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:25 +0800"
+fetched_at_iso: "2026-02-26T10:18:25+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4776
+approx_tokens: 2388
 ---
 
 # 御御症重度依赖的角色 - 曦

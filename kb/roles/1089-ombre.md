@@ -4,8 +4,16 @@ title: "Ombre的角色 - 界·路明非&上杉绘梨衣"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1089.0"
 author: "Ombre"
-created_at: "九月 30, 2025, 02:18 上午"
-fetched_at: "2026-02-26 10:05:43 +0800"
+created_at_raw: "九月 30, 2025, 02:18 上午"
+created_at_iso: "2025-09-30T02:18:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:43 +0800"
+fetched_at_iso: "2026-02-26T10:05:43+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 8474
+approx_tokens: 4237
 ---
 
 # Ombre的角色 - 界·路明非&上杉绘梨衣

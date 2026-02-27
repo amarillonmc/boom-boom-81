@@ -4,8 +4,16 @@ title: "胖胖龙的角色 - 星辉者"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=948.0"
 author: "胖胖龙"
-created_at: "九月 26, 2025, 11:30 下午"
-fetched_at: "2026-02-26 10:04:44 +0800"
+created_at_raw: "九月 26, 2025, 11:30 下午"
+created_at_iso: "2025-09-26T23:30:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:44 +0800"
+fetched_at_iso: "2026-02-26T10:04:44+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 718
+approx_tokens: 359
 ---
 
 # 胖胖龙的角色 - 星辉者

@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 鸟澄珠乌"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=638.0"
 author: "galekkomari"
-created_at: "九月 21, 2025, 08:27 下午"
-fetched_at: "2026-02-26 10:02:21 +0800"
+created_at_raw: "九月 21, 2025, 08:27 下午"
+created_at_iso: "2025-09-21T20:27:00+08:00"
+fetched_at_raw: "2026-02-26 10:02:21 +0800"
+fetched_at_iso: "2026-02-26T10:02:21+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3934
+approx_tokens: 1967
 ---
 
 # galekkomari的角色 - 鸟澄珠乌

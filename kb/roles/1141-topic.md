@@ -4,8 +4,16 @@ title: "小壶的角色 - 麦当劳叔叔"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1141.0"
 author: "小壶"
-created_at: "十月 01, 2025, 07:21 上午"
-fetched_at: "2026-02-26 10:05:58 +0800"
+created_at_raw: "十月 01, 2025, 07:21 上午"
+created_at_iso: "2025-10-01T07:21:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:58 +0800"
+fetched_at_iso: "2026-02-26T10:05:58+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 407
+approx_tokens: 204
 ---
 
 # 小壶的角色 - 麦当劳叔叔

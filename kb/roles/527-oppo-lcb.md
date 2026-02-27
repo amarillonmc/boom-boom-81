@@ -4,8 +4,16 @@ title: "OPPO的角色 - 堂吉柯德(lcb)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=527.0"
 author: "OPPO"
-created_at: "九月 19, 2025, 12:13 下午"
-fetched_at: "2026-02-26 10:01:25 +0800"
+created_at_raw: "九月 19, 2025, 12:13 下午"
+created_at_iso: "2025-09-19T12:13:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:25 +0800"
+fetched_at_iso: "2026-02-26T10:01:25+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3441
+approx_tokens: 1721
 ---
 
 # OPPO的角色 - 堂吉柯德(lcb)

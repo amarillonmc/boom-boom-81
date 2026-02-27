@@ -4,8 +4,16 @@ title: "特殊议程-Justfish规则个人竞技"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=2536.0"
 author: "Justfish"
-created_at: "十一月 09, 2025, 09:50 上午"
-fetched_at: "2026-02-26 10:20:22 +0800"
+created_at_raw: "十一月 09, 2025, 09:50 上午"
+created_at_iso: "2025-11-09T09:50:00+08:00"
+fetched_at_raw: "2026-02-26 10:20:22 +0800"
+fetched_at_iso: "2026-02-26T10:20:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5068
+approx_tokens: 2534
 ---
 
 # 特殊议程-Justfish规则个人竞技

@@ -4,8 +4,16 @@ title: "哈曼·卡恩 - 住在隔壁的单身女王"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1058.0"
 author: "zweizergain"
-created_at: "九月 29, 2025, 08:35 上午"
-fetched_at: "2026-02-26 10:05:31 +0800"
+created_at_raw: "九月 29, 2025, 08:35 上午"
+created_at_iso: "2025-09-29T08:35:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:31 +0800"
+fetched_at_iso: "2026-02-26T10:05:31+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2493
+approx_tokens: 1247
 ---
 
 # 哈曼·卡恩 - 住在隔壁的单身女王

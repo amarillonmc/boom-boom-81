@@ -4,8 +4,16 @@ title: "Jerry的角色 - 人狮那罗辛哈"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2723.0"
 author: "Jerry"
-created_at: "十一月 16, 2025, 01:38 上午"
-fetched_at: "2026-02-26 10:16:27 +0800"
+created_at_raw: "十一月 16, 2025, 01:38 上午"
+created_at_iso: "2025-11-16T01:38:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:27 +0800"
+fetched_at_iso: "2026-02-26T10:16:27+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3919
+approx_tokens: 1960
 ---
 
 # Jerry的角色 - 人狮那罗辛哈

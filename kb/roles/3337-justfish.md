@@ -4,8 +4,16 @@ title: "Justfish的角色 - 红超人（レッドマン）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3337.0"
 author: "Justfish"
-created_at: "二月 20, 2026, 04:50 上午"
-fetched_at: "2026-02-26 10:18:54 +0800"
+created_at_raw: "二月 20, 2026, 04:50 上午"
+created_at_iso: "2026-02-20T04:50:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:54 +0800"
+fetched_at_iso: "2026-02-26T10:18:54+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9340
+approx_tokens: 4670
 ---
 
 # Justfish的角色 - 红超人（レッドマン）

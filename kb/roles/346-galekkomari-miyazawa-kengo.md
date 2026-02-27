@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 宮沢 謙吾 (Miyazawa Kengo)"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=346.0"
 author: "galekkomari"
-created_at: "九月 15, 2025, 10:29 下午"
-fetched_at: "2026-02-26 09:59:44 +0800"
+created_at_raw: "九月 15, 2025, 10:29 下午"
+created_at_iso: "2025-09-15T22:29:00+08:00"
+fetched_at_raw: "2026-02-26 09:59:44 +0800"
+fetched_at_iso: "2026-02-26T09:59:44+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1563
+approx_tokens: 782
 ---
 
 # galekkomari的角色 - 宮沢 謙吾 (Miyazawa Kengo)

@@ -4,8 +4,16 @@ title: "Jerry的角色 - 野上良太郎（&桃、浦、金、龙）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=93.0"
 author: "Jerry"
-created_at: "九月 08, 2025, 11:18 下午"
-fetched_at: "2026-02-26 09:57:25 +0800"
+created_at_raw: "九月 08, 2025, 11:18 下午"
+created_at_iso: "2025-09-08T23:18:00+08:00"
+fetched_at_raw: "2026-02-26 09:57:25 +0800"
+fetched_at_iso: "2026-02-26T09:57:25+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10943
+approx_tokens: 5472
 ---
 
 # Jerry的角色 - 野上良太郎（&桃、浦、金、龙）

@@ -4,8 +4,16 @@ title: "galekkomari的角色 - 龙神薮猫"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1694.0"
 author: "galekkomari"
-created_at: "十月 17, 2025, 10:33 下午"
-fetched_at: "2026-02-26 10:10:08 +0800"
+created_at_raw: "十月 17, 2025, 10:33 下午"
+created_at_iso: "2025-10-17T22:33:00+08:00"
+fetched_at_raw: "2026-02-26 10:10:08 +0800"
+fetched_at_iso: "2026-02-26T10:10:08+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9020
+approx_tokens: 4510
 ---
 
 # galekkomari的角色 - 龙神薮猫

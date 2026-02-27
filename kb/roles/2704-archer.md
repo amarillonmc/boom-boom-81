@@ -4,8 +4,16 @@ title: "小可的角色 - 路西法（archer）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2704.0"
 author: "小可"
-created_at: "十一月 15, 2025, 06:57 上午"
-fetched_at: "2026-02-26 10:16:16 +0800"
+created_at_raw: "十一月 15, 2025, 06:57 上午"
+created_at_iso: "2025-11-15T06:57:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:16 +0800"
+fetched_at_iso: "2026-02-26T10:16:16+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2873
+approx_tokens: 1437
 ---
 
 # 小可的角色 - 路西法（archer）

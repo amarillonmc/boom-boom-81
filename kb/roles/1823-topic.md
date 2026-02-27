@@ -4,8 +4,16 @@ title: "普通人的无聊生活的角色 - 夺命十三枪"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1823.0"
 author: "普通人的无聊生活"
-created_at: "十月 21, 2025, 10:45 上午"
-fetched_at: "2026-02-26 10:11:02 +0800"
+created_at_raw: "十月 21, 2025, 10:45 上午"
+created_at_iso: "2025-10-21T10:45:00+08:00"
+fetched_at_raw: "2026-02-26 10:11:02 +0800"
+fetched_at_iso: "2026-02-26T10:11:02+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1404
+approx_tokens: 702
 ---
 
 # 普通人的无聊生活的角色 - 夺命十三枪

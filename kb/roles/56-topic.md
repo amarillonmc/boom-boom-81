@@ -4,8 +4,16 @@ title: "小可的角色 - 天下第一武道会"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=56.0"
 author: "小可"
-created_at: "九月 08, 2025, 11:13 上午"
-fetched_at: "2026-02-26 09:56:59 +0800"
+created_at_raw: "九月 08, 2025, 11:13 上午"
+created_at_iso: "2025-09-08T11:13:00+08:00"
+fetched_at_raw: "2026-02-26 09:56:59 +0800"
+fetched_at_iso: "2026-02-26T09:56:59+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 5089
+approx_tokens: 2545
 ---
 
 # 小可的角色 - 天下第一武道会

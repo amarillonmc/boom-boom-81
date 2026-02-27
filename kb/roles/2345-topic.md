@@ -4,8 +4,16 @@ title: "紫宵的角色 - 星奈光"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2345.0"
 author: "紫宵"
-created_at: "十一月 05, 2025, 08:59 上午"
-fetched_at: "2026-02-26 10:14:20 +0800"
+created_at_raw: "十一月 05, 2025, 08:59 上午"
+created_at_iso: "2025-11-05T08:59:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:20 +0800"
+fetched_at_iso: "2026-02-26T10:14:20+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 20307
+approx_tokens: 10154
 ---
 
 # 紫宵的角色 - 星奈光

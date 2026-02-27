@@ -4,8 +4,16 @@ title: "小可的角色 - 屠龙者"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3034.0"
 author: "小可"
-created_at: "十一月 24, 2025, 10:11 下午"
-fetched_at: "2026-02-26 10:17:37 +0800"
+created_at_raw: "十一月 24, 2025, 10:11 下午"
+created_at_iso: "2025-11-24T22:11:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:37 +0800"
+fetched_at_iso: "2026-02-26T10:17:37+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4379
+approx_tokens: 2190
 ---
 
 # 小可的角色 - 屠龙者

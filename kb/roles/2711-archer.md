@@ -4,8 +4,16 @@ title: "终末的角色 - Archer骷髅骑士"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2711.0"
 author: "Ender_Eragon"
-created_at: "十一月 15, 2025, 08:31 上午"
-fetched_at: "2026-02-26 10:16:22 +0800"
+created_at_raw: "十一月 15, 2025, 08:31 上午"
+created_at_iso: "2025-11-15T08:31:00+08:00"
+fetched_at_raw: "2026-02-26 10:16:22 +0800"
+fetched_at_iso: "2026-02-26T10:16:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 2877
+approx_tokens: 1439
 ---
 
 # 终末的角色 - Archer骷髅骑士

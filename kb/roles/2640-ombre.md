@@ -4,8 +4,16 @@ title: "Ombre的角色 - 芳泽 霞"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2640.0"
 author: "Ombre"
-created_at: "十一月 13, 2025, 06:19 上午"
-fetched_at: "2026-02-26 10:15:52 +0800"
+created_at_raw: "十一月 13, 2025, 06:19 上午"
+created_at_iso: "2025-11-13T06:19:00+08:00"
+fetched_at_raw: "2026-02-26 10:15:52 +0800"
+fetched_at_iso: "2026-02-26T10:15:52+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 7016
+approx_tokens: 3508
 ---
 
 # Ombre的角色 - 芳泽 霞

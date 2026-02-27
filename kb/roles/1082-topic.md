@@ -4,8 +4,16 @@ title: "小兵的角色 - 骷髅法师"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1082.0"
 author: "小兵"
-created_at: "九月 30, 2025, 12:16 上午"
-fetched_at: "2026-02-26 10:05:40 +0800"
+created_at_raw: "九月 30, 2025, 12:16 上午"
+created_at_iso: "2025-09-30T00:16:00+08:00"
+fetched_at_raw: "2026-02-26 10:05:40 +0800"
+fetched_at_iso: "2026-02-26T10:05:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 1210
+approx_tokens: 605
 ---
 
 # 小兵的角色 - 骷髅法师

@@ -4,8 +4,16 @@ title: "【已废弃】维萨斯=星霜（世坏演化）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=892.0"
 author: "zweizergain"
-created_at: "九月 26, 2025, 02:01 上午"
-fetched_at: "2026-02-26 10:04:16 +0800"
+created_at_raw: "九月 26, 2025, 02:01 上午"
+created_at_iso: "2025-09-26T02:01:00+08:00"
+fetched_at_raw: "2026-02-26 10:04:16 +0800"
+fetched_at_iso: "2026-02-26T10:04:16+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 19843
+approx_tokens: 9922
 ---
 
 # 【已废弃】维萨斯=星霜（世坏演化）

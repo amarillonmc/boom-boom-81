@@ -4,8 +4,16 @@ title: "终末的角色 - 螟灵「密法之主」"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=3153.0"
 author: "Ender_Eragon"
-created_at: "十二月 02, 2025, 11:03 上午"
-fetched_at: "2026-02-26 10:18:17 +0800"
+created_at_raw: "十二月 02, 2025, 11:03 上午"
+created_at_iso: "2025-12-02T11:03:00+08:00"
+fetched_at_raw: "2026-02-26 10:18:17 +0800"
+fetched_at_iso: "2026-02-26T10:18:17+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 4117
+approx_tokens: 2059
 ---
 
 # 终末的角色 - 螟灵「密法之主」

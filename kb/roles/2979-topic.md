@@ -4,8 +4,16 @@ title: "全装甲高达七号机的角色 - 奇迹的辉金骑士-玛格纳兽 (
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2979.0"
 author: "全装甲高达七号机"
-created_at: "十一月 22, 2025, 01:21 上午"
-fetched_at: "2026-02-26 10:17:28 +0800"
+created_at_raw: "十一月 22, 2025, 01:21 上午"
+created_at_iso: "2025-11-22T01:21:00+08:00"
+fetched_at_raw: "2026-02-26 10:17:28 +0800"
+fetched_at_iso: "2026-02-26T10:17:28+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 11805
+approx_tokens: 5903
 ---
 
 # 全装甲高达七号机的角色 - 奇迹的辉金骑士-玛格纳兽 (金甲龙兽)

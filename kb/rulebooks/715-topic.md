@@ -4,8 +4,16 @@ title: "适配于限制强度对局的【灵魂武装】转化规则"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=715.0"
 author: "Ombre"
-created_at: "九月 23, 2025, 01:23 上午"
-fetched_at: "2026-02-26 10:19:22 +0800"
+created_at_raw: "九月 23, 2025, 01:23 上午"
+created_at_iso: "2025-09-23T01:23:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:22 +0800"
+fetched_at_iso: "2026-02-26T10:19:22+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3019
+approx_tokens: 1510
 ---
 
 # 适配于限制强度对局的【灵魂武装】转化规则

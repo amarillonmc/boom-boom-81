@@ -4,8 +4,16 @@ title: "分割线启动（我在导入阶段已经笑喷了这档子事）"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2955.0"
 author: "烛火"
-created_at: "十一月 20, 2025, 10:34 下午"
-fetched_at: "2026-02-26 10:27:13 +0800"
+created_at_raw: "十一月 20, 2025, 10:34 下午"
+created_at_iso: "2025-11-20T22:34:00+08:00"
+fetched_at_raw: "2026-02-26 10:27:13 +0800"
+fetched_at_iso: "2026-02-26T10:27:13+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 232634
+approx_tokens: 116317
 ---
 
 # 分割线启动（我在导入阶段已经笑喷了这档子事）

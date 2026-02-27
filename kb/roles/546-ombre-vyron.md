@@ -4,8 +4,16 @@ title: "Ombre的角色 - 威龙（Vyron）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=546.0"
 author: "Ombre"
-created_at: "九月 20, 2025, 01:58 上午"
-fetched_at: "2026-02-26 10:01:35 +0800"
+created_at_raw: "九月 20, 2025, 01:58 上午"
+created_at_iso: "2025-09-20T01:58:00+08:00"
+fetched_at_raw: "2026-02-26 10:01:35 +0800"
+fetched_at_iso: "2026-02-26T10:01:35+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 10281
+approx_tokens: 5141
 ---
 
 # Ombre的角色 - 威龙（Vyron）

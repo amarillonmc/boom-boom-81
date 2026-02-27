@@ -4,8 +4,16 @@ title: "传说模式-光芒与纷争之侧"
 category: "rulebooks"
 source_url: "https://number81.xyz/index.php?topic=901.0"
 author: "Ombre"
-created_at: "九月 26, 2025, 03:12 上午"
-fetched_at: "2026-02-26 10:19:35 +0800"
+created_at_raw: "九月 26, 2025, 03:12 上午"
+created_at_iso: "2025-09-26T03:12:00+08:00"
+fetched_at_raw: "2026-02-26 10:19:35 +0800"
+fetched_at_iso: "2026-02-26T10:19:35+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 9171
+approx_tokens: 4586
 ---
 
 # 传说模式-光芒与纷争之侧

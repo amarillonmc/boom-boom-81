@@ -4,8 +4,16 @@ title: "Ombre的角色 - 界·路明非（Mingfei Lu/Alter）"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=810.0"
 author: "Ombre"
-created_at: "九月 24, 2025, 10:22 上午"
-fetched_at: "2026-02-26 10:03:40 +0800"
+created_at_raw: "九月 24, 2025, 10:22 上午"
+created_at_iso: "2025-09-24T10:22:00+08:00"
+fetched_at_raw: "2026-02-26 10:03:40 +0800"
+fetched_at_iso: "2026-02-26T10:03:40+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 13925
+approx_tokens: 6963
 ---
 
 # Ombre的角色 - 界·路明非（Mingfei Lu/Alter）

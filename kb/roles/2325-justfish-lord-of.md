@@ -4,8 +4,16 @@ title: "Justfish的角色 - Lord·of·罪罚 (ロード・オブ・ザイバツ)
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=2325.0"
 author: "Justfish"
-created_at: "十一月 04, 2025, 12:10 下午"
-fetched_at: "2026-02-26 10:14:08 +0800"
+created_at_raw: "十一月 04, 2025, 12:10 下午"
+created_at_iso: "2025-11-04T12:10:00+08:00"
+fetched_at_raw: "2026-02-26 10:14:08 +0800"
+fetched_at_iso: "2026-02-26T10:14:08+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 3912
+approx_tokens: 1956
 ---
 
 # Justfish的角色 - Lord·of·罪罚 (ロード・オブ・ザイバツ)

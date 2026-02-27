@@ -4,8 +4,16 @@ title: "龙陨编年史（重开）"
 category: "records"
 source_url: "https://number81.xyz/index.php?topic=2371.0"
 author: "小可"
-created_at: "十一月 06, 2025, 05:27 上午"
-fetched_at: "2026-02-26 10:25:48 +0800"
+created_at_raw: "十一月 06, 2025, 05:27 上午"
+created_at_iso: "2025-11-06T05:27:00+08:00"
+fetched_at_raw: "2026-02-26 10:25:48 +0800"
+fetched_at_iso: "2026-02-26T10:25:48+08:00"
+has_spoiler: false
+spoiler_export_ok: true
+missing_sections: []
+data_quality: "ok"
+approx_chars: 145808
+approx_tokens: 72904
 ---
 
 # 龙陨编年史（重开）
