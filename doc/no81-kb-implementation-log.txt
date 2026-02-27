@@ -56,3 +56,37 @@ No81 知识库实装记录
 - 在 printpage 异常时自动回退到普通 topic 页面解析。
 - 增加重试与失败队列（网络抖动时更稳）。
 - 增加“仅更新某个 topic_id”参数，便于快速补抓。
+
+本次新增（Phase 1 + Phase 2）
+- 索引字段标准化升级：
+  - `created_at_raw/created_at_iso`
+  - `fetched_at_raw/fetched_at_iso`
+  - `approx_chars/approx_tokens`
+  - `data_quality`
+- Topic Markdown 元数据升级：
+  - `has_spoiler`
+  - `spoiler_export_ok`
+  - `missing_sections`
+  - `data_quality`
+- 楼层元信息升级：
+  - `floor_index`
+  - `Posted at raw`
+  - `Posted at iso`
+- 警告结构化升级：
+  - 继续输出 `warnings.txt`
+  - 新增 `warnings.jsonl`
+- 作者二级索引新增：
+  - `kb/index/authors.jsonl`
+  - `kb/index/authors_roles_sample.jsonl`（默认每作者抽样 7）
+- 运行差分策略增强：
+  - 新增 `SKIP_EXISTING_TOPICS=true`（默认开启），避免已同步主题重复抓取
+
+本次新增（运行汇报发帖）
+- 支持在同步开始与结束时自动向论坛 topic 回帖（默认 topic=35）：
+  - 开始帖：`YYYYMMDDHH:MM开始工作`
+  - 结束帖：`YYYYMMDDHH:MM结束工作 + 统计信息`
+- 新增配置项：
+  - `ENABLE_REPORT_POST`
+  - `REPORT_ON_START`
+  - `REPORT_ON_FINISH`
+  - `REPORT_TOPIC_ID`
