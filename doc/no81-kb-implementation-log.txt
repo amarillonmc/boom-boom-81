@@ -90,3 +90,12 @@ No81 知识库实装记录
   - `REPORT_ON_START`
   - `REPORT_ON_FINISH`
   - `REPORT_TOPIC_ID`
+
+本次新增（维护模式）
+- 新增本地维护模式：`python tools/no81_sync/sync.py --mode maintenance-local`
+- 用途：
+  - 对已落地的历史 Markdown 批量回填/修正前言元数据字段
+  - 重建 topics/authors/warnings 索引
+  - 不依赖重新抓取全部历史帖子
+- 适用场景：
+  - 仓库已跑过全量同步，但脚本新增了索引字段或前言字段后，需要批量追补

@@ -39,6 +39,12 @@ Export all categories:
 python tools/no81_sync/sync.py
 ```
 
+Local maintenance/backfill (no re-fetch; updates existing markdown metadata and rebuilds indexes):
+
+```bash
+python tools/no81_sync/sync.py --mode maintenance-local
+```
+
 Export one category only:
 
 ```bash
@@ -80,6 +86,14 @@ Finish report includes counters: added / updated / unchanged / warnings / failed
 By default `SKIP_EXISTING_TOPICS=true` to avoid re-fetching already-synced topics in large libraries.
 
 Set `SKIP_EXISTING_TOPICS=false` if you want to force re-check existing topics.
+
+If you already completed a full sync before new metadata/index features were added, run:
+
+```bash
+python tools/no81_sync/sync.py --mode maintenance-local
+```
+
+This backfills existing files and rebuilds `topics/authors/warnings` indexes in batch.
 
 ## Notes
 

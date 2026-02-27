@@ -642,6 +642,208 @@ def ensure_dirs(repo_root: Path) -> None:
         path.mkdir(parents=True, exist_ok=True)
 
 
+def split_frontmatter(text: str) -> Tuple[Dict[str, object], str]:
+    if not text.startswith("---\n"):
+        return {}, text
+    end = text.find("\n---\n", 4)
+    if end == -1:
+        return {}, text
+    raw = text[4:end]
+    body = text[end + 5 :]
+    data: Dict[str, object] = {}
+    current_list_key: Optional[str] = None
+    for line in raw.splitlines():
+        if not line.strip():
+            continue
+        if line.startswith("  - ") and current_list_key:
+            arr = data.setdefault(current_list_key, [])
+            if isinstance(arr, list):
+                arr.append(line[4:].strip())
+            continue
+        current_list_key = None
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        k = key.strip()
+        v = value.strip()
+        if v == "[]":
+            data[k] = []
+        elif v.lower() in {"true", "false"}:
+            data[k] = v.lower() == "true"
+        elif len(v) >= 2 and v.startswith('"') and v.endswith('"'):
+            data[k] = v[1:-1].replace('\\"', '"')
+        elif re.fullmatch(r"-?\d+", v or ""):
+            data[k] = int(v)
+        elif v == "":
+            data[k] = ""
+            current_list_key = k
+        else:
+            data[k] = v
+    return data, body
+
+
+def render_frontmatter(data: Dict[str, object]) -> str:
+    ordered_keys = [
+        "topic_id",
+        "title",
+        "category",
+        "source_url",
+        "author",
+        "created_at_raw",
+        "created_at_iso",
+        "fetched_at_raw",
+        "fetched_at_iso",
+        "has_spoiler",
+        "spoiler_export_ok",
+        "missing_sections",
+        "data_quality",
+        "approx_chars",
+        "approx_tokens",
+    ]
+    lines = ["---"]
+    for key in ordered_keys:
+        if key not in data:
+            continue
+        val = data[key]
+        if isinstance(val, bool):
+            lines.append(f"{key}: {'true' if val else 'false'}")
+        elif isinstance(val, int):
+            lines.append(f"{key}: {val}")
+        elif isinstance(val, list):
+            if not val:
+                lines.append(f"{key}: []")
+            else:
+                lines.append(f"{key}:")
+                for item in val:
+                    lines.append(f"  - {item}")
+        else:
+            sval = str(val)
+            lines.append(f'{key}: "{yaml_escape(sval)}"')
+    lines.append("---")
+    return "\n".join(lines)
+
+
+def parse_fetched_raw_to_iso(raw: str) -> Optional[str]:
+    raw = (raw or "").strip()
+    if not raw:
+        return None
+    try:
+        return datetime.strptime(raw, "%Y-%m-%d %H:%M:%S %z").isoformat()
+    except Exception:
+        return None
+
+
+def gather_local_topic_files(repo_root: Path, category: str) -> List[Tuple[str, Path]]:
+    mapping = {
+        "roles": repo_root / "kb" / "roles",
+        "rulebooks": repo_root / "kb" / "rulebooks",
+        "records": repo_root / "kb" / "records-completed",
+    }
+    cats = [category] if category != "all" else ["roles", "rulebooks", "records"]
+    out: List[Tuple[str, Path]] = []
+    for c in cats:
+        base = mapping[c]
+        if not base.exists():
+            continue
+        for p in sorted(base.glob("*.md")):
+            out.append((c, p))
+    return out
+
+
+def topic_id_from_path(path: Path) -> Optional[int]:
+    m = re.match(r"^(\d+)-", path.name)
+    if m:
+        return int(m.group(1))
+    return None
+
+
+def migrate_local_file(
+    repo_root: Path,
+    file_path: Path,
+    category: str,
+    base_url: str,
+    apply_write: bool,
+) -> Tuple[TopicResult, Dict[str, str], bool, List[WarningEntry]]:
+    warnings: List[WarningEntry] = []
+    raw_text = file_path.read_text(encoding="utf-8")
+    front, body = split_frontmatter(raw_text)
+
+    topic_id = to_int(front.get("topic_id"), 0) or (topic_id_from_path(file_path) or 0)
+    title = str(front.get("title") or file_path.stem)
+    author = str(front.get("author") or "unknown")
+    source_url = str(front.get("source_url") or f"{base_url.rstrip('/')}/index.php?topic={topic_id}.0")
+
+    created_at_raw = str(front.get("created_at_raw") or front.get("created_at") or "unknown")
+    created_at_iso = str(front.get("created_at_iso") or "") or (parse_forum_time_to_iso(created_at_raw) or "")
+    fetched_at_raw = str(front.get("fetched_at_raw") or front.get("fetched_at") or now_forum_time())
+    fetched_at_iso = str(front.get("fetched_at_iso") or "") or (parse_fetched_raw_to_iso(fetched_at_raw) or now_forum_iso())
+
+    has_spoiler = "Sorry but you are not allowed to view spoiler contents." in raw_text
+    spoiler_export_ok = not has_spoiler
+    missing_sections = ["spoiler_contents"] if has_spoiler else []
+    data_quality = "restricted" if has_spoiler else "ok"
+
+    approx_chars = len(raw_text)
+    approx_tokens = max(1, math.ceil(approx_chars / 2))
+
+    new_front = {
+        "topic_id": topic_id,
+        "title": title,
+        "category": category,
+        "source_url": source_url,
+        "author": author,
+        "created_at_raw": created_at_raw,
+        "created_at_iso": created_at_iso,
+        "fetched_at_raw": fetched_at_raw,
+        "fetched_at_iso": fetched_at_iso,
+        "has_spoiler": has_spoiler,
+        "spoiler_export_ok": spoiler_export_ok,
+        "missing_sections": missing_sections,
+        "data_quality": data_quality,
+        "approx_chars": approx_chars,
+        "approx_tokens": approx_tokens,
+    }
+    migrated_text = render_frontmatter(new_front) + "\n\n" + body.lstrip("\n")
+    changed = migrated_text != raw_text
+    if changed and apply_write:
+        file_path.write_text(migrated_text, encoding="utf-8")
+
+    file_rel = str(file_path.relative_to(repo_root)).replace("\\", "/")
+    result = TopicResult(
+        topic_id=topic_id,
+        category=category,
+        title=title,
+        author=author,
+        created_at_raw=created_at_raw,
+        created_at_iso=(created_at_iso or None),
+        fetched_at_raw=fetched_at_raw,
+        fetched_at_iso=fetched_at_iso,
+        source_url=source_url,
+        file_path=file_rel,
+        status="updated" if changed else "unchanged",
+        approx_chars=approx_chars,
+        approx_tokens=approx_tokens,
+        data_quality=data_quality,
+    )
+    state_entry = {
+        "topic_id": str(topic_id),
+        "category": category,
+        "title": title,
+        "author": author,
+        "created_at_raw": created_at_raw,
+        "created_at_iso": created_at_iso,
+        "fetched_at_raw": fetched_at_raw,
+        "fetched_at_iso": fetched_at_iso,
+        "source_url": source_url,
+        "hash": sha256_text(migrated_text),
+        "file_path": file_rel,
+        "approx_chars": str(approx_chars),
+        "approx_tokens": str(approx_tokens),
+        "data_quality": data_quality,
+    }
+    return result, state_entry, changed, warnings
+
+
 def write_indexes(repo_root: Path, rows: List[TopicResult]) -> None:
     index_dir = repo_root / "kb" / "index"
     index_dir.mkdir(parents=True, exist_ok=True)
@@ -822,6 +1024,145 @@ def try_report_post(
                 created_at_iso=now_forum_iso(),
             )
         )
+
+
+def run_maintenance_local(repo_root: Path, config_path: Path, category: str, dry_run: bool) -> int:
+    cfg = load_env_file(config_path)
+    ensure_dirs(repo_root)
+
+    report_enabled = env_bool(cfg, "ENABLE_REPORT_POST", False)
+    report_on_start = env_bool(cfg, "REPORT_ON_START", True)
+    report_on_finish = env_bool(cfg, "REPORT_ON_FINISH", True)
+    report_topic_id = int(cfg.get("REPORT_TOPIC_ID", str(DEFAULT_REPORT_TOPIC_ID)))
+    sample_size = int(cfg.get("AUTHOR_SAMPLE_SIZE", str(DEFAULT_SAMPLE_SIZE)))
+
+    warning_entries: List[WarningEntry] = []
+    run_id = uuid.uuid4().hex[:12]
+    run_start = time.time()
+
+    client: Optional[ForumClient] = None
+    can_report = False
+    if report_enabled and not dry_run:
+        if cfg.get("SMF_BASE_URL") and cfg.get("SMF_USERNAME") and cfg.get("SMF_PASSWORD"):
+            client = ForumClient(
+                cfg["SMF_BASE_URL"],
+                delay_ms=int(cfg.get("REQUEST_DELAY_MS", "500")),
+                user_agent=cfg.get("USER_AGENT", "no81-kb-sync/1.0"),
+            )
+            try:
+                client.login(cfg["SMF_USERNAME"], cfg["SMF_PASSWORD"])
+                can_report = True
+            except Exception as exc:
+                warning_entries.append(
+                    WarningEntry(
+                        run_id=run_id,
+                        topic_id=report_topic_id,
+                        category="report",
+                        file_path="",
+                        floor_index=None,
+                        warning_type="report_login_failed",
+                        message=str(exc),
+                        snippet="maintenance-local",
+                        created_at_iso=now_forum_iso(),
+                    )
+                )
+
+    if can_report and report_on_start and client is not None:
+        start_msg = f"{now_forum_compact()}开始工作\nrun_id={run_id}\nmode=maintenance-local\ncategory={category}"
+        try_report_post(
+            client=client,
+            enabled=True,
+            report_topic_id=report_topic_id,
+            subject="[KB维护] 开始",
+            message=start_msg,
+            warnings=warning_entries,
+            run_id=run_id,
+        )
+
+    files = gather_local_topic_files(repo_root, category)
+    print(f"Maintenance target files: {len(files)}")
+
+    state_path = repo_root / "tools" / "no81_sync" / "state" / "state.json"
+    state = load_state(state_path)
+    topic_state_raw = state.setdefault("topics", {})
+    if not isinstance(topic_state_raw, dict):
+        topic_state_raw = {}
+        state["topics"] = topic_state_raw
+    topic_state: Dict[str, Dict[str, str]] = topic_state_raw  # type: ignore[assignment]
+
+    index_rows: List[TopicResult] = []
+    updated_count = 0
+    unchanged_count = 0
+    failed_count = 0
+    base_url = cfg.get("SMF_BASE_URL", "https://number81.xyz")
+
+    for idx, (cat, path) in enumerate(files, start=1):
+        print(f"[{idx}/{len(files)}] Maintaining {path.name}")
+        try:
+            result, state_entry, changed, ws = migrate_local_file(
+                repo_root=repo_root,
+                file_path=path,
+                category=cat,
+                base_url=base_url,
+                apply_write=(not dry_run),
+            )
+            if dry_run:
+                # Keep original file untouched in dry-run mode.
+                result.status = "would-update" if changed else "unchanged"
+            else:
+                state_key = f"{cat}:{result.topic_id}"
+                topic_state[state_key] = state_entry
+
+            if changed:
+                updated_count += 1
+            else:
+                unchanged_count += 1
+            index_rows.append(result)
+            warning_entries.extend(ws)
+        except Exception as exc:
+            failed_count += 1
+            warning_entries.append(
+                WarningEntry(
+                    run_id=run_id,
+                    topic_id=topic_id_from_path(path) or 0,
+                    category=cat,
+                    file_path=str(path.relative_to(repo_root)).replace("\\", "/"),
+                    floor_index=None,
+                    warning_type="maintenance_failed",
+                    message=str(exc),
+                    snippet="",
+                    created_at_iso=now_forum_iso(),
+                )
+            )
+
+    if not dry_run:
+        save_state(state_path, state)
+        write_indexes(repo_root, index_rows)
+        write_warnings(repo_root, warning_entries)
+        write_author_indexes(repo_root, index_rows, sample_size=sample_size)
+
+    duration = int(time.time() - run_start)
+    if can_report and report_on_finish and client is not None and not dry_run:
+        finish_msg = (
+            f"{now_forum_compact()}结束工作\n"
+            f"run_id={run_id}\n"
+            f"mode=maintenance-local\n"
+            f"更新{updated_count}条，未变更{unchanged_count}条，告警{len(warning_entries)}条，失败{failed_count}条，耗时{duration}秒"
+        )
+        try_report_post(
+            client=client,
+            enabled=True,
+            report_topic_id=report_topic_id,
+            subject="[KB维护] 结束",
+            message=finish_msg,
+            warnings=warning_entries,
+            run_id=run_id,
+        )
+
+    print(
+        f"Maintenance complete. updated={updated_count}, unchanged={unchanged_count}, warnings={len(warning_entries)}, failed={failed_count}"
+    )
+    return 0
 
 
 def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -> int:
@@ -1040,6 +1381,12 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
 def parse_args(argv: Iterable[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Sync No81 forum topics to local Markdown KB")
     parser.add_argument(
+        "--mode",
+        choices=["sync", "maintenance-local"],
+        default="sync",
+        help="Run normal sync or local maintenance/backfill",
+    )
+    parser.add_argument(
         "--category",
         choices=["all", "roles", "rulebooks", "records"],
         default="all",
@@ -1060,6 +1407,13 @@ def main(argv: Iterable[str]) -> int:
     config_path = (repo_root / args.config).resolve()
 
     try:
+        if args.mode == "maintenance-local":
+            return run_maintenance_local(
+                repo_root=repo_root,
+                config_path=config_path,
+                category=args.category,
+                dry_run=args.dry_run,
+            )
         return run_sync(
             repo_root=repo_root,
             config_path=config_path,

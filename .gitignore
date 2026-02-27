@@ -1,5 +1,6 @@
 tools/no81_sync/.env
 tools/no81_sync/state/
+tools/no81_sync/__pycache__/
 .env
 kb/index/warnings.jsonl
 kb/index/warnings.txt
