@@ -265,6 +265,78 @@ class ForumClient:
         url = f"{self.base_url}/index.php?action=printpage;topic={topic_id}.0"
         return self.get(url).text
 
+    def _find_reply_form(self, soup: BeautifulSoup, topic_id: int) -> Optional[Tag]:
+        candidates: List[Tuple[int, Tag]] = []
+        for form in soup.find_all("form"):
+            if form.find("textarea", attrs={"name": "message"}) is None:
+                continue
+
+            action = str(form.get("action") or "")
+            action_norm = normalize_url(action)
+            topic_input = form.find("input", attrs={"name": "topic"})
+            topic_raw = str(topic_input.get("value", "")).strip() if topic_input is not None else ""
+            topic_ok = topic_raw == "" or bool(re.match(rf"^{topic_id}(?:\D.*)?$", topic_raw))
+
+            score = 0
+            if "action=post2" in action_norm:
+                score += 100
+            if topic_ok:
+                score += 10
+            if form.find("input", attrs={"name": "seqnum"}) is not None:
+                score += 5
+            if form.find("input", attrs={"name": "sc"}) is not None:
+                score += 5
+
+            if score > 0:
+                candidates.append((score, form))
+
+        if not candidates:
+            return None
+
+        candidates.sort(key=lambda x: x[0], reverse=True)
+        return candidates[0][1]
+
+    def _build_form_payload(self, form: Tag) -> Dict[str, str]:
+        payload: Dict[str, str] = {}
+
+        for field in form.select("input[name]"):
+            name = str(field.get("name", "")).strip()
+            if not name or field.has_attr("disabled"):
+                continue
+
+            input_type = str(field.get("type", "text")).strip().lower()
+            if input_type in {"submit", "button", "image", "reset", "file"}:
+                continue
+            if input_type in {"checkbox", "radio"} and not field.has_attr("checked"):
+                continue
+
+            payload[name] = str(field.get("value", ""))
+
+        for field in form.select("select[name]"):
+            name = str(field.get("name", "")).strip()
+            if not name or field.has_attr("disabled"):
+                continue
+
+            selected = field.find("option", selected=True)
+            if selected is None:
+                selected = field.find("option")
+            if selected is not None:
+                payload[name] = str(selected.get("value", ""))
+
+        for field in form.select("textarea[name]"):
+            name = str(field.get("name", "")).strip()
+            if not name or field.has_attr("disabled"):
+                continue
+            payload[name] = field.get_text()
+
+        post_btn = form.find("input", attrs={"name": "post"})
+        if post_btn is None:
+            post_btn = form.find("button", attrs={"name": "post"})
+        if post_btn is not None:
+            payload["post"] = str(post_btn.get("value", "") or "Post")
+
+        return payload
+
     def _reply_post_failure_reason(self, response: requests.Response, topic_id: int) -> Optional[str]:
         final_url = normalize_url(response.url or "")
         if re.search(r"(?:\?|;)action=post(?:\b|[;?&])", final_url):
@@ -291,21 +363,16 @@ class ForumClient:
         page = self.get(post_page_url)
         soup = BeautifulSoup(page.text, "html.parser")
 
-        form = soup.find("form")
+        form = self._find_reply_form(soup, topic_id)
         if not form:
             raise RuntimeError(f"Unable to find post form for topic {topic_id}.")
 
         action = str(form.get("action") or "")
         post_url = urljoin(self.base_url + "/", action)
         if not post_url:
-            post_url = f"{self.base_url}/index.php?action=post2;start=0;board=0"
+            raise RuntimeError(f"Post form action is empty for topic {topic_id}.")
 
-        payload: Dict[str, str] = {}
-        for field in form.select("input[name]"):
-            name = str(field.get("name", "")).strip()
-            if not name:
-                continue
-            payload[name] = str(field.get("value", ""))
+        payload = self._build_form_payload(form)
 
         textarea = form.find("textarea", attrs={"name": "message"})
         if textarea is None:
