@@ -1,0 +1,63 @@
+2026-02-27 Session Summary
+
+背景
+- 用户反馈：此前新增的“sync 运行时向 topic=35 发汇报帖”机制未生效。
+- 现象：`kb/index/warnings.txt` 出现
+  `topic=35 category=report type=report_post_failed message=Posting reply to topic 35 may have failed.`
+
+阶段一：初步排查与第一轮修复
+1) 排查位置
+- 在 `tools/no81_sync/sync.py` 定位到：
+  - 汇报入口：`try_report_post(...)`
+  - 回帖实现：`ForumClient.post_reply(...)`
+  - 失败告警写入：`warning_type=report_post_failed`
+
+2) 发现的问题
+- 原失败判定规则过于粗糙：
+  - 只要响应 URL 包含 `action=post;topic=` 或
+  - 页面文本包含 `error`
+  即视为失败。
+- 在 SMF 页面中，`error` 关键字可能在非致命场景出现，导致误报。
+
+3) 第一轮修改
+- 新增 `ForumClient._reply_post_failure_reason(...)`，替代关键词粗判：
+  - 若仍停留在发帖页 URL（`action=post`）判定可能失败；
+  - 若命中常见错误容器（`#error_box` / `.errorbox` / `#fatal_error` / `ul.error`）提取错误文本；
+  - 若返回的是回帖表单本体也判定可能失败。
+- `post_reply(...)` 改为根据该函数返回值决定是否抛错。
+
+4) 本地验证
+- 语法校验通过：`python -m py_compile tools/no81_sync/sync.py`
+
+阶段二：根据复测反馈的深度修复
+1) 新反馈
+- 运行后出现更明确告警：
+  `Posting reply to topic 35 failed: 警告: 本主题目前是封锁状态! 只有版主及站长可以回覆。`
+- 用户确认：topic=35 并未封锁，且账号是 Global Moderator。
+
+2) 结合 SMF 文档/源码后的判断
+- 查阅 SMF Posting/Moderator 文档与 `Post.php` / `Post2()` 行为：
+  - `topic_locked` 可能作为发帖页中的 warning/minor error 回显；
+  - 不规范表单提交（字段选择错误、提交值不符合浏览器行为）可触发该分支，并不等同真实权限不足。
+
+3) 第二轮核心修复
+- 新增 `ForumClient._find_reply_form(...)`：
+  - 不再盲选第一个 `<form>`；
+  - 优先选择真实回帖表单（含 `message`、`topic`，并对 `action=post2`、`seqnum`、`sc` 等特征加权）。
+- 新增 `ForumClient._build_form_payload(...)`：
+  - 按浏览器语义构造 payload；
+  - 仅提交有效输入：
+    - 跳过 disabled 字段；
+    - `checkbox/radio` 仅在 checked 时提交；
+    - 跳过 submit/button/image/reset/file 等不应无条件提交项；
+    - 补齐 `select[name]` 与 `textarea[name]` 取值。
+  - 显式处理 `post` 提交按钮值。
+- `post_reply(...)` 改为使用以上两个新方法。
+
+4) 再次验证
+- 语法校验通过：`python -m py_compile tools/no81_sync/sync.py`
+- 用户最终反馈：问题已解决。
+
+本次会话产出
+- 代码变更文件：`tools/no81_sync/sync.py`
+- 结果：修复了 report 回帖流程在 SMF 场景下的误判与错误提交问题，汇报发帖恢复正常。
