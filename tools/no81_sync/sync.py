@@ -265,6 +265,27 @@ class ForumClient:
         url = f"{self.base_url}/index.php?action=printpage;topic={topic_id}.0"
         return self.get(url).text
 
+    def _reply_post_failure_reason(self, response: requests.Response, topic_id: int) -> Optional[str]:
+        final_url = normalize_url(response.url or "")
+        if re.search(r"(?:\?|;)action=post(?:\b|[;?&])", final_url):
+            return f"Posting reply to topic {topic_id} may have failed (still on post page: {final_url})."
+
+        soup = BeautifulSoup(response.text, "html.parser")
+        error_node = soup.select_one("#error_box, .errorbox, #fatal_error, ul.error")
+        if error_node is not None:
+            err_text = " ".join(error_node.get_text(" ", strip=True).split())
+            if err_text:
+                return f"Posting reply to topic {topic_id} failed: {err_text}"
+            return f"Posting reply to topic {topic_id} failed with forum validation error."
+
+        form = soup.find("form")
+        if form is not None and form.find("textarea", attrs={"name": "message"}) is not None:
+            topic_input = form.find("input", attrs={"name": "topic"})
+            if topic_input is None or str(topic_input.get("value", "")).strip() in {"", str(topic_id)}:
+                return f"Posting reply to topic {topic_id} may have failed (reply form returned)."
+
+        return None
+
     def post_reply(self, topic_id: int, message: str, subject: Optional[str] = None) -> None:
         post_page_url = f"{self.base_url}/index.php?action=post;topic={topic_id}.0"
         page = self.get(post_page_url)
@@ -301,8 +322,9 @@ class ForumClient:
             payload["post"] = "Post"
 
         resp = self.post(post_url, payload)
-        if "action=post;topic=" in resp.url or "error" in resp.text.lower():
-            raise RuntimeError(f"Posting reply to topic {topic_id} may have failed.")
+        reason = self._reply_post_failure_reason(resp, topic_id)
+        if reason:
+            raise RuntimeError(reason)
 
 
 def extract_topic_ids_from_html(html: str) -> Set[int]:
