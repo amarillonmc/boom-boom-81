@@ -1,0 +1,193 @@
+{
+  "type": "roles_by_author_index",
+  "generated_at_utc": "2026-03-04 20:18:51 UTC",
+  "total_authors": 37,
+  "total_roles": 1459,
+  "authors": [
+    {
+      "author": "小兵",
+      "count": 272,
+      "file": "小兵.json"
+    },
+    {
+      "author": "Justfish",
+      "count": 213,
+      "file": "Justfish.json"
+    },
+    {
+      "author": "小可",
+      "count": 142,
+      "file": "小可.json"
+    },
+    {
+      "author": "Jerry",
+      "count": 133,
+      "file": "Jerry.json"
+    },
+    {
+      "author": "zweizergain",
+      "count": 83,
+      "file": "zweizergain.json"
+    },
+    {
+      "author": "Ender_Eragon",
+      "count": 80,
+      "file": "Ender_Eragon.json"
+    },
+    {
+      "author": "Ombre",
+      "count": 63,
+      "file": "Ombre.json"
+    },
+    {
+      "author": "OPPO",
+      "count": 54,
+      "file": "OPPO.json"
+    },
+    {
+      "author": "galekkomari",
+      "count": 53,
+      "file": "galekkomari.json"
+    },
+    {
+      "author": "增熵星",
+      "count": 41,
+      "file": "增熵星.json"
+    },
+    {
+      "author": "tt",
+      "count": 40,
+      "file": "tt.json"
+    },
+    {
+      "author": "紫宵",
+      "count": 39,
+      "file": "紫宵.json"
+    },
+    {
+      "author": "玄羽",
+      "count": 33,
+      "file": "玄羽.json"
+    },
+    {
+      "author": "全装甲高达七号机",
+      "count": 31,
+      "file": "全装甲高达七号机.json"
+    },
+    {
+      "author": "烛火",
+      "count": 28,
+      "file": "烛火.json"
+    },
+    {
+      "author": "AD钙",
+      "count": 16,
+      "file": "AD钙.json"
+    },
+    {
+      "author": "tdd",
+      "count": 15,
+      "file": "tdd.json"
+    },
+    {
+      "author": "ALTER",
+      "count": 14,
+      "file": "ALTER.json"
+    },
+    {
+      "author": "普通人的无聊生活",
+      "count": 13,
+      "file": "普通人的无聊生活.json"
+    },
+    {
+      "author": "王者的老凤凰",
+      "count": 13,
+      "file": "王者的老凤凰.json"
+    },
+    {
+      "author": "塔.",
+      "count": 11,
+      "file": "塔.json"
+    },
+    {
+      "author": "无羁",
+      "count": 11,
+      "file": "无羁.json"
+    },
+    {
+      "author": "失智毛玉",
+      "count": 10,
+      "file": "失智毛玉.json"
+    },
+    {
+      "author": "黑森谨",
+      "count": 10,
+      "file": "黑森谨.json"
+    },
+    {
+      "author": "Huager",
+      "count": 8,
+      "file": "Huager.json"
+    },
+    {
+      "author": "TL",
+      "count": 7,
+      "file": "TL.json"
+    },
+    {
+      "author": "小壶",
+      "count": 7,
+      "file": "小壶.json"
+    },
+    {
+      "author": "Jessie",
+      "count": 5,
+      "file": "Jessie.json"
+    },
+    {
+      "author": "乐乐",
+      "count": 4,
+      "file": "乐乐.json"
+    },
+    {
+      "author": "依然",
+      "count": 2,
+      "file": "依然.json"
+    },
+    {
+      "author": "胖胖龙",
+      "count": 2,
+      "file": "胖胖龙.json"
+    },
+    {
+      "author": "千鸢彩花",
+      "count": 1,
+      "file": "千鸢彩花.json"
+    },
+    {
+      "author": "影白艺",
+      "count": 1,
+      "file": "影白艺.json"
+    },
+    {
+      "author": "御御症重度依赖",
+      "count": 1,
+      "file": "御御症重度依赖.json"
+    },
+    {
+      "author": "格拉摩根",
+      "count": 1,
+      "file": "格拉摩根.json"
+    },
+    {
+      "author": "梦梦",
+      "count": 1,
+      "file": "梦梦.json"
+    },
+    {
+      "author": "香草大鹅",
+      "count": 1,
+      "file": "香草大鹅.json"
+    }
+  ]
+}

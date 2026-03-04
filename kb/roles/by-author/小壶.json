@@ -1,0 +1,49 @@
+{
+  "author": "小壶",
+  "count": 7,
+  "generated_at_utc": "2026-03-04 20:18:51 UTC",
+  "items": [
+    {
+      "topic_id": 2035,
+      "title": "小壶的角色 - 原始人",
+      "created_at": "",
+      "rel_path": "roles/2035-topic.md"
+    },
+    {
+      "topic_id": 1802,
+      "title": "小壶的角色 - 陆仁嘉",
+      "created_at": "",
+      "rel_path": "roles/1802-topic.md"
+    },
+    {
+      "topic_id": 1624,
+      "title": "小壶的角色 - 壶神",
+      "created_at": "",
+      "rel_path": "roles/1624-topic.md"
+    },
+    {
+      "topic_id": 1141,
+      "title": "小壶的角色 - 麦当劳叔叔",
+      "created_at": "",
+      "rel_path": "roles/1141-topic.md"
+    },
+    {
+      "topic_id": 1028,
+      "title": "小壶的角色 - 八点档之心",
+      "created_at": "",
+      "rel_path": "roles/1028-topic.md"
+    },
+    {
+      "topic_id": 970,
+      "title": "小壶的角色 - 偶象剧男主",
+      "created_at": "",
+      "rel_path": "roles/970-topic.md"
+    },
+    {
+      "topic_id": 964,
+      "title": "小壶的角色 - 管家",
+      "created_at": "",
+      "rel_path": "roles/964-topic.md"
+    }
+  ]
+}
