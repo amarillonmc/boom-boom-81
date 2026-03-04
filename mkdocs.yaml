@@ -7,4 +7,5 @@ theme:
   name: material
 
 plugins:
-  - search
+  - search:
+      indexing: sections
