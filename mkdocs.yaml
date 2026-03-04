@@ -7,5 +7,10 @@ theme:
   name: material
 
 plugins:
-  - search:
-      indexing: sections
+  - search
+  - exclude-search:
+      exclude:
+        - roles/all.md
+        - roles/by-author/*
+        - records/*
+        - records-completed/*
