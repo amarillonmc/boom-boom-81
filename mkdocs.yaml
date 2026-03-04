@@ -1,0 +1,10 @@
+site_name: boom-boom-81 archive
+docs_dir: kb
+site_dir: ../site
+use_directory_urls: true
+
+theme:
+  name: material
+
+plugins:
+  - search
