@@ -157,7 +157,10 @@ def rel_link(from_dir: Path, to_file: Path) -> str:
 
 def write_text(path: Path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(text, encoding="utf-8", newline="\n")
+    # 统一行尾，避免 Windows 下出现混乱的 CRLF/LF
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    with path.open("w", encoding="utf-8", newline="\n") as f:
+        f.write(text)
 
 
 def generate_author_page(
