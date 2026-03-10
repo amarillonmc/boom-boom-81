@@ -222,19 +222,73 @@ class ForumClient:
         resp.raise_for_status()
         return resp
 
+    def _base_from_url(self, url: str) -> str:
+        p = urlparse(url)
+        if p.scheme and p.netloc:
+            return f"{p.scheme}://{p.netloc}"
+        return self.base_url
+
+    def set_auth_cookies(self, cookie_header: str) -> None:
+        host = urlparse(self.base_url).hostname or ""
+        for item in cookie_header.split(";"):
+            part = item.strip()
+            if not part or "=" not in part:
+                continue
+            name, value = part.split("=", 1)
+            k = name.strip()
+            v = value.strip()
+            if not k:
+                continue
+            self.session.cookies.set(k, v, domain=host, path="/")
+
+    def verify_logged_in(self, username: Optional[str] = None) -> bool:
+        page = self.get(f"{self.base_url}/index.php")
+        text = page.text
+        if "action=logout" in text:
+            return True
+        if username and username in text:
+            return True
+        return False
+
+    def _find_login_form(self, soup: BeautifulSoup) -> Optional[Tag]:
+        candidates: List[Tuple[int, Tag]] = []
+        for form in soup.find_all("form"):
+            score = 0
+            action = normalize_url(str(form.get("action") or ""))
+            if "action=login2" in action:
+                score += 100
+            if form.find("input", attrs={"name": "user"}) is not None:
+                score += 40
+            if form.find("input", attrs={"name": "passwrd"}) is not None:
+                score += 40
+            if form.find("input", attrs={"name": "hash_passwrd"}) is not None:
+                score += 5
+            if form.find("input", attrs={"name": "cookielength"}) is not None:
+                score += 5
+            if score > 0:
+                candidates.append((score, form))
+
+        if not candidates:
+            return None
+
+        candidates.sort(key=lambda x: x[0], reverse=True)
+        return candidates[0][1]
+
     def login(self, username: str, password: str) -> None:
         login_url = f"{self.base_url}/index.php?action=login"
         page = self.get(login_url)
         soup = BeautifulSoup(page.text, "html.parser")
+        effective_base = self._base_from_url(page.url or login_url)
+        self.base_url = effective_base.rstrip("/")
 
-        form = soup.find("form")
+        form = self._find_login_form(soup)
         if not form:
             raise RuntimeError("Unable to find login form on SMF login page.")
 
         action = str(form.get("action") or "")
-        action_url = urljoin(self.base_url + "/", action)
-        if "action=login2" not in action_url:
-            action_url = f"{self.base_url}/index.php?action=login2"
+        action_url = urljoin(effective_base + "/", action)
+        if not action_url:
+            action_url = f"{effective_base}/index.php?action=login2"
 
         payload: Dict[str, str] = {}
         for field in form.select("input[name]"):
@@ -244,9 +298,43 @@ class ForumClient:
 
         payload["user"] = username
         payload["passwrd"] = password
+        if "passwd" in payload:
+            payload["passwd"] = password
+        if "password" in payload:
+            payload["password"] = password
+        if "hash_passwrd" in payload:
+            payload["hash_passwrd"] = hashlib.sha1((username.lower() + password).encode("utf-8")).hexdigest()
         payload.setdefault("cookielength", "-1")
 
-        result = self.post(action_url, payload)
+        headers = {
+            "Referer": page.url or login_url,
+            "Origin": effective_base,
+        }
+
+        self._sleep()
+        result = self.session.post(action_url, data=payload, headers=headers, timeout=40, allow_redirects=True)
+        if result.status_code == 403 and action_url.startswith("http://"):
+            https_action_url = "https://" + action_url[len("http://") :]
+            https_base = self._base_from_url(https_action_url)
+            retry_headers = {
+                "Referer": (page.url or login_url).replace("http://", "https://", 1),
+                "Origin": https_base,
+            }
+            self._sleep()
+            result = self.session.post(
+                https_action_url,
+                data=payload,
+                headers=retry_headers,
+                timeout=40,
+                allow_redirects=True,
+            )
+        if result.status_code == 403:
+            preview = compact_blank_lines(result.text)[:240]
+            raise RuntimeError(
+                f"Login rejected with 403. Possible causes: force-ssl login required, token mismatch, or WAF blocking non-browser POST. "
+                f"url={normalize_url(result.url)} body={preview}"
+            )
+        result.raise_for_status()
         ok_text = result.text
         if "action=logout" not in ok_text and username not in ok_text:
             raise RuntimeError("Login failed. Verify SMF credentials or required permissions.")
@@ -1132,14 +1220,21 @@ def run_maintenance_local(repo_root: Path, config_path: Path, category: str, dry
     client: Optional[ForumClient] = None
     can_report = False
     if report_enabled and not dry_run:
-        if cfg.get("SMF_BASE_URL") and cfg.get("SMF_USERNAME") and cfg.get("SMF_PASSWORD"):
+        cookie_header = (cfg.get("SMF_COOKIE") or "").strip()
+        can_login_with_password = bool(cfg.get("SMF_USERNAME") and cfg.get("SMF_PASSWORD"))
+        if cfg.get("SMF_BASE_URL") and (cookie_header or can_login_with_password):
             client = ForumClient(
                 cfg["SMF_BASE_URL"],
                 delay_ms=int(cfg.get("REQUEST_DELAY_MS", "500")),
                 user_agent=cfg.get("USER_AGENT", "no81-kb-sync/1.0"),
             )
             try:
-                client.login(cfg["SMF_USERNAME"], cfg["SMF_PASSWORD"])
+                if cookie_header:
+                    client.set_auth_cookies(cookie_header)
+                    if not client.verify_logged_in(cfg.get("SMF_USERNAME")):
+                        raise RuntimeError("SMF_COOKIE provided but session is not authenticated.")
+                else:
+                    client.login(cfg["SMF_USERNAME"], cfg["SMF_PASSWORD"])
                 can_report = True
             except Exception as exc:
                 warning_entries.append(
@@ -1256,10 +1351,15 @@ def run_maintenance_local(repo_root: Path, config_path: Path, category: str, dry
 
 def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -> int:
     cfg = load_env_file(config_path)
-    required = ["SMF_BASE_URL", "SMF_USERNAME", "SMF_PASSWORD"]
-    missing = [k for k in required if not cfg.get(k)]
-    if missing:
-        raise RuntimeError(f"Missing required config keys: {', '.join(missing)}")
+    if not cfg.get("SMF_BASE_URL"):
+        raise RuntimeError("Missing required config key: SMF_BASE_URL")
+
+    has_cookie_auth = bool((cfg.get("SMF_COOKIE") or "").strip())
+    if not has_cookie_auth:
+        required = ["SMF_USERNAME", "SMF_PASSWORD"]
+        missing = [k for k in required if not cfg.get(k)]
+        if missing:
+            raise RuntimeError(f"Missing required config keys: {', '.join(missing)}")
 
     ensure_dirs(repo_root)
 
@@ -1272,7 +1372,16 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
     sample_size = int(cfg.get("AUTHOR_SAMPLE_SIZE", str(DEFAULT_SAMPLE_SIZE)))
     skip_existing = env_bool(cfg, "SKIP_EXISTING_TOPICS", True)
     client = ForumClient(cfg["SMF_BASE_URL"], delay_ms=delay_ms, user_agent=ua)
-    client.login(cfg["SMF_USERNAME"], cfg["SMF_PASSWORD"])
+    cookie_header = (cfg.get("SMF_COOKIE") or "").strip()
+    if cookie_header:
+        client.set_auth_cookies(cookie_header)
+        if not client.verify_logged_in(cfg.get("SMF_USERNAME")):
+            raise RuntimeError(
+                "SMF_COOKIE provided but session is not authenticated. "
+                "Please copy fresh cookies from a browser that is already logged in."
+            )
+    else:
+        client.login(cfg["SMF_USERNAME"], cfg["SMF_PASSWORD"])
 
     run_id = uuid.uuid4().hex[:12]
     run_start = time.time()

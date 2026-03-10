@@ -25,6 +25,15 @@ cp tools/no81_sync/config.example.env tools/no81_sync/.env
 
 2. Fill in your SMF account in `tools/no81_sync/.env`.
 
+   If your site blocks scripted `login2` posts (e.g. returns `Session 验证失败` on 403),
+   you can use cookie auth instead:
+
+   - log in once in browser
+   - copy the Cookie header value from that logged-in request
+   - set `SMF_COOKIE=...` in `.env`
+
+   When `SMF_COOKIE` is set, the script will use that session directly and skip username/password login.
+
 3. Install dependencies:
 
 ```bash
@@ -98,6 +107,7 @@ This backfills existing files and rebuilds `topics/authors/warnings` indexes in 
 ## Notes
 
 - The script uses SMF login via `action=login` -> `action=login2`.
+- Some deployments may reject non-browser `login2` POST with session verification errors; use `SMF_COOKIE` fallback in that case.
 - Export is text-first. Images/media are not downloaded.
 - A local state file is used for incremental writes:
   - `tools/no81_sync/state/state.json`
