@@ -29,8 +29,9 @@ cp tools/no81_sync/config.example.env tools/no81_sync/.env
    you can use cookie auth instead:
 
    - log in once in browser
-   - copy the Cookie header value from that logged-in request
+   - copy the Cookie header value from that logged-in request (recommended: include both auth cookie and PHPSESSID)
    - set `SMF_COOKIE=...` in `.env`
+   - if you only copied the auth cookie value itself, also set `SMF_COOKIE_NAME=...` (e.g. `SMFCookie630`)
 
    When `SMF_COOKIE` is set, the script will use that session directly and skip username/password login.
 

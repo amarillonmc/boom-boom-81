@@ -1,0 +1,90 @@
+SMF 2.1.7 升级后 sync.py 登录/发帖故障排查归档（2026-03-09）
+
+背景
+- 论坛从 SMF 2.1.5 升级到 2.1.7 后，运行 `python sync.py` 在 `login2` 阶段持续报 403 Forbidden。
+- 修复登录后，sync 主流程可执行，但自动发帖（report）失败。
+
+一、故障现象与根因
+
+1) 登录失败（403）
+- 现象：`action=login2` 返回 403，错误页提示 `Session 验证失败。请登出后再重新登录。`
+- 关键结论：
+  - 并非单纯账号密码错误，而是 SMF 2.1.7 下 session/token 校验更严格，脚本化 POST 登录在该站点环境被拒。
+  - 可能叠加 WAF/服务器规则（LiteSpeed）与主题/插件行为差异。
+
+2) 发帖失败（找不到表单）
+- 初始现象：`Unable to find post form for topic 35`。
+- 后续现象：`Post form message textarea not found`。
+- 最终诊断信息显示：
+  - `action=post;topic=35.0` 实际返回登录页（`title=Log in`，form 指向 `action=login2`）。
+  - `topic=35.0` 只有 `quickmod2` 表单，无回复编辑器。
+- 根因：脚本实际上仍是游客态，未持有可发帖的有效登录会话。
+
+二、代码改动与修复策略
+
+1) 登录流程增强（兼容 2.1.7）
+- 增加登录表单评分选择，避免拿错 form。
+- 优先使用页面真实 action，不强行覆盖为固定 login2 URL。
+- 增加 Referer/Origin 头，处理 https/域名重定向场景。
+- 补充密码字段兼容（`passwrd`/`passwd`/`password`）。
+- 对 403 给出更明确诊断信息。
+
+2) 引入 Cookie 登录兜底（关键）
+- 新增 `SMF_COOKIE` 支持：存在时跳过用户名/密码登录，直接使用浏览器登录态。
+- 新增 `SMF_COOKIE_NAME`（默认示例 `SMFCookie630`）用于“仅提供 cookie 值”场景。
+- 支持两种写法：
+  - 完整 Cookie 头：`SMFCookie630=...; PHPSESSID=...`
+  - 仅值：`SMF_COOKIE=<value>` + `SMF_COOKIE_NAME=SMFCookie630`
+
+3) 登录态校验修正（防误判）
+- 旧校验可能把页面文本命中当作已登录。
+- 新逻辑改为：
+  - 访问 `action=login`，若仍停留登录页则判定未登录。
+  - 辅助判断 `action=logout` 或 `smf_member_id > 0`。
+
+4) 发帖表单查找增强与防误选
+- 先后尝试 `action=post;topic=...` 与 `topic=...` 页面。
+- 识别时增加对 `action=post2`、`topic=<id>`、`message` 字段的综合评分。
+- 排除误选 quickmod 等非发帖表单。
+- 若发帖页重定向到登录页，直接报“会话未认证”而非泛化错误。
+
+5) 文档与配置更新
+- `tools/no81_sync/config.example.env` 增加 `SMF_COOKIE` 与 `SMF_COOKIE_NAME` 示例。
+- `tools/no81_sync/README.md` 补充 cookie 模式使用说明与注意事项。
+
+三、最终验证结果
+- 注入正确 cookie 后（尤其包含论坛认证 cookie，建议同时带 PHPSESSID），
+  - sync 主流程成功；
+  - report 自动发帖成功；
+  - 本次故障全部排除。
+
+四、此次踩坑清单（避免复发）
+
+1) 只修 login2 参数不够
+- 在 2.1.7 环境下，session/token 校验与站点安全层可能直接拒绝脚本登录。
+
+2) “看似登录成功”不等于“可发帖”
+- 必须验证可进入 `action=post` 页面并拿到真正回复表单。
+
+3) Cookie 注入格式很关键
+- 若仅粘贴 cookie 值且无 cookie 名，脚本无法正确建 cookie。
+- 推荐直接粘贴浏览器请求中的完整 Cookie 头。
+
+4) 表单匹配不能过松
+- 主题页常有 quickmod 等 form，放宽匹配会误选并触发“message textarea not found”。
+
+5) 错误信息需要可诊断
+- 本次通过增强错误上下文（页面标题/form action/字段列表）才快速锁定真实问题。
+
+五、建议的长期方案
+- 继续保留 cookie 登录兜底，作为 2.1.7+ 站点默认安全策略下的稳定路径。
+- 将“登录态真实性检查（可发帖检查）”作为必经步骤。
+- 若未来允许，可评估站点侧白名单/规则调整，恢复脚本密码登录的可用性。
+
+                                   ▄
+  █▀▀█ █▀▀█ █▀▀█ █▀▀▄ █▀▀▀ █▀▀█ █▀▀█ █▀▀█
+  █  █ █  █ █▀▀▀ █  █ █    █  █ █  █ █▀▀▀
+  ▀▀▀▀ █▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀▀
+
+  Session   SMF 2.1.x login 403 error during python sync.py d…
+  Continue  opencode -s ses_32aaec597ffeArM42g4aT6tRQu

@@ -228,8 +228,19 @@ class ForumClient:
             return f"{p.scheme}://{p.netloc}"
         return self.base_url
 
-    def set_auth_cookies(self, cookie_header: str) -> None:
+    def set_auth_cookies(self, cookie_header: str, cookie_name: Optional[str] = None) -> None:
         host = urlparse(self.base_url).hostname or ""
+        raw = cookie_header.strip()
+        if not raw:
+            return
+
+        if "=" not in raw:
+            if not cookie_name:
+                raise RuntimeError("SMF_COOKIE appears to be a raw cookie value, but SMF_COOKIE_NAME is not set.")
+            self.session.cookies.set(cookie_name.strip(), raw, domain=host, path="/")
+            return
+
+        attr_names = {"path", "domain", "expires", "max-age", "secure", "httponly", "samesite"}
         for item in cookie_header.split(";"):
             part = item.strip()
             if not part or "=" not in part:
@@ -239,15 +250,27 @@ class ForumClient:
             v = value.strip()
             if not k:
                 continue
+            if k.lower() in attr_names:
+                continue
             self.session.cookies.set(k, v, domain=host, path="/")
 
     def verify_logged_in(self, username: Optional[str] = None) -> bool:
-        page = self.get(f"{self.base_url}/index.php")
+        page = self.get(f"{self.base_url}/index.php?action=login")
+        final_url = normalize_url(page.url or "")
+        if "action=login" in final_url:
+            return False
+
         text = page.text
         if "action=logout" in text:
             return True
-        if username and username in text:
+
+        member_match = re.search(r"var\s+smf_member_id\s*=\s*(\d+)\s*;", text)
+        if member_match and int(member_match.group(1)) > 0:
             return True
+
+        if username and re.search(rf"\b{re.escape(username)}\b", text):
+            return True
+
         return False
 
     def _find_login_form(self, soup: BeautifulSoup) -> Optional[Tag]:
@@ -356,19 +379,29 @@ class ForumClient:
     def _find_reply_form(self, soup: BeautifulSoup, topic_id: int) -> Optional[Tag]:
         candidates: List[Tuple[int, Tag]] = []
         for form in soup.find_all("form"):
-            if form.find("textarea", attrs={"name": "message"}) is None:
-                continue
+            has_message_textarea = form.find("textarea", attrs={"name": "message"}) is not None
+            has_message_input = form.find("input", attrs={"name": "message"}) is not None
+            has_message = has_message_textarea or has_message_input
 
             action = str(form.get("action") or "")
             action_norm = normalize_url(action)
             topic_input = form.find("input", attrs={"name": "topic"})
             topic_raw = str(topic_input.get("value", "")).strip() if topic_input is not None else ""
-            topic_ok = topic_raw == "" or bool(re.match(rf"^{topic_id}(?:\D.*)?$", topic_raw))
+            topic_ok = bool(topic_input is not None and (topic_raw == "" or bool(re.match(rf"^{topic_id}(?:\D.*)?$", topic_raw))))
+            action_topic_ok = bool(re.search(rf"topic={topic_id}(?:\.\d+)?(?:\b|[;?&])", action_norm))
+            action_is_post2 = "action=post2" in action_norm
+
+            if not action_is_post2 and not has_message:
+                continue
 
             score = 0
-            if "action=post2" in action_norm:
+            if action_is_post2:
                 score += 100
+            if has_message:
+                score += 30
             if topic_ok:
+                score += 10
+            if action_topic_ok:
                 score += 10
             if form.find("input", attrs={"name": "seqnum"}) is not None:
                 score += 5
@@ -383,6 +416,32 @@ class ForumClient:
 
         candidates.sort(key=lambda x: x[0], reverse=True)
         return candidates[0][1]
+
+    def _reply_form_debug_hint(self, html: str) -> str:
+        soup = BeautifulSoup(html, "html.parser")
+        title = ""
+        if soup.title is not None:
+            title = " ".join(soup.title.get_text(" ", strip=True).split())
+
+        forms: List[str] = []
+        for form in soup.find_all("form")[:6]:
+            action = normalize_url(str(form.get("action") or ""))
+            has_message = form.find("textarea", attrs={"name": "message"}) is not None
+            has_topic = form.find("input", attrs={"name": "topic"}) is not None
+            has_seq = form.find("input", attrs={"name": "seqnum"}) is not None
+            forms.append(
+                f"action={action or '<empty>'},message={int(has_message)},topic={int(has_topic)},seqnum={int(has_seq)}"
+            )
+
+        error_node = soup.select_one("#fatal_error, #error_box, .errorbox, ul.error")
+        error_text = ""
+        if error_node is not None:
+            error_text = " ".join(error_node.get_text(" ", strip=True).split())
+
+        return (
+            f"title={title or '<none>'}; forms={len(soup.find_all('form'))}; "
+            f"sample_forms=[{' | '.join(forms)}]; error={error_text or '<none>'}"
+        )
 
     def _build_form_payload(self, form: Tag) -> Dict[str, str]:
         payload: Dict[str, str] = {}
@@ -447,24 +506,61 @@ class ForumClient:
         return None
 
     def post_reply(self, topic_id: int, message: str, subject: Optional[str] = None) -> None:
+        source_pages: List[Tuple[str, requests.Response]] = []
         post_page_url = f"{self.base_url}/index.php?action=post;topic={topic_id}.0"
-        page = self.get(post_page_url)
-        soup = BeautifulSoup(page.text, "html.parser")
+        post_page = self.get(post_page_url)
+        source_pages.append(("post", post_page))
 
-        form = self._find_reply_form(soup, topic_id)
+        if "action=login" in normalize_url(post_page.url or ""):
+            raise RuntimeError(
+                f"Post page redirected to login for topic {topic_id}. Session is not authenticated for posting. "
+                f"url={normalize_url(post_page.url or '')}"
+            )
+
+        topic_page_url = f"{self.base_url}/index.php?topic={topic_id}.0"
+        topic_page = self.get(topic_page_url)
+        source_pages.append(("topic", topic_page))
+
+        form: Optional[Tag] = None
+        form_page_url = ""
+        form_page_text = ""
+        for _, page in source_pages:
+            soup = BeautifulSoup(page.text, "html.parser")
+            candidate = self._find_reply_form(soup, topic_id)
+            if candidate is not None:
+                form = candidate
+                form_page_url = page.url or ""
+                form_page_text = page.text
+                break
+
         if not form:
-            raise RuntimeError(f"Unable to find post form for topic {topic_id}.")
+            hints = []
+            for name, page in source_pages:
+                hints.append(f"{name}@{normalize_url(page.url or '')}: {self._reply_form_debug_hint(page.text)}")
+            raise RuntimeError(f"Unable to find post form for topic {topic_id}. {' || '.join(hints)}")
 
         action = str(form.get("action") or "")
-        post_url = urljoin(self.base_url + "/", action)
+        post_base = self._base_from_url(form_page_url or self.base_url)
+        post_url = urljoin(post_base + "/", action)
         if not post_url:
             raise RuntimeError(f"Post form action is empty for topic {topic_id}.")
 
         payload = self._build_form_payload(form)
 
         textarea = form.find("textarea", attrs={"name": "message"})
-        if textarea is None:
-            raise RuntimeError("Post form message textarea not found.")
+        message_input = form.find("input", attrs={"name": "message"})
+        if textarea is None and message_input is None:
+            field_names = sorted(
+                {
+                    str(el.get("name", "")).strip()
+                    for el in form.select("input[name], textarea[name], select[name]")
+                    if str(el.get("name", "")).strip()
+                }
+            )
+            action_dbg = normalize_url(str(form.get("action") or ""))
+            raise RuntimeError(
+                f"Post form message textarea not found. action={action_dbg or '<empty>'} fields={','.join(field_names)}"
+            )
 
         payload["message"] = message
         payload["topic"] = str(topic_id)
@@ -1230,7 +1326,7 @@ def run_maintenance_local(repo_root: Path, config_path: Path, category: str, dry
             )
             try:
                 if cookie_header:
-                    client.set_auth_cookies(cookie_header)
+                    client.set_auth_cookies(cookie_header, cookie_name=cfg.get("SMF_COOKIE_NAME"))
                     if not client.verify_logged_in(cfg.get("SMF_USERNAME")):
                         raise RuntimeError("SMF_COOKIE provided but session is not authenticated.")
                 else:
@@ -1374,7 +1470,7 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
     client = ForumClient(cfg["SMF_BASE_URL"], delay_ms=delay_ms, user_agent=ua)
     cookie_header = (cfg.get("SMF_COOKIE") or "").strip()
     if cookie_header:
-        client.set_auth_cookies(cookie_header)
+        client.set_auth_cookies(cookie_header, cookie_name=cfg.get("SMF_COOKIE_NAME"))
         if not client.verify_logged_in(cfg.get("SMF_USERNAME")):
             raise RuntimeError(
                 "SMF_COOKIE provided but session is not authenticated. "
