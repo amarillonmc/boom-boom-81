@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1544.0"
 author: "塔."
 created_at_raw: "十月 13, 2025, 10:27 上午"
 created_at_iso: "2025-10-13T10:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:03 +0800"
-fetched_at_iso: "2026-02-26T10:09:03+08:00"
+fetched_at_raw: "2026-06-10 10:45:27 +0800"
+fetched_at_iso: "2026-06-10T10:45:27.959927+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4327
-approx_tokens: 2164
 ---
 
 # 塔的角色 - 卡兰希尔
 
 ## 1F
 
+- floor_index: 1
 - Author: 塔.
-- Posted at: 十月 13, 2025, 10:27 上午
+- Posted at raw: 十月 13, 2025, 10:27 上午
+- Posted at iso: 2025-10-13T10:27:00+08:00
 
 **角色填写人：**塔
 
@@ -92,8 +92,10 @@ approx_tokens: 2164
 
 ## 2F
 
+- floor_index: 2
 - Author: 塔.
-- Posted at: 十月 15, 2025, 12:33 上午
+- Posted at raw: 十月 15, 2025, 12:33 上午
+- Posted at iso: 2025-10-15T00:33:00+08:00
 
 冒险经历卡兰希尔参与了一场对决，她全程观测了"赠与船票"的利他行为、"帝王"的认知错位，以及"守护"引发的奇迹。她记录了这些无法被纯粹逻辑解释的、"情感"驱动的变量，对其产生了初始的探求欲。
 在拉莱耶的梦境回廊中，卡兰希尔直面了代表自身"死亡"与"虚无"的梦魇。在这场以"存在"为赌注的、无声的拔河中，她因无法勘破"自我"与"死亡"的界限而落败，最终被更加饥饿的捕食者（浅忆有栖）连同梦魇一同吞噬，其短暂的重生之旅，以彻底的"消散"而告终。但是，一位传奇圣武士"明斯特"使用"完全复生术"复活了她，虽然她没能能升级，但是获得了更加深刻的感悟。
@@ -105,8 +107,10 @@ approx_tokens: 2164
 
 ## 3F
 
+- floor_index: 3
 - Author: 塔.
-- Posted at: 十月 15, 2025, 12:34 上午
+- Posted at raw: 十月 15, 2025, 12:34 上午
+- Posted at iso: 2025-10-15T00:34:00+08:00
 
 对局记录https://number81.xyz/index.php?topic=1572.0
 https://number81.xyz/index.php?topic=1550.0

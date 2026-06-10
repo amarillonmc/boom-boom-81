@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1905.0"
 author: "Jerry"
 created_at_raw: "十月 24, 2025, 10:38 上午"
 created_at_iso: "2025-10-24T10:38:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:36 +0800"
-fetched_at_iso: "2026-02-26T10:11:36+08:00"
+fetched_at_raw: "2026-06-10 10:47:39 +0800"
+fetched_at_iso: "2026-06-10T10:47:39.606229+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3674
-approx_tokens: 1837
 ---
 
 # Jerry的角色 - 继国缘一
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 24, 2025, 10:38 上午
+- Posted at raw: 十月 24, 2025, 10:38 上午
+- Posted at iso: 2025-10-24T10:38:00+08:00
 
 **角色填写人：**Jerry
 
@@ -90,15 +90,19 @@ approx_tokens: 1837
 
 ## 2F
 
+- floor_index: 2
 - Author: OPPO
-- Posted at: 十月 24, 2025, 10:39 上午
+- Posted at raw: 十月 24, 2025, 10:39 上午
+- Posted at iso: 2025-10-24T10:39:00+08:00
 
 去对线独孤求败？
 
 ## 3F
 
+- floor_index: 3
 - Author: Jerry
-- Posted at: 十月 24, 2025, 11:01 上午
+- Posted at raw: 十月 24, 2025, 11:01 上午
+- Posted at iso: 2025-10-24T11:01:00+08:00
 
 > [引用自: OPPO 于 十月 24, 2025, 10:39 上午](https://number81.xyz/index.php?msg=16220)去对线独孤求败？
 
@@ -106,7 +110,9 @@ approx_tokens: 1837
 
 ## 4F
 
+- floor_index: 4
 - Author: 小兵
-- Posted at: 十月 24, 2025, 11:13 上午
+- Posted at raw: 十月 24, 2025, 11:13 上午
+- Posted at iso: 2025-10-24T11:13:00+08:00
 
 无惨：你别写我，我不去

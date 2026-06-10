@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3566.0"
 author: "小可"
 created_at_raw: "三月 09, 2026, 04:53 上午"
 created_at_iso: "2026-03-09T04:53:00+08:00"
-fetched_at_raw: "2026-03-10 09:41:01 +0800"
-fetched_at_iso: "2026-03-10T09:41:01.943417+08:00"
+fetched_at_raw: "2026-06-10 10:55:29 +0800"
+fetched_at_iso: "2026-06-10T10:55:29.875662+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -25,7 +25,7 @@ data_quality: "ok"
 
 **角色填写人：**小可
 
-**角色名称：**杨凝华（代号：雷牙）
+**角色名称：**雷牙
 
 **基本属性：**
 

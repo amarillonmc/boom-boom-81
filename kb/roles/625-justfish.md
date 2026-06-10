@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=625.0"
 author: "Justfish"
 created_at_raw: "九月 21, 2025, 10:12 上午"
 created_at_iso: "2025-09-21T10:12:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:15 +0800"
-fetched_at_iso: "2026-02-26T10:02:15+08:00"
+fetched_at_raw: "2026-06-10 10:39:25 +0800"
+fetched_at_iso: "2026-06-10T10:39:25.875656+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2131
-approx_tokens: 1066
 ---
 
 # Justfish的角色 - 极强音红豆
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 21, 2025, 10:12 上午
+- Posted at raw: 九月 21, 2025, 10:12 上午
+- Posted at iso: 2025-09-21T10:12:00+08:00
 
 **角色填写人：**Justfish
 
@@ -70,15 +70,19 @@ approx_tokens: 1066
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 九月 21, 2025, 10:14 上午
+- Posted at raw: 九月 21, 2025, 10:14 上午
+- Posted at iso: 2025-09-21T10:14:00+08:00
 
 会②：这张卡的攻击对象在伤害计算后破坏。吗
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 九月 21, 2025, 10:47 上午
+- Posted at raw: 九月 21, 2025, 10:47 上午
+- Posted at iso: 2025-09-21T10:47:00+08:00
 
 > [引用自: 紫宵 于 九月 21, 2025, 10:14 上午](https://number81.xyz/index.php?msg=2521)会②：这张卡的攻击对象在伤害计算后破坏。吗
 

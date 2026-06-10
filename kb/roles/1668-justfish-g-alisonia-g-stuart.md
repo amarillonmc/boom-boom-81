@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1668.0"
 author: "Justfish"
 created_at_raw: "十月 17, 2025, 06:53 上午"
 created_at_iso: "2025-10-17T06:53:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:51 +0800"
-fetched_at_iso: "2026-02-26T10:09:51+08:00"
+fetched_at_raw: "2026-06-10 10:46:13 +0800"
+fetched_at_iso: "2026-06-10T10:46:13.023718+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5186
-approx_tokens: 2593
 ---
 
 # Justfish的角色 - 娅丽索妮娅·G·斯图亚特 (Alisonia G. Stuart)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 17, 2025, 06:53 上午
+- Posted at raw: 十月 17, 2025, 06:53 上午
+- Posted at iso: 2025-10-17T06:53:00+08:00
 
 **角色填写人：**Justfish
 

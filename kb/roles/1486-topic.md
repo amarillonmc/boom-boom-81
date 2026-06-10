@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1486.0"
 author: "小兵"
 created_at_raw: "十月 11, 2025, 10:15 上午"
 created_at_iso: "2025-10-11T10:15:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:34 +0800"
-fetched_at_iso: "2026-02-26T10:08:34+08:00"
+fetched_at_raw: "2026-06-10 10:45:02 +0800"
+fetched_at_iso: "2026-06-10T10:45:02.596336+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 823
-approx_tokens: 412
 ---
 
 # 小兵的角色 - 比扎罗
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 11, 2025, 10:15 上午
+- Posted at raw: 十月 11, 2025, 10:15 上午
+- Posted at iso: 2025-10-11T10:15:00+08:00
 
 **角色填写人：**小兵
 

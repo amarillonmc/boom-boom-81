@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=740.0"
 author: "Justfish"
 created_at_raw: "九月 23, 2025, 07:47 上午"
 created_at_iso: "2025-09-23T07:47:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:10 +0800"
-fetched_at_iso: "2026-02-26T10:03:10+08:00"
+fetched_at_raw: "2026-06-10 10:40:08 +0800"
+fetched_at_iso: "2026-06-10T10:40:08.572823+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1811
-approx_tokens: 906
 ---
 
 # Justfish的角色 - 「虚实之握」迷迭香
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 23, 2025, 07:47 上午
+- Posted at raw: 九月 23, 2025, 07:47 上午
+- Posted at iso: 2025-09-23T07:47:00+08:00
 
 **角色填写人：**Justfish
 

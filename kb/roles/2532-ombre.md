@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2532.0"
 author: "Ombre"
 created_at_raw: "十一月 09, 2025, 08:11 上午"
 created_at_iso: "2025-11-09T08:11:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:13 +0800"
-fetched_at_iso: "2026-02-26T10:15:13+08:00"
+fetched_at_raw: "2026-06-10 10:50:57 +0800"
+fetched_at_iso: "2026-06-10T10:50:57.416111+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6580
-approx_tokens: 3290
 ---
 
 # Ombre的角色 - 铃鹿御前
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 08:11 上午
+- Posted at raw: 十一月 09, 2025, 08:11 上午
+- Posted at iso: 2025-11-09T08:11:00+08:00
 
 ### **角色档案：铃鹿御前**
 
@@ -162,8 +162,10 @@ approx_tokens: 3290
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 08:19 上午
+- Posted at raw: 十一月 09, 2025, 08:19 上午
+- Posted at iso: 2025-11-09T08:19:00+08:00
 
 从者档案（Rider）### **核心身份 (Core Identity)**
 

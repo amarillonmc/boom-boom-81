@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2974.0"
 author: "galekkomari"
 created_at_raw: "十一月 21, 2025, 10:09 下午"
 created_at_iso: "2025-11-21T22:09:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:26 +0800"
-fetched_at_iso: "2026-02-26T10:17:26+08:00"
+fetched_at_raw: "2026-06-10 10:52:57 +0800"
+fetched_at_iso: "2026-06-10T10:52:57.775443+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7004
-approx_tokens: 3502
 ---
 
 # galekkomari的角色 - 新史演绎者·高导
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十一月 21, 2025, 10:09 下午
+- Posted at raw: 十一月 21, 2025, 10:09 下午
+- Posted at iso: 2025-11-21T22:09:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -83,8 +83,10 @@ approx_tokens: 3502
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十一月 21, 2025, 10:17 下午
+- Posted at raw: 十一月 21, 2025, 10:17 下午
+- Posted at iso: 2025-11-21T22:17:00+08:00
 
 BONUS：
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=478.0"
 author: "增熵星"
 created_at_raw: "九月 18, 2025, 10:27 下午"
 created_at_iso: "2025-09-18T22:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:10 +0800"
-fetched_at_iso: "2026-02-26T10:19:10+08:00"
+fetched_at_raw: "2026-06-10 11:00:28 +0800"
+fetched_at_iso: "2026-06-10T11:00:28.386703+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4402
-approx_tokens: 2201
 ---
 
 # 追加规则:among us
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 18, 2025, 10:27 下午
+- Posted at raw: 九月 18, 2025, 10:27 下午
+- Posted at iso: 2025-09-18T22:27:00+08:00
 
 这一部分作为规则的补充部分，旨在开展一场不一样的大乱斗游戏。如果原规则中存在与本追加规则矛盾的地方，以本规则为准。
 在本规则下，所有角色都知道自己进行的是一场游戏，会尽可能的让自己的团队获胜，本局游戏的"胜方mvp"等价于原规则的"冠军"。

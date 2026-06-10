@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=345.0"
 author: "galekkomari"
 created_at_raw: "九月 15, 2025, 10:03 下午"
 created_at_iso: "2025-09-15T22:03:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:43 +0800"
-fetched_at_iso: "2026-02-26T09:59:43+08:00"
+fetched_at_raw: "2026-06-10 10:37:05 +0800"
+fetched_at_iso: "2026-06-10T10:37:05.481862+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1497
-approx_tokens: 749
 ---
 
 # galekkomari的角色 -  棗 鈴 (Natsume Rin)
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 15, 2025, 10:03 下午
+- Posted at raw: 九月 15, 2025, 10:03 下午
+- Posted at iso: 2025-09-15T22:03:00+08:00
 
 **角色填写人：**galekkomari
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1971.0"
 author: "小可"
 created_at_raw: "十月 26, 2025, 07:59 上午"
 created_at_iso: "2025-10-26T07:59:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:56 +0800"
-fetched_at_iso: "2026-02-26T10:11:56+08:00"
+fetched_at_raw: "2026-06-10 10:47:59 +0800"
+fetched_at_iso: "2026-06-10T10:47:59.632958+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7105
-approx_tokens: 3553
 ---
 
 # 小可的角色 - 机·赵云
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 26, 2025, 07:59 上午
+- Posted at raw: 十月 26, 2025, 07:59 上午
+- Posted at iso: 2025-10-26T07:59:00+08:00
 
 **角色填写人：**小可
 
@@ -138,8 +138,10 @@ approx_tokens: 3553
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 02:21 下午
+- Posted at raw: 十一月 07, 2025, 02:21 下午
+- Posted at iso: 2025-11-07T14:21:00+08:00
 
 **角色强度分析：机·赵云**
 

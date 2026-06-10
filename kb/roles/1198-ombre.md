@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1198.0"
 author: "Ombre"
 created_at_raw: "十月 02, 2025, 11:01 上午"
 created_at_iso: "2025-10-02T11:01:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:17 +0800"
-fetched_at_iso: "2026-02-26T10:06:17+08:00"
+fetched_at_raw: "2026-06-10 10:42:59 +0800"
+fetched_at_iso: "2026-06-10T10:42:59.086274+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 12033
-approx_tokens: 6017
 ---
 
 # Ombre的角色 - 老唐
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 02, 2025, 11:01 上午
+- Posted at raw: 十月 02, 2025, 11:01 上午
+- Posted at iso: 2025-10-02T11:01:00+08:00
 
 ### **角色档案：老唐 (诺顿)**
 
@@ -155,8 +155,10 @@ approx_tokens: 6017
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 10, 2025, 01:49 上午
+- Posted at raw: 十一月 10, 2025, 01:49 上午
+- Posted at iso: 2025-11-10T01:49:00+08:00
 
 旧人物卡基础信息：
 

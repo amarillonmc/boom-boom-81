@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=470.0"
 author: "烛火"
 created_at_raw: "九月 18, 2025, 07:24 下午"
 created_at_iso: "2025-09-18T19:24:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:52 +0800"
-fetched_at_iso: "2026-02-26T10:00:52+08:00"
+fetched_at_raw: "2026-06-10 10:38:09 +0800"
+fetched_at_iso: "2026-06-10T10:38:09.530075+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 19130
-approx_tokens: 9565
 ---
 
 # 烛火的角色 - 荀承志
 
 ## 1F
 
+- floor_index: 1
 - Author: 烛火
-- Posted at: 九月 18, 2025, 07:24 下午
+- Posted at raw: 九月 18, 2025, 07:24 下午
+- Posted at iso: 2025-09-18T19:24:00+08:00
 
 **角色填写人：**烛火
 

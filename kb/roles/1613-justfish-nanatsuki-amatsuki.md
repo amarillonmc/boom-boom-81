@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1613.0"
 author: "Justfish"
 created_at_raw: "十月 15, 2025, 11:07 上午"
 created_at_iso: "2025-10-15T11:07:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:23 +0800"
-fetched_at_iso: "2026-02-26T10:09:23+08:00"
+fetched_at_raw: "2026-06-10 10:45:47 +0800"
+fetched_at_iso: "2026-06-10T10:45:47.441365+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 14343
-approx_tokens: 7172
 ---
 
 # Justfish的角色 - 柒月 天月 (Nanatsuki Amatsuki)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 15, 2025, 11:07 上午
+- Posted at raw: 十月 15, 2025, 11:07 上午
+- Posted at iso: 2025-10-15T11:07:00+08:00
 
 **角色填写人：**Justfish
 
@@ -147,8 +147,10 @@ approx_tokens: 7172
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十月 16, 2025, 06:12 上午
+- Posted at raw: 十月 16, 2025, 06:12 上午
+- Posted at iso: 2025-10-16T06:12:00+08:00
 
 **后日谈：永不终结的安可**
 
@@ -179,10 +181,12 @@ approx_tokens: 7172
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 十月 18, 2025, 10:29 上午
+- Posted at raw: 十月 18, 2025, 10:29 上午
+- Posted at iso: 2025-10-18T10:29:00+08:00
 
-Spoiler【柒月 天月 - 旅途的结算】
+折叠内容【柒月 天月 - 旅途的结算】
 
 【复盘地点：天月自己的房间，深夜】
 
@@ -249,7 +253,7 @@ Spoiler【柒月 天月 - 旅途的结算】
 窗外，都市的霓虹，一如既往地闪烁着，仿佛那场惊天动地的武道会，只是一场......过于漫长，也过于麻烦的梦。
 [close]
 
-Spoiler旅途复盘：
+折叠内容旅途复盘：
 在一片陌生的、即将被战争与灾难吞噬的废墟都市中，【柒月 天月】的内心是极度抗拒的。她只想找到一个安静的角落，等到这场"麻烦事"自己结束。但现实的残酷，让她不得不一次又一次地动用那份她自己都感到厌烦的、属于【Never Gonna Give You Up】的替身力量。
 
 她的旅途，是一场充满了"不情不愿"的、被动式的英雄之举。

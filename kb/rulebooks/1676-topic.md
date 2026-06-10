@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1676.0"
 author: "zweizergain"
 created_at_raw: "十月 17, 2025, 11:03 上午"
 created_at_iso: "2025-10-17T11:03:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:59 +0800"
-fetched_at_iso: "2026-02-26T10:19:59+08:00"
+fetched_at_raw: "2026-06-10 11:01:16 +0800"
+fetched_at_iso: "2026-06-10T11:01:16.070359+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6370
-approx_tokens: 3185
 ---
 
 # 【“交叉点”叙事引擎】
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 17, 2025, 11:03 上午
+- Posted at raw: 十月 17, 2025, 11:03 上午
+- Posted at iso: 2025-10-17T11:03:00+08:00
 
 ### **【V.21.0 "导航者"交叉点引擎 - 最终归档版】**
 
@@ -175,7 +175,9 @@ approx_tokens: 3185
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 十月 24, 2025, 12:34 下午
+- Posted at raw: 十月 24, 2025, 12:34 下午
+- Posted at iso: 2025-10-24T12:34:00+08:00
 
 21.0

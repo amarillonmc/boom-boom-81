@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1941.0"
 author: "紫宵"
 created_at_raw: "十月 25, 2025, 12:16 下午"
 created_at_iso: "2025-10-25T12:16:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:45 +0800"
-fetched_at_iso: "2026-02-26T10:11:45+08:00"
+fetched_at_raw: "2026-06-10 10:47:49 +0800"
+fetched_at_iso: "2026-06-10T10:47:49.238250+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5000
-approx_tokens: 2500
 ---
 
 # 紫宵的角色 - 澹台烛隐
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 十月 25, 2025, 12:16 下午
+- Posted at raw: 十月 25, 2025, 12:16 下午
+- Posted at iso: 2025-10-25T12:16:00+08:00
 
 **角色填写人：**紫宵
 
@@ -108,8 +108,10 @@ approx_tokens: 2500
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 十月 27, 2025, 01:08 下午
+- Posted at raw: 十月 27, 2025, 01:08 下午
+- Posted at iso: 2025-10-27T13:08:00+08:00
 
 第七页。20251027-无限制角色测试局 (https://number81.xyz/index.php?topic=1976.0)
 此局，烛隐如一缕孤烟，飘摇于巨神之骸骨，静观天穹之裂变。他见证了吞噬万物的虚空之神，与撼动大地的无垢巨人；他窥见了凡人以血肉之躯，铸就贯穿天际的螺旋之枪；亦目睹了道法之祖舍身存续火种，与末路王者被邪祟凭依的悲歌。他数次于毫厘间拨动因果，以一线星火，护佑了本应凋零的微末生机，却终究只是这场弑神史诗的旁观者，未曾立下那以生命为注的'残契'。
@@ -145,8 +147,10 @@ approx_tokens: 2500
 
 ## 3F
 
+- floor_index: 3
 - Author: 紫宵
-- Posted at: 十月 28, 2025, 08:22 上午
+- Posted at raw: 十月 28, 2025, 08:22 上午
+- Posted at iso: 2025-10-28T08:22:00+08:00
 
 第六页。限制大乱斗----神以下 (https://number81.xyz/index.php?topic=2040.0)
 澹台烛隐以"执棋者"的姿态入局，他洞悉了场上每一个潜在的"奇点"。从最初对奈克罗寻的善意干涉，到之后为了打破僵局而挑动"复仇者联盟"的成立，再到以【星火余韵】四两拨千斤地瓦解机律界的围剿，他的每一步都如同在棋盘上落下精准的子，旨在维系一种微妙的、他所认同的"平衡"。他试图将所有强者都拉入他所设定的剧本之中。

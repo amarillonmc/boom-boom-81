@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2019.0"
 author: "zweizergain"
 created_at_raw: "十月 27, 2025, 03:26 下午"
 created_at_iso: "2025-10-27T15:26:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:25 +0800"
-fetched_at_iso: "2026-02-26T10:12:25+08:00"
+fetched_at_raw: "2026-06-10 10:48:23 +0800"
+fetched_at_iso: "2026-06-10T10:48:23.077253+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4382
-approx_tokens: 2191
 ---
 
 # 弗利特·明日野
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 27, 2025, 03:26 下午
+- Posted at raw: 十月 27, 2025, 03:26 下午
+- Posted at iso: 2025-10-27T15:26:00+08:00
 
 ### **【角色卡：背负着世纪的救世主——弗利特·明日野 (V5.0 最终归档版)】**
 

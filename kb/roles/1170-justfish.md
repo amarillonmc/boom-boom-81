@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1170.0"
 author: "Justfish"
 created_at_raw: "十月 02, 2025, 01:37 上午"
 created_at_iso: "2025-10-02T01:37:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:09 +0800"
-fetched_at_iso: "2026-02-26T10:06:09+08:00"
+fetched_at_raw: "2026-06-10 10:42:52 +0800"
+fetched_at_iso: "2026-06-10T10:42:52.037498+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5296
-approx_tokens: 2648
 ---
 
 # Justfish的角色 - 祸灵梦
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 02, 2025, 01:37 上午
+- Posted at raw: 十月 02, 2025, 01:37 上午
+- Posted at iso: 2025-10-02T01:37:00+08:00
 
 **角色填写人：**Justfish
 
@@ -100,8 +100,10 @@ approx_tokens: 2648
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十月 02, 2025, 01:45 上午
+- Posted at raw: 十月 02, 2025, 01:45 上午
+- Posted at iso: 2025-10-02T01:45:00+08:00
 
 **以下为祸灵梦的搞怪版角色，请勿混淆！**
 

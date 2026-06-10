@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1783.0"
 author: "Justfish"
 created_at_raw: "十月 20, 2025, 04:39 上午"
 created_at_iso: "2025-10-20T04:39:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:49 +0800"
-fetched_at_iso: "2026-02-26T10:10:49+08:00"
+fetched_at_raw: "2026-06-10 10:46:58 +0800"
+fetched_at_iso: "2026-06-10T10:46:58.901101+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3644
-approx_tokens: 1822
 ---
 
 # Justfish的角色 - 莱拉·阳羽 (Lyra Sunquill)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 20, 2025, 04:39 上午
+- Posted at raw: 十月 20, 2025, 04:39 上午
+- Posted at iso: 2025-10-20T04:39:00+08:00
 
 **角色填写人：**Justfish
 

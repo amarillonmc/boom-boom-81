@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2062.0"
 author: "烛火"
 created_at_raw: "十月 28, 2025, 12:14 下午"
 created_at_iso: "2025-10-28T12:14:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:39 +0800"
-fetched_at_iso: "2026-02-26T10:12:39+08:00"
+fetched_at_raw: "2026-06-10 10:48:35 +0800"
+fetched_at_iso: "2026-06-10T10:48:35.517242+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7434
-approx_tokens: 3717
 ---
 
 # 烛火的角色 - 黑战人&安田莎代
 
 ## 1F
 
+- floor_index: 1
 - Author: 烛火
-- Posted at: 十月 28, 2025, 12:14 下午
+- Posted at raw: 十月 28, 2025, 12:14 下午
+- Posted at iso: 2025-10-28T12:14:00+08:00
 
 **角色填写人：**烛火
 
@@ -174,7 +174,9 @@ approx_tokens: 3717
 
 ## 2F
 
+- floor_index: 2
 - Author: 烛火
-- Posted at: 十月 28, 2025, 12:38 下午
+- Posted at raw: 十月 28, 2025, 12:38 下午
+- Posted at iso: 2025-10-28T12:38:00+08:00
 
 已完成。顺便一提完全体会到了07写黑战人时的讽刺和悲哀感。一想到这角色人气还挺高的我就更悲哀了

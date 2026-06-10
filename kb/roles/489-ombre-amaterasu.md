@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=489.0"
 author: "Ombre"
 created_at_raw: "九月 19, 2025, 01:45 上午"
 created_at_iso: "2025-09-19T01:45:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:02 +0800"
-fetched_at_iso: "2026-02-26T10:01:02+08:00"
+fetched_at_raw: "2026-06-10 10:38:19 +0800"
+fetched_at_iso: "2026-06-10T10:38:19.130768+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3901
-approx_tokens: 1951
 ---
 
 # Ombre的角色 - 天照 (Amaterasu)
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 19, 2025, 01:45 上午
+- Posted at raw: 九月 19, 2025, 01:45 上午
+- Posted at iso: 2025-09-19T01:45:00+08:00
 
 **角色填写人：**Ombre
 

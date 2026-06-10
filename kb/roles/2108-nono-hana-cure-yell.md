@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2108.0"
 author: "小可"
 created_at_raw: "十月 29, 2025, 02:44 下午"
 created_at_iso: "2025-10-29T14:44:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:58 +0800"
-fetched_at_iso: "2026-02-26T10:12:58+08:00"
+fetched_at_raw: "2026-06-10 10:48:51 +0800"
+fetched_at_iso: "2026-06-10T10:48:51.075222+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5856
-approx_tokens: 2928
 ---
 
 # 小可的角色 - 野乃花 (Nono Hana) / Cure Yell
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 29, 2025, 02:44 下午
+- Posted at raw: 十月 29, 2025, 02:44 下午
+- Posted at iso: 2025-10-29T14:44:00+08:00
 
 **角色填写人：**小可
 
@@ -68,8 +68,10 @@ approx_tokens: 2928
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 29, 2025, 02:45 下午
+- Posted at raw: 十月 29, 2025, 02:45 下午
+- Posted at iso: 2025-10-29T14:45:00+08:00
 
 **最终点评：【野乃花】—— 最"反解构"的魔法少女**
 
@@ -88,8 +90,10 @@ approx_tokens: 2928
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十一月 07, 2025, 10:30 下午
+- Posted at raw: 十一月 07, 2025, 10:30 下午
+- Posted at iso: 2025-11-07T22:30:00+08:00
 
 **角色强度分析：野乃花 / Cure Yell**
 

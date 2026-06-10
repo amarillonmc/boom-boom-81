@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2620.0"
 author: "小可"
 created_at_raw: "十一月 12, 2025, 10:16 上午"
 created_at_iso: "2025-11-12T10:16:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:41 +0800"
-fetched_at_iso: "2026-02-26T10:15:41+08:00"
+fetched_at_raw: "2026-06-10 10:51:22 +0800"
+fetched_at_iso: "2026-06-10T10:51:22.756794+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5226
-approx_tokens: 2613
 ---
 
 # 小可的角色 - 卫静
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 12, 2025, 10:16 上午
+- Posted at raw: 十一月 12, 2025, 10:16 上午
+- Posted at iso: 2025-11-12T10:16:00+08:00
 
 **角色填写人：**小可
 
@@ -66,8 +66,10 @@ approx_tokens: 2613
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 13, 2025, 10:55 下午
+- Posted at raw: 十一月 13, 2025, 10:55 下午
+- Posted at iso: 2025-11-13T22:55:00+08:00
 
 **角色强度分析：卫静**
 

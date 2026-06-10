@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1680.0"
 author: "Ender_Eragon"
 created_at_raw: "十月 17, 2025, 11:46 上午"
 created_at_iso: "2025-10-17T11:46:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:55 +0800"
-fetched_at_iso: "2026-02-26T10:09:55+08:00"
+fetched_at_raw: "2026-06-10 10:46:17 +0800"
+fetched_at_iso: "2026-06-10T10:46:17.726335+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1928
-approx_tokens: 964
 ---
 
 # 终末的角色 - “毒马铃薯之王”
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十月 17, 2025, 11:46 上午
+- Posted at raw: 十月 17, 2025, 11:46 上午
+- Posted at iso: 2025-10-17T11:46:00+08:00
 
 **角色填写人：**终末
 

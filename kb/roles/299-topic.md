@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=299.0"
 author: "小兵"
 created_at_raw: "九月 14, 2025, 01:21 下午"
 created_at_iso: "2025-09-14T13:21:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:16 +0800"
-fetched_at_iso: "2026-02-26T09:59:16+08:00"
+fetched_at_raw: "2026-06-10 10:36:39 +0800"
+fetched_at_iso: "2026-06-10T10:36:39.493097+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 769
-approx_tokens: 385
 ---
 
 # 小兵的角色 - 里奇艾尔
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 九月 14, 2025, 01:21 下午
+- Posted at raw: 九月 14, 2025, 01:21 下午
+- Posted at iso: 2025-09-14T13:21:00+08:00
 
 **角色填写人：**小兵
 

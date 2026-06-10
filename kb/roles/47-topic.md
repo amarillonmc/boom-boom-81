@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=47.0"
 author: "紫宵"
 created_at_raw: "九月 08, 2025, 10:49 上午"
 created_at_iso: "2025-09-08T10:49:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:52 +0800"
-fetched_at_iso: "2026-02-26T09:56:52+08:00"
+fetched_at_raw: "2026-06-10 10:34:24 +0800"
+fetched_at_iso: "2026-06-10T10:34:24.489516+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7526
-approx_tokens: 3763
 ---
 
 # 紫宵的角色 - 黑魔女 迪亚贝尔斯塔尔
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 九月 08, 2025, 10:49 上午
+- Posted at raw: 九月 08, 2025, 10:49 上午
+- Posted at iso: 2025-09-08T10:49:00+08:00
 
 **角色填写人：**紫宵
 
@@ -114,8 +114,10 @@ approx_tokens: 3763
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 十月 21, 2025, 04:23 上午
+- Posted at raw: 十月 21, 2025, 04:23 上午
+- Posted at iso: 2025-10-21T04:23:00+08:00
 
 (https://code.moenext.com/mycard/hd-arts/-/raw/master/arts/72270339.jpg)
 旧版角色卡**角色填写人：**紫宵

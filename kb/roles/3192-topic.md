@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3192.0"
 author: "Ender_Eragon"
 created_at_raw: "十二月 05, 2025, 11:13 上午"
 created_at_iso: "2025-12-05T11:13:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:23 +0800"
-fetched_at_iso: "2026-02-26T10:18:23+08:00"
+fetched_at_raw: "2026-06-10 10:53:39 +0800"
+fetched_at_iso: "2026-06-10T10:53:39.575322+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3333
-approx_tokens: 1667
 ---
 
 # 终末的角色 - 螟灵「后室娱乐」
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十二月 05, 2025, 11:13 上午
+- Posted at raw: 十二月 05, 2025, 11:13 上午
+- Posted at iso: 2025-12-05T11:13:00+08:00
 
 **角色填写人：**终末
 

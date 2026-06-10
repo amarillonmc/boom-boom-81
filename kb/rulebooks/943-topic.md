@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=943.0"
 author: "Ombre"
 created_at_raw: "九月 26, 2025, 10:52 下午"
 created_at_iso: "2025-09-26T22:52:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:36 +0800"
-fetched_at_iso: "2026-02-26T10:19:36+08:00"
+fetched_at_raw: "2026-06-10 11:00:52 +0800"
+fetched_at_iso: "2026-06-10T11:00:52.139580+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3625
-approx_tokens: 1813
 ---
 
 # 传说故事框架：【寂静的灰烬王国】
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 26, 2025, 10:52 下午
+- Posted at raw: 九月 26, 2025, 10:52 下午
+- Posted at iso: 2025-09-26T22:52:00+08:00
 
 《诸天祈愿：世界最后的呼唤》 - 故事框架：【寂静的灰烬王国】
 第一阶段：世界构筑与玩家介绍

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=555.0"
 author: "Ombre"
 created_at_raw: "九月 20, 2025, 04:32 上午"
 created_at_iso: "2025-09-20T04:32:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:14 +0800"
-fetched_at_iso: "2026-02-26T10:19:14+08:00"
+fetched_at_raw: "2026-06-10 11:00:32 +0800"
+fetched_at_iso: "2026-06-10T11:00:32.219341+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10927
-approx_tokens: 5464
 ---
 
 # Ombre流整合规则
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 20, 2025, 04:32 上午
+- Posted at raw: 九月 20, 2025, 04:32 上午
+- Posted at iso: 2025-09-20T04:32:00+08:00
 
 ### **//-- AI核心指令集：文字对抗游戏GM协议 V2.2 --//**
 

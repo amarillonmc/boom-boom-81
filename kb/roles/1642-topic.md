@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1642.0"
 author: "小兵"
 created_at_raw: "十月 16, 2025, 10:01 上午"
 created_at_iso: "2025-10-16T10:01:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:40 +0800"
-fetched_at_iso: "2026-02-26T10:09:40+08:00"
+fetched_at_raw: "2026-06-10 10:46:03 +0800"
+fetched_at_iso: "2026-06-10T10:46:03.652308+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 611
-approx_tokens: 306
 ---
 
 # 小兵的角色 - 失忆现人神
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 16, 2025, 10:01 上午
+- Posted at raw: 十月 16, 2025, 10:01 上午
+- Posted at iso: 2025-10-16T10:01:00+08:00
 
 **角色填写人：**小兵
 
@@ -48,8 +48,10 @@ approx_tokens: 306
 
 ## 2F
 
+- floor_index: 2
 - Author: 小兵
-- Posted at: 十月 18, 2025, 02:32 上午
+- Posted at raw: 十月 18, 2025, 02:32 上午
+- Posted at iso: 2025-10-18T02:32:00+08:00
 
 失忆现人神是？（无需复制）
 某个高维宇宙的'许愿机'概念的化身。

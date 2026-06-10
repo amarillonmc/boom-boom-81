@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=500.0"
 author: "Justfish"
 created_at_raw: "九月 19, 2025, 07:58 上午"
 created_at_iso: "2025-09-19T07:58:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:07 +0800"
-fetched_at_iso: "2026-02-26T10:01:07+08:00"
+fetched_at_raw: "2026-06-10 10:38:23 +0800"
+fetched_at_iso: "2026-06-10T10:38:23.604776+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6965
-approx_tokens: 3483
 ---
 
 # Justfish的角色 - 「生死之王」莫德凯撒
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 19, 2025, 07:58 上午
+- Posted at raw: 九月 19, 2025, 07:58 上午
+- Posted at iso: 2025-09-19T07:58:00+08:00
 
 **角色填写人：**Justfish
 
@@ -184,8 +184,10 @@ approx_tokens: 3483
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 19, 2025, 12:55 下午
+- Posted at raw: 九月 19, 2025, 12:55 下午
+- Posted at iso: 2025-09-19T12:55:00+08:00
 
 版本更新公告：
 「生死之王」莫德凯撒
@@ -196,8 +198,10 @@ R - 轮回绝境
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 九月 24, 2025, 10:49 上午
+- Posted at raw: 九月 24, 2025, 10:49 上午
+- Posted at iso: 2025-09-24T10:49:00+08:00
 
 旧模板铁男文本：
 

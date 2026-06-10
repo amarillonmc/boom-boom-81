@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2979.0"
 author: "全装甲高达七号机"
 created_at_raw: "十一月 22, 2025, 01:21 上午"
 created_at_iso: "2025-11-22T01:21:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:28 +0800"
-fetched_at_iso: "2026-02-26T10:17:28+08:00"
+fetched_at_raw: "2026-06-10 10:52:59 +0800"
+fetched_at_iso: "2026-06-10T10:52:59.790895+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 11805
-approx_tokens: 5903
 ---
 
 # 全装甲高达七号机的角色 - 奇迹的辉金骑士-玛格纳兽 (金甲龙兽)
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十一月 22, 2025, 01:21 上午
+- Posted at raw: 十一月 22, 2025, 01:21 上午
+- Posted at iso: 2025-11-22T01:21:00+08:00
 
 **角色填写人：**全装甲高达七号机
 
@@ -219,8 +219,10 @@ approx_tokens: 5903
 
 ## 2F
 
+- floor_index: 2
 - Author: 全装甲高达七号机
-- Posted at: 十一月 22, 2025, 12:15 下午
+- Posted at raw: 十一月 22, 2025, 12:15 下午
+- Posted at iso: 2025-11-22T12:15:00+08:00
 
 好的，迦勒底的资深设计师已就位。
 开始根据提交的核心设定进行从者转录协议。

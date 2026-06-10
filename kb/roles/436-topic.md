@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=436.0"
 author: "Huager"
 created_at_raw: "九月 18, 2025, 06:59 上午"
 created_at_iso: "2025-09-18T06:59:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:38 +0800"
-fetched_at_iso: "2026-02-26T10:00:38+08:00"
+fetched_at_raw: "2026-06-10 10:37:57 +0800"
+fetched_at_iso: "2026-06-10T10:37:57.030539+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1253
-approx_tokens: 627
 ---
 
 # 黑莲的角色 - 诸葛亮
 
 ## 1F
 
+- floor_index: 1
 - Author: Huager
-- Posted at: 九月 18, 2025, 06:59 上午
+- Posted at raw: 九月 18, 2025, 06:59 上午
+- Posted at iso: 2025-09-18T06:59:00+08:00
 
 **角色填写人：**黑莲
 

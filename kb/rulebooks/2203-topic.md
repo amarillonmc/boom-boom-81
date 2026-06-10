@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2203.0"
 author: "OPPO"
 created_at_raw: "十月 31, 2025, 07:53 下午"
 created_at_iso: "2025-10-31T19:53:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:15 +0800"
-fetched_at_iso: "2026-02-26T10:20:15+08:00"
+fetched_at_raw: "2026-06-10 11:01:31 +0800"
+fetched_at_iso: "2026-06-10T11:01:31.810594+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7392
-approx_tokens: 3696
 ---
 
 # 【拉曼查兰游乐园破灭之战】
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 十月 31, 2025, 07:53 下午
+- Posted at raw: 十月 31, 2025, 07:53 下午
+- Posted at iso: 2025-10-31T19:53:00+08:00
 
 欢迎各位来到拉曼查兰游乐园，这个充满了血魔，肮脏，污秽，恐怖的地方...我们有些人的目的是讨伐拿下这里，有些人的目的是帮助这里的血魔们反抗，又或者实现自己的个人追求...
 参赛者将会以每4人(计入队伍中本来的角色)一组的形式划分到以下队伍当中(回合数大概限制在30到35回合)

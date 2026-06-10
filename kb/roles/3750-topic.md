@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3750.0"
 author: "增熵星"
 created_at_raw: "三月 21, 2026, 12:59 上午"
 created_at_iso: "2026-03-21T00:59:00+08:00"
-fetched_at_raw: "2026-03-24 08:13:29 +0800"
-fetched_at_iso: "2026-03-24T08:13:29.023381+08:00"
+fetched_at_raw: "2026-06-10 10:56:35 +0800"
+fetched_at_iso: "2026-06-10T10:56:35.044095+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

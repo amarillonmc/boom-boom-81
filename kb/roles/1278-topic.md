@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1278.0"
 author: "zweizergain"
 created_at_raw: "十月 05, 2025, 12:53 上午"
 created_at_iso: "2025-10-05T00:53:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:55 +0800"
-fetched_at_iso: "2026-02-26T10:06:55+08:00"
+fetched_at_raw: "2026-06-10 10:43:35 +0800"
+fetched_at_iso: "2026-06-10T10:43:35.150934+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3384
-approx_tokens: 1692
 ---
 
 # 楠舞神夜
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 05, 2025, 12:53 上午
+- Posted at raw: 十月 05, 2025, 12:53 上午
+- Posted at iso: 2025-10-05T00:53:00+08:00
 
 ### ****【详细角色卡：楠舞神夜（Kaguya Nanbu）- 天然剑姬版 V1.6 - 最终归档版】****
 

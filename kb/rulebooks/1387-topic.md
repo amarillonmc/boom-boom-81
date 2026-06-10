@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1387.0"
 author: "zweizergain"
 created_at_raw: "十月 07, 2025, 01:16 下午"
 created_at_iso: "2025-10-07T13:16:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:46 +0800"
-fetched_at_iso: "2026-02-26T10:19:46+08:00"
+fetched_at_raw: "2026-06-10 11:01:02 +0800"
+fetched_at_iso: "2026-06-10T11:01:02.775783+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 13581
-approx_tokens: 6791
 ---
 
 # 《白色永恒监牢》
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 07, 2025, 01:16 下午
+- Posted at raw: 十月 07, 2025, 01:16 下午
+- Posted at iso: 2025-10-07T13:16:00+08:00
 
 ---
 # **GENERIC SCRIPT TEMPLATE: THE WHITE ETERNITY CELL**
@@ -218,8 +218,10 @@ approx_tokens: 6791
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 十月 08, 2025, 04:45 上午
+- Posted at raw: 十月 08, 2025, 04:45 上午
+- Posted at iso: 2025-10-08T04:45:00+08:00
 
 你将扮演导演角色，和我共同写一段故事。以下是本次会话的工作流，每一行为一次对话交互。
 在本次输入后，等待我进行第一步操作。
@@ -231,8 +233,10 @@ approx_tokens: 6791
 
 ## 3F
 
+- floor_index: 3
 - Author: zweizergain
-- Posted at: 十月 09, 2025, 01:51 下午
+- Posted at raw: 十月 09, 2025, 01:51 下午
+- Posted at iso: 2025-10-09T13:51:00+08:00
 
 导演，我完全理解并接受您的批评。
 您一针见血地指出了前一个方案的根本缺陷：**为了追求长度，它牺牲了AI叙事最宝贵的"混沌化特性"与"解放人力"的优势，将导演从"创作者"降格为了"操作员"。**

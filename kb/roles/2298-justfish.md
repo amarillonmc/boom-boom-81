@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2298.0"
 author: "Justfish"
 created_at_raw: "十一月 04, 2025, 01:34 上午"
 created_at_iso: "2025-11-04T01:34:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:57 +0800"
-fetched_at_iso: "2026-02-26T10:13:57+08:00"
+fetched_at_raw: "2026-06-10 10:49:43 +0800"
+fetched_at_iso: "2026-06-10T10:49:43.635738+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2991
-approx_tokens: 1496
 ---
 
 # Justfish的角色 - 无尽风暴-尤涅若
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 04, 2025, 01:34 上午
+- Posted at raw: 十一月 04, 2025, 01:34 上午
+- Posted at iso: 2025-11-04T01:34:00+08:00
 
 **角色填写人：**Justfish
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1024.0"
 author: "Ender_Eragon"
 created_at_raw: "九月 28, 2025, 12:33 下午"
 created_at_iso: "2025-09-28T12:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:17 +0800"
-fetched_at_iso: "2026-02-26T10:05:17+08:00"
+fetched_at_raw: "2026-06-10 10:42:09 +0800"
+fetched_at_iso: "2026-06-10T10:42:09.493555+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 538
-approx_tokens: 269
 ---
 
 # 终末的角色 - 你所认为的强者
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 九月 28, 2025, 12:33 下午
+- Posted at raw: 九月 28, 2025, 12:33 下午
+- Posted at iso: 2025-09-28T12:33:00+08:00
 
 **角色填写人：**终末
 

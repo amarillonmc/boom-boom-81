@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=456.0"
 author: "塔."
 created_at_raw: "九月 18, 2025, 11:59 上午"
 created_at_iso: "2025-09-18T11:59:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:46 +0800"
-fetched_at_iso: "2026-02-26T10:00:46+08:00"
+fetched_at_raw: "2026-06-10 10:38:04 +0800"
+fetched_at_iso: "2026-06-10T10:38:04.974289+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2059
-approx_tokens: 1030
 ---
 
 # 塔的角色 - 伪作万能之神“WNZS”
 
 ## 1F
 
+- floor_index: 1
 - Author: 塔.
-- Posted at: 九月 18, 2025, 11:59 上午
+- Posted at raw: 九月 18, 2025, 11:59 上午
+- Posted at iso: 2025-09-18T11:59:00+08:00
 
 **角色填写人：**塔
 

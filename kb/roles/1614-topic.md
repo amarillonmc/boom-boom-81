@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1614.0"
 author: "Ender_Eragon"
 created_at_raw: "十月 15, 2025, 12:51 下午"
 created_at_iso: "2025-10-15T12:51:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:24 +0800"
-fetched_at_iso: "2026-02-26T10:09:24+08:00"
+fetched_at_raw: "2026-06-10 10:45:48 +0800"
+fetched_at_iso: "2026-06-10T10:45:48.265550+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3980
-approx_tokens: 1990
 ---
 
 # 终末的角色 - 「终末」利莱恩
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十月 15, 2025, 12:51 下午
+- Posted at raw: 十月 15, 2025, 12:51 下午
+- Posted at iso: 2025-10-15T12:51:00+08:00
 
 **角色填写人：**终末
 
@@ -31,7 +31,7 @@ approx_tokens: 1990
 
 **角色背景：**
 利莱恩拥有着异界的血脉。
-那是被称为「终界使者」的种族，完全漆黑的纤长身躯，紫色的眼眸，诡异的空间之力。
+那是被称为「终界」的种族，完全漆黑的纤长身躯，紫色的眼眸，诡异的空间之力，那是「终界使者」与「终末之龙」的血脉。
 利莱恩是拥有这种族血脉、已经衰落的人类家族「末」的现世传人。作为现世血脉最纯正的人，他自然而然成为了「末」的"家主"。
 然而，他的血脉却是来自"夺取"。他夺取了一名「终界使者」的血液，将其溶于自己体内，并进一步提纯、炼化。
 他掌握了「终界使者」一族的能力，也成为了「末」的家主。
@@ -66,8 +66,10 @@ approx_tokens: 1990
 
 ## 2F
 
+- floor_index: 2
 - Author: Ender_Eragon
-- Posted at: 十一月 14, 2025, 10:51 下午
+- Posted at raw: 十一月 14, 2025, 10:51 下午
+- Posted at iso: 2025-11-14T22:51:00+08:00
 
 第一部分：核心身份 (Core Identity)
 

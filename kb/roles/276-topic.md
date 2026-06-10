@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=276.0"
 author: "增熵星"
 created_at_raw: "九月 14, 2025, 08:03 上午"
 created_at_iso: "2025-09-14T08:03:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:03 +0800"
-fetched_at_iso: "2026-02-26T09:59:03+08:00"
+fetched_at_raw: "2026-06-10 10:36:26 +0800"
+fetched_at_iso: "2026-06-10T10:36:26.623710+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2826
-approx_tokens: 1413
 ---
 
 # 增熵星的角色 - 发牌姬
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 14, 2025, 08:03 上午
+- Posted at raw: 九月 14, 2025, 08:03 上午
+- Posted at iso: 2025-09-14T08:03:00+08:00
 
 **角色填写人：**增熵星
 
@@ -62,15 +62,19 @@ approx_tokens: 1413
 
 ## 2F
 
+- floor_index: 2
 - Author: 增熵星
-- Posted at: 九月 20, 2025, 05:23 上午
+- Posted at raw: 九月 20, 2025, 05:23 上午
+- Posted at iso: 2025-09-20T05:23:00+08:00
 
 (https://ramsay.number81.xyz/expansions/pics/65123333.jpg)
 
 ## 3F
 
+- floor_index: 3
 - Author: 增熵星
-- Posted at: 九月 22, 2025, 03:20 上午
+- Posted at raw: 九月 22, 2025, 03:20 上午
+- Posted at iso: 2025-09-22T03:20:00+08:00
 
 7
 6
@@ -84,8 +88,10 @@ approx_tokens: 1413
 
 ## 4F
 
+- floor_index: 4
 - Author: 增熵星
-- Posted at: 十月 08, 2025, 11:36 下午
+- Posted at raw: 十月 08, 2025, 11:36 下午
+- Posted at iso: 2025-10-08T23:36:00+08:00
 
 11
 

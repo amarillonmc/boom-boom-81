@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=256.0"
 author: "Jerry"
 created_at_raw: "九月 14, 2025, 12:35 上午"
 created_at_iso: "2025-09-14T00:35:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:49 +0800"
-fetched_at_iso: "2026-02-26T09:58:49+08:00"
+fetched_at_raw: "2026-06-10 10:36:13 +0800"
+fetched_at_iso: "2026-06-10T10:36:13.066157+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3290
-approx_tokens: 1645
 ---
 
 # Jerry的角色 - 进化信赖者
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 14, 2025, 12:35 上午
+- Posted at raw: 九月 14, 2025, 12:35 上午
+- Posted at iso: 2025-09-14T00:35:00+08:00
 
 **角色填写人：**Jerry
 

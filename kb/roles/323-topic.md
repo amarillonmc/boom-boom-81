@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=323.0"
 author: "小可"
 created_at_raw: "九月 15, 2025, 10:00 上午"
 created_at_iso: "2025-09-15T10:00:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:30 +0800"
-fetched_at_iso: "2026-02-26T09:59:30+08:00"
+fetched_at_raw: "2026-06-10 10:36:52 +0800"
+fetched_at_iso: "2026-06-10T10:36:52.363021+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3706
-approx_tokens: 1853
 ---
 
 # 小可的角色 - 阴影
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 15, 2025, 10:00 上午
+- Posted at raw: 九月 15, 2025, 10:00 上午
+- Posted at iso: 2025-09-15T10:00:00+08:00
 
 **角色填写人：**小可
 
@@ -37,8 +37,10 @@ approx_tokens: 1853
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 10:42 下午
+- Posted at raw: 十一月 07, 2025, 10:42 下午
+- Posted at iso: 2025-11-07T22:42:00+08:00
 
 **角色强度分析：阴影**
 

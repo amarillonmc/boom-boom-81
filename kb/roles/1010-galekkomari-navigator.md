@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1010.0"
 author: "galekkomari"
 created_at_raw: "九月 28, 2025, 08:49 上午"
 created_at_iso: "2025-09-28T08:49:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:13 +0800"
-fetched_at_iso: "2026-02-26T10:05:13+08:00"
+fetched_at_raw: "2026-06-10 10:42:05 +0800"
+fetched_at_iso: "2026-06-10T10:42:05.627685+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2298
-approx_tokens: 1149
 ---
 
 # galekkomari的角色 - Navigator
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 28, 2025, 08:49 上午
+- Posted at raw: 九月 28, 2025, 08:49 上午
+- Posted at iso: 2025-09-28T08:49:00+08:00
 
 **角色填写人：**galekkomari
 

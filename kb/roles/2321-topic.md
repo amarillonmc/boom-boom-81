@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2321.0"
 author: "Ender_Eragon"
 created_at_raw: "十一月 04, 2025, 11:04 上午"
 created_at_iso: "2025-11-04T11:04:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:06 +0800"
-fetched_at_iso: "2026-02-26T10:14:06+08:00"
+fetched_at_raw: "2026-06-10 10:49:52 +0800"
+fetched_at_iso: "2026-06-10T10:49:52.038069+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4183
-approx_tokens: 2092
 ---
 
 # 终末的角色 - 螟灵「神明之躯」
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十一月 04, 2025, 11:04 上午
+- Posted at raw: 十一月 04, 2025, 11:04 上午
+- Posted at iso: 2025-11-04T11:04:00+08:00
 
 **角色填写人：**终末
 

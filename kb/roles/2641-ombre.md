@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2641.0"
 author: "Ombre"
 created_at_raw: "十一月 13, 2025, 06:40 上午"
 created_at_iso: "2025-11-13T06:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:53 +0800"
-fetched_at_iso: "2026-02-26T10:15:53+08:00"
+fetched_at_raw: "2026-06-10 10:51:32 +0800"
+fetched_at_iso: "2026-06-10T10:51:32.204523+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8940
-approx_tokens: 4470
 ---
 
 # Ombre的角色 - 魔想 志津香
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 13, 2025, 06:40 上午
+- Posted at raw: 十一月 13, 2025, 06:40 上午
+- Posted at iso: 2025-11-13T06:40:00+08:00
 
 ### **角色档案：魔想志津香 (Shizuka Masou)**
 
@@ -180,8 +180,10 @@ approx_tokens: 4470
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 13, 2025, 07:05 上午
+- Posted at raw: 十一月 13, 2025, 07:05 上午
+- Posted at iso: 2025-11-13T07:05:00+08:00
 
 御主档案### **第一部分：核心身份 (Core Identity)**
 

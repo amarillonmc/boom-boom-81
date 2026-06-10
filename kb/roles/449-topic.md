@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=449.0"
 author: "小兵"
 created_at_raw: "九月 18, 2025, 09:57 上午"
 created_at_iso: "2025-09-18T09:57:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:42 +0800"
-fetched_at_iso: "2026-02-26T10:00:42+08:00"
+fetched_at_raw: "2026-06-10 10:38:01 +0800"
+fetched_at_iso: "2026-06-10T10:38:01.546519+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 930
-approx_tokens: 465
 ---
 
 # 小兵的角色 - 不朽尸王
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 九月 18, 2025, 09:57 上午
+- Posted at raw: 九月 18, 2025, 09:57 上午
+- Posted at iso: 2025-09-18T09:57:00+08:00
 
 **角色填写人：**小兵
 

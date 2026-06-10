@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1440.0"
 author: "Jerry"
 created_at_raw: "十月 10, 2025, 08:12 上午"
 created_at_iso: "2025-10-10T08:12:00+08:00"
-fetched_at_raw: "2026-02-26 10:22:47 +0800"
-fetched_at_iso: "2026-02-26T10:22:47+08:00"
+fetched_at_raw: "2026-06-10 11:04:32 +0800"
+fetched_at_iso: "2026-06-10T11:04:32.156643+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 177296
-approx_tokens: 88648
 ---
 
 # 天下第一武道会！！！
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 10, 2025, 08:12 上午
+- Posted at raw: 十月 10, 2025, 08:12 上午
+- Posted at iso: 2025-10-10T08:12:00+08:00
 
 **比赛开始：群英毕至，武神品鉴**
 
@@ -167,8 +167,10 @@ approx_tokens: 88648
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 十月 10, 2025, 08:24 上午
+- Posted at raw: 十月 10, 2025, 08:24 上午
+- Posted at iso: 2025-10-10T08:24:00+08:00
 
 第0回合：万象归一，群星入席
 
@@ -323,8 +325,10 @@ approx_tokens: 88648
 
 ## 3F
 
+- floor_index: 3
 - Author: Jerry
-- Posted at: 十月 10, 2025, 08:32 上午
+- Posted at raw: 十月 10, 2025, 08:32 上午
+- Posted at iso: 2025-10-10T08:32:00+08:00
 
 第一回合：雷鸣对地狱，磁场对剑心
 
@@ -549,8 +553,10 @@ approx_tokens: 88648
 
 ## 4F
 
+- floor_index: 4
 - Author: Jerry
-- Posted at: 十月 10, 2025, 08:36 上午
+- Posted at raw: 十月 10, 2025, 08:36 上午
+- Posted at iso: 2025-10-10T08:36:00+08:00
 
 第一回合：星辰坠凡，琉璃映魂
 
@@ -802,8 +808,10 @@ approx_tokens: 88648
 
 ## 5F
 
+- floor_index: 5
 - Author: Jerry
-- Posted at: 十月 10, 2025, 08:39 上午
+- Posted at raw: 十月 10, 2025, 08:39 上午
+- Posted at iso: 2025-10-10T08:39:00+08:00
 
 第一回合：神祇戏猫，心算武神
 
@@ -1029,8 +1037,10 @@ approx_tokens: 88648
 
 ## 6F
 
+- floor_index: 6
 - Author: Jerry
-- Posted at: 十月 10, 2025, 08:44 上午
+- Posted at raw: 十月 10, 2025, 08:44 上午
+- Posted at iso: 2025-10-10T08:44:00+08:00
 
 第一回合：忆海映王权，庭园藏怯弓
 
@@ -1243,8 +1253,10 @@ approx_tokens: 88648
 
 ## 7F
 
+- floor_index: 7
 - Author: Jerry
-- Posted at: 十月 10, 2025, 08:47 上午
+- Posted at raw: 十月 10, 2025, 08:47 上午
+- Posted at iso: 2025-10-10T08:47:00+08:00
 
 第一回合：赤诚之拳对恶狼之牙，荒诞浮游炮对神裁骷髅
 
@@ -1468,8 +1480,10 @@ approx_tokens: 88648
 
 ## 8F
 
+- floor_index: 8
 - Author: Jerry
-- Posted at: 十月 10, 2025, 08:50 上午
+- Posted at raw: 十月 10, 2025, 08:50 上午
+- Posted at iso: 2025-10-10T08:50:00+08:00
 
 过渡回合：席分胜败，星辰再临
 
@@ -1600,8 +1614,10 @@ approx_tokens: 88648
 
 ## 9F
 
+- floor_index: 9
 - Author: Jerry
-- Posted at: 十月 10, 2025, 08:58 上午
+- Posted at raw: 十月 10, 2025, 08:58 上午
+- Posted at iso: 2025-10-10T08:58:00+08:00
 
 第二回合：摘星台上，神力撼道心
 
@@ -1774,8 +1790,10 @@ approx_tokens: 88648
 
 ## 10F
 
+- floor_index: 10
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:02 上午
+- Posted at raw: 十月 10, 2025, 09:02 上午
+- Posted at iso: 2025-10-10T09:02:00+08:00
 
 第二回合：朱红审判台，不屈之光对求死之狱
 
@@ -1992,8 +2010,10 @@ approx_tokens: 88648
 
 ## 11F
 
+- floor_index: 11
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:05 上午
+- Posted at raw: 十月 10, 2025, 09:05 上午
+- Posted at iso: 2025-10-10T09:05:00+08:00
 
 第二回合：因果迷宫庭园，王之俯瞰与少女的足迹
 
@@ -2211,8 +2231,10 @@ approx_tokens: 88648
 
 ## 12F
 
+- floor_index: 12
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:07 上午
+- Posted at raw: 十月 10, 2025, 09:07 上午
+- Posted at iso: 2025-10-10T09:07:00+08:00
 
 第二回合：幻想玩具箱，本能破神机
 
@@ -2406,8 +2428,10 @@ approx_tokens: 88648
 
 ## 13F
 
+- floor_index: 13
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:10 上午
+- Posted at raw: 十月 10, 2025, 09:10 上午
+- Posted at iso: 2025-10-10T09:10:00+08:00
 
 第二回合：时计庭园的荒诞狂想曲
 
@@ -2597,8 +2621,10 @@ approx_tokens: 88648
 
 ## 14F
 
+- floor_index: 14
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:14 上午
+- Posted at raw: 十月 10, 2025, 09:14 上午
+- Posted at iso: 2025-10-10T09:14:00+08:00
 
 过渡回合：静默的王座，喧哗的楼阁
 
@@ -2751,8 +2777,10 @@ approx_tokens: 88648
 
 ## 15F
 
+- floor_index: 15
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:19 上午
+- Posted at raw: 十月 10, 2025, 09:19 上午
+- Posted at iso: 2025-10-10T09:19:00+08:00
 
 第三回合：百战登龙道，愿力化天梯
 
@@ -2913,8 +2941,10 @@ approx_tokens: 88648
 
 ## 16F
 
+- floor_index: 16
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:21 上午
+- Posted at raw: 十月 10, 2025, 09:21 上午
+- Posted at iso: 2025-10-10T09:21:00+08:00
 
 第三回合，第二幕：逆流之瀑，意志为舟
 
@@ -3061,8 +3091,10 @@ approx_tokens: 88648
 
 ## 17F
 
+- floor_index: 17
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:24 上午
+- Posted at raw: 十月 10, 2025, 09:24 上午
+- Posted at iso: 2025-10-10T09:24:00+08:00
 
 第三回合，最终幕：绝壁证道，三魂归位
 
@@ -3237,8 +3269,10 @@ approx_tokens: 88648
 
 ## 18F
 
+- floor_index: 18
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:32 上午
+- Posted at raw: 十月 10, 2025, 09:32 上午
+- Posted at iso: 2025-10-10T09:32:00+08:00
 
 过渡回合：静默的王座，喧哗的楼阁
 
@@ -3358,8 +3392,10 @@ approx_tokens: 88648
 
 ## 19F
 
+- floor_index: 19
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:42 上午
+- Posted at raw: 十月 10, 2025, 09:42 上午
+- Posted at iso: 2025-10-10T09:42:00+08:00
 
 好的，在八强战的帷幕正式拉开之前，就由我，为此届武道会这最终的八道风景，再做一次品鉴吧。
 
@@ -3474,8 +3510,10 @@ approx_tokens: 88648
 
 ## 20F
 
+- floor_index: 20
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:43 上午
+- Posted at raw: 十月 10, 2025, 09:43 上午
+- Posted at iso: 2025-10-10T09:43:00+08:00
 
 第四回合：发条城之弈，恶狼的咆哮与少女的足迹
 
@@ -3682,8 +3720,10 @@ approx_tokens: 88648
 
 ## 21F
 
+- floor_index: 21
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:48 上午
+- Posted at raw: 十月 10, 2025, 09:48 上午
+- Posted at iso: 2025-10-10T09:48:00+08:00
 
 第四回合：琉璃神殿的蛙鸣，本能与荒诞的狂想曲
 
@@ -3865,8 +3905,10 @@ approx_tokens: 88648
 
 ## 22F
 
+- floor_index: 22
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:51 上午
+- Posted at raw: 十月 10, 2025, 09:51 上午
+- Posted at iso: 2025-10-10T09:51:00+08:00
 
 第五回合：蜃气楼神殿，斩不断的意志与看不穿的真实
 
@@ -4123,8 +4165,10 @@ approx_tokens: 88648
 
 ## 23F
 
+- floor_index: 23
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:54 上午
+- Posted at raw: 十月 10, 2025, 09:54 上午
+- Posted at iso: 2025-10-10T09:54:00+08:00
 
 第六回合：枯山水上的寂静，万法归一与破法之末
 
@@ -4323,8 +4367,10 @@ approx_tokens: 88648
 
 ## 24F
 
+- floor_index: 24
 - Author: Jerry
-- Posted at: 十月 10, 2025, 09:58 上午
+- Posted at raw: 十月 10, 2025, 09:58 上午
+- Posted at iso: 2025-10-10T09:58:00+08:00
 
 过渡回合：四强论道，败者长歌
 
@@ -4450,8 +4496,10 @@ approx_tokens: 88648
 
 ## 25F
 
+- floor_index: 25
 - Author: Jerry
-- Posted at: 十月 10, 2025, 10:01 上午
+- Posted at raw: 十月 10, 2025, 10:01 上午
+- Posted at iso: 2025-10-10T10:01:00+08:00
 
 第七回合：黑曜石上的倒影，不屈之志问道无之剑
 
@@ -4684,8 +4732,10 @@ approx_tokens: 88648
 
 ## 26F
 
+- floor_index: 26
 - Author: Jerry
-- Posted at: 十月 10, 2025, 10:04 上午
+- Posted at raw: 十月 10, 2025, 10:04 上午
+- Posted at iso: 2025-10-10T10:04:00+08:00
 
 第八回合：埃舍尔的回廊，荒诞的理性与相信的奇迹
 
@@ -4886,8 +4936,10 @@ approx_tokens: 88648
 
 ## 27F
 
+- floor_index: 27
 - Author: Jerry
-- Posted at: 十月 10, 2025, 10:10 上午
+- Posted at raw: 十月 10, 2025, 10:10 上午
+- Posted at iso: 2025-10-10T10:10:00+08:00
 
 第九回合：双星临终局，风雨话前尘
 
@@ -4995,8 +5047,10 @@ approx_tokens: 88648
 
 ## 28F
 
+- floor_index: 28
 - Author: Jerry
-- Posted at: 十月 10, 2025, 10:15 上午
+- Posted at raw: 十月 10, 2025, 10:15 上午
+- Posted at iso: 2025-10-10T10:15:00+08:00
 
 第十回合：终焉之雨，理性与意志的最终交响
 
@@ -5184,8 +5238,10 @@ approx_tokens: 88648
 
 ## 29F
 
+- floor_index: 29
 - Author: Jerry
-- Posted at: 十月 10, 2025, 10:17 上午
+- Posted at raw: 十月 10, 2025, 10:17 上午
+- Posted at iso: 2025-10-10T10:17:00+08:00
 
 第十一回合：神话之降临，奇迹的英雄与荒诞的星辰
 
@@ -5354,8 +5410,10 @@ approx_tokens: 88648
 
 ## 30F
 
+- floor_index: 30
 - Author: Jerry
-- Posted at: 十月 10, 2025, 10:20 上午
+- Posted at raw: 十月 10, 2025, 10:20 上午
+- Posted at iso: 2025-10-10T10:20:00+08:00
 
 第十二回合：雨落无声，此心为证
 
@@ -5553,8 +5611,10 @@ approx_tokens: 88648
 
 ## 31F
 
+- floor_index: 31
 - Author: Jerry
-- Posted at: 十月 10, 2025, 10:26 上午
+- Posted at raw: 十月 10, 2025, 10:26 上午
+- Posted at iso: 2025-10-10T10:26:00+08:00
 
 最终章：雨过天晴，凡人登神
 
@@ -5672,8 +5732,10 @@ approx_tokens: 88648
 
 ## 32F
 
+- floor_index: 32
 - Author: Jerry
-- Posted at: 十月 10, 2025, 10:29 上午
+- Posted at raw: 十月 10, 2025, 10:29 上午
+- Posted at iso: 2025-10-10T10:29:00+08:00
 
 最终回合：天下第一，此心为证
 
@@ -5849,8 +5911,10 @@ approx_tokens: 88648
 
 ## 33F
 
+- floor_index: 33
 - Author: Jerry
-- Posted at: 十月 10, 2025, 10:32 上午
+- Posted at raw: 十月 10, 2025, 10:32 上午
+- Posted at iso: 2025-10-10T10:32:00+08:00
 
 最终章：盛宴之后，星辰归位
 

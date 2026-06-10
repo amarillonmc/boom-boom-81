@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=140.0"
 author: "梦梦"
 created_at_raw: "九月 09, 2025, 11:36 上午"
 created_at_iso: "2025-09-09T11:36:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:48 +0800"
-fetched_at_iso: "2026-02-26T09:57:48+08:00"
+fetched_at_raw: "2026-06-10 10:35:19 +0800"
+fetched_at_iso: "2026-06-10T10:35:19.235126+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 785
-approx_tokens: 393
 ---
 
 # 凯克霍斯鲁
 
 ## 1F
 
+- floor_index: 1
 - Author: 梦梦
-- Posted at: 九月 09, 2025, 11:36 上午
+- Posted at raw: 九月 09, 2025, 11:36 上午
+- Posted at iso: 2025-09-09T11:36:00+08:00
 
 角色名称：第六魔王 贪婪饿龙——凯克霍斯鲁
 基本属性：

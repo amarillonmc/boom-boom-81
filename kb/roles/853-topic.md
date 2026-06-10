@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=853.0"
 author: "Huager"
 created_at_raw: "九月 25, 2025, 02:59 上午"
 created_at_iso: "2025-09-25T02:59:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:57 +0800"
-fetched_at_iso: "2026-02-26T10:03:57+08:00"
+fetched_at_raw: "2026-06-10 10:40:54 +0800"
+fetched_at_iso: "2026-06-10T10:40:54.403981+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 441
-approx_tokens: 221
 ---
 
 # 黑莲的角色 - 水仙
 
 ## 1F
 
+- floor_index: 1
 - Author: Huager
-- Posted at: 九月 25, 2025, 02:59 上午
+- Posted at raw: 九月 25, 2025, 02:59 上午
+- Posted at iso: 2025-09-25T02:59:00+08:00
 
 **角色填写人：**黑莲
 

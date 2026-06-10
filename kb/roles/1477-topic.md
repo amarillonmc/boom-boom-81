@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1477.0"
 author: "小可"
 created_at_raw: "十月 11, 2025, 05:35 上午"
 created_at_iso: "2025-10-11T05:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:28 +0800"
-fetched_at_iso: "2026-02-26T10:08:28+08:00"
+fetched_at_raw: "2026-06-10 10:44:55 +0800"
+fetched_at_iso: "2026-06-10T10:44:55.986131+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3317
-approx_tokens: 1659
 ---
 
 # 小可的角色 - 超级厨师王
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 11, 2025, 05:35 上午
+- Posted at raw: 十月 11, 2025, 05:35 上午
+- Posted at iso: 2025-10-11T05:35:00+08:00
 
 **角色填写人：**小可
 
@@ -57,8 +57,10 @@ approx_tokens: 1659
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 10:20 下午
+- Posted at raw: 十一月 07, 2025, 10:20 下午
+- Posted at iso: 2025-11-07T22:20:00+08:00
 
 **角色强度分析：超级厨师王**
 

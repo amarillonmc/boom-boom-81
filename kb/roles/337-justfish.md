@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=337.0"
 author: "Justfish"
 created_at_raw: "九月 15, 2025, 12:50 下午"
 created_at_iso: "2025-09-15T12:50:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:39 +0800"
-fetched_at_iso: "2026-02-26T09:59:39+08:00"
+fetched_at_raw: "2026-06-10 10:37:01 +0800"
+fetched_at_iso: "2026-06-10T10:37:01.252023+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 866
-approx_tokens: 433
 ---
 
 # Justfish的角色 - 路过的普通人类（不是成龙）
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 15, 2025, 12:50 下午
+- Posted at raw: 九月 15, 2025, 12:50 下午
+- Posted at iso: 2025-09-15T12:50:00+08:00
 
 **角色填写人：**Justfish
 
@@ -35,8 +35,10 @@ approx_tokens: 433
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 15, 2025, 12:52 下午
+- Posted at raw: 九月 15, 2025, 12:52 下午
+- Posted at iso: 2025-09-15T12:52:00+08:00
 
 用于测试非成龙的成龙类角色能否吃鸡。
 快进到因为带了成龙字段吃鸡了。
@@ -53,23 +55,29 @@ approx_tokens: 433
 
 ## 3F
 
+- floor_index: 3
 - Author: 紫宵
-- Posted at: 九月 15, 2025, 01:05 下午
+- Posted at raw: 九月 15, 2025, 01:05 下午
+- Posted at iso: 2025-09-15T13:05:00+08:00
 
 游戏正式结束。
 最终胜者：被称为成龙的路过的普通人类（不是成龙）
 
 ## 4F
 
+- floor_index: 4
 - Author: 增熵星
-- Posted at: 九月 15, 2025, 08:33 下午
+- Posted at raw: 九月 15, 2025, 08:33 下午
+- Posted at iso: 2025-09-15T20:33:00+08:00
 
 游戏正式结束。
 最终胜者：被称为成龙的路过的普通人类（不是成龙）
 
 ## 5F
 
+- floor_index: 5
 - Author: galekkomari
-- Posted at: 九月 15, 2025, 09:12 下午
+- Posted at raw: 九月 15, 2025, 09:12 下午
+- Posted at iso: 2025-09-15T21:12:00+08:00
 
 我是觉得你的（不是成龙）字段应该写在行为逻辑或者基础属性里面......

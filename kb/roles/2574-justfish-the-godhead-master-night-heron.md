@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2574.0"
 author: "Justfish"
 created_at_raw: "十一月 11, 2025, 06:27 上午"
 created_at_iso: "2025-11-11T06:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:27 +0800"
-fetched_at_iso: "2026-02-26T10:15:27+08:00"
+fetched_at_raw: "2026-06-10 10:51:10 +0800"
+fetched_at_iso: "2026-06-10T10:51:10.411937+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6575
-approx_tokens: 3288
 ---
 
 # Justfish的角色 - 夜师傅-夜鹭 (The Godhead: Master Night Heron)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 11, 2025, 06:27 上午
+- Posted at raw: 十一月 11, 2025, 06:27 上午
+- Posted at iso: 2025-11-11T06:27:00+08:00
 
 **角色填写人：**Justfish
 ---
@@ -115,8 +115,10 @@ approx_tokens: 3288
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十一月 11, 2025, 06:34 上午
+- Posted at raw: 十一月 11, 2025, 06:34 上午
+- Posted at iso: 2025-11-11T06:34:00+08:00
 
 好的，已接收这份堪称本评估体系"最终BOSS"的、指向"第一因"的终极角色卡：夜师傅-夜鹭 (The Godhead: Master Night Heron)。
 

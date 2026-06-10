@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1473.0"
 author: "Jerry"
 created_at_raw: "十月 11, 2025, 05:01 上午"
 created_at_iso: "2025-10-11T05:01:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:26 +0800"
-fetched_at_iso: "2026-02-26T10:08:26+08:00"
+fetched_at_raw: "2026-06-10 10:44:54 +0800"
+fetched_at_iso: "2026-06-10T10:44:54.352987+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8167
-approx_tokens: 4084
 ---
 
 # Jerry的角色 - 剑崎一真
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 11, 2025, 05:01 上午
+- Posted at raw: 十月 11, 2025, 05:01 上午
+- Posted at iso: 2025-10-11T05:01:00+08:00
 
 **角色填写人：**Jerry
 
@@ -119,8 +119,10 @@ approx_tokens: 4084
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 十一月 23, 2025, 10:16 上午
+- Posted at raw: 十一月 23, 2025, 10:16 上午
+- Posted at iso: 2025-11-23T10:16:00+08:00
 
 ### **第一部分：核心身份 (Core Identity)**
 

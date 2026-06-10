@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=572.0"
 author: "galekkomari"
 created_at_raw: "九月 20, 2025, 10:07 上午"
 created_at_iso: "2025-09-20T10:07:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:48 +0800"
-fetched_at_iso: "2026-02-26T10:01:48+08:00"
+fetched_at_raw: "2026-06-10 10:39:01 +0800"
+fetched_at_iso: "2026-06-10T10:39:01.224268+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2994
-approx_tokens: 1497
 ---
 
 # galekkomari的角色 - Sharxn
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 20, 2025, 10:07 上午
+- Posted at raw: 九月 20, 2025, 10:07 上午
+- Posted at iso: 2025-09-20T10:07:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -58,8 +58,10 @@ approx_tokens: 1497
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 九月 20, 2025, 10:29 上午
+- Posted at raw: 九月 20, 2025, 10:29 上午
+- Posted at iso: 2025-09-20T10:29:00+08:00
 
 Sharxn（1000+）
 被称为是最初的FAIRY（妖精）。但严格的说，应该是第一例人类通过其他方式变为幻想种的形式。被称为最初的妖精的原因是妖精这个种族的发现是在Sharxn的诞生之后。

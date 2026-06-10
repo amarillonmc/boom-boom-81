@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2623.0"
 author: "小兵"
 created_at_raw: "十一月 12, 2025, 12:11 下午"
 created_at_iso: "2025-11-12T12:11:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:43 +0800"
-fetched_at_iso: "2026-02-26T10:15:43+08:00"
+fetched_at_raw: "2026-06-10 10:51:24 +0800"
+fetched_at_iso: "2026-06-10T10:51:24.413864+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3792
-approx_tokens: 1896
 ---
 
 # 小兵的角色 - 芙莉莲
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十一月 12, 2025, 12:11 下午
+- Posted at raw: 十一月 12, 2025, 12:11 下午
+- Posted at iso: 2025-11-12T12:11:00+08:00
 
 **角色填写人：**小兵
 (https://patchwiki.biligame.com/images/gwdz/thumb/e/ef/c4q329kxbf3vrkubcr0p6xbrrygvr3p.png/500px-7663.png)

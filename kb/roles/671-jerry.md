@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=671.0"
 author: "Jerry"
 created_at_raw: "九月 22, 2025, 09:19 上午"
 created_at_iso: "2025-09-22T09:19:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:30 +0800"
-fetched_at_iso: "2026-02-26T10:02:30+08:00"
+fetched_at_raw: "2026-06-10 10:39:40 +0800"
+fetched_at_iso: "2026-06-10T10:39:40.142603+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3844
-approx_tokens: 1922
 ---
 
 # Jerry的角色 - 菲利普&左翔太郎
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 22, 2025, 09:19 上午
+- Posted at raw: 九月 22, 2025, 09:19 上午
+- Posted at iso: 2025-09-22T09:19:00+08:00
 
 **角色填写人：**Jerry
 

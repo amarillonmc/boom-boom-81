@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1802.0"
 author: "小壶"
 created_at_raw: "十月 20, 2025, 01:40 下午"
 created_at_iso: "2025-10-20T13:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:56 +0800"
-fetched_at_iso: "2026-02-26T10:10:56+08:00"
+fetched_at_raw: "2026-06-10 10:47:05 +0800"
+fetched_at_iso: "2026-06-10T10:47:05.888730+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 426
-approx_tokens: 213
 ---
 
 # 小壶的角色 - 陆仁嘉
 
 ## 1F
 
+- floor_index: 1
 - Author: 小壶
-- Posted at: 十月 20, 2025, 01:40 下午
+- Posted at raw: 十月 20, 2025, 01:40 下午
+- Posted at iso: 2025-10-20T13:40:00+08:00
 
 **角色填写人：**小壶
 

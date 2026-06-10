@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=663.0"
 author: "Ombre"
 created_at_raw: "九月 22, 2025, 08:25 上午"
 created_at_iso: "2025-09-22T08:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:28 +0800"
-fetched_at_iso: "2026-02-26T10:02:28+08:00"
+fetched_at_raw: "2026-06-10 10:39:38 +0800"
+fetched_at_iso: "2026-06-10T10:39:38.467227+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5154
-approx_tokens: 2577
 ---
 
 # Ombre的角色 - 望月绫时（“黄昏的见证者”）
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 22, 2025, 08:25 上午
+- Posted at raw: 九月 22, 2025, 08:25 上午
+- Posted at iso: 2025-09-22T08:25:00+08:00
 
 **角色填写人：**Ombre
 

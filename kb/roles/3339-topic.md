@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3339.0"
 author: "Ender_Eragon"
 created_at_raw: "二月 22, 2026, 05:34 上午"
 created_at_iso: "2026-02-22T05:34:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:55 +0800"
-fetched_at_iso: "2026-02-26T10:18:55+08:00"
+fetched_at_raw: "2026-06-10 10:54:07 +0800"
+fetched_at_iso: "2026-06-10T10:54:07.971351+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2669
-approx_tokens: 1335
 ---
 
 # 终末的角色 - 螟灵「欲望祭司」
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 二月 22, 2026, 05:34 上午
+- Posted at raw: 二月 22, 2026, 05:34 上午
+- Posted at iso: 2026-02-22T05:34:00+08:00
 
 角色填写人：终末
 

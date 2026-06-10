@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1637.0"
 author: "小可"
 created_at_raw: "十月 16, 2025, 08:54 上午"
 created_at_iso: "2025-10-16T08:54:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:37 +0800"
-fetched_at_iso: "2026-02-26T10:09:37+08:00"
+fetched_at_raw: "2026-06-10 10:46:00 +0800"
+fetched_at_iso: "2026-06-10T10:46:00.291047+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3756
-approx_tokens: 1878
 ---
 
 # 小可的角色 - 土豆神
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 16, 2025, 08:54 上午
+- Posted at raw: 十月 16, 2025, 08:54 上午
+- Posted at iso: 2025-10-16T08:54:00+08:00
 
 **角色填写人：**小可
 
@@ -101,8 +101,10 @@ IV. 教义与崇拜
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 01:21 下午
+- Posted at raw: 十一月 07, 2025, 01:21 下午
+- Posted at iso: 2025-11-07T13:21:00+08:00
 
 **角色强度分析：土豆神**
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=317.0"
 author: "Ombre"
 created_at_raw: "九月 15, 2025, 06:52 上午"
 created_at_iso: "2025-09-15T06:52:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:26 +0800"
-fetched_at_iso: "2026-02-26T09:59:26+08:00"
+fetched_at_raw: "2026-06-10 10:36:48 +0800"
+fetched_at_iso: "2026-06-10T10:36:48.847990+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1108
-approx_tokens: 554
 ---
 
 # Ombre的角色 - 一般通过正义叔叔
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 15, 2025, 06:52 上午
+- Posted at raw: 九月 15, 2025, 06:52 上午
+- Posted at iso: 2025-09-15T06:52:00+08:00
 
 **角色填写人：**Ombre
 

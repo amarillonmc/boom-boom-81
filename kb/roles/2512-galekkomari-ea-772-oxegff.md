@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2512.0"
 author: "galekkomari"
 created_at_raw: "十一月 08, 2025, 10:35 下午"
 created_at_iso: "2025-11-08T22:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:58 +0800"
-fetched_at_iso: "2026-02-26T10:14:58+08:00"
+fetched_at_raw: "2026-06-10 10:50:43 +0800"
+fetched_at_iso: "2026-06-10T10:50:43.070578+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8802
-approx_tokens: 4401
 ---
 
 # galekkomari的角色 - EA-772 “Oxegff”（奥西戈夫）
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十一月 08, 2025, 10:35 下午
+- Posted at raw: 十一月 08, 2025, 10:35 下午
+- Posted at iso: 2025-11-08T22:35:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -112,8 +112,10 @@ OOC演绎禁令：
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十一月 08, 2025, 10:42 下午
+- Posted at raw: 十一月 08, 2025, 10:42 下午
+- Posted at iso: 2025-11-08T22:42:00+08:00
 
 附录：
 这是一份模范级别的角色卡。它在强度、故事性、交互性和机制趣味性上达到了近乎完美的平衡，完全符合规则书所倡导的"核心宗旨"。
@@ -285,8 +287,10 @@ Dark Firaga（火海）、Faith（巨大光束）和Thundaga Shot（激光束）
 
 ## 3F
 
+- floor_index: 3
 - Author: galekkomari
-- Posted at: 十一月 13, 2025, 12:00 上午
+- Posted at raw: 十一月 13, 2025, 12:00 上午
+- Posted at iso: 2025-11-13T00:00:00+08:00
 
 绩效点数历史：
 https://number81.xyz/index.php?topic=2619.0 - 590点

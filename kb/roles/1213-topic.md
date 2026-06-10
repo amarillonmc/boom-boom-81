@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1213.0"
 author: "增熵星"
 created_at_raw: "十月 03, 2025, 04:43 上午"
 created_at_iso: "2025-10-03T04:43:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:22 +0800"
-fetched_at_iso: "2026-02-26T10:06:22+08:00"
+fetched_at_raw: "2026-06-10 10:43:04 +0800"
+fetched_at_iso: "2026-06-10T10:43:04.336748+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1047
-approx_tokens: 524
 ---
 
 # 增熵星的角色 - 上层叙事者的化身
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 十月 03, 2025, 04:43 上午
+- Posted at raw: 十月 03, 2025, 04:43 上午
+- Posted at iso: 2025-10-03T04:43:00+08:00
 
 **角色填写人：**增熵星
 

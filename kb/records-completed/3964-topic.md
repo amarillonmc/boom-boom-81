@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3964.0"
 author: "岸彼斐子"
 created_at_raw: "三月 30, 2026, 06:00 上午"
 created_at_iso: "2026-03-30T06:00:00+08:00"
-fetched_at_raw: "2026-04-03 19:57:44 +0800"
-fetched_at_iso: "2026-04-03T19:57:44.863788+08:00"
+fetched_at_raw: "2026-06-10 11:13:07 +0800"
+fetched_at_iso: "2026-06-10T11:13:07.634854+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

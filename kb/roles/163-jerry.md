@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=163.0"
 author: "Jerry"
 created_at_raw: "九月 10, 2025, 08:59 上午"
 created_at_iso: "2025-09-10T08:59:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:05 +0800"
-fetched_at_iso: "2026-02-26T09:58:05+08:00"
+fetched_at_raw: "2026-06-10 10:35:33 +0800"
+fetched_at_iso: "2026-06-10T10:35:33.840000+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4253
-approx_tokens: 2127
 ---
 
 # Jerry的角色 - 海东大树
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 10, 2025, 08:59 上午
+- Posted at raw: 九月 10, 2025, 08:59 上午
+- Posted at iso: 2025-09-10T08:59:00+08:00
 
 **角色填写人：**Jerry
 

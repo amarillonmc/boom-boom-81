@@ -6,29 +6,31 @@ source_url: "https://number81.xyz/index.php?topic=2986.0"
 author: "AD钙"
 created_at_raw: "十一月 22, 2025, 05:53 上午"
 created_at_iso: "2025-11-22T05:53:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:57 +0800"
-fetched_at_iso: "2026-02-26T10:20:57+08:00"
+fetched_at_raw: "2026-06-10 11:02:11 +0800"
+fetched_at_iso: "2026-06-10T11:02:11.386742+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 23142
-approx_tokens: 11571
 ---
 
 # 【测试版】安科导游系统
 
 ## 1F
 
+- floor_index: 1
 - Author: AD钙
-- Posted at: 十一月 22, 2025, 05:53 上午
+- Posted at raw: 十一月 22, 2025, 05:53 上午
+- Posted at iso: 2025-11-22T05:53:00+08:00
 
 很多地方参考了增熵星的跑团规则。
 
 ## 2F
 
+- floor_index: 2
 - Author: AD钙
-- Posted at: 十一月 22, 2025, 05:54 上午
+- Posted at raw: 十一月 22, 2025, 05:54 上午
+- Posted at iso: 2025-11-22T05:54:00+08:00
 
 # 协议：【安科导游系统】
 
@@ -243,8 +245,10 @@ IMPACT: [该事件对游戏世界或角色团队产生的直接影响和后果]
 
 ## 3F
 
+- floor_index: 3
 - Author: AD钙
-- Posted at: 十一月 27, 2025, 04:18 上午
+- Posted at raw: 十一月 27, 2025, 04:18 上午
+- Posted at iso: 2025-11-27T04:18:00+08:00
 
 11月27日更新。
 尝试鼓励ai申请丢骰子。
@@ -254,8 +258,10 @@ IMPACT: [该事件对游戏世界或角色团队产生的直接影响和后果]
 
 ## 4F
 
+- floor_index: 4
 - Author: AD钙
-- Posted at: 十一月 27, 2025, 04:18 上午
+- Posted at raw: 十一月 27, 2025, 04:18 上午
+- Posted at iso: 2025-11-27T04:18:00+08:00
 
 # 协议：【安科导游系统】
 
@@ -495,8 +501,10 @@ IMPACT: [该事件对游戏世界或角色团队产生的直接影响和后果]
 
 ## 5F
 
+- floor_index: 5
 - Author: AD钙
-- Posted at: 十一月 30, 2025, 07:55 上午
+- Posted at raw: 十一月 30, 2025, 07:55 上午
+- Posted at iso: 2025-11-30T07:55:00+08:00
 
 11月30日更新
 极大增强了ai申请骰子的欲望
@@ -508,8 +516,10 @@ IMPACT: [该事件对游戏世界或角色团队产生的直接影响和后果]
 
 ## 6F
 
+- floor_index: 6
 - Author: AD钙
-- Posted at: 十一月 30, 2025, 07:56 上午
+- Posted at raw: 十一月 30, 2025, 07:56 上午
+- Posted at iso: 2025-11-30T07:56:00+08:00
 
 # 协议：【安科导游系统】
 

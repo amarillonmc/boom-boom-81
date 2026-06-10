@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=430.0"
 author: "Jerry"
 created_at_raw: "九月 18, 2025, 04:31 上午"
 created_at_iso: "2025-09-18T04:31:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:36 +0800"
-fetched_at_iso: "2026-02-26T10:00:36+08:00"
+fetched_at_raw: "2026-06-10 10:37:55 +0800"
+fetched_at_iso: "2026-06-10T10:37:55.332157+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5516
-approx_tokens: 2758
 ---
 
 # Jerry的角色 - 宇智波佐助（博人传时期）
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 18, 2025, 04:31 上午
+- Posted at raw: 九月 18, 2025, 04:31 上午
+- Posted at iso: 2025-09-18T04:31:00+08:00
 
 **角色填写人：**Jerry
 

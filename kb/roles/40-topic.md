@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=40.0"
 author: "紫宵"
 created_at_raw: "九月 08, 2025, 10:33 上午"
 created_at_iso: "2025-09-08T10:33:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:46 +0800"
-fetched_at_iso: "2026-02-26T09:56:46+08:00"
+fetched_at_raw: "2026-06-10 10:34:18 +0800"
+fetched_at_iso: "2026-06-10T10:34:18.323862+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1412
-approx_tokens: 706
 ---
 
 # 紫宵的角色 - 闭锁世界的冥神
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 九月 08, 2025, 10:33 上午
+- Posted at raw: 九月 08, 2025, 10:33 上午
+- Posted at iso: 2025-09-08T10:33:00+08:00
 
 **角色填写人：**紫宵
 

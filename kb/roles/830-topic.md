@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=830.0"
 author: "烛火"
 created_at_raw: "九月 24, 2025, 03:00 下午"
 created_at_iso: "2025-09-24T15:00:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:50 +0800"
-fetched_at_iso: "2026-02-26T10:03:50+08:00"
+fetched_at_raw: "2026-06-10 10:40:47 +0800"
+fetched_at_iso: "2026-06-10T10:40:47.357213+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 26290
-approx_tokens: 13145
 ---
 
 # 烛火的角色 - 葵·托利 & 赫莱森·阿利亚达斯特&“武藏”本舰
 
 ## 1F
 
+- floor_index: 1
 - Author: 烛火
-- Posted at: 九月 24, 2025, 03:00 下午
+- Posted at raw: 九月 24, 2025, 03:00 下午
+- Posted at iso: 2025-09-24T15:00:00+08:00
 
 **角色填写人：**烛火
 
@@ -281,8 +281,10 @@ BGM：通し道歌—P-01s
 
 ## 2F
 
+- floor_index: 2
 - Author: 烛火
-- Posted at: 九月 25, 2025, 07:05 上午
+- Posted at raw: 九月 25, 2025, 07:05 上午
+- Posted at iso: 2025-09-25T07:05:00+08:00
 
 葵·托利（葵·トーリ（あおい·トーリ）/【Impossible/インポッシブル】，配音：福山润）
 男主角，役职：极东总长兼学生会会长兼武藏副王，葵·喜美的弟弟。
@@ -456,8 +458,10 @@ BGM：通し道歌—P-01s
 
 ## 3F
 
+- floor_index: 3
 - Author: 烛火
-- Posted at: 十一月 26, 2025, 04:28 上午
+- Posted at raw: 十一月 26, 2025, 04:28 上午
+- Posted at iso: 2025-11-26T04:28:00+08:00
 
 [color=var(--tw-prose-headings)]【赫菲斯托斯MS设计协议 V1.0】—— 机体档案[/color]
 [color=var(--tw-prose-headings)]1. 【机体命名 (Unit Naming)】[/color]

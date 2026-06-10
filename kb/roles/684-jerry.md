@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=684.0"
 author: "Jerry"
 created_at_raw: "九月 22, 2025, 12:10 下午"
 created_at_iso: "2025-09-22T12:10:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:35 +0800"
-fetched_at_iso: "2026-02-26T10:02:35+08:00"
+fetched_at_raw: "2026-06-10 10:39:45 +0800"
+fetched_at_iso: "2026-06-10T10:39:45.202947+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6096
-approx_tokens: 3048
 ---
 
 # Jerry的角色 - 深海诚
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 22, 2025, 12:10 下午
+- Posted at raw: 九月 22, 2025, 12:10 下午
+- Posted at iso: 2025-09-22T12:10:00+08:00
 
 **角色填写人：**Jerry
 

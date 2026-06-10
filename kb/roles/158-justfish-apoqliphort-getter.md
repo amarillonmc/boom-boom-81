@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=158.0"
 author: "Justfish"
 created_at_raw: "九月 10, 2025, 07:51 上午"
 created_at_iso: "2025-09-10T07:51:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:00 +0800"
-fetched_at_iso: "2026-02-26T09:58:00+08:00"
+fetched_at_raw: "2026-06-10 10:35:29 +0800"
+fetched_at_iso: "2026-06-10T10:35:29.633323+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1613
-approx_tokens: 807
 ---
 
 # Justfish的角色 - 隐藏的真机壳盖塔 （Apoqliphort Getter）
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 10, 2025, 07:51 上午
+- Posted at raw: 九月 10, 2025, 07:51 上午
+- Posted at iso: 2025-09-10T07:51:00+08:00
 
 **角色填写人：**Justfish
 
@@ -40,15 +40,19 @@ approx_tokens: 807
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 九月 10, 2025, 08:35 上午
+- Posted at raw: 九月 10, 2025, 08:35 上午
+- Posted at iso: 2025-09-10T08:35:00+08:00
 
 你这3号机怎么不会自爆啊
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 九月 10, 2025, 02:10 下午
+- Posted at raw: 九月 10, 2025, 02:10 下午
+- Posted at iso: 2025-09-10T14:10:00+08:00
 
 > [引用自: zweizergain 于 九月 10, 2025, 08:35 上午](https://number81.xyz/index.php?msg=365)你这3号机怎么不会自爆啊
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1011.0"
 author: "Ombre"
 created_at_raw: "九月 28, 2025, 08:54 上午"
 created_at_iso: "2025-09-28T08:54:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:14 +0800"
-fetched_at_iso: "2026-02-26T10:05:14+08:00"
+fetched_at_raw: "2026-06-10 10:42:06 +0800"
+fetched_at_iso: "2026-06-10T10:42:06.491880+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 11371
-approx_tokens: 5686
 ---
 
 # Ombre的角色 - 希尔伯特·让·昂热 (Hilbert Jean Anjou)
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 28, 2025, 08:54 上午
+- Posted at raw: 九月 28, 2025, 08:54 上午
+- Posted at iso: 2025-09-28T08:54:00+08:00
 
 ### **角色档案：希尔伯特·让·昂热 (Hilbert Jean Anjou)**
 
@@ -133,8 +133,10 @@ approx_tokens: 5686
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 10, 2025, 02:25 上午
+- Posted at raw: 十一月 10, 2025, 02:25 上午
+- Posted at iso: 2025-11-10T02:25:00+08:00
 
 旧人物卡**角色填写人：**Ombre
 
@@ -196,8 +198,10 @@ approx_tokens: 5686
 
 ## 3F
 
+- floor_index: 3
 - Author: Ombre
-- Posted at: 十一月 10, 2025, 02:35 上午
+- Posted at raw: 十一月 10, 2025, 02:35 上午
+- Posted at iso: 2025-11-10T02:35:00+08:00
 
 从者档案（Assassin）### **第一部分：核心身份 (Core Identity)**
 
@@ -272,8 +276,10 @@ approx_tokens: 5686
 
 ## 4F
 
+- floor_index: 4
 - Author: Ombre
-- Posted at: 十一月 13, 2025, 10:32 上午
+- Posted at raw: 十一月 13, 2025, 10:32 上午
+- Posted at iso: 2025-11-13T10:32:00+08:00
 
 御主档案### **第一部分：核心身份 (Core Identity)**
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=795.0"
 author: "梦梦"
 created_at_raw: "九月 24, 2025, 07:26 上午"
 created_at_iso: "2025-09-24T07:26:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:26 +0800"
-fetched_at_iso: "2026-02-26T10:19:26+08:00"
+fetched_at_raw: "2026-06-10 11:00:43 +0800"
+fetched_at_iso: "2026-06-10T11:00:43.016134+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 727
-approx_tokens: 364
 ---
 
 # 特殊议程——失落帝国（持续更新）
 
 ## 1F
 
+- floor_index: 1
 - Author: 梦梦
-- Posted at: 九月 24, 2025, 07:26 上午
+- Posted at raw: 九月 24, 2025, 07:26 上午
+- Posted at iso: 2025-09-24T07:26:00+08:00
 
 //////**Fallen Empire**//////
 

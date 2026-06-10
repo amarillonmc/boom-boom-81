@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1945.0"
 author: "小兵"
 created_at_raw: "十月 25, 2025, 07:23 下午"
 created_at_iso: "2025-10-25T19:23:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:48 +0800"
-fetched_at_iso: "2026-02-26T10:11:48+08:00"
+fetched_at_raw: "2026-06-10 10:47:51 +0800"
+fetched_at_iso: "2026-06-10T10:47:51.855837+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1237
-approx_tokens: 619
 ---
 
 # 小兵的角色 - 伏黑甚尔
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 25, 2025, 07:23 下午
+- Posted at raw: 十月 25, 2025, 07:23 下午
+- Posted at iso: 2025-10-25T19:23:00+08:00
 
 **角色填写人：**小兵
 (https://patchwiki.biligame.com/images/gwdz/f/ff/jp32lrc7kx0004aazj1u1fgmc5i7xto.png)

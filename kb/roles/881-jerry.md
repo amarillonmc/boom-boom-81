@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=881.0"
 author: "Jerry"
 created_at_raw: "九月 25, 2025, 12:54 下午"
 created_at_iso: "2025-09-25T12:54:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:11 +0800"
-fetched_at_iso: "2026-02-26T10:04:11+08:00"
+fetched_at_raw: "2026-06-10 10:41:07 +0800"
+fetched_at_iso: "2026-06-10T10:41:07.969999+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6509
-approx_tokens: 3255
 ---
 
 # Jerry的角色 - 游城十代
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 25, 2025, 12:54 下午
+- Posted at raw: 九月 25, 2025, 12:54 下午
+- Posted at iso: 2025-09-25T12:54:00+08:00
 
 **角色填写人：**Jerry
 

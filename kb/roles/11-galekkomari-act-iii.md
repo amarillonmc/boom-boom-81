@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=11.0"
 author: "galekkomari"
 created_at_raw: "九月 07, 2025, 10:39 下午"
 created_at_iso: "2025-09-07T22:39:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:34 +0800"
-fetched_at_iso: "2026-02-26T09:56:34+08:00"
+fetched_at_raw: "2026-06-10 10:34:06 +0800"
+fetched_at_iso: "2026-06-10T10:34:06.076390+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1106
-approx_tokens: 553
 ---
 
 # galekkomari的角色 - 逸散墨菲 ACT III
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 07, 2025, 10:39 下午
+- Posted at raw: 九月 07, 2025, 10:39 下午
+- Posted at iso: 2025-09-07T22:39:00+08:00
 
 **角色填写人：**galekkomari
 

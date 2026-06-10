@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=243.0"
 author: "无羁"
 created_at_raw: "九月 13, 2025, 11:51 上午"
 created_at_iso: "2025-09-13T11:51:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:42 +0800"
-fetched_at_iso: "2026-02-26T09:58:42+08:00"
+fetched_at_raw: "2026-06-10 10:36:07 +0800"
+fetched_at_iso: "2026-06-10T10:36:07.002597+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 977
-approx_tokens: 489
 ---
 
 # 无羁的角色 - 魔勒
 
 ## 1F
 
+- floor_index: 1
 - Author: 无羁
-- Posted at: 九月 13, 2025, 11:51 上午
+- Posted at raw: 九月 13, 2025, 11:51 上午
+- Posted at iso: 2025-09-13T11:51:00+08:00
 
 **角色填写人：**无羁
 

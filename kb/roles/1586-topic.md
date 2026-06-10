@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1586.0"
 author: "zweizergain"
 created_at_raw: "十月 14, 2025, 05:26 下午"
 created_at_iso: "2025-10-14T17:26:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:16 +0800"
-fetched_at_iso: "2026-02-26T10:09:16+08:00"
+fetched_at_raw: "2026-06-10 10:45:40 +0800"
+fetched_at_iso: "2026-06-10T10:45:40.859093+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 13440
-approx_tokens: 6720
 ---
 
 # 望朔
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 14, 2025, 05:26 下午
+- Posted at raw: 十月 14, 2025, 05:26 下午
+- Posted at iso: 2025-10-14T17:26:00+08:00
 
 # **【角色档案：望朔 (Wàng Shuò) - V7.0 蝴蝶效应版】**
 
@@ -205,8 +205,10 @@ approx_tokens: 6720
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 十月 14, 2025, 05:41 下午
+- Posted at raw: 十月 14, 2025, 05:41 下午
+- Posted at iso: 2025-10-14T17:41:00+08:00
 
 好的，已彻底清除上一版本（V3.1）的档案，并加载了全新的 **【角色档案：望朔 (Wàng Shuò) - V6.0 绝对黑箱版】**。
 
@@ -339,22 +341,28 @@ approx_tokens: 6720
 
 ## 3F
 
+- floor_index: 3
 - Author: zweizergain
-- Posted at: 十月 17, 2025, 05:26 上午
+- Posted at raw: 十月 17, 2025, 05:26 上午
+- Posted at iso: 2025-10-17T05:26:00+08:00
 
 https://number81.xyz/index.php?topic=1647
 
 ## 4F
 
+- floor_index: 4
 - Author: zweizergain
-- Posted at: 十月 28, 2025, 04:56 上午
+- Posted at raw: 十月 28, 2025, 04:56 上午
+- Posted at iso: 2025-10-28T04:56:00+08:00
 
 https://number81.xyz/index.php?topic=2032
 
 ## 5F
 
+- floor_index: 5
 - Author: zweizergain
-- Posted at: 十一月 03, 2025, 12:28 下午
+- Posted at raw: 十一月 03, 2025, 12:28 下午
+- Posted at iso: 2025-11-03T12:28:00+08:00
 
 朔寒
 https://number81.xyz/index.php?topic=2293

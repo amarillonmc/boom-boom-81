@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1373.0"
 author: "Justfish"
 created_at_raw: "十月 07, 2025, 07:51 上午"
 created_at_iso: "2025-10-07T07:51:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:44 +0800"
-fetched_at_iso: "2026-02-26T10:07:44+08:00"
+fetched_at_raw: "2026-06-10 10:44:19 +0800"
+fetched_at_iso: "2026-06-10T10:44:19.212061+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3980
-approx_tokens: 1990
 ---
 
 # Justfish的角色 - 三百六十五里路
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 07, 2025, 07:51 上午
+- Posted at raw: 十月 07, 2025, 07:51 上午
+- Posted at iso: 2025-10-07T07:51:00+08:00
 
 **角色填写人：**Justfish
 
@@ -63,15 +63,19 @@ BGM强制播放：歌曲播放期间无法被任何形式中断、静音或覆�
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 十月 07, 2025, 09:46 上午
+- Posted at raw: 十月 07, 2025, 09:46 上午
+- Posted at iso: 2025-10-07T09:46:00+08:00
 
 AI能背出完整歌词吗
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 十月 15, 2025, 04:32 上午
+- Posted at raw: 十月 15, 2025, 04:32 上午
+- Posted at iso: 2025-10-15T04:32:00+08:00
 
 变体角色：
 

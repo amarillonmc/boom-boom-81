@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2195.0"
 author: "Justfish"
 created_at_raw: "十月 31, 2025, 01:51 下午"
 created_at_iso: "2025-10-31T13:51:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:22 +0800"
-fetched_at_iso: "2026-02-26T10:13:22+08:00"
+fetched_at_raw: "2026-06-10 10:49:12 +0800"
+fetched_at_iso: "2026-06-10T10:49:12.448173+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2181
-approx_tokens: 1091
 ---
 
 # Justfish的角色 - 万物之敌 - 四季 (All-Encompassing Enemy - Shiki)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 31, 2025, 01:51 下午
+- Posted at raw: 十月 31, 2025, 01:51 下午
+- Posted at iso: 2025-10-31T13:51:00+08:00
 
 **角色填写人：**Justfish
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3256.0"
 author: "OPPO"
 created_at_raw: "十二月 13, 2025, 09:56 上午"
 created_at_iso: "2025-12-13T09:56:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:32 +0800"
-fetched_at_iso: "2026-02-26T10:18:32+08:00"
+fetched_at_raw: "2026-06-10 10:53:46 +0800"
+fetched_at_iso: "2026-06-10T10:53:46.268356+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2697
-approx_tokens: 1349
 ---
 
 # OPPO的角色 - RAZ-Ω「受缚之王」
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 十二月 13, 2025, 09:56 上午
+- Posted at raw: 十二月 13, 2025, 09:56 上午
+- Posted at iso: 2025-12-13T09:56:00+08:00
 
 **角色填写人：**OPPO
 

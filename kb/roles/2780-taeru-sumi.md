@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2780.0"
 author: "塔."
 created_at_raw: "十一月 17, 2025, 08:18 上午"
 created_at_iso: "2025-11-17T08:18:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:51 +0800"
-fetched_at_iso: "2026-02-26T10:16:51+08:00"
+fetched_at_raw: "2026-06-10 10:52:25 +0800"
+fetched_at_iso: "2026-06-10T10:52:25.491528+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7946
-approx_tokens: 3973
 ---
 
 # 塔.的角色 - たえる澄(Taeru Sumi)
 
 ## 1F
 
+- floor_index: 1
 - Author: 塔.
-- Posted at: 十一月 17, 2025, 08:18 上午
+- Posted at raw: 十一月 17, 2025, 08:18 上午
+- Posted at iso: 2025-11-17T08:18:00+08:00
 
 **角色填写人：**塔.
 
@@ -93,8 +93,10 @@ approx_tokens: 3973
 
 ## 2F
 
+- floor_index: 2
 - Author: 塔.
-- Posted at: 十一月 17, 2025, 09:06 上午
+- Posted at raw: 十一月 17, 2025, 09:06 上午
+- Posted at iso: 2025-11-17T09:06:00+08:00
 
 从者以下是根据您提供的角色设定，按照FGO风格从者角色转录协议生成的AI生成部分。内容基于FGO世界观进行扩展和细化，力求符合游戏内从者角色的设计逻辑与表现风格。输出仅包含协议中标注的【AI生成部分】，整体保持极简，字数约2000字。
 
@@ -188,8 +190,10 @@ approx_tokens: 3973
 
 ## 3F
 
+- floor_index: 3
 - Author: 塔.
-- Posted at: 十一月 17, 2025, 09:09 上午
+- Posted at raw: 十一月 17, 2025, 09:09 上午
+- Posted at iso: 2025-11-17T09:09:00+08:00
 
 御主御主档案转录协议 (Chaldea Master Archive Transcription Protocol)
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1424.0"
 author: "Justfish"
 created_at_raw: "十月 09, 2025, 01:55 下午"
 created_at_iso: "2025-10-09T13:55:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:07 +0800"
-fetched_at_iso: "2026-02-26T10:08:07+08:00"
+fetched_at_raw: "2026-06-10 10:44:37 +0800"
+fetched_at_iso: "2026-06-10T10:44:37.038994+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5566
-approx_tokens: 2783
 ---
 
 # Justfish的角色 - 戴墨镜的内华达人
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 09, 2025, 01:55 下午
+- Posted at raw: 十月 09, 2025, 01:55 下午
+- Posted at iso: 2025-10-09T13:55:00+08:00
 
 **角色填写人：**Justfish
 
@@ -101,8 +101,10 @@ approx_tokens: 2783
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十月 10, 2025, 10:30 上午
+- Posted at raw: 十月 10, 2025, 10:30 上午
+- Posted at iso: 2025-10-10T10:30:00+08:00
 
 已参与对局：
 https://number81.xyz/index.php?topic=1369

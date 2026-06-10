@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2101.0"
 author: "小可"
 created_at_raw: "十月 29, 2025, 01:55 下午"
 created_at_iso: "2025-10-29T13:55:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:50 +0800"
-fetched_at_iso: "2026-02-26T10:12:50+08:00"
+fetched_at_raw: "2026-06-10 10:48:46 +0800"
+fetched_at_iso: "2026-06-10T10:48:46.049541+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5340
-approx_tokens: 2670
 ---
 
 # 小可的角色 - 木之本樱 (Kinomoto Sakura)
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 29, 2025, 01:55 下午
+- Posted at raw: 十月 29, 2025, 01:55 下午
+- Posted at iso: 2025-10-29T13:55:00+08:00
 
 **角色填写人：**小可
 
@@ -74,8 +74,10 @@ approx_tokens: 2670
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 29, 2025, 02:31 下午
+- Posted at raw: 十月 29, 2025, 02:31 下午
+- Posted at iso: 2025-10-29T14:31:00+08:00
 
 **角色点评：【木之本樱】—— 最"标准"的魔法少女**
 
@@ -92,8 +94,10 @@ approx_tokens: 2670
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十一月 07, 2025, 02:16 下午
+- Posted at raw: 十一月 07, 2025, 02:16 下午
+- Posted at iso: 2025-11-07T14:16:00+08:00
 
 **角色强度分析：木之本樱**
 

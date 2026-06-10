@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=257.0"
 author: "玄羽"
 created_at_raw: "九月 14, 2025, 02:26 上午"
 created_at_iso: "2025-09-14T02:26:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:50 +0800"
-fetched_at_iso: "2026-02-26T09:58:50+08:00"
+fetched_at_raw: "2026-06-10 10:36:13 +0800"
+fetched_at_iso: "2026-06-10T10:36:13.882895+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1270
-approx_tokens: 635
 ---
 
 # 玄羽的角色 - 冰魄·柯尔德
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 九月 14, 2025, 02:26 上午
+- Posted at raw: 九月 14, 2025, 02:26 上午
+- Posted at iso: 2025-09-14T02:26:00+08:00
 
 **角色填写人：**玄羽
 

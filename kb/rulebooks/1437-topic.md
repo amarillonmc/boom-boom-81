@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1437.0"
 author: "Ombre"
 created_at_raw: "十月 10, 2025, 03:51 上午"
 created_at_iso: "2025-10-10T03:51:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:48 +0800"
-fetched_at_iso: "2026-02-26T10:19:48+08:00"
+fetched_at_raw: "2026-06-10 11:01:04 +0800"
+fetched_at_iso: "2026-06-10T11:01:04.896341+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1761
-approx_tokens: 881
 ---
 
 # 真人聊天风格复现协议
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 10, 2025, 03:51 上午
+- Posted at raw: 十月 10, 2025, 03:51 上午
+- Posted at iso: 2025-10-10T03:51:00+08:00
 
 【通用版】真人聊天风格复现协议 (v2.1)
 本协议旨在提供一套标准流程，通过分析目标人物的聊天记录，系统性地将其语言习惯转化为一个可模仿、可复现的数字人格模型。

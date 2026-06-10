@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1048.0"
 author: "Justfish"
 created_at_raw: "九月 29, 2025, 03:39 上午"
 created_at_iso: "2025-09-29T03:39:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:25 +0800"
-fetched_at_iso: "2026-02-26T10:05:25+08:00"
+fetched_at_raw: "2026-06-10 10:42:16 +0800"
+fetched_at_iso: "2026-06-10T10:42:16.521134+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1981
-approx_tokens: 991
 ---
 
 # Justfish的角色 -  亡蝶葬仪（T-01-68）
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 29, 2025, 03:39 上午
+- Posted at raw: 九月 29, 2025, 03:39 上午
+- Posted at iso: 2025-09-29T03:39:00+08:00
 
 **角色填写人：**Justfish
 

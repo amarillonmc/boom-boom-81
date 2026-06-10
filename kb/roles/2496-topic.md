@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2496.0"
 author: "紫宵"
 created_at_raw: "十一月 08, 2025, 08:20 上午"
 created_at_iso: "2025-11-08T08:20:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:51 +0800"
-fetched_at_iso: "2026-02-26T10:14:51+08:00"
+fetched_at_raw: "2026-06-10 10:50:34 +0800"
+fetched_at_iso: "2026-06-10T10:50:34.833244+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 706
-approx_tokens: 353
 ---
 
 # 紫宵的角色 - 伊娜（短）
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 十一月 08, 2025, 08:20 上午
+- Posted at raw: 十一月 08, 2025, 08:20 上午
+- Posted at iso: 2025-11-08T08:20:00+08:00
 
 **角色填写人：**紫宵
 
@@ -35,8 +35,10 @@ approx_tokens: 353
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 十一月 08, 2025, 08:21 上午
+- Posted at raw: 十一月 08, 2025, 08:21 上午
+- Posted at iso: 2025-11-08T08:21:00+08:00
 
 紫宵的角色 - 伊娜 (https://number81.xyz/index.php?topic=373.0)
 100楼纪念

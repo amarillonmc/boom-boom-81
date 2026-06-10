@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=608.0"
 author: "Huager"
 created_at_raw: "九月 21, 2025, 01:50 上午"
 created_at_iso: "2025-09-21T01:50:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:05 +0800"
-fetched_at_iso: "2026-02-26T10:02:05+08:00"
+fetched_at_raw: "2026-06-10 10:39:16 +0800"
+fetched_at_iso: "2026-06-10T10:39:16.266851+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 417
-approx_tokens: 209
 ---
 
 # 黑莲的角色 - 小女孩
 
 ## 1F
 
+- floor_index: 1
 - Author: Huager
-- Posted at: 九月 21, 2025, 01:50 上午
+- Posted at raw: 九月 21, 2025, 01:50 上午
+- Posted at iso: 2025-09-21T01:50:00+08:00
 
 **角色填写人：**黑莲
 

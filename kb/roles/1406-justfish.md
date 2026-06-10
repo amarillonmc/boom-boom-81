@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1406.0"
 author: "Justfish"
 created_at_raw: "十月 08, 2025, 12:26 下午"
 created_at_iso: "2025-10-08T12:26:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:57 +0800"
-fetched_at_iso: "2026-02-26T10:07:57+08:00"
+fetched_at_raw: "2026-06-10 10:44:28 +0800"
+fetched_at_iso: "2026-06-10T10:44:28.608926+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6375
-approx_tokens: 3188
 ---
 
 # Justfish的角色 - 【瞬爆艺人】硝石 灰
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 08, 2025, 12:26 下午
+- Posted at raw: 十月 08, 2025, 12:26 下午
+- Posted at iso: 2025-10-08T12:26:00+08:00
 
 **角色填写人：**Justfish
 

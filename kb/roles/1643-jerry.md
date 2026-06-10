@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1643.0"
 author: "Jerry"
 created_at_raw: "十月 16, 2025, 10:02 上午"
 created_at_iso: "2025-10-16T10:02:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:41 +0800"
-fetched_at_iso: "2026-02-26T10:09:41+08:00"
+fetched_at_raw: "2026-06-10 10:46:04 +0800"
+fetched_at_iso: "2026-06-10T10:46:04.463127+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2943
-approx_tokens: 1472
 ---
 
 # Jerry的角色 - 超越者
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 16, 2025, 10:02 上午
+- Posted at raw: 十月 16, 2025, 10:02 上午
+- Posted at iso: 2025-10-16T10:02:00+08:00
 
 **角色填写人：**Jerry
 

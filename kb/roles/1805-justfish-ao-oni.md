@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1805.0"
 author: "Justfish"
 created_at_raw: "十月 20, 2025, 11:58 下午"
 created_at_iso: "2025-10-20T23:58:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:59 +0800"
-fetched_at_iso: "2026-02-26T10:10:59+08:00"
+fetched_at_raw: "2026-06-10 10:47:08 +0800"
+fetched_at_iso: "2026-06-10T10:47:08.612807+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2850
-approx_tokens: 1425
 ---
 
 # Justfish的角色 - 青鬼 (Ao Oni)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 20, 2025, 11:58 下午
+- Posted at raw: 十月 20, 2025, 11:58 下午
+- Posted at iso: 2025-10-20T23:58:00+08:00
 
 **角色填写人：**Justfish
 
@@ -81,7 +81,9 @@ approx_tokens: 1425
 
 ## 2F
 
+- floor_index: 2
 - Author: 小兵
-- Posted at: 十月 21, 2025, 12:21 上午
+- Posted at raw: 十月 21, 2025, 12:21 上午
+- Posted at iso: 2025-10-21T00:21:00+08:00
 
 可惜没有牙牙乐

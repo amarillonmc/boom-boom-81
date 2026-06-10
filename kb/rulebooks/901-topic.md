@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=901.0"
 author: "Ombre"
 created_at_raw: "九月 26, 2025, 03:12 上午"
 created_at_iso: "2025-09-26T03:12:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:35 +0800"
-fetched_at_iso: "2026-02-26T10:19:35+08:00"
+fetched_at_raw: "2026-06-10 11:00:51 +0800"
+fetched_at_iso: "2026-06-10T11:00:51.303390+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 9171
-approx_tokens: 4586
 ---
 
 # 传说模式-光芒与纷争之侧
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 26, 2025, 03:12 上午
+- Posted at raw: 九月 26, 2025, 03:12 上午
+- Posted at iso: 2025-09-26T03:12:00+08:00
 
 > 引用**传说任务纲要：《诸天祈愿：世界最后的呼唤》**
 > **对于角色的称谓：请用bbcode中的加粗字体来称呼不同的角色与怪兽，并同时对以下角色使用给定的色号来表示他们的名字与话语。**

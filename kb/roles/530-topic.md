@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=530.0"
 author: "小可"
 created_at_raw: "九月 19, 2025, 12:41 下午"
 created_at_iso: "2025-09-19T12:41:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:26 +0800"
-fetched_at_iso: "2026-02-26T10:01:26+08:00"
+fetched_at_raw: "2026-06-10 10:38:39 +0800"
+fetched_at_iso: "2026-06-10T10:38:39.863551+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3767
-approx_tokens: 1884
 ---
 
 # 小可的角色 - 逆闪
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 19, 2025, 12:41 下午
+- Posted at raw: 九月 19, 2025, 12:41 下午
+- Posted at iso: 2025-09-19T12:41:00+08:00
 
 **角色填写人：**小可
 
@@ -61,8 +61,10 @@ approx_tokens: 1884
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 10:24 下午
+- Posted at raw: 十一月 07, 2025, 10:24 下午
+- Posted at iso: 2025-11-07T22:24:00+08:00
 
 **角色强度分析：逆闪**
 

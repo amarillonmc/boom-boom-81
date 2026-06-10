@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2067.0"
 author: "galekkomari"
 created_at_raw: "十月 28, 2025, 01:36 下午"
 created_at_iso: "2025-10-28T13:36:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:42 +0800"
-fetched_at_iso: "2026-02-26T10:12:42+08:00"
+fetched_at_raw: "2026-06-10 10:48:38 +0800"
+fetched_at_iso: "2026-06-10T10:48:38.017338+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4519
-approx_tokens: 2260
 ---
 
 # galekkomari的角色 - 奇想复现者 - 闪闪（参赛者版）
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十月 28, 2025, 01:36 下午
+- Posted at raw: 十月 28, 2025, 01:36 下午
+- Posted at iso: 2025-10-28T13:36:00+08:00
 
 **角色填写人：**galekkomari
 (https://alice.dianbo.me/images/2024/03/28/00005-4126857608.md.png) (https://alice.dianbo.me/image/BkvP)
@@ -76,8 +76,10 @@ approx_tokens: 2260
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十月 28, 2025, 01:46 下午
+- Posted at raw: 十月 28, 2025, 01:46 下午
+- Posted at iso: 2025-10-28T13:46:00+08:00
 
 附录：
 

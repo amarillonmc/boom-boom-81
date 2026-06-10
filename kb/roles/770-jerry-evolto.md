@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=770.0"
 author: "Jerry"
 created_at_raw: "九月 23, 2025, 01:11 下午"
 created_at_iso: "2025-09-23T13:11:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:28 +0800"
-fetched_at_iso: "2026-02-26T10:03:28+08:00"
+fetched_at_raw: "2026-06-10 10:40:25 +0800"
+fetched_at_iso: "2026-06-10T10:40:25.831023+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4276
-approx_tokens: 2138
 ---
 
 # Jerry的角色 -  Evolto
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 23, 2025, 01:11 下午
+- Posted at raw: 九月 23, 2025, 01:11 下午
+- Posted at iso: 2025-09-23T13:11:00+08:00
 
 **角色填写人：**Jerry
 

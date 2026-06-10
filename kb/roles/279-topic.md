@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=279.0"
 author: "zweizergain"
 created_at_raw: "九月 14, 2025, 08:36 上午"
 created_at_iso: "2025-09-14T08:36:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:06 +0800"
-fetched_at_iso: "2026-02-26T09:59:06+08:00"
+fetched_at_raw: "2026-06-10 10:36:29 +0800"
+fetched_at_iso: "2026-06-10T10:36:29.241298+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4470
-approx_tokens: 2235
 ---
 
 # 活路的角色 - 阿克塞尔·阿鲁玛
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 九月 14, 2025, 08:36 上午
+- Posted at raw: 九月 14, 2025, 08:36 上午
+- Posted at iso: 2025-09-14T08:36:00+08:00
 
 **角色填写人：**活路
 

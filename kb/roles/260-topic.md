@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=260.0"
 author: "增熵星"
 created_at_raw: "九月 14, 2025, 04:57 上午"
 created_at_iso: "2025-09-14T04:57:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:51 +0800"
-fetched_at_iso: "2026-02-26T09:58:51+08:00"
+fetched_at_raw: "2026-06-10 10:36:15 +0800"
+fetched_at_iso: "2026-06-10T10:36:15.730817+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 915
-approx_tokens: 458
 ---
 
 # 增熵星的角色 - “你是一只猫娘”
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 14, 2025, 04:57 上午
+- Posted at raw: 九月 14, 2025, 04:57 上午
+- Posted at iso: 2025-09-14T04:57:00+08:00
 
 **角色填写人：**增熵星
 
@@ -37,8 +37,10 @@ approx_tokens: 458
 
 ## 2F
 
+- floor_index: 2
 - Author: 增熵星
-- Posted at: 九月 16, 2025, 10:13 上午
+- Posted at raw: 九月 16, 2025, 10:13 上午
+- Posted at iso: 2025-09-16T10:13:00+08:00
 
 【冠军角色】该角色已于https://number81.xyz/index.php?topic=283.0 中获得冠军，并成功解除猫化诅咒
 角色卡更新：

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1799.0"
 author: "小可"
 created_at_raw: "十月 20, 2025, 11:19 上午"
 created_at_iso: "2025-10-20T11:19:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:54 +0800"
-fetched_at_iso: "2026-02-26T10:10:54+08:00"
+fetched_at_raw: "2026-06-10 10:47:03 +0800"
+fetched_at_iso: "2026-06-10T10:47:03.993865+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4562
-approx_tokens: 2281
 ---
 
 # 小可的角色 - 风雨无阻的披萨小子 - 乔伊·“辣肉肠”
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 20, 2025, 11:19 上午
+- Posted at raw: 十月 20, 2025, 11:19 上午
+- Posted at iso: 2025-10-20T11:19:00+08:00
 
 **角色填写人：**小可
 
@@ -71,8 +71,10 @@ approx_tokens: 2281
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 10:50 下午
+- Posted at raw: 十一月 07, 2025, 10:50 下午
+- Posted at iso: 2025-11-07T22:50:00+08:00
 
 **角色强度分析：风雨无阻的披萨小子 - 乔伊·"辣肉肠"**
 

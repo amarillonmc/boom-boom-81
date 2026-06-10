@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=375.0"
 author: "Justfish"
 created_at_raw: "九月 16, 2025, 03:29 下午"
 created_at_iso: "2025-09-16T15:29:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:01 +0800"
-fetched_at_iso: "2026-02-26T10:00:01+08:00"
+fetched_at_raw: "2026-06-10 10:37:23 +0800"
+fetched_at_iso: "2026-06-10T10:37:23.011717+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6123
-approx_tokens: 3062
 ---
 
 # Justfish的角色 - 【解-99】
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 16, 2025, 03:29 下午
+- Posted at raw: 九月 16, 2025, 03:29 下午
+- Posted at iso: 2025-09-16T15:29:00+08:00
 
 **角色填写人：**Justfish
 
@@ -80,8 +80,10 @@ approx_tokens: 3062
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 20, 2025, 10:59 上午
+- Posted at raw: 九月 20, 2025, 10:59 上午
+- Posted at iso: 2025-09-20T10:59:00+08:00
 
 【神秘笔记女的危险对策】的原始文本如下：
 【能不能放过咱这位只是来记笔记的无害小石头】：由于多次被更高位存在提前"踹"出战场，解会使用包含但不限于以下的方案，试图在有自身无法直接对抗的能力要让自身无法继续留在战场（如让解出局/消失/转变/被替换等）的情况下时让自身留在战场，且优先选择成功可能性更高的前提下代价更低的方案（主要目标为让自身还能够解析和记录未知的要素）。**解不会在语言中提到这些方案，而是只做出对应的行动。**

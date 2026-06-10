@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1046.0"
 author: "普通人的无聊生活"
 created_at_raw: "九月 29, 2025, 02:04 上午"
 created_at_iso: "2025-09-29T02:04:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:24 +0800"
-fetched_at_iso: "2026-02-26T10:05:24+08:00"
+fetched_at_raw: "2026-06-10 10:42:15 +0800"
+fetched_at_iso: "2026-06-10T10:42:15.554916+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8594
-approx_tokens: 4297
 ---
 
 # 普通人的无聊生活的角色 - 慕容求道
 
 ## 1F
 
+- floor_index: 1
 - Author: 普通人的无聊生活
-- Posted at: 九月 29, 2025, 02:04 上午
+- Posted at raw: 九月 29, 2025, 02:04 上午
+- Posted at iso: 2025-09-29T02:04:00+08:00
 
 **角色填写人：**普通人的无聊生活
 
@@ -75,8 +75,10 @@ B. 偏转： 消耗3点气，强行偏转攻击的"因果"，使其直接"落空
 
 ## 2F
 
+- floor_index: 2
 - Author: 普通人的无聊生活
-- Posted at: 九月 29, 2025, 05:26 上午
+- Posted at raw: 九月 29, 2025, 05:26 上午
+- Posted at iso: 2025-09-29T05:26:00+08:00
 
 ### FGO风格从者角色转录协议 (FGO-Style Character Transcription Protocol)
 【AI指令前言】
@@ -156,8 +158,10 @@ B. 偏转： 消耗3点气，强行偏转攻击的"因果"，使其直接"落空
 
 ## 3F
 
+- floor_index: 3
 - Author: 普通人的无聊生活
-- Posted at: 十一月 16, 2025, 10:47 下午
+- Posted at raw: 十一月 16, 2025, 10:47 下午
+- Posted at iso: 2025-11-16T22:47:00+08:00
 
 【AI生成部分】
 第一部分：核心身份 (Core Identity)

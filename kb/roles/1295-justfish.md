@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1295.0"
 author: "Justfish"
 created_at_raw: "十月 05, 2025, 08:28 上午"
 created_at_iso: "2025-10-05T08:28:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:02 +0800"
-fetched_at_iso: "2026-02-26T10:07:02+08:00"
+fetched_at_raw: "2026-06-10 10:43:41 +0800"
+fetched_at_iso: "2026-06-10T10:43:41.416556+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2644
-approx_tokens: 1322
 ---
 
 # Justfish的角色 - 圣灵谱尼
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 05, 2025, 08:28 上午
+- Posted at raw: 十月 05, 2025, 08:28 上午
+- Posted at iso: 2025-10-05T08:28:00+08:00
 
 **角色填写人：**Justfish
 
@@ -81,10 +81,6 @@ approx_tokens: 1322
 圣洁：免疫所有形式的精神污染、心智操控与规则级诅咒。可主动施展，展开一个领域，使领域内的所有友军获得同等的免疫效果。
 
 根源感知：能与宇宙法则同步，感知范围内一切事物的状态、能量流动与潜在威胁。
-
-**关键弱点/明确限制：**
-【混沌克星】：作为纯粹秩序的代表，其力量与混沌力量相互克制。在遭遇同等级、性质相反的混沌本源力量时，其权能的效果可能会被部分抵消或产生不可预料的变异。
-【慈悲的负担】：其对万物众生的悲悯与守护之心，是其力量的源泉，也可能成为被利用的弱点。敌人可能通过大规模屠戮生命来迫使祂采取更消耗神力或更冒险的守护策略。
 
 **行为逻辑：**
 **核心动机：**"吾即秩序，吾即平衡。以圣灵之名，守护此方宇宙之永恒。"

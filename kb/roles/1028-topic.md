@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1028.0"
 author: "小壶"
 created_at_raw: "九月 28, 2025, 02:07 下午"
 created_at_iso: "2025-09-28T14:07:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:19 +0800"
-fetched_at_iso: "2026-02-26T10:05:19+08:00"
+fetched_at_raw: "2026-06-10 10:42:11 +0800"
+fetched_at_iso: "2026-06-10T10:42:11.315964+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 503
-approx_tokens: 252
 ---
 
 # 小壶的角色 - 八点档之心
 
 ## 1F
 
+- floor_index: 1
 - Author: 小壶
-- Posted at: 九月 28, 2025, 02:07 下午
+- Posted at raw: 九月 28, 2025, 02:07 下午
+- Posted at iso: 2025-09-28T14:07:00+08:00
 
 **角色填写人：**小壶
 

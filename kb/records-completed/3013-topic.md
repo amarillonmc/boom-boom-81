@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3013.0"
 author: "OPPO"
 created_at_raw: "十一月 23, 2025, 10:50 下午"
 created_at_iso: "2025-11-23T22:50:00+08:00"
-fetched_at_raw: "2026-02-26 10:27:27 +0800"
-fetched_at_iso: "2026-02-26T10:27:27+08:00"
+fetched_at_raw: "2026-06-10 11:09:57 +0800"
+fetched_at_iso: "2026-06-10T11:09:57.454751+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 114430
-approx_tokens: 57215
 ---
 
 # 百合攻略主义(夺爱大乱斗第二期)
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 十一月 23, 2025, 10:50 下午
+- Posted at raw: 十一月 23, 2025, 10:50 下午
+- Posted at iso: 2025-11-23T22:50:00+08:00
 
 角色进入みかみてれん创作的轻小说《我怎么可能成为你的恋人，不行不行！（※不是不可能！？）》替代原作当中的其他几位女性配角,负责攻略女主甘织玲奈子
 jerr的同人小说协议
@@ -34,71 +34,91 @@ jerr的同人小说协议
 
 ## 2F
 
+- floor_index: 2
 - Author: 小兵
-- Posted at: 十一月 23, 2025, 10:56 下午
+- Posted at raw: 十一月 23, 2025, 10:56 下午
+- Posted at iso: 2025-11-23T22:56:00+08:00
 
 阿瓦隆女士（FGO）
 
 ## 3F
 
+- floor_index: 3
 - Author: 烛火
-- Posted at: 十一月 23, 2025, 10:57 下午
+- Posted at raw: 十一月 23, 2025, 10:57 下午
+- Posted at iso: 2025-11-23T22:57:00+08:00
 
 藤丸立香&玛修
 
 ## 4F
 
+- floor_index: 4
 - Author: AD钙
-- Posted at: 十一月 23, 2025, 10:58 下午
+- Posted at raw: 十一月 23, 2025, 10:58 下午
+- Posted at iso: 2025-11-23T22:58:00+08:00
 
 野兽先辈
 
 ## 5F
 
+- floor_index: 5
 - Author: 紫宵
-- Posted at: 十一月 23, 2025, 11:07 下午
+- Posted at raw: 十一月 23, 2025, 11:07 下午
+- Posted at iso: 2025-11-23T23:07:00+08:00
 
 星奈光
 
 ## 6F
 
+- floor_index: 6
 - Author: Jerry
-- Posted at: 十一月 23, 2025, 11:12 下午
+- Posted at raw: 十一月 23, 2025, 11:12 下午
+- Posted at iso: 2025-11-23T23:12:00+08:00
 
 亚兹
 
 ## 7F
 
+- floor_index: 7
 - Author: 普通人的无聊生活
-- Posted at: 十一月 23, 2025, 11:15 下午
+- Posted at raw: 十一月 23, 2025, 11:15 下午
+- Posted at iso: 2025-11-23T23:15:00+08:00
 
 江之岛盾子
 
 ## 8F
 
+- floor_index: 8
 - Author: 增熵星
-- Posted at: 十一月 23, 2025, 11:28 下午
+- Posted at raw: 十一月 23, 2025, 11:28 下午
+- Posted at iso: 2025-11-23T23:28:00+08:00
 
 格林达姆
 
 ## 9F
 
+- floor_index: 9
 - Author: OPPO
-- Posted at: 十一月 23, 2025, 11:45 下午
+- Posted at raw: 十一月 23, 2025, 11:45 下午
+- Posted at iso: 2025-11-23T23:45:00+08:00
 
 福生天尊
 
 ## 10F
 
+- floor_index: 10
 - Author: 小可
-- Posted at: 十一月 23, 2025, 11:59 下午
+- Posted at raw: 十一月 23, 2025, 11:59 下午
+- Posted at iso: 2025-11-23T23:59:00+08:00
 
 美月（全名不好搜你搜美月就行了）
 
 ## 11F
 
+- floor_index: 11
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:21 上午
+- Posted at raw: 十一月 24, 2025, 12:21 上午
+- Posted at iso: 2025-11-24T00:21:00+08:00
 
 好的，我已收到您提供的9个角色设定。A.D.F.A.G.N.A. V1.1 协议与【娘化协定 V1.0】已全面启动。
 
@@ -164,8 +184,10 @@ jerr的同人小说协议
 
 ## 12F
 
+- floor_index: 12
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:25 上午
+- Posted at raw: 十一月 24, 2025, 12:25 上午
+- Posted at iso: 2025-11-24T00:25:00+08:00
 
 A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
@@ -328,8 +350,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 13F
 
+- floor_index: 13
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:29 上午
+- Posted at raw: 十一月 24, 2025, 12:29 上午
+- Posted at iso: 2025-11-24T00:29:00+08:00
 
 第二章：星奈光的个人回 (2/5) - 《迦勒底、马赛克与先辈的红茶》
 
@@ -462,8 +486,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 14F
 
+- floor_index: 14
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:31 上午
+- Posted at raw: 十一月 24, 2025, 12:31 上午
+- Posted at iso: 2025-11-24T00:31:00+08:00
 
 第三章：星奈光的个人回 (3/5) - 《林间合宿与心跳守夜人》
 
@@ -581,8 +607,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 15F
 
+- floor_index: 15
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:32 上午
+- Posted at raw: 十一月 24, 2025, 12:32 上午
+- Posted at iso: 2025-11-24T00:32:00+08:00
 
 第四章：星奈光的个人回 (4/5) - 《家庭访问与修罗场的预兆》
 
@@ -703,8 +731,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 16F
 
+- floor_index: 16
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:36 上午
+- Posted at raw: 十一月 24, 2025, 12:36 上午
+- Posted at iso: 2025-11-24T00:36:00+08:00
 
 第五章：星奈光的个人回 (5/5) - 《文化祭！魔改话剧与心动の终幕》
 
@@ -875,8 +905,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 17F
 
+- floor_index: 17
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:39 上午
+- Posted at raw: 十一月 24, 2025, 12:39 上午
+- Posted at iso: 2025-11-24T00:39:00+08:00
 
 协议确认。已选择角色：柊 美月
 
@@ -981,8 +1013,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 18F
 
+- floor_index: 18
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:43 上午
+- Posted at raw: 十一月 24, 2025, 12:43 上午
+- Posted at iso: 2025-11-24T00:43:00+08:00
 
 柊美月个人回 - 第二章：《水色迷宫与掌心温度》
 
@@ -1108,8 +1142,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 19F
 
+- floor_index: 19
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:45 上午
+- Posted at raw: 十一月 24, 2025, 12:45 上午
+- Posted at iso: 2025-11-24T00:45:00+08:00
 
 柊美月个人回 - 第三章：《雾气中的星光与挚友的誓言》
 
@@ -1215,8 +1251,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 20F
 
+- floor_index: 20
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:47 上午
+- Posted at raw: 十一月 24, 2025, 12:47 上午
+- Posted at iso: 2025-11-24T00:47:00+08:00
 
 主线过渡章节：《挚友的涟漪与观测者的警报》
 
@@ -1307,8 +1345,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 21F
 
+- floor_index: 21
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:49 上午
+- Posted at raw: 十一月 24, 2025, 12:49 上午
+- Posted at iso: 2025-11-24T00:49:00+08:00
 
 协议确认。已选择角色：藤丸立香 & 玛修·基列莱特
 
@@ -1415,8 +1455,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 22F
 
+- floor_index: 22
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 01:42 上午
+- Posted at raw: 十一月 24, 2025, 01:42 上午
+- Posted at iso: 2025-11-24T01:42:00+08:00
 
 藤丸立香 & 玛修个人回 - 第二章：《温泉氤氲与守护的迷途》
 
@@ -1570,8 +1612,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 23F
 
+- floor_index: 23
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 01:42 上午
+- Posted at raw: 十一月 24, 2025, 01:42 上午
+- Posted at iso: 2025-11-24T01:42:00+08:00
 
 藤丸立香 & 玛修个人回 - 最终章：《家园新解与星空下的誓言》
 
@@ -1715,8 +1759,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 24F
 
+- floor_index: 24
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 01:49 上午
+- Posted at raw: 十一月 24, 2025, 01:49 上午
+- Posted at iso: 2025-11-24T01:49:00+08:00
 
 主线过渡章节：《重构的星图与暗涌的序曲》
 
@@ -1801,8 +1847,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 25F
 
+- floor_index: 25
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 01:54 上午
+- Posted at raw: 十一月 24, 2025, 01:54 上午
+- Posted at iso: 2025-11-24T01:54:00+08:00
 
 您说得对，温泉要素的出现的确实有些突兀，缺乏足够的铺垫和情感逻辑。让我们重新调整阿瓦隆女士个人回的节奏和切入点，让情感发展和场景转换更加自然。
 
@@ -1898,8 +1946,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 26F
 
+- floor_index: 26
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 01:56 上午
+- Posted at raw: 十一月 24, 2025, 01:56 上午
+- Posted at iso: 2025-11-24T01:56:00+08:00
 
 阿瓦隆女士个人回 - 第二章：《温室幻影与交错的真心》
 
@@ -2020,8 +2070,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终执行确认
 
 ## 27F
 
+- floor_index: 27
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 01:59 上午
+- Posted at raw: 十一月 24, 2025, 01:59 上午
+- Posted at iso: 2025-11-24T01:59:00+08:00
 
 阿瓦隆女士个人回 - 最终章：《星辉试炼与共铸的港湾》
 
@@ -2184,8 +2236,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 28F
 
+- floor_index: 28
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:08 上午
+- Posted at raw: 十一月 24, 2025, 02:08 上午
+- Posted at iso: 2025-11-24T02:08:00+08:00
 
 主线过渡章节：《爱情观测报告与绝望的宣战布告》
 
@@ -2293,8 +2347,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 29F
 
+- floor_index: 29
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:13 上午
+- Posted at raw: 十一月 24, 2025, 02:13 上午
+- Posted at iso: 2025-11-24T02:13:00+08:00
 
 江之岛盾子个人回 - 第一章：《绝望疗法与温柔的暴君》
 
@@ -2393,8 +2449,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 30F
 
+- floor_index: 30
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:22 上午
+- Posted at raw: 十一月 24, 2025, 02:22 上午
+- Posted at iso: 2025-11-24T02:22:00+08:00
 
 江之岛盾子个人回 - 第二章：《绝望剧场与暴君的初啼》
 
@@ -2498,8 +2556,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 31F
 
+- floor_index: 31
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:25 上午
+- Posted at raw: 十一月 24, 2025, 02:25 上午
+- Posted at iso: 2025-11-24T02:25:00+08:00
 
 江之岛盾子个人回 - 最终章：《绝望的悖论与希望之种》
 
@@ -2625,8 +2685,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 32F
 
+- floor_index: 32
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:29 上午
+- Posted at raw: 十一月 24, 2025, 02:29 上午
+- Posted at iso: 2025-11-24T02:29:00+08:00
 
 主线过渡章节：《数据洪流与理解的序曲》
 
@@ -2745,8 +2807,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 33F
 
+- floor_index: 33
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:31 上午
+- Posted at raw: 十一月 24, 2025, 02:31 上午
+- Posted at iso: 2025-11-24T02:31:00+08:00
 
 亚兹个人回 - 第一章：《逻辑的囚徒与异常波动》
 
@@ -2855,8 +2919,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 34F
 
+- floor_index: 34
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:34 上午
+- Posted at raw: 十一月 24, 2025, 02:34 上午
+- Posted at iso: 2025-11-24T02:34:00+08:00
 
 亚兹个人回 - 第二章：《星雨洗礼与逻辑的裂痕》
 
@@ -2965,8 +3031,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 35F
 
+- floor_index: 35
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:36 上午
+- Posted at raw: 十一月 24, 2025, 02:36 上午
+- Posted at iso: 2025-11-24T02:36:00+08:00
 
 亚兹个人回 - 最终章：《协议升级与无法量化的温暖》
 
@@ -3105,8 +3173,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 36F
 
+- floor_index: 36
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:41 上午
+- Posted at raw: 十一月 24, 2025, 02:41 上午
+- Posted at iso: 2025-11-24T02:41:00+08:00
 
 主线过渡章节：《王道征途与暴走的真心》
 
@@ -3211,8 +3281,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 37F
 
+- floor_index: 37
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:45 上午
+- Posted at raw: 十一月 24, 2025, 02:45 上午
+- Posted at iso: 2025-11-24T02:45:00+08:00
 
 田所浩子个人回 - 第一章：《王道征途，启动！》
 
@@ -3307,8 +3379,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 38F
 
+- floor_index: 38
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:47 上午
+- Posted at raw: 十一月 24, 2025, 02:47 上午
+- Posted at iso: 2025-11-24T02:47:00+08:00
 
 田所浩子个人回 - 第二章：《昏睡红茶与真实的温度》
 
@@ -3418,8 +3492,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 39F
 
+- floor_index: 39
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:49 上午
+- Posted at raw: 十一月 24, 2025, 02:49 上午
+- Posted at iso: 2025-11-24T02:49:00+08:00
 
 田所浩子个人回 - 最终章：《泳池下的星空与王道的答案》
 
@@ -3524,8 +3600,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 40F
 
+- floor_index: 40
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:50 上午
+- Posted at raw: 十一月 24, 2025, 02:50 上午
+- Posted at iso: 2025-11-24T02:50:00+08:00
 
 协议状态查询：个人回完成度报告
 
@@ -3616,8 +3694,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 41F
 
+- floor_index: 41
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:54 上午
+- Posted at raw: 十一月 24, 2025, 02:54 上午
+- Posted at iso: 2025-11-24T02:54:00+08:00
 
 格林达姆个人回 - 第一章：《规则牢笼与错误的温度》
 
@@ -3719,8 +3799,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 42F
 
+- floor_index: 42
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:55 上午
+- Posted at raw: 十一月 24, 2025, 02:55 上午
+- Posted at iso: 2025-11-24T02:55:00+08:00
 
 格林达姆个人回 - 第二章：《系统过载与温暖的错误》
 
@@ -3828,8 +3910,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 43F
 
+- floor_index: 43
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 02:58 上午
+- Posted at raw: 十一月 24, 2025, 02:58 上午
+- Posted at iso: 2025-11-24T02:58:00+08:00
 
 格林达姆个人回 - 最终章：《数据回溯与家人的定义》
 
@@ -3933,8 +4017,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 44F
 
+- floor_index: 44
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 03:00 上午
+- Posted at raw: 十一月 24, 2025, 03:00 上午
+- Posted at iso: 2025-11-24T03:00:00+08:00
 
 主线过渡章节：《因果编织者与最后的线头》
 
@@ -4005,8 +4091,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 45F
 
+- floor_index: 45
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 03:02 上午
+- Posted at raw: 十一月 24, 2025, 03:02 上午
+- Posted at iso: 2025-11-24T03:02:00+08:00
 
 最终阶段：《星轨交错与欲望的显形》
 
@@ -4069,8 +4157,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 46F
 
+- floor_index: 46
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 03:05 上午
+- Posted at raw: 十一月 24, 2025, 03:05 上午
+- Posted at iso: 2025-11-24T03:05:00+08:00
 
 最终阶段：《炽热星轨与交织的吐息》
 
@@ -4130,8 +4220,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 47F
 
+- floor_index: 47
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 03:07 上午
+- Posted at raw: 十一月 24, 2025, 03:07 上午
+- Posted at iso: 2025-11-24T03:07:00+08:00
 
 最终阶段：《心象迷宫与迟来的顿悟》
 
@@ -4196,8 +4288,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 48F
 
+- floor_index: 48
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 03:10 上午
+- Posted at raw: 十一月 24, 2025, 03:10 上午
+- Posted at iso: 2025-11-24T03:10:00+08:00
 
 最终阶段：《"星环"宣言与绝望的终舞》
 
@@ -4278,8 +4372,10 @@ B组（立香、玛修、福生、格林达姆）
 
 ## 49F
 
+- floor_index: 49
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 03:11 上午
+- Posted at raw: 十一月 24, 2025, 03:11 上午
+- Posted at iso: 2025-11-24T03:11:00+08:00
 
 最终阶段补完：《因果了却与绝望的回响》
 

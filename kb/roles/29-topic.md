@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=29.0"
 author: "增熵星"
 created_at_raw: "九月 08, 2025, 09:56 上午"
 created_at_iso: "2025-09-08T09:56:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:40 +0800"
-fetched_at_iso: "2026-02-26T09:56:40+08:00"
+fetched_at_raw: "2026-06-10 10:34:12 +0800"
+fetched_at_iso: "2026-06-10T10:34:12.407982+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 866
-approx_tokens: 433
 ---
 
 # 增熵星的角色 - 格林达姆
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 08, 2025, 09:56 上午
+- Posted at raw: 九月 08, 2025, 09:56 上午
+- Posted at iso: 2025-09-08T09:56:00+08:00
 
 **角色填写人：**增熵星
 

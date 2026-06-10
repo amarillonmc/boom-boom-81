@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1530.0"
 author: "Justfish"
 created_at_raw: "十月 13, 2025, 02:46 上午"
 created_at_iso: "2025-10-13T02:46:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:58 +0800"
-fetched_at_iso: "2026-02-26T10:08:58+08:00"
+fetched_at_raw: "2026-06-10 10:45:23 +0800"
+fetched_at_iso: "2026-06-10T10:45:23.604804+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3299
-approx_tokens: 1650
 ---
 
 # Justfish的角色 - “不幸的幸运枪手” 蓝芸
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 13, 2025, 02:46 上午
+- Posted at raw: 十月 13, 2025, 02:46 上午
+- Posted at iso: 2025-10-13T02:46:00+08:00
 
 **角色填写人：**Justfish
 

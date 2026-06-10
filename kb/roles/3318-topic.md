@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3318.0"
 author: "Ender_Eragon"
 created_at_raw: "一月 13, 2026, 10:03 上午"
 created_at_iso: "2026-01-13T10:03:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:44 +0800"
-fetched_at_iso: "2026-02-26T10:18:44+08:00"
+fetched_at_raw: "2026-06-10 10:53:57 +0800"
+fetched_at_iso: "2026-06-10T10:53:57.722930+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2328
-approx_tokens: 1164
 ---
 
 # 终末的角色 - 虚无魔女-无机幻影
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 一月 13, 2026, 10:03 上午
+- Posted at raw: 一月 13, 2026, 10:03 上午
+- Posted at iso: 2026-01-13T10:03:00+08:00
 
 角色填写人：终末
 

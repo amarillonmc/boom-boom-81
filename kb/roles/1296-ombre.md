@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1296.0"
 author: "Ombre"
 created_at_raw: "十月 05, 2025, 08:35 上午"
 created_at_iso: "2025-10-05T08:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:03 +0800"
-fetched_at_iso: "2026-02-26T10:07:03+08:00"
+fetched_at_raw: "2026-06-10 10:43:42 +0800"
+fetched_at_iso: "2026-06-10T10:43:42.524804+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 11903
-approx_tokens: 5952
 ---
 
 # Ombre的角色 - 希原夏森
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 05, 2025, 08:35 上午
+- Posted at raw: 十月 05, 2025, 08:35 上午
+- Posted at iso: 2025-10-05T08:35:00+08:00
 
 ### **角色档案：希原夏森**
 
@@ -142,8 +142,10 @@ approx_tokens: 5952
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 10:14 上午
+- Posted at raw: 十一月 09, 2025, 10:14 上午
+- Posted at iso: 2025-11-09T10:14:00+08:00
 
 旧角色卡**角色填写人：**Ombre
 
@@ -217,8 +219,10 @@ approx_tokens: 5952
 
 ## 3F
 
+- floor_index: 3
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 09:14 下午
+- Posted at raw: 十一月 09, 2025, 09:14 下午
+- Posted at iso: 2025-11-09T21:14:00+08:00
 
 从者档案（Caster）### **核心身份 (Core Identity)**
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3119.0"
 author: "全装甲高达七号机"
 created_at_raw: "十一月 29, 2025, 10:39 下午"
 created_at_iso: "2025-11-29T22:39:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:09 +0800"
-fetched_at_iso: "2026-02-26T10:18:09+08:00"
+fetched_at_raw: "2026-06-10 10:53:25 +0800"
+fetched_at_iso: "2026-06-10T10:53:25.557066+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 9497
-approx_tokens: 4749
 ---
 
 # 全装甲高达七号机的角色 - 苍穹之圣骑士-究极V龙兽X（Ulforce V-dramon X-Antibody）
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十一月 29, 2025, 10:39 下午
+- Posted at raw: 十一月 29, 2025, 10:39 下午
+- Posted at iso: 2025-11-29T22:39:00+08:00
 
 **角色填写人：**全装甲高达七号机
 

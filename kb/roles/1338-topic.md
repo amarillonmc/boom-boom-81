@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1338.0"
 author: "zweizergain"
 created_at_raw: "十月 06, 2025, 05:47 上午"
 created_at_iso: "2025-10-06T05:47:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:24 +0800"
-fetched_at_iso: "2026-02-26T10:07:24+08:00"
+fetched_at_raw: "2026-06-10 10:44:02 +0800"
+fetched_at_iso: "2026-06-10T10:44:02.692760+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4168
-approx_tokens: 2084
 ---
 
 # 哈肯·勃朗宁
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 06, 2025, 05:47 上午
+- Posted at raw: 十月 06, 2025, 05:47 上午
+- Posted at iso: 2025-10-06T05:47:00+08:00
 
 ### **【详尽角色卡：哈肯·勃朗宁 - v1.4 最终版】**
 

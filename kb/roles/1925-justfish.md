@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1925.0"
 author: "Justfish"
 created_at_raw: "十月 25, 2025, 01:52 上午"
 created_at_iso: "2025-10-25T01:52:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:41 +0800"
-fetched_at_iso: "2026-02-26T10:11:41+08:00"
+fetched_at_raw: "2026-06-10 10:47:45 +0800"
+fetched_at_iso: "2026-06-10T10:47:45.947511+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3383
-approx_tokens: 1692
 ---
 
 # Justfish的角色 - 勇士
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 25, 2025, 01:52 上午
+- Posted at raw: 十月 25, 2025, 01:52 上午
+- Posted at iso: 2025-10-25T01:52:00+08:00
 
 **角色填写人：**Justfish
 ---

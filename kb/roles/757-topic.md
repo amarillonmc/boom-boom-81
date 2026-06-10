@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=757.0"
 author: "Huager"
 created_at_raw: "九月 23, 2025, 11:11 上午"
 created_at_iso: "2025-09-23T11:11:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:19 +0800"
-fetched_at_iso: "2026-02-26T10:03:19+08:00"
+fetched_at_raw: "2026-06-10 10:40:17 +0800"
+fetched_at_iso: "2026-06-10T10:40:17.891643+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2890
-approx_tokens: 1445
 ---
 
 # 黑莲的角色 - 机律界
 
 ## 1F
 
+- floor_index: 1
 - Author: Huager
-- Posted at: 九月 23, 2025, 11:11 上午
+- Posted at raw: 九月 23, 2025, 11:11 上午
+- Posted at iso: 2025-09-23T11:11:00+08:00
 
 **角色填写人：**黑莲
 
@@ -45,8 +45,10 @@ approx_tokens: 1445
 
 ## 2F
 
+- floor_index: 2
 - Author: Huager
-- Posted at: 十月 28, 2025, 03:30 上午
+- Posted at raw: 十月 28, 2025, 03:30 上午
+- Posted at iso: 2025-10-28T03:30:00+08:00
 
 （适配小可8.1规则版）
 

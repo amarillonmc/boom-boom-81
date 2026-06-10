@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1174.0"
 author: "Justfish"
 created_at_raw: "十月 02, 2025, 02:16 上午"
 created_at_iso: "2025-10-02T02:16:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:11 +0800"
-fetched_at_iso: "2026-02-26T10:06:11+08:00"
+fetched_at_raw: "2026-06-10 10:42:54 +0800"
+fetched_at_iso: "2026-06-10T10:42:54.578000+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4290
-approx_tokens: 2145
 ---
 
 # Justfish的角色 - 「贤月公主」蓬莱山辉夜
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 02, 2025, 02:16 上午
+- Posted at raw: 十月 02, 2025, 02:16 上午
+- Posted at iso: 2025-10-02T02:16:00+08:00
 
 **角色填写人：**Justfish
 

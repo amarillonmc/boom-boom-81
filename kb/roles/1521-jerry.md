@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1521.0"
 author: "Jerry"
 created_at_raw: "十月 12, 2025, 10:28 上午"
 created_at_iso: "2025-10-12T10:28:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:55 +0800"
-fetched_at_iso: "2026-02-26T10:08:55+08:00"
+fetched_at_raw: "2026-06-10 10:45:21 +0800"
+fetched_at_iso: "2026-06-10T10:45:21.074430+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3859
-approx_tokens: 1930
 ---
 
 # Jerry的角色 - 诸星团/赛文奥特曼
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 12, 2025, 10:28 上午
+- Posted at raw: 十月 12, 2025, 10:28 上午
+- Posted at iso: 2025-10-12T10:28:00+08:00
 
 **角色填写人：**Jerry
 

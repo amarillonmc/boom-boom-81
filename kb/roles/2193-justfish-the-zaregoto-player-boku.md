@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2193.0"
 author: "Justfish"
 created_at_raw: "十月 31, 2025, 12:28 下午"
 created_at_iso: "2025-10-31T12:28:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:21 +0800"
-fetched_at_iso: "2026-02-26T10:13:21+08:00"
+fetched_at_raw: "2026-06-10 10:49:11 +0800"
+fetched_at_iso: "2026-06-10T10:49:11.613985+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6521
-approx_tokens: 3261
 ---
 
 # Justfish的角色 - 戏言玩家 - 「我」 (The Zaregoto Player - "Boku")
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 31, 2025, 12:28 下午
+- Posted at raw: 十月 31, 2025, 12:28 下午
+- Posted at iso: 2025-10-31T12:28:00+08:00
 
 **角色填写人：**Justfish
 
@@ -82,8 +82,10 @@ approx_tokens: 3261
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十月 31, 2025, 01:28 下午
+- Posted at raw: 十月 31, 2025, 01:28 下午
+- Posted at iso: 2025-10-31T13:28:00+08:00
 
 **角色名称**
 共生的奇点 - 「我」＆玖渚友 (The Symbiotic Singularity - "Ii-chan" & Kunagisa Tomo)

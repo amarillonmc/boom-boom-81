@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=413.0"
 author: "紫宵"
 created_at_raw: "九月 17, 2025, 10:56 下午"
 created_at_iso: "2025-09-17T22:56:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:23 +0800"
-fetched_at_iso: "2026-02-26T10:00:23+08:00"
+fetched_at_raw: "2026-06-10 10:37:44 +0800"
+fetched_at_iso: "2026-06-10T10:37:44.128530+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 16282
-approx_tokens: 8141
 ---
 
 # 紫宵的角色 - 水无月空
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 九月 17, 2025, 10:56 下午
+- Posted at raw: 九月 17, 2025, 10:56 下午
+- Posted at iso: 2025-09-17T22:56:00+08:00
 
 **角色填写人：**紫宵
 
@@ -115,8 +115,10 @@ Force Crash（强制突破技）威力极强但需要专属能量条，在普通
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 十月 21, 2025, 04:05 下午
+- Posted at raw: 十月 21, 2025, 04:05 下午
+- Posted at iso: 2025-10-21T16:05:00+08:00
 
 (https://imgurl.diadi.cn/imgs/2025/12/9ec3afd3c875fedb.jpg)
 紫宵的角色 - 水无月空（旧） (https://number81.xyz/index.php?topic=38.0)

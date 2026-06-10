@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3267.0"
 author: "增熵星"
 created_at_raw: "十二月 16, 2025, 01:33 上午"
 created_at_iso: "2025-12-16T01:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:28:23 +0800"
-fetched_at_iso: "2026-02-26T10:28:23+08:00"
+fetched_at_raw: "2026-06-10 11:10:58 +0800"
+fetched_at_iso: "2026-06-10T11:10:58.060928+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 34067
-approx_tokens: 17034
 ---
 
 # 强制神人原教旨大乱斗
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:33 上午
+- Posted at raw: 十二月 16, 2025, 01:33 上午
+- Posted at iso: 2025-12-16T01:33:00+08:00
 
 1.【超人】
 基础属性： 男 / 氪星人
@@ -70,8 +70,10 @@ approx_tokens: 17034
 
 ## 2F
 
+- floor_index: 2
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:35 上午
+- Posted at raw: 十二月 16, 2025, 01:35 上午
+- Posted at iso: 2025-12-16T01:35:00+08:00
 
 # **第一回合：降临**
 
@@ -134,8 +136,10 @@ approx_tokens: 17034
 
 ## 3F
 
+- floor_index: 3
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:37 上午
+- Posted at raw: 十二月 16, 2025, 01:37 上午
+- Posted at iso: 2025-12-16T01:37:00+08:00
 
 # **第二回合：裂痕**
 
@@ -197,8 +201,10 @@ approx_tokens: 17034
 
 ## 4F
 
+- floor_index: 4
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:39 上午
+- Posted at raw: 十二月 16, 2025, 01:39 上午
+- Posted at iso: 2025-12-16T01:39:00+08:00
 
 # **第三回合：收割与觉醒**
 
@@ -265,8 +271,10 @@ approx_tokens: 17034
 
 ## 5F
 
+- floor_index: 5
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:41 上午
+- Posted at raw: 十二月 16, 2025, 01:41 上午
+- Posted at iso: 2025-12-16T01:41:00+08:00
 
 # **第四回合：能量潮汐**
 
@@ -331,8 +339,10 @@ approx_tokens: 17034
 
 ## 6F
 
+- floor_index: 6
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:43 上午
+- Posted at raw: 十二月 16, 2025, 01:43 上午
+- Posted at iso: 2025-12-16T01:43:00+08:00
 
 # **第五回合：洪流与转化**
 
@@ -391,8 +401,10 @@ approx_tokens: 17034
 
 ## 7F
 
+- floor_index: 7
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:45 上午
+- Posted at raw: 十二月 16, 2025, 01:45 上午
+- Posted at iso: 2025-12-16T01:45:00+08:00
 
 # **第六回合：裂穹**
 
@@ -454,8 +466,10 @@ approx_tokens: 17034
 
 ## 8F
 
+- floor_index: 8
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:48 上午
+- Posted at raw: 十二月 16, 2025, 01:48 上午
+- Posted at iso: 2025-12-16T01:48:00+08:00
 
 # **第七回合：血与盐**
 
@@ -518,8 +532,10 @@ approx_tokens: 17034
 
 ## 9F
 
+- floor_index: 9
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:49 上午
+- Posted at raw: 十二月 16, 2025, 01:49 上午
+- Posted at iso: 2025-12-16T01:49:00+08:00
 
 # **第八回合：剑陨与乱流**
 
@@ -580,8 +596,10 @@ approx_tokens: 17034
 
 ## 10F
 
+- floor_index: 10
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:51 上午
+- Posted at raw: 十二月 16, 2025, 01:51 上午
+- Posted at iso: 2025-12-16T01:51:00+08:00
 
 # **第九回合：风暴与狂岚**
 
@@ -630,8 +648,10 @@ approx_tokens: 17034
 
 ## 11F
 
+- floor_index: 11
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:53 上午
+- Posted at raw: 十二月 16, 2025, 01:53 上午
+- Posted at iso: 2025-12-16T01:53:00+08:00
 
 # **第十回合：漩涡为炉**
 
@@ -686,8 +706,10 @@ approx_tokens: 17034
 
 ## 12F
 
+- floor_index: 12
 - Author: 增熵星
-- Posted at: 十二月 16, 2025, 01:55 上午
+- Posted at raw: 十二月 16, 2025, 01:55 上午
+- Posted at iso: 2025-12-16T01:55:00+08:00
 
 # **最终回合：终末的选择**
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=507.0"
 author: "Justfish"
 created_at_raw: "九月 19, 2025, 09:24 上午"
 created_at_iso: "2025-09-19T09:24:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:13 +0800"
-fetched_at_iso: "2026-02-26T10:01:13+08:00"
+fetched_at_raw: "2026-06-10 10:38:28 +0800"
+fetched_at_iso: "2026-06-10T10:38:28.692653+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1866
-approx_tokens: 933
 ---
 
 # Justfish的角色 - 界·玻璃幻梦
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 19, 2025, 09:24 上午
+- Posted at raw: 九月 19, 2025, 09:24 上午
+- Posted at iso: 2025-09-19T09:24:00+08:00
 
 **角色填写人：**Justfish
 

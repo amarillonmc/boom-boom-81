@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=330.0"
 author: "Ender_Eragon"
 created_at_raw: "九月 15, 2025, 11:36 上午"
 created_at_iso: "2025-09-15T11:36:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:35 +0800"
-fetched_at_iso: "2026-02-26T09:59:35+08:00"
+fetched_at_raw: "2026-06-10 10:36:56 +0800"
+fetched_at_iso: "2026-06-10T10:36:56.905558+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 886
-approx_tokens: 443
 ---
 
 # 终末的角色 - 公平骑士团
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 九月 15, 2025, 11:36 上午
+- Posted at raw: 九月 15, 2025, 11:36 上午
+- Posted at iso: 2025-09-15T11:36:00+08:00
 
 **角色填写人：**终末
 

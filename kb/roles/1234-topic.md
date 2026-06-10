@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1234.0"
 author: "Ender_Eragon"
 created_at_raw: "十月 03, 2025, 01:32 下午"
 created_at_iso: "2025-10-03T13:32:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:34 +0800"
-fetched_at_iso: "2026-02-26T10:06:34+08:00"
+fetched_at_raw: "2026-06-10 10:43:16 +0800"
+fetched_at_iso: "2026-06-10T10:43:16.213514+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 682
-approx_tokens: 341
 ---
 
 # 终末的角色 - 超形上学的责问-杀死我们的神
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十月 03, 2025, 01:32 下午
+- Posted at raw: 十月 03, 2025, 01:32 下午
+- Posted at iso: 2025-10-03T13:32:00+08:00
 
 **角色填写人：**终末
 

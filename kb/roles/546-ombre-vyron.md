@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=546.0"
 author: "Ombre"
 created_at_raw: "九月 20, 2025, 01:58 上午"
 created_at_iso: "2025-09-20T01:58:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:35 +0800"
-fetched_at_iso: "2026-02-26T10:01:35+08:00"
+fetched_at_raw: "2026-06-10 10:38:47 +0800"
+fetched_at_iso: "2026-06-10T10:38:47.770312+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10281
-approx_tokens: 5141
 ---
 
 # Ombre的角色 - 威龙（Vyron）
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 20, 2025, 01:58 上午
+- Posted at raw: 九月 20, 2025, 01:58 上午
+- Posted at iso: 2025-09-20T01:58:00+08:00
 
 ### **角色档案：威龙 (Vyron)**
 
@@ -200,8 +200,10 @@ approx_tokens: 5141
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 17, 2025, 07:00 上午
+- Posted at raw: 十一月 17, 2025, 07:00 上午
+- Posted at iso: 2025-11-17T07:00:00+08:00
 
 从者档案（Rider）#### 第一部分：核心身份 (Core Identity)
 

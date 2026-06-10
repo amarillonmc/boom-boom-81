@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=285.0"
 author: "玄羽"
 created_at_raw: "九月 14, 2025, 10:47 上午"
 created_at_iso: "2025-09-14T10:47:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:09 +0800"
-fetched_at_iso: "2026-02-26T09:59:09+08:00"
+fetched_at_raw: "2026-06-10 10:36:31 +0800"
+fetched_at_iso: "2026-06-10T10:36:31.877891+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7985
-approx_tokens: 3993
 ---
 
 # 玄羽的角色 - 圣光斯嘉丽
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 九月 14, 2025, 10:47 上午
+- Posted at raw: 九月 14, 2025, 10:47 上午
+- Posted at iso: 2025-09-14T10:47:00+08:00
 
 **角色填写人：**玄羽
 
@@ -96,8 +96,10 @@ approx_tokens: 3993
 
 ## 2F
 
+- floor_index: 2
 - Author: 玄羽
-- Posted at: 十一月 16, 2025, 04:21 上午
+- Posted at raw: 十一月 16, 2025, 04:21 上午
+- Posted at iso: 2025-11-16T04:21:00+08:00
 
 好的，协议已确认。正在根据御主要求，将从者"圣光·斯嘉丽"的灵基数据调整为**Rider**职阶，开始重新转录。
 
@@ -194,8 +196,10 @@ approx_tokens: 3993
 
 ## 3F
 
+- floor_index: 3
 - Author: 玄羽
-- Posted at: 十一月 18, 2025, 03:55 上午
+- Posted at raw: 十一月 18, 2025, 03:55 上午
+- Posted at iso: 2025-11-18T03:55:00+08:00
 
 好的，根据您提供的详细设定，现在开始按照【御主档案转录协议】进行转录与概念重构。该角色将被整合进型月世界观，使其成为一名符合FGO设定的、独特的御主（Master）。
 

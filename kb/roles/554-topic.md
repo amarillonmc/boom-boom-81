@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=554.0"
 author: "玄羽"
 created_at_raw: "九月 20, 2025, 03:49 上午"
 created_at_iso: "2025-09-20T03:49:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:38 +0800"
-fetched_at_iso: "2026-02-26T10:01:38+08:00"
+fetched_at_raw: "2026-06-10 10:38:51 +0800"
+fetched_at_iso: "2026-06-10T10:38:51.539721+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1437
-approx_tokens: 719
 ---
 
 # 玄羽的角色 - 玄羽（启程）
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 九月 20, 2025, 03:49 上午
+- Posted at raw: 九月 20, 2025, 03:49 上午
+- Posted at iso: 2025-09-20T03:49:00+08:00
 
 **角色填写人：**玄羽
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2669.0"
 author: "Justfish"
 created_at_raw: "十一月 14, 2025, 02:48 上午"
 created_at_iso: "2025-11-14T02:48:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:38 +0800"
-fetched_at_iso: "2026-02-26T10:20:38+08:00"
+fetched_at_raw: "2026-06-10 11:01:52 +0800"
+fetched_at_iso: "2026-06-10T11:01:52.480842+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3299
-approx_tokens: 1650
 ---
 
 # 特殊议程-杯战参考
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 14, 2025, 02:48 上午
+- Posted at raw: 十一月 14, 2025, 02:48 上午
+- Posted at iso: 2025-11-14T02:48:00+08:00
 
 ---
 

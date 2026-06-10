@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1194.0"
 author: "Jerry"
 created_at_raw: "十月 02, 2025, 09:29 上午"
 created_at_iso: "2025-10-02T09:29:00+08:00"
-fetched_at_raw: "2026-02-26 10:22:08 +0800"
-fetched_at_iso: "2026-02-26T10:22:08+08:00"
+fetched_at_raw: "2026-06-10 11:03:45 +0800"
+fetched_at_iso: "2026-06-10T11:03:45.103622+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 174042
-approx_tokens: 87021
 ---
 
 # 桃花源记
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 02, 2025, 09:29 上午
+- Posted at raw: 十月 02, 2025, 09:29 上午
+- Posted at iso: 2025-10-02T09:29:00+08:00
 
 **序章：忘川之香**
 *Prologue: The Scent of Oblivion*
@@ -77,8 +77,10 @@ approx_tokens: 87021
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 十月 02, 2025, 09:54 上午
+- Posted at raw: 十月 02, 2025, 09:54 上午
+- Posted at iso: 2025-10-02T09:54:00+08:00
 
 **第一幕：天堂 (Heaven)**
 **第0章：桃花源中人**
@@ -338,8 +340,10 @@ approx_tokens: 87021
 
 ## 3F
 
+- floor_index: 3
 - Author: Jerry
-- Posted at: 十月 02, 2025, 09:58 上午
+- Posted at raw: 十月 02, 2025, 09:58 上午
+- Posted at iso: 2025-10-02T09:58:00+08:00
 
 **第一幕：天堂 (Heaven)**
 **第1章：不速之客的集结·上**
@@ -482,8 +486,10 @@ approx_tokens: 87021
 
 ## 4F
 
+- floor_index: 4
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:01 上午
+- Posted at raw: 十月 02, 2025, 10:01 上午
+- Posted at iso: 2025-10-02T10:01:00+08:00
 
 **第一幕：天堂 (Heaven)**
 **第2章：不速之客的集结·下**
@@ -666,8 +672,10 @@ approx_tokens: 87021
 
 ## 5F
 
+- floor_index: 5
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:03 上午
+- Posted at raw: 十月 02, 2025, 10:03 上午
+- Posted at iso: 2025-10-02T10:03:00+08:00
 
 **第一幕：天堂 (Heaven)**
 **第3章：完美的馈赠**
@@ -869,8 +877,10 @@ approx_tokens: 87021
 
 ## 6F
 
+- floor_index: 6
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:14 上午
+- Posted at raw: 十月 02, 2025, 10:14 上午
+- Posted at iso: 2025-10-02T10:14:00+08:00
 
 **第一幕：天堂 (Heaven)**
 **第4章：墙壁上的眼睛**
@@ -1155,8 +1165,10 @@ approx_tokens: 87021
 
 ## 7F
 
+- floor_index: 7
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:16 上午
+- Posted at raw: 十月 02, 2025, 10:16 上午
+- Posted at iso: 2025-10-02T10:16:00+08:00
 
 **第一幕：天堂 (Heaven)**
 **第6章：世界的尽头**
@@ -1401,8 +1413,10 @@ approx_tokens: 87021
 
 ## 8F
 
+- floor_index: 8
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:19 上午
+- Posted at raw: 十月 02, 2025, 10:19 上午
+- Posted at iso: 2025-10-02T10:19:00+08:00
 
 **第一幕：天堂 (Heaven)**
 **第7章：禁地的低语**
@@ -1630,8 +1644,10 @@ approx_tokens: 87021
 
 ## 9F
 
+- floor_index: 9
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:21 上午
+- Posted at raw: 十月 02, 2025, 10:21 上午
+- Posted at iso: 2025-10-02T10:21:00+08:00
 
 **第一幕：天堂 (Heaven)**
 **第8章：宴请与消失**
@@ -1857,8 +1873,10 @@ approx_tokens: 87021
 
 ## 10F
 
+- floor_index: 10
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:45 上午
+- Posted at raw: 十月 02, 2025, 10:45 上午
+- Posted at iso: 2025-10-02T10:45:00+08:00
 
 **第二幕：宴请 (The Banquet)**
 **第9章：两种选择**
@@ -2078,8 +2096,10 @@ approx_tokens: 87021
 
 ## 11F
 
+- floor_index: 11
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:48 上午
+- Posted at raw: 十月 02, 2025, 10:48 上午
+- Posted at iso: 2025-10-02T10:48:00+08:00
 
 **第二幕：宴请 (The Banquet)**
 **第10章：村长的茶**
@@ -2306,8 +2326,10 @@ approx_tokens: 87021
 
 ## 12F
 
+- floor_index: 12
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:56 上午
+- Posted at raw: 十月 02, 2025, 10:56 上午
+- Posted at iso: 2025-10-02T10:56:00+08:00
 
 **第二幕：宴请 (The Banquet)**
 **第11章：无声的狩猎**
@@ -2549,8 +2571,10 @@ approx_tokens: 87021
 
 ## 13F
 
+- floor_index: 13
 - Author: Jerry
-- Posted at: 十月 02, 2025, 10:58 上午
+- Posted at raw: 十月 02, 2025, 10:58 上午
+- Posted at iso: 2025-10-02T10:58:00+08:00
 
 **第二幕：宴请 (The Banquet)**
 **第12章：糖衣炮弹**
@@ -2768,8 +2792,10 @@ approx_tokens: 87021
 
 ## 14F
 
+- floor_index: 14
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:03 上午
+- Posted at raw: 十月 02, 2025, 11:03 上午
+- Posted at iso: 2025-10-02T11:03:00+08:00
 
 **第二幕：宴请 (The Banquet)**
 **第13章：谎言与逃亡**
@@ -3155,8 +3181,10 @@ approx_tokens: 87021
 
 ## 15F
 
+- floor_index: 15
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:06 上午
+- Posted at raw: 十月 02, 2025, 11:06 上午
+- Posted at iso: 2025-10-02T11:06:00+08:00
 
 **第二幕：宴请 (The Banquet)**
 **第14章：墓园中的交汇**
@@ -3417,8 +3445,10 @@ approx_tokens: 87021
 
 ## 16F
 
+- floor_index: 16
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:09 上午
+- Posted at raw: 十月 02, 2025, 11:09 上午
+- Posted at iso: 2025-10-02T11:09:00+08:00
 
 **第二幕：宴请 (The Banquet)**
 **第15章：第一归人**
@@ -3676,8 +3706,10 @@ approx_tokens: 87021
 
 ## 17F
 
+- floor_index: 17
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:18 上午
+- Posted at raw: 十月 02, 2025, 11:18 上午
+- Posted at iso: 2025-10-02T11:18:00+08:00
 
 **第三幕：反转 (The Reversal)**
 **第16章：坠入地狱**
@@ -3930,8 +3962,10 @@ approx_tokens: 87021
 
 ## 18F
 
+- floor_index: 18
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:21 上午
+- Posted at raw: 十月 02, 2025, 11:21 上午
+- Posted at iso: 2025-10-02T11:21:00+08:00
 
 **第三幕：反转 (The Reversal)**
 **第17章：孤独的回响**
@@ -4238,8 +4272,10 @@ approx_tokens: 87021
 
 ## 19F
 
+- floor_index: 19
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:26 上午
+- Posted at raw: 十月 02, 2025, 11:26 上午
+- Posted at iso: 2025-10-02T11:26:00+08:00
 
 **第三幕：反转 (The Reversal)**
 **第18章：来自影子的低语**
@@ -4658,8 +4694,10 @@ approx_tokens: 87021
 
 ## 20F
 
+- floor_index: 20
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:32 上午
+- Posted at raw: 十月 02, 2025, 11:32 上午
+- Posted at iso: 2025-10-02T11:32:00+08:00
 
 **第三幕：反转 (The Reversal)**
 **第19章：向着心脏**
@@ -4962,8 +5000,10 @@ approx_tokens: 87021
 
 ## 21F
 
+- floor_index: 21
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:35 上午
+- Posted at raw: 十月 02, 2025, 11:35 上午
+- Posted at iso: 2025-10-02T11:35:00+08:00
 
 **第三幕：反转 (The Reversal)**
 **第20章：心房之外的重逢**
@@ -5213,8 +5253,10 @@ approx_tokens: 87021
 
 ## 22F
 
+- floor_index: 22
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:43 上午
+- Posted at raw: 十月 02, 2025, 11:43 上午
+- Posted at iso: 2025-10-02T11:43:00+08:00
 
 **第四幕：地狱 (The Hell)**
 **第21章：守护者的悲歌**
@@ -5528,8 +5570,10 @@ approx_tokens: 87021
 
 ## 23F
 
+- floor_index: 23
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:45 上午
+- Posted at raw: 十月 02, 2025, 11:45 上午
+- Posted at iso: 2025-10-02T11:45:00+08:00
 
 **第四幕：地狱 (The Hell)**
 **第22章：編織意志之矛**
@@ -5765,8 +5809,10 @@ approx_tokens: 87021
 
 ## 24F
 
+- floor_index: 24
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:53 上午
+- Posted at raw: 十月 02, 2025, 11:53 上午
+- Posted at iso: 2025-10-02T11:53:00+08:00
 
 **第四幕：地狱 (The Hell)**
 **第23章：天堂的幻影**
@@ -6182,8 +6228,10 @@ approx_tokens: 87021
 
 ## 25F
 
+- floor_index: 25
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:54 上午
+- Posted at raw: 十月 02, 2025, 11:54 上午
+- Posted at iso: 2025-10-02T11:54:00+08:00
 
 **第23章 番外：天堂的幻影（补遗）**
 *Chapter 23 Extra: Phantoms of Heaven (Appendix)*
@@ -6397,8 +6445,10 @@ approx_tokens: 87021
 
 ## 26F
 
+- floor_index: 26
 - Author: Jerry
-- Posted at: 十月 02, 2025, 11:57 上午
+- Posted at raw: 十月 02, 2025, 11:57 上午
+- Posted at iso: 2025-10-02T11:57:00+08:00
 
 **第四幕：地狱 (The Hell)**
 **第24章：漆黑的救世主**
@@ -6761,8 +6811,10 @@ approx_tokens: 87021
 
 ## 27F
 
+- floor_index: 27
 - Author: Jerry
-- Posted at: 十月 02, 2025, 12:00 下午
+- Posted at raw: 十月 02, 2025, 12:00 下午
+- Posted at iso: 2025-10-02T12:00:00+08:00
 
 **第四幕：地狱 (The Hell)**
 **第25章：孤独之心**
@@ -7099,8 +7151,10 @@ THEREFORE: '修复'= NOT '修复'
 
 ## 28F
 
+- floor_index: 28
 - Author: Jerry
-- Posted at: 十月 02, 2025, 12:08 下午
+- Posted at raw: 十月 02, 2025, 12:08 下午
+- Posted at iso: 2025-10-02T12:08:00+08:00
 
 **第四幕：地狱 (The Hell)**
 **第26章：最终的切除**
@@ -7400,8 +7454,10 @@ THEREFORE: '修复'= NOT '修复'
 
 ## 29F
 
+- floor_index: 29
 - Author: Jerry
-- Posted at: 十月 02, 2025, 12:08 下午
+- Posted at raw: 十月 02, 2025, 12:08 下午
+- Posted at iso: 2025-10-02T12:08:00+08:00
 
 **尾声：桃花源记**
 *Epilogue: The Tale of the Peach Blossom Spring*

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=532.0"
 author: "OPPO"
 created_at_raw: "九月 19, 2025, 12:56 下午"
 created_at_iso: "2025-09-19T12:56:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:28 +0800"
-fetched_at_iso: "2026-02-26T10:01:28+08:00"
+fetched_at_raw: "2026-06-10 10:38:41 +0800"
+fetched_at_iso: "2026-06-10T10:38:41.565918+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3029
-approx_tokens: 1515
 ---
 
 # OPPO的角色 - 犽戾武
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 九月 19, 2025, 12:56 下午
+- Posted at raw: 九月 19, 2025, 12:56 下午
+- Posted at iso: 2025-09-19T12:56:00+08:00
 
 **角色填写人：**OPPO
 
@@ -96,7 +96,9 @@ approx_tokens: 1515
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 19, 2025, 10:57 下午
+- Posted at raw: 九月 19, 2025, 10:57 下午
+- Posted at iso: 2025-09-19T22:57:00+08:00
 
 哇，还有不存在的boss。

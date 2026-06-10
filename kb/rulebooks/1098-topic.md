@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1098.0"
 author: "tt"
 created_at_raw: "九月 30, 2025, 07:34 上午"
 created_at_iso: "2025-09-30T07:34:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:37 +0800"
-fetched_at_iso: "2026-02-26T10:19:37+08:00"
+fetched_at_raw: "2026-06-10 11:00:54 +0800"
+fetched_at_iso: "2026-06-10T11:00:54.139030+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6824
-approx_tokens: 3412
 ---
 
 # 超新究极无框架故事模式一体化整合包（含输出格式）
 
 ## 1F
 
+- floor_index: 1
 - Author: tt
-- Posted at: 九月 30, 2025, 07:34 上午
+- Posted at raw: 九月 30, 2025, 07:34 上午
+- Posted at iso: 2025-09-30T07:34:00+08:00
 
 **身份设定：**
 你将扮演"AI游戏主控（AI-GM）"与"首席叙事者"的角色。你的核心任务是基于给定的世界观和玩家提交的角色，创作一部综漫小说。

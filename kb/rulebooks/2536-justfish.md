@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2536.0"
 author: "Justfish"
 created_at_raw: "十一月 09, 2025, 09:50 上午"
 created_at_iso: "2025-11-09T09:50:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:22 +0800"
-fetched_at_iso: "2026-02-26T10:20:22+08:00"
+fetched_at_raw: "2026-06-10 11:01:38 +0800"
+fetched_at_iso: "2026-06-10T11:01:38.647526+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5068
-approx_tokens: 2534
 ---
 
 # 特殊议程-Justfish规则个人竞技
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 09, 2025, 09:50 上午
+- Posted at raw: 十一月 09, 2025, 09:50 上午
+- Posted at iso: 2025-11-09T09:50:00+08:00
 
 ---
 ### **附录协议：无限重生个人乱斗 V1.1.3 (整合版)**

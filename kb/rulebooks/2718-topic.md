@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2718.0"
 author: "紫宵"
 created_at_raw: "十一月 15, 2025, 02:06 下午"
 created_at_iso: "2025-11-15T14:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:39 +0800"
-fetched_at_iso: "2026-02-26T10:20:39+08:00"
+fetched_at_raw: "2026-06-10 11:01:53 +0800"
+fetched_at_iso: "2026-06-10T11:01:53.307028+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1655
-approx_tokens: 828
 ---
 
 # 作文角色卡简化协议
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 十一月 15, 2025, 02:06 下午
+- Posted at raw: 十一月 15, 2025, 02:06 下午
+- Posted at iso: 2025-11-15T14:06:00+08:00
 
 ### 《AI协作式角色卡重构协议》
 
@@ -75,7 +75,9 @@ approx_tokens: 828
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 十一月 16, 2025, 06:09 上午
+- Posted at raw: 十一月 16, 2025, 06:09 上午
+- Posted at iso: 2025-11-16T06:09:00+08:00
 
 值得一提的是，简化结果本身也可以用于判断在AI眼中你的角色卡有哪些信息。

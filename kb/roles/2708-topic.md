@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2708.0"
 author: "王者的老凤凰"
 created_at_raw: "十一月 15, 2025, 07:14 上午"
 created_at_iso: "2025-11-15T07:14:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:18 +0800"
-fetched_at_iso: "2026-02-26T10:16:18+08:00"
+fetched_at_raw: "2026-06-10 10:51:56 +0800"
+fetched_at_iso: "2026-06-10T10:51:56.585901+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1254
-approx_tokens: 627
 ---
 
 # 老凤凰的角色 - 德瓦霍·安德雷拉德
 
 ## 1F
 
+- floor_index: 1
 - Author: 王者的老凤凰
-- Posted at: 十一月 15, 2025, 07:14 上午
+- Posted at raw: 十一月 15, 2025, 07:14 上午
+- Posted at iso: 2025-11-15T07:14:00+08:00
 
 **角色填写人：**老凤凰
 

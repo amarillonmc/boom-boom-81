@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=369.0"
 author: "galekkomari"
 created_at_raw: "九月 16, 2025, 12:07 下午"
 created_at_iso: "2025-09-16T12:07:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:55 +0800"
-fetched_at_iso: "2026-02-26T09:59:55+08:00"
+fetched_at_raw: "2026-06-10 10:37:17 +0800"
+fetched_at_iso: "2026-06-10T10:37:17.498496+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7441
-approx_tokens: 3721
 ---
 
 # galekkomari的角色 - 寻血者 - Elise
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 16, 2025, 12:07 下午
+- Posted at raw: 九月 16, 2025, 12:07 下午
+- Posted at iso: 2025-09-16T12:07:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -82,8 +82,10 @@ Elise的便携取血装置中，有几个贴着标签的恒温试管，里面是
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 九月 17, 2025, 10:05 下午
+- Posted at raw: 九月 17, 2025, 10:05 下午
+- Posted at iso: 2025-09-17T22:05:00+08:00
 
 注：以下内容并非角色卡的一部分，是给人类看的扩展内容。不过你也可以将其加入【行为逻辑】部分看看AI会怎么处理：
 
@@ -102,15 +104,19 @@ Q6：既然可以复制能力，那能不能做到"超越"？
 
 ## 3F
 
+- floor_index: 3
 - Author: galekkomari
-- Posted at: 九月 18, 2025, 07:28 下午
+- Posted at raw: 九月 18, 2025, 07:28 下午
+- Posted at iso: 2025-09-18T19:28:00+08:00
 
 00008-2072451507.png
 
 ## 4F
 
+- floor_index: 4
 - Author: galekkomari
-- Posted at: 九月 18, 2025, 11:02 下午
+- Posted at raw: 九月 18, 2025, 11:02 下午
+- Posted at iso: 2025-09-18T23:02:00+08:00
 
 一种可能的未来：
 该角色于 https://number81.xyz/index.php?topic=476.0 中，由于乱斗胜出许愿，治愈了脸盲症。
@@ -118,8 +124,10 @@ Q6：既然可以复制能力，那能不能做到"超越"？
 
 ## 5F
 
+- floor_index: 5
 - Author: galekkomari
-- Posted at: 九月 29, 2025, 10:04 下午
+- Posted at raw: 九月 29, 2025, 10:04 下午
+- Posted at iso: 2025-09-29T22:04:00+08:00
 
 **角色填写人：**galekkomari
 

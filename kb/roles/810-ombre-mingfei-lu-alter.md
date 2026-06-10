@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=810.0"
 author: "Ombre"
 created_at_raw: "九月 24, 2025, 10:22 上午"
 created_at_iso: "2025-09-24T10:22:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:40 +0800"
-fetched_at_iso: "2026-02-26T10:03:40+08:00"
+fetched_at_raw: "2026-06-10 10:40:37 +0800"
+fetched_at_iso: "2026-06-10T10:40:37.767253+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 13925
-approx_tokens: 6963
 ---
 
 # Ombre的角色 - 界·路明非（Mingfei Lu/Alter）
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 24, 2025, 10:22 上午
+- Posted at raw: 九月 24, 2025, 10:22 上午
+- Posted at iso: 2025-09-24T10:22:00+08:00
 
 ### **角色档案：界·路明非 (Mingfei Lu / Alter)**
 
@@ -196,8 +196,10 @@ approx_tokens: 6963
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 14, 2025, 09:45 上午
+- Posted at raw: 十一月 14, 2025, 09:45 上午
+- Posted at iso: 2025-11-14T09:45:00+08:00
 
 旧角色卡**角色填写人：**Ombre
 

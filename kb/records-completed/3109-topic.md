@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3109.0"
 author: "tt"
 created_at_raw: "十一月 29, 2025, 04:06 上午"
 created_at_iso: "2025-11-29T04:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:27:49 +0800"
-fetched_at_iso: "2026-02-26T10:27:49+08:00"
+fetched_at_raw: "2026-06-10 11:10:24 +0800"
+fetched_at_iso: "2026-06-10T11:10:24.461203+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 30977
-approx_tokens: 15489
 ---
 
 # 厨神争霸战——“献给主的礼物”
 
 ## 1F
 
+- floor_index: 1
 - Author: tt
-- Posted at: 十一月 29, 2025, 04:06 上午
+- Posted at raw: 十一月 29, 2025, 04:06 上午
+- Posted at iso: 2025-11-29T04:06:00+08:00
 
 饿啊！
 饿就吃饭！
@@ -41,92 +41,118 @@ approx_tokens: 15489
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 29, 2025, 04:08 上午
+- Posted at raw: 十一月 29, 2025, 04:08 上午
+- Posted at iso: 2025-11-29T04:08:00+08:00
 
 食戟之灵极星寮厨艺团队
 
 ## 3F
 
+- floor_index: 3
 - Author: 烛火
-- Posted at: 十一月 29, 2025, 04:08 上午
+- Posted at raw: 十一月 29, 2025, 04:08 上午
+- Posted at iso: 2025-11-29T04:08:00+08:00
 
 藤丸立香&玛修
 
 ## 4F
 
+- floor_index: 4
 - Author: 小兵
-- Posted at: 十一月 29, 2025, 04:08 上午
+- Posted at raw: 十一月 29, 2025, 04:08 上午
+- Posted at iso: 2025-11-29T04:08:00+08:00
 
 坂本龙马（FGO）
 
 ## 5F
 
+- floor_index: 5
 - Author: 增熵星
-- Posted at: 十一月 29, 2025, 04:09 上午
+- Posted at raw: 十一月 29, 2025, 04:09 上午
+- Posted at iso: 2025-11-29T04:09:00+08:00
 
 鲸歌
 
 ## 6F
 
+- floor_index: 6
 - Author: Jerry
-- Posted at: 十一月 29, 2025, 04:09 上午
+- Posted at raw: 十一月 29, 2025, 04:09 上午
+- Posted at iso: 2025-11-29T04:09:00+08:00
 
 菲利普&左翔太郎
 
 ## 7F
 
+- floor_index: 7
 - Author: 黑森谨
-- Posted at: 十一月 29, 2025, 04:09 上午
+- Posted at raw: 十一月 29, 2025, 04:09 上午
+- Posted at iso: 2025-11-29T04:09:00+08:00
 
 东际（旅人）
 
 ## 8F
 
+- floor_index: 8
 - Author: OPPO
-- Posted at: 十一月 29, 2025, 04:10 上午
+- Posted at raw: 十一月 29, 2025, 04:10 上午
+- Posted at iso: 2025-11-29T04:10:00+08:00
 
 煎饼怪
 
 ## 9F
 
+- floor_index: 9
 - Author: Ender_Eragon
-- Posted at: 十一月 29, 2025, 04:11 上午
+- Posted at raw: 十一月 29, 2025, 04:11 上午
+- Posted at iso: 2025-11-29T04:11:00+08:00
 
 螟灵".aic
 
 ## 10F
 
+- floor_index: 10
 - Author: 全装甲高达七号机
-- Posted at: 十一月 29, 2025, 04:18 上午
+- Posted at raw: 十一月 29, 2025, 04:18 上午
+- Posted at iso: 2025-11-29T04:18:00+08:00
 
 博士 (The Doctor)
 
 ## 11F
 
+- floor_index: 11
 - Author: 无羁
-- Posted at: 十一月 29, 2025, 04:24 上午
+- Posted at raw: 十一月 29, 2025, 04:24 上午
+- Posted at iso: 2025-11-29T04:24:00+08:00
 
 姆忍宗师
 
 ## 12F
 
+- floor_index: 12
 - Author: AD钙
-- Posted at: 十一月 29, 2025, 04:32 上午
+- Posted at raw: 十一月 29, 2025, 04:32 上午
+- Posted at iso: 2025-11-29T04:32:00+08:00
 
 大蓝象
 
 ## 13F
 
+- floor_index: 13
 - Author: 普通人的无聊生活
-- Posted at: 十一月 29, 2025, 06:00 上午
+- Posted at raw: 十一月 29, 2025, 06:00 上午
+- Posted at iso: 2025-11-29T06:00:00+08:00
 
 东风谷早苗
 
 ## 14F
 
+- floor_index: 14
 - Author: tt
-- Posted at: 十一月 29, 2025, 08:59 上午
+- Posted at raw: 十一月 29, 2025, 08:59 上午
+- Posted at iso: 2025-11-29T08:59:00+08:00
 
 序章：当圣歌伴随着滋滋油响
 福音城的清晨通常被两种声音唤醒：第一种是教堂整点报时的肃穆钟声，第二种是远处暗巷里恶灵消散时的凄厉哀嚎。
@@ -156,8 +182,10 @@ approx_tokens: 15489
 
 ## 15F
 
+- floor_index: 15
 - Author: tt
-- Posted at: 十一月 29, 2025, 09:00 上午
+- Posted at raw: 十一月 29, 2025, 09:00 上午
+- Posted at iso: 2025-11-29T09:00:00+08:00
 
 **第一章：菜市场里的诸神黄昏**
 
@@ -233,8 +261,10 @@ approx_tokens: 15489
 
 ## 16F
 
+- floor_index: 16
 - Author: tt
-- Posted at: 十一月 29, 2025, 09:57 上午
+- Posted at raw: 十一月 29, 2025, 09:57 上午
+- Posted at iso: 2025-11-29T09:57:00+08:00
 
 **第二章：食材的反击与常识的崩塌**
 
@@ -320,8 +350,10 @@ W迅速切换记忆体。
 
 ## 17F
 
+- floor_index: 17
 - Author: tt
-- Posted at: 十一月 29, 2025, 10:43 上午
+- Posted at raw: 十一月 29, 2025, 10:43 上午
+- Posted at iso: 2025-11-29T10:43:00+08:00
 
 **间章：神圣的铁板烧与违章建筑**
 
@@ -390,8 +422,10 @@ W迅速切换记忆体。
 
 ## 18F
 
+- floor_index: 18
 - Author: tt
-- Posted at: 十一月 29, 2025, 10:48 上午
+- Posted at raw: 十一月 29, 2025, 10:48 上午
+- Posted at iso: 2025-11-29T10:48:00+08:00
 
 **第四章：数据流大蒜与怨念的狂想曲**
 
@@ -476,8 +510,10 @@ W迅速切换记忆体。
 
 ## 19F
 
+- floor_index: 19
 - Author: tt
-- Posted at: 十一月 29, 2025, 10:50 上午
+- Posted at raw: 十一月 29, 2025, 10:50 上午
+- Posted at iso: 2025-11-29T10:50:00+08:00
 
 **第五章：这种东西也能叫"做饭"吗？**
 
@@ -562,8 +598,10 @@ W迅速切换记忆体。
 
 ## 20F
 
+- floor_index: 20
 - Author: tt
-- Posted at: 十一月 29, 2025, 10:55 上午
+- Posted at raw: 十一月 29, 2025, 10:55 上午
+- Posted at iso: 2025-11-29T10:55:00+08:00
 
 **第六章：味觉的启示录**
 
@@ -715,8 +753,10 @@ W迅速切换记忆体。
 
 ## 21F
 
+- floor_index: 21
 - Author: tt
-- Posted at: 十一月 29, 2025, 10:57 上午
+- Posted at raw: 十一月 29, 2025, 10:57 上午
+- Posted at iso: 2025-11-29T10:57:00+08:00
 
 **幕间：满盈之杯与空无之碗**
 
@@ -796,8 +836,10 @@ W迅速切换记忆体。
 
 ## 22F
 
+- floor_index: 22
 - Author: tt
-- Posted at: 十一月 29, 2025, 12:12 下午
+- Posted at raw: 十一月 29, 2025, 12:12 下午
+- Posted at iso: 2025-11-29T12:12:00+08:00
 
 **第七章：请不要把"灵魂"真的加进菜里**
 
@@ -899,8 +941,10 @@ W迅速切换记忆体。
 
 ## 23F
 
+- floor_index: 23
 - Author: tt
-- Posted at: 十一月 29, 2025, 12:17 下午
+- Posted at raw: 十一月 29, 2025, 12:17 下午
+- Posted at iso: 2025-11-29T12:17:00+08:00
 
 **第八章：作为食材，我也要战斗！**
 
@@ -1026,8 +1070,10 @@ W迅速切换记忆体。
 
 ## 24F
 
+- floor_index: 24
 - Author: tt
-- Posted at: 十一月 29, 2025, 12:22 下午
+- Posted at raw: 十一月 29, 2025, 12:22 下午
+- Posted at iso: 2025-11-29T12:22:00+08:00
 
 **最终章：名为"再见"的余味**
 

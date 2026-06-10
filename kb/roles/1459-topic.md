@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1459.0"
 author: "小兵"
 created_at_raw: "十月 10, 2025, 08:42 下午"
 created_at_iso: "2025-10-10T20:42:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:21 +0800"
-fetched_at_iso: "2026-02-26T10:08:21+08:00"
+fetched_at_raw: "2026-06-10 10:44:49 +0800"
+fetched_at_iso: "2026-06-10T10:44:49.877492+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1962
-approx_tokens: 981
 ---
 
 # 小兵的角色 - 德古拉·弗拉德·特佩斯
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 10, 2025, 08:42 下午
+- Posted at raw: 十月 10, 2025, 08:42 下午
+- Posted at iso: 2025-10-10T20:42:00+08:00
 
 **角色填写人：**小兵
 

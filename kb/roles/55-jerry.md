@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=55.0"
 author: "Jerry"
 created_at_raw: "九月 08, 2025, 11:13 上午"
 created_at_iso: "2025-09-08T11:13:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:58 +0800"
-fetched_at_iso: "2026-02-26T09:56:58+08:00"
+fetched_at_raw: "2026-06-10 10:34:29 +0800"
+fetched_at_iso: "2026-06-10T10:34:29.742292+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2654
-approx_tokens: 1327
 ---
 
 # Jerry的角色 - 皮古蒙
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 08, 2025, 11:13 上午
+- Posted at raw: 九月 08, 2025, 11:13 上午
+- Posted at iso: 2025-09-08T11:13:00+08:00
 
 **角色填写人：**Jerry
 

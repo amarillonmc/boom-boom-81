@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1510.0"
 author: "Justfish"
 created_at_raw: "十月 12, 2025, 05:54 上午"
 created_at_iso: "2025-10-12T05:54:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:48 +0800"
-fetched_at_iso: "2026-02-26T10:08:48+08:00"
+fetched_at_raw: "2026-06-10 10:45:15 +0800"
+fetched_at_iso: "2026-06-10T10:45:15.229690+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3575
-approx_tokens: 1788
 ---
 
 # Justfish的角色 - 北斗神拳正统继承者（自称） 甲基 (Hokuto Shinken Seitō Keishōsha (Jishō) - Jagi)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 12, 2025, 05:54 上午
+- Posted at raw: 十月 12, 2025, 05:54 上午
+- Posted at iso: 2025-10-12T05:54:00+08:00
 
 **角色填写人：**Justfish
 

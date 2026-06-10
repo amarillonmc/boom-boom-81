@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2727.0"
 author: "小可"
 created_at_raw: "十一月 16, 2025, 02:23 上午"
 created_at_iso: "2025-11-16T02:23:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:30 +0800"
-fetched_at_iso: "2026-02-26T10:16:30+08:00"
+fetched_at_raw: "2026-06-10 10:52:07 +0800"
+fetched_at_iso: "2026-06-10T10:52:07.818029+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2865
-approx_tokens: 1433
 ---
 
 # 小可的角色 - 彼列（assassin）
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 16, 2025, 02:23 上午
+- Posted at raw: 十一月 16, 2025, 02:23 上午
+- Posted at iso: 2025-11-16T02:23:00+08:00
 
 **角色填写人：**小可
 

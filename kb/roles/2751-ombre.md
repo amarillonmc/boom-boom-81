@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2751.0"
 author: "Ombre"
 created_at_raw: "十一月 16, 2025, 08:37 上午"
 created_at_iso: "2025-11-16T08:37:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:44 +0800"
-fetched_at_iso: "2026-02-26T10:16:44+08:00"
+fetched_at_raw: "2026-06-10 10:52:18 +0800"
+fetched_at_iso: "2026-06-10T10:52:18.903288+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4503
-approx_tokens: 2252
 ---
 
 # Ombre的角色 - 帕秋莉·诺蕾姬
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 16, 2025, 08:37 上午
+- Posted at raw: 十一月 16, 2025, 08:37 上午
+- Posted at iso: 2025-11-16T08:37:00+08:00
 
 ### **角色档案：帕秋莉·诺雷姬 (Patchouli Knowledge)**
 

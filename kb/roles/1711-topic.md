@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1711.0"
 author: "小可"
 created_at_raw: "十月 18, 2025, 04:15 上午"
 created_at_iso: "2025-10-18T04:15:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:13 +0800"
-fetched_at_iso: "2026-02-26T10:10:13+08:00"
+fetched_at_raw: "2026-06-10 10:46:31 +0800"
+fetched_at_iso: "2026-06-10T10:46:31.792331+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4112
-approx_tokens: 2056
 ---
 
 # 小可的角色 - 吸血鬼猎人
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 18, 2025, 04:15 上午
+- Posted at raw: 十月 18, 2025, 04:15 上午
+- Posted at iso: 2025-10-18T04:15:00+08:00
 
 **角色填写人：**小可
 
@@ -61,8 +61,10 @@ approx_tokens: 2056
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 01:07 下午
+- Posted at raw: 十一月 07, 2025, 01:07 下午
+- Posted at iso: 2025-11-07T13:07:00+08:00
 
 **角色强度分析：吸血鬼猎人**
 

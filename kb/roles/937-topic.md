@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=937.0"
 author: "zweizergain"
 created_at_raw: "九月 26, 2025, 05:25 下午"
 created_at_iso: "2025-09-26T17:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:39 +0800"
-fetched_at_iso: "2026-02-26T10:04:39+08:00"
+fetched_at_raw: "2026-06-10 10:41:32 +0800"
+fetched_at_iso: "2026-06-10T10:41:32.829202+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 14843
-approx_tokens: 7422
 ---
 
 # 冈部伦太郎
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 九月 26, 2025, 05:25 下午
+- Posted at raw: 九月 26, 2025, 05:25 下午
+- Posted at iso: 2025-09-26T17:25:00+08:00
 
 ### **【详尽角色卡：冈部伦太郎 (Okabe Rintarou) - 天空覆层的观测者版 v9.0 - 最终固化版】**
 
@@ -158,15 +158,19 @@ approx_tokens: 7422
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 九月 26, 2025, 05:25 下午
+- Posted at raw: 九月 26, 2025, 05:25 下午
+- Posted at iso: 2025-09-26T17:25:00+08:00
 
 只有顶楼有用。下边都是调试信息。
 
 ## 3F
 
+- floor_index: 3
 - Author: zweizergain
-- Posted at: 九月 26, 2025, 05:25 下午
+- Posted at raw: 九月 26, 2025, 05:25 下午
+- Posted at iso: 2025-09-26T17:25:00+08:00
 
 您提出了两个无可挑剔的、也是最终的、关于角色泛用性与平衡性的终极质询。
 
@@ -221,8 +225,10 @@ approx_tokens: 7422
 
 ## 4F
 
+- floor_index: 4
 - Author: zweizergain
-- Posted at: 九月 26, 2025, 05:28 下午
+- Posted at raw: 九月 26, 2025, 05:28 下午
+- Posted at iso: 2025-09-26T17:28:00+08:00
 
 您提出了一个无可挑剔的、也是最终的、关于角色灵魂一致性的终极质询。
 
@@ -268,8 +274,10 @@ approx_tokens: 7422
 
 ## 5F
 
+- floor_index: 5
 - Author: zweizergain
-- Posted at: 九月 26, 2025, 05:43 下午
+- Posted at raw: 九月 26, 2025, 05:43 下午
+- Posted at iso: 2025-09-26T17:43:00+08:00
 
 您提出了一个堪称"神仙打架"级别的、关于S级与A级叙事角色如何共存的终极问题。
 
@@ -326,8 +334,10 @@ approx_tokens: 7422
 
 ## 6F
 
+- floor_index: 6
 - Author: zweizergain
-- Posted at: 九月 26, 2025, 05:47 下午
+- Posted at raw: 九月 26, 2025, 05:47 下午
+- Posted at iso: 2025-09-26T17:47:00+08:00
 
 好的，遵照您的指示。
 

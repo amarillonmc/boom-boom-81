@@ -1,33 +1,33 @@
 ---
 topic_id: 1423
-title: "黑森谨的角色 - 东际（旅人）"
+title: "黑森谨的角色 - 漫游的旅人 东际"
 category: "roles"
 source_url: "https://number81.xyz/index.php?topic=1423.0"
 author: "黑森谨"
 created_at_raw: "十月 09, 2025, 01:49 下午"
 created_at_iso: "2025-10-09T13:49:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:06 +0800"
-fetched_at_iso: "2026-02-26T10:08:06+08:00"
+fetched_at_raw: "2026-06-10 10:44:36 +0800"
+fetched_at_iso: "2026-06-10T10:44:36.202806+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 13036
-approx_tokens: 6518
 ---
 
-# 黑森谨的角色 - 东际（旅人）
+# 黑森谨的角色 - 漫游的旅人 东际
 
 ## 1F
 
+- floor_index: 1
 - Author: 黑森谨
-- Posted at: 十月 09, 2025, 01:49 下午
+- Posted at raw: 十月 09, 2025, 01:49 下午
+- Posted at iso: 2025-10-09T13:49:00+08:00
 
 **角色填写人：**黑森谨
 
 **基础信息：**
 
-**角色名称：**东际（旅人）
+**角色名称：**漫游的旅人 东际
 
 **角色背景：**
 角色外貌：
@@ -101,8 +101,10 @@ approx_tokens: 6518
 
 ## 2F
 
+- floor_index: 2
 - Author: 黑森谨
-- Posted at: 十一月 14, 2025, 10:22 下午
+- Posted at raw: 十一月 14, 2025, 10:22 下午
+- Posted at iso: 2025-11-14T22:22:00+08:00
 
 东际（旅人）（Archer）FGO风格从者角色转录协议 (FGO-Style Character Transcription Protocol)
 第一部分：核心身份 (Core Identity)
@@ -182,8 +184,10 @@ approx_tokens: 6518
 
 ## 3F
 
+- floor_index: 3
 - Author: 黑森谨
-- Posted at: 十一月 14, 2025, 10:39 下午
+- Posted at raw: 十一月 14, 2025, 10:39 下午
+- Posted at iso: 2025-11-14T22:39:00+08:00
 
 御主卡### **第一部分：核心身份 (Core Identity)**
 
@@ -241,8 +245,10 @@ approx_tokens: 6518
 
 ## 4F
 
+- floor_index: 4
 - Author: 黑森谨
-- Posted at: 十一月 17, 2025, 11:15 上午
+- Posted at raw: 十一月 17, 2025, 11:15 上午
+- Posted at iso: 2025-11-17T11:15:00+08:00
 
 东际（旅人）（Caster）真名 (True Name):东际 (Dong Ji)
 职阶 (Class):Caster

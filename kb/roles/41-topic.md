@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=41.0"
 author: "影白艺"
 created_at_raw: "九月 08, 2025, 10:34 上午"
 created_at_iso: "2025-09-08T10:34:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:47 +0800"
-fetched_at_iso: "2026-02-26T09:56:47+08:00"
+fetched_at_raw: "2026-06-10 10:34:19 +0800"
+fetched_at_iso: "2026-06-10T10:34:19.385605+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5053
-approx_tokens: 2527
 ---
 
 # 影白艺的角色-🪞琉璃•🪞世界
 
 ## 1F
 
+- floor_index: 1
 - Author: 影白艺
-- Posted at: 九月 08, 2025, 10:34 上午
+- Posted at raw: 九月 08, 2025, 10:34 上午
+- Posted at iso: 2025-09-08T10:34:00+08:00
 
 🪞琉璃.🪞镜世界
 生命.1/1

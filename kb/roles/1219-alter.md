@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1219.0"
 author: "ALTER"
 created_at_raw: "十月 03, 2025, 08:17 上午"
 created_at_iso: "2025-10-03T08:17:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:24 +0800"
-fetched_at_iso: "2026-02-26T10:06:24+08:00"
+fetched_at_raw: "2026-06-10 10:43:06 +0800"
+fetched_at_iso: "2026-06-10T10:43:06.822243+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7157
-approx_tokens: 3579
 ---
 
 # ALTER的角色 - 维里塔斯·拉帝奥
 
 ## 1F
 
+- floor_index: 1
 - Author: ALTER
-- Posted at: 十月 03, 2025, 08:17 上午
+- Posted at raw: 十月 03, 2025, 08:17 上午
+- Posted at iso: 2025-10-03T08:17:00+08:00
 
 角色填写人：ALTER
 角色卡：维里塔斯·拉帝奥（真理医生）

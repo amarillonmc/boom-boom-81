@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2816.0"
 author: "小可"
 created_at_raw: "十一月 17, 2025, 01:02 下午"
 created_at_iso: "2025-11-17T13:02:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:56 +0800"
-fetched_at_iso: "2026-02-26T10:16:56+08:00"
+fetched_at_raw: "2026-06-10 10:52:30 +0800"
+fetched_at_iso: "2026-06-10T10:52:30.364758+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2749
-approx_tokens: 1375
 ---
 
 # 小可的角色 - 魔法帝王·银岚（英灵）
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 17, 2025, 01:02 下午
+- Posted at raw: 十一月 17, 2025, 01:02 下午
+- Posted at iso: 2025-11-17T13:02:00+08:00
 
 **角色填写人：**小可
 

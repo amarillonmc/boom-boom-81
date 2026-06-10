@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=119.0"
 author: "增熵星"
 created_at_raw: "九月 09, 2025, 03:34 上午"
 created_at_iso: "2025-09-09T03:34:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:44 +0800"
-fetched_at_iso: "2026-02-26T09:57:44+08:00"
+fetched_at_raw: "2026-06-10 10:35:14 +0800"
+fetched_at_iso: "2026-06-10T10:35:14.151153+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2053
-approx_tokens: 1027
 ---
 
 # 增熵星的角色 - 骑士队长
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 09, 2025, 03:34 上午
+- Posted at raw: 九月 09, 2025, 03:34 上午
+- Posted at iso: 2025-09-09T03:34:00+08:00
 
 **角色填写人：**增熵星
 
@@ -58,23 +58,29 @@ approx_tokens: 1027
 
 ## 2F
 
+- floor_index: 2
 - Author: 增熵星
-- Posted at: 九月 19, 2025, 10:43 上午
+- Posted at raw: 九月 19, 2025, 10:43 上午
+- Posted at iso: 2025-09-19T10:43:00+08:00
 
 该角色于 https://number81.xyz/index.php?topic=164.0 中，击败了皮古蒙，这是该角色目前的唯一击杀记录
 该角色于 https://number81.xyz/index.php?topic=2424.0 中打出了0/15 的战绩
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 九月 19, 2025, 01:02 下午
+- Posted at raw: 九月 19, 2025, 01:02 下午
+- Posted at iso: 2025-09-19T13:02:00+08:00
 
 击败了皮古蒙也能算人头数吗，哈基骑你这家伙。
 
 ## 4F
 
+- floor_index: 4
 - Author: 增熵星
-- Posted at: 十月 11, 2025, 05:23 上午
+- Posted at raw: 十月 11, 2025, 05:23 上午
+- Posted at iso: 2025-10-11T05:23:00+08:00
 
 悲报：在新的评分标准下，骑士队长的评级被认定为纸
 但是还是不改了，因为骑士队长实力差又爱吹牛

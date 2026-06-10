@@ -6,114 +6,140 @@ source_url: "https://number81.xyz/index.php?topic=1675.0"
 author: "tt"
 created_at_raw: "十月 17, 2025, 11:01 上午"
 created_at_iso: "2025-10-17T11:01:00+08:00"
-fetched_at_raw: "2026-02-26 10:23:34 +0800"
-fetched_at_iso: "2026-02-26T10:23:34+08:00"
+fetched_at_raw: "2026-06-10 11:05:29 +0800"
+fetched_at_iso: "2026-06-10T11:05:29.888652+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 38074
-approx_tokens: 19037
 ---
 
 # 胡闹厨房·土豆大战（闪击开）
 
 ## 1F
 
+- floor_index: 1
 - Author: tt
-- Posted at: 十月 17, 2025, 11:01 上午
+- Posted at raw: 十月 17, 2025, 11:01 上午
+- Posted at iso: 2025-10-17T11:01:00+08:00
 
 10个角色。。。
 
 ## 2F
 
+- floor_index: 2
 - Author: 黑森谨
-- Posted at: 十月 17, 2025, 11:03 上午
+- Posted at raw: 十月 17, 2025, 11:03 上午
+- Posted at iso: 2025-10-17T11:03:00+08:00
 
 东际
 
 ## 3F
 
+- floor_index: 3
 - Author: Jerry
-- Posted at: 十月 17, 2025, 11:03 上午
+- Posted at raw: 十月 17, 2025, 11:03 上午
+- Posted at iso: 2025-10-17T11:03:00+08:00
 
 浮世英寿
 
 ## 4F
 
+- floor_index: 4
 - Author: 增熵星
-- Posted at: 十月 17, 2025, 11:04 上午
+- Posted at raw: 十月 17, 2025, 11:04 上午
+- Posted at iso: 2025-10-17T11:04:00+08:00
 
 neko
 
 ## 5F
 
+- floor_index: 5
 - Author: Ender_Eragon
-- Posted at: 十月 17, 2025, 11:04 上午
+- Posted at raw: 十月 17, 2025, 11:04 上午
+- Posted at iso: 2025-10-17T11:04:00+08:00
 
 firsk
 魔法的旅者秘银
 
 ## 6F
 
+- floor_index: 6
 - Author: Justfish
-- Posted at: 十月 17, 2025, 11:04 上午
+- Posted at raw: 十月 17, 2025, 11:04 上午
+- Posted at iso: 2025-10-17T11:04:00+08:00
 
 荷鲁斯·星野 (https://number81.xyz/index.php?topic=1332)
 
 ## 7F
 
+- floor_index: 7
 - Author: zweizergain
-- Posted at: 十月 17, 2025, 11:05 上午
+- Posted at raw: 十月 17, 2025, 11:05 上午
+- Posted at iso: 2025-10-17T11:05:00+08:00
 
 热气巴萨拉
 
 ## 8F
 
+- floor_index: 8
 - Author: OPPO
-- Posted at: 十月 17, 2025, 11:06 上午
+- Posted at raw: 十月 17, 2025, 11:06 上午
+- Posted at iso: 2025-10-17T11:06:00+08:00
 
 【无无定义者】OPPO
 
 ## 9F
 
+- floor_index: 9
 - Author: 梦梦
-- Posted at: 十月 17, 2025, 11:06 上午
+- Posted at raw: 十月 17, 2025, 11:06 上午
+- Posted at iso: 2025-10-17T11:06:00+08:00
 
 凯恩
 
 ## 10F
 
+- floor_index: 10
 - Author: 小可
-- Posted at: 十月 17, 2025, 11:06 上午
+- Posted at raw: 十月 17, 2025, 11:06 上午
+- Posted at iso: 2025-10-17T11:06:00+08:00
 
 我就不上了，议程需要我两个卡了已经）
 
 ## 11F
 
+- floor_index: 11
 - Author: 烛火
-- Posted at: 十月 17, 2025, 11:07 上午
+- Posted at raw: 十月 17, 2025, 11:07 上午
+- Posted at iso: 2025-10-17T11:07:00+08:00
 
 藤丸立香&玛修（携带从者U-奥尔加玛丽）
 
 ## 12F
 
+- floor_index: 12
 - Author: Ombre
-- Posted at: 十月 17, 2025, 11:10 上午
+- Posted at raw: 十月 17, 2025, 11:10 上午
+- Posted at iso: 2025-10-17T11:10:00+08:00
 
 艾尔·布鲁
 
 ## 13F
 
+- floor_index: 13
 - Author: 小兵
-- Posted at: 十月 17, 2025, 11:34 上午
+- Posted at raw: 十月 17, 2025, 11:34 上午
+- Posted at iso: 2025-10-17T11:34:00+08:00
 
 贝西
 
 ## 14F
 
+- floor_index: 14
 - Author: tt
-- Posted at: 十月 17, 2025, 11:45 上午
+- Posted at raw: 十月 17, 2025, 11:45 上午
+- Posted at iso: 2025-10-17T11:45:00+08:00
 
 *伟大的土豆神之权能已然启动，时空的帷幕被揭开，圣地·土豆泥教堂的根须感受到了来自异次元的脉动。十一位（组）身负奇能、心怀执念的参赛者，你们的灵魂投影已降临于此，站在这片由信仰与淀粉构筑的绵延薯泥广场之上。*
 
@@ -140,8 +166,10 @@ firsk
 
 ## 15F
 
+- floor_index: 15
 - Author: tt
-- Posted at: 十月 17, 2025, 11:45 上午
+- Posted at raw: 十月 17, 2025, 11:45 上午
+- Posted at iso: 2025-10-17T11:45:00+08:00
 
 **第0回合：终焉之争，于薯泥广场之上**
 
@@ -174,8 +202,10 @@ firsk
 
 ## 16F
 
+- floor_index: 16
 - Author: tt
-- Posted at: 十月 17, 2025, 11:47 上午
+- Posted at raw: 十月 17, 2025, 11:47 上午
+- Posted at iso: 2025-10-17T11:47:00+08:00
 
 **第1回合：初动之刻，风味分野**
 
@@ -230,8 +260,10 @@ firsk
 
 ## 17F
 
+- floor_index: 17
 - Author: tt
-- Posted at: 十月 17, 2025, 11:48 上午
+- Posted at raw: 十月 17, 2025, 11:48 上午
+- Posted at iso: 2025-10-17T11:48:00+08:00
 
 **第2回合：圣田对峙，理念初鸣**
 
@@ -293,8 +325,10 @@ firsk
 
 ## 18F
 
+- floor_index: 18
 - Author: tt
-- Posted at: 十月 17, 2025, 11:51 上午
+- Posted at raw: 十月 17, 2025, 11:51 上午
+- Posted at iso: 2025-10-17T11:51:00+08:00
 
 **第3回合：破局之雷与初生之薯**
 
@@ -350,8 +384,10 @@ firsk
 
 ## 19F
 
+- floor_index: 19
 - Author: tt
-- Posted at: 十月 17, 2025, 11:52 上午
+- Posted at raw: 十月 17, 2025, 11:52 上午
+- Posted at iso: 2025-10-17T11:52:00+08:00
 
 **第4回合：风味之路，分野之始**
 
@@ -396,8 +432,10 @@ firsk
 
 ## 20F
 
+- floor_index: 20
 - Author: tt
-- Posted at: 十月 17, 2025, 11:55 上午
+- Posted at raw: 十月 17, 2025, 11:55 上午
+- Posted at iso: 2025-10-17T11:55:00+08:00
 
 **第5回合：穹顶序曲，林中遭遇**
 
@@ -455,8 +493,10 @@ firsk
 
 ## 21F
 
+- floor_index: 21
 - Author: tt
-- Posted at: 十月 17, 2025, 11:56 上午
+- Posted at raw: 十月 17, 2025, 11:56 上午
+- Posted at iso: 2025-10-17T11:56:00+08:00
 
 **第6回合：剑意共鸣，创世之烹**
 
@@ -519,8 +559,10 @@ BOOST! READY... FIGHT!
 
 ## 22F
 
+- floor_index: 22
 - Author: tt
-- Posted at: 十月 17, 2025, 11:56 上午
+- Posted at raw: 十月 17, 2025, 11:56 上午
+- Posted at iso: 2025-10-17T11:56:00+08:00
 
 **第7回合：群英汇聚，灶台风云**
 
@@ -577,8 +619,10 @@ BOOST! READY... FIGHT!
 
 ## 23F
 
+- floor_index: 23
 - Author: tt
-- Posted at: 十月 17, 2025, 11:58 上午
+- Posted at raw: 十月 17, 2025, 11:58 上午
+- Posted at iso: 2025-10-17T11:58:00+08:00
 
 **第8回合：理念碰撞，风味之形**
 
@@ -635,8 +679,10 @@ NINJA! READY... FIGHT!
 
 ## 24F
 
+- floor_index: 24
 - Author: tt
-- Posted at: 十月 17, 2025, 12:00 下午
+- Posted at raw: 十月 17, 2025, 12:00 下午
+- Posted at iso: 2025-10-17T12:00:00+08:00
 
 **第9回合：超距之味，概念之烹**
 
@@ -710,8 +756,10 @@ MAGNUM! READY... FIGHT!
 
 ## 25F
 
+- floor_index: 25
 - Author: tt
-- Posted at: 十月 17, 2025, 12:03 下午
+- Posted at raw: 十月 17, 2025, 12:03 下午
+- Posted at iso: 2025-10-17T12:03:00+08:00
 
 **第10回合：信念之烹，心剑之择**
 
@@ -786,8 +834,10 @@ MAGNUM STRIKE!
 
 ## 26F
 
+- floor_index: 26
 - Author: tt
-- Posted at: 十月 17, 2025, 12:03 下午
+- Posted at raw: 十月 17, 2025, 12:03 下午
+- Posted at iso: 2025-10-17T12:03:00+08:00
 
 **第11回合：点睛之刻，神话之形**
 
@@ -821,8 +871,10 @@ MAGNUM STRIKE!
 
 ## 27F
 
+- floor_index: 27
 - Author: tt
-- Posted at: 十月 17, 2025, 12:06 下午
+- Posted at raw: 十月 17, 2025, 12:06 下午
+- Posted at iso: 2025-10-17T12:06:00+08:00
 
 **第12回合：终焉之奏，最后的献礼**
 
@@ -901,8 +953,10 @@ MAGNUM STRIKE!
 
 ## 28F
 
+- floor_index: 28
 - Author: tt
-- Posted at: 十月 17, 2025, 12:06 下午
+- Posted at raw: 十月 17, 2025, 12:06 下午
+- Posted at iso: 2025-10-17T12:06:00+08:00
 
 **最终评审：千年之争的终焉，神选之道的昭示**
 
@@ -1006,14 +1060,18 @@ MAGNUM STRIKE!
 
 ## 29F
 
+- floor_index: 29
 - Author: 增熵星
-- Posted at: 十月 17, 2025, 11:08 下午
+- Posted at raw: 十月 17, 2025, 11:08 下午
+- Posted at iso: 2025-10-17T23:08:00+08:00
 
 结算一下neko本局获得的经验
 
 ## 30F
 
+- floor_index: 30
 - Author: 烛火
-- Posted at: 十月 17, 2025, 11:09 下午
+- Posted at raw: 十月 17, 2025, 11:09 下午
+- Posted at iso: 2025-10-17T23:09:00+08:00
 
 结算下咕哒的圣晶石和稀有魔力棱镜

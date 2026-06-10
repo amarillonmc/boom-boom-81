@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=910.0"
 author: "Huager"
 created_at_raw: "九月 26, 2025, 05:10 上午"
 created_at_iso: "2025-09-26T05:10:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:23 +0800"
-fetched_at_iso: "2026-02-26T10:04:23+08:00"
+fetched_at_raw: "2026-06-10 10:41:18 +0800"
+fetched_at_iso: "2026-06-10T10:41:18.215779+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 902
-approx_tokens: 451
 ---
 
 # 黑莲的角色 - [size =7][b]蛙袄！！！！[/b][/size]
 
 ## 1F
 
+- floor_index: 1
 - Author: Huager
-- Posted at: 九月 26, 2025, 05:10 上午
+- Posted at raw: 九月 26, 2025, 05:10 上午
+- Posted at iso: 2025-09-26T05:10:00+08:00
 
 **角色填写人：**黑莲
 
@@ -35,14 +35,18 @@ approx_tokens: 451
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 九月 26, 2025, 05:11 上午
+- Posted at raw: 九月 26, 2025, 05:11 上午
+- Posted at iso: 2025-09-26T05:11:00+08:00
 
 角色名size后面多打了一个空格，导致格式没有生效
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 九月 26, 2025, 05:50 上午
+- Posted at raw: 九月 26, 2025, 05:50 上午
+- Posted at iso: 2025-09-26T05:50:00+08:00
 
 素质极差。

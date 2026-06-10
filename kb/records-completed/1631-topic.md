@@ -6,58 +6,68 @@ source_url: "https://number81.xyz/index.php?topic=1631.0"
 author: "tt"
 created_at_raw: "十月 16, 2025, 04:13 上午"
 created_at_iso: "2025-10-16T04:13:00+08:00"
-fetched_at_raw: "2026-02-26 10:23:26 +0800"
-fetched_at_iso: "2026-02-26T10:23:26+08:00"
+fetched_at_raw: "2026-06-10 11:05:19 +0800"
+fetched_at_iso: "2026-06-10T11:05:19.422190+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 63459
-approx_tokens: 31730
 ---
 
 # 智斗巅峰
 
 ## 1F
 
+- floor_index: 1
 - Author: tt
-- Posted at: 十月 16, 2025, 04:13 上午
+- Posted at raw: 十月 16, 2025, 04:13 上午
+- Posted at iso: 2025-10-16T04:13:00+08:00
 
 全员智斗，智力低下的角色会强行提高智力
 收15个角色（推荐阴谋家，智慧系角色）
 
 ## 2F
 
+- floor_index: 2
 - Author: 玄羽
-- Posted at: 十月 16, 2025, 04:14 上午
+- Posted at raw: 十月 16, 2025, 04:14 上午
+- Posted at iso: 2025-10-16T04:14:00+08:00
 
 黑暗之子玄羽
 
 ## 3F
 
+- floor_index: 3
 - Author: 烛火
-- Posted at: 十月 16, 2025, 04:15 上午
+- Posted at raw: 十月 16, 2025, 04:15 上午
+- Posted at iso: 2025-10-16T04:15:00+08:00
 
 荀彧
 
 ## 4F
 
+- floor_index: 4
 - Author: 增熵星
-- Posted at: 十月 16, 2025, 04:15 上午
+- Posted at raw: 十月 16, 2025, 04:15 上午
+- Posted at iso: 2025-10-16T04:15:00+08:00
 
 朵拉，城之内克也
 
 ## 5F
 
+- floor_index: 5
 - Author: zweizergain
-- Posted at: 十月 16, 2025, 04:15 上午
+- Posted at raw: 十月 16, 2025, 04:15 上午
+- Posted at iso: 2025-10-16T04:15:00+08:00
 
 帕普提马斯·西罗克
 
 ## 6F
 
+- floor_index: 6
 - Author: Justfish
-- Posted at: 十月 16, 2025, 04:15 上午
+- Posted at raw: 十月 16, 2025, 04:15 上午
+- Posted at iso: 2025-10-16T04:15:00+08:00
 
 "按说是鱼" (https://number81.xyz/index.php?topic=779)
 轮到我亲自出马了。
@@ -65,37 +75,47 @@ approx_tokens: 31730
 
 ## 7F
 
+- floor_index: 7
 - Author: 梦梦
-- Posted at: 十月 16, 2025, 04:15 上午
+- Posted at raw: 十月 16, 2025, 04:15 上午
+- Posted at iso: 2025-10-16T04:15:00+08:00
 
 凯恩
 
 ## 8F
 
+- floor_index: 8
 - Author: Jerry
-- Posted at: 十月 16, 2025, 04:15 上午
+- Posted at raw: 十月 16, 2025, 04:15 上午
+- Posted at iso: 2025-10-16T04:15:00+08:00
 
 里德•理查兹，菲利普&左翔太郎
 
 ## 9F
 
+- floor_index: 9
 - Author: 梦梦
-- Posted at: 十月 16, 2025, 04:15 上午
+- Posted at raw: 十月 16, 2025, 04:15 上午
+- Posted at iso: 2025-10-16T04:15:00+08:00
 
 文森特
 
 ## 10F
 
+- floor_index: 10
 - Author: 小可
-- Posted at: 十月 16, 2025, 04:20 上午
+- Posted at raw: 十月 16, 2025, 04:20 上午
+- Posted at iso: 2025-10-16T04:20:00+08:00
 
 是时候使用我的超级智慧了，就决定是你了
 极限侠
 
 ## 11F
 
+- floor_index: 11
 - Author: Ender_Eragon
-- Posted at: 十月 16, 2025, 04:20 上午
+- Posted at raw: 十月 16, 2025, 04:20 上午
+- Posted at iso: 2025-10-16T04:20:00+08:00
 
 神化 骷髅骑士
 伊尔赛斯
@@ -104,50 +124,64 @@ approx_tokens: 31730
 
 ## 12F
 
+- floor_index: 12
 - Author: 普通人的无聊生活
-- Posted at: 十月 16, 2025, 04:23 上午
+- Posted at raw: 十月 16, 2025, 04:23 上午
+- Posted at iso: 2025-10-16T04:23:00+08:00
 
 公孙求胜
 
 ## 13F
 
+- floor_index: 13
 - Author: aaa
-- Posted at: 十月 16, 2025, 04:25 上午
+- Posted at raw: 十月 16, 2025, 04:25 上午
+- Posted at iso: 2025-10-16T04:25:00+08:00
 
 假死钟离
 
 ## 14F
 
+- floor_index: 14
 - Author: 小兵
-- Posted at: 十月 16, 2025, 04:26 上午
+- Posted at raw: 十月 16, 2025, 04:26 上午
+- Posted at iso: 2025-10-16T04:26:00+08:00
 
 蝙蝠侠
 
 ## 15F
 
+- floor_index: 15
 - Author: 紫宵
-- Posted at: 十月 16, 2025, 04:31 上午
+- Posted at raw: 十月 16, 2025, 04:31 上午
+- Posted at iso: 2025-10-16T04:31:00+08:00
 
 伊娜
 
 ## 16F
 
+- floor_index: 16
 - Author: AD钙
-- Posted at: 十月 16, 2025, 04:37 上午
+- Posted at raw: 十月 16, 2025, 04:37 上午
+- Posted at iso: 2025-10-16T04:37:00+08:00
 
 雄朗
 
 ## 17F
 
+- floor_index: 17
 - Author: Ombre
-- Posted at: 十月 16, 2025, 04:57 上午
+- Posted at raw: 十月 16, 2025, 04:57 上午
+- Posted at iso: 2025-10-16T04:57:00+08:00
 
 界·路明非
 
 ## 18F
 
+- floor_index: 18
 - Author: 增熵星
-- Posted at: 十月 16, 2025, 05:01 上午
+- Posted at raw: 十月 16, 2025, 05:01 上午
+- Posted at iso: 2025-10-16T05:01:00+08:00
 
 > [引用自: aaa 于 十月 16, 2025, 04:25 上午](https://number81.xyz/index.php?msg=12890)假死钟离
 
@@ -155,8 +189,10 @@ approx_tokens: 31730
 
 ## 19F
 
+- floor_index: 19
 - Author: 小可
-- Posted at: 十月 16, 2025, 05:01 上午
+- Posted at raw: 十月 16, 2025, 05:01 上午
+- Posted at iso: 2025-10-16T05:01:00+08:00
 
 > [引用自: aaa 于 十月 16, 2025, 04:25 上午](https://number81.xyz/index.php?msg=12890)假死钟离
 
@@ -164,22 +200,28 @@ approx_tokens: 31730
 
 ## 20F
 
+- floor_index: 20
 - Author: 小壶
-- Posted at: 十月 16, 2025, 05:13 上午
+- Posted at raw: 十月 16, 2025, 05:13 上午
+- Posted at iso: 2025-10-16T05:13:00+08:00
 
 麦当劳叔叔
 
 ## 21F
 
+- floor_index: 21
 - Author: 无羁
-- Posted at: 十月 16, 2025, 08:19 上午
+- Posted at raw: 十月 16, 2025, 08:19 上午
+- Posted at iso: 2025-10-16T08:19:00+08:00
 
 蕾忍宗师
 
 ## 22F
 
+- floor_index: 22
 - Author: tt
-- Posted at: 十月 16, 2025, 11:13 上午
+- Posted at raw: 十月 16, 2025, 11:13 上午
+- Posted at iso: 2025-10-16T11:13:00+08:00
 
 **序章 (Prologue) - 事件起因**
 
@@ -249,8 +291,10 @@ approx_tokens: 31730
 
 ## 23F
 
+- floor_index: 23
 - Author: tt
-- Posted at: 十月 16, 2025, 11:15 上午
+- Posted at raw: 十月 16, 2025, 11:15 上午
+- Posted at iso: 2025-10-16T11:15:00+08:00
 
 **第0章 (Chapter 0) - 角色入场**
 
@@ -332,8 +376,10 @@ approx_tokens: 31730
 
 ## 24F
 
+- floor_index: 24
 - Author: tt
-- Posted at: 十月 16, 2025, 11:23 上午
+- Posted at raw: 十月 16, 2025, 11:23 上午
+- Posted at iso: 2025-10-16T11:23:00+08:00
 
 **第一章：逻辑的独白与迷宫的嬉戏**
 
@@ -465,8 +511,10 @@ approx_tokens: 31730
 
 ## 25F
 
+- floor_index: 25
 - Author: tt
-- Posted at: 十月 16, 2025, 11:26 上午
+- Posted at raw: 十月 16, 2025, 11:26 上午
+- Posted at iso: 2025-10-16T11:26:00+08:00
 
 **第二章：联盟的雏形与悖论的茶会**
 
@@ -581,8 +629,10 @@ ZOMBIE GAME START!
 
 ## 26F
 
+- floor_index: 26
 - Author: tt
-- Posted at: 十月 16, 2025, 11:27 上午
+- Posted at raw: 十月 16, 2025, 11:27 上午
+- Posted at iso: 2025-10-16T11:27:00+08:00
 
 **第三章：物理的圣裁与孤高的剑路**
 
@@ -685,8 +735,10 @@ ZOMBIE GAME START!
 
 ## 27F
 
+- floor_index: 27
 - Author: tt
-- Posted at: 十月 16, 2025, 11:35 上午
+- Posted at raw: 十月 16, 2025, 11:35 上午
+- Posted at iso: 2025-10-16T11:35:00+08:00
 
 **第四章：神之游戏领域与理性之囚笼**
 
@@ -829,8 +881,10 @@ MISSION CLEAR!
 
 ## 28F
 
+- floor_index: 28
 - Author: tt
-- Posted at: 十月 16, 2025, 11:38 上午
+- Posted at raw: 十月 16, 2025, 11:38 上午
+- Posted at iso: 2025-10-16T11:38:00+08:00
 
 **第五章：探险家的终点与观察者的棋局**
 
@@ -967,8 +1021,10 @@ MISSION CLEAR!
 
 ## 29F
 
+- floor_index: 29
 - Author: tt
-- Posted at: 十月 16, 2025, 11:43 上午
+- Posted at raw: 十月 16, 2025, 11:43 上午
+- Posted at iso: 2025-10-16T11:43:00+08:00
 
 **第六章：王佐的阳谋与众生的抉择**
 
@@ -1093,8 +1149,10 @@ GOD MAXIMUM MIGHTY X!
 
 ## 30F
 
+- floor_index: 30
 - Author: tt
-- Posted at: 十月 16, 2025, 11:44 上午
+- Posted at raw: 十月 16, 2025, 11:44 上午
+- Posted at iso: 2025-10-16T11:44:00+08:00
 
 **第七章：神之游戏与物理之锤**
 
@@ -1198,8 +1256,10 @@ GOD MAXIMUM MIGHTY X!
 
 ## 31F
 
+- floor_index: 31
 - Author: tt
-- Posted at: 十月 16, 2025, 11:52 上午
+- Posted at raw: 十月 16, 2025, 11:52 上午
+- Posted at iso: 2025-10-16T11:52:00+08:00
 
 **第八章：黄雀的游戏与败者的夜谈**
 
@@ -1378,8 +1438,10 @@ SLIP!
 
 ## 32F
 
+- floor_index: 32
 - Author: tt
-- Posted at: 十月 16, 2025, 11:52 上午
+- Posted at raw: 十月 16, 2025, 11:52 上午
+- Posted at iso: 2025-10-16T11:52:00+08:00
 
 **尾声：当掌声落幕**
 
@@ -1467,7 +1529,9 @@ SLIP!
 
 ## 33F
 
+- floor_index: 33
 - Author: 普通人的无聊生活
-- Posted at: 十月 16, 2025, 09:14 下午
+- Posted at raw: 十月 16, 2025, 09:14 下午
+- Posted at iso: 2025-10-16T21:14:00+08:00
 
 总结并整理本局收获，公孙求胜有没有能力上的提升

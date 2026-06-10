@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=914.0"
 author: "玄羽"
 created_at_raw: "九月 26, 2025, 05:58 上午"
 created_at_iso: "2025-09-26T05:58:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:27 +0800"
-fetched_at_iso: "2026-02-26T10:04:27+08:00"
+fetched_at_raw: "2026-06-10 10:41:21 +0800"
+fetched_at_iso: "2026-06-10T10:41:21.635074+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8728
-approx_tokens: 4364
 ---
 
 # 玄羽的角色 - 玄羽（Savior）
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 九月 26, 2025, 05:58 上午
+- Posted at raw: 九月 26, 2025, 05:58 上午
+- Posted at iso: 2025-09-26T05:58:00+08:00
 
 **角色填写人：**玄羽
 
@@ -171,8 +171,10 @@ Legend-Arms·神域同心：EX
 
 ## 2F
 
+- floor_index: 2
 - Author: 玄羽
-- Posted at: 九月 28, 2025, 08:22 上午
+- Posted at raw: 九月 28, 2025, 08:22 上午
+- Posted at iso: 2025-09-28T08:22:00+08:00
 
 ## 🛡�⚔️ 英雄：玄羽（Savior）
 

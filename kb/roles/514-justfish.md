@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=514.0"
 author: "Justfish"
 created_at_raw: "九月 19, 2025, 09:52 上午"
 created_at_iso: "2025-09-19T09:52:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:19 +0800"
-fetched_at_iso: "2026-02-26T10:01:19+08:00"
+fetched_at_raw: "2026-06-10 10:38:32 +0800"
+fetched_at_iso: "2026-06-10T10:38:32.585294+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1632
-approx_tokens: 816
 ---
 
 # Justfish的角色 - 界·虚影巨兽
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 19, 2025, 09:52 上午
+- Posted at raw: 九月 19, 2025, 09:52 上午
+- Posted at iso: 2025-09-19T09:52:00+08:00
 
 **角色填写人：**Justfish
 
@@ -58,8 +58,10 @@ approx_tokens: 816
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 19, 2025, 09:53 上午
+- Posted at raw: 九月 19, 2025, 09:53 上午
+- Posted at iso: 2025-09-19T09:53:00+08:00
 
 没错，不用怀疑，这东西就是给提·丰川祥子专用的本家场地魔法卡。
 当然本身还是有其他功能的，大概。

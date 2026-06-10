@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=58.0"
 author: "小可"
 created_at_raw: "九月 08, 2025, 11:15 上午"
 created_at_iso: "2025-09-08T11:15:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:00 +0800"
-fetched_at_iso: "2026-02-26T09:57:00+08:00"
+fetched_at_raw: "2026-06-10 10:34:31 +0800"
+fetched_at_iso: "2026-06-10T10:34:31.457076+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4386
-approx_tokens: 2193
 ---
 
 # 小可的角色 - 【吞世虓虎】曹操
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 08, 2025, 11:15 上午
+- Posted at raw: 九月 08, 2025, 11:15 上午
+- Posted at iso: 2025-09-08T11:15:00+08:00
 
 **角色填写人：**小可
 
@@ -69,8 +69,10 @@ approx_tokens: 2193
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 12:35 下午
+- Posted at raw: 十一月 07, 2025, 12:35 下午
+- Posted at iso: 2025-11-07T12:35:00+08:00
 
 **角色强度分析：【吞世虓虎】曹操**
 

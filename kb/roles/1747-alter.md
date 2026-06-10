@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1747.0"
 author: "ALTER"
 created_at_raw: "十月 19, 2025, 05:36 上午"
 created_at_iso: "2025-10-19T05:36:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:37 +0800"
-fetched_at_iso: "2026-02-26T10:10:37+08:00"
+fetched_at_raw: "2026-06-10 10:46:48 +0800"
+fetched_at_iso: "2026-06-10T10:46:48.387489+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8604
-approx_tokens: 4302
 ---
 
 # ALTER的角色-塔伊兹育罗斯（完整）
 
 ## 1F
 
+- floor_index: 1
 - Author: ALTER
-- Posted at: 十月 19, 2025, 05:36 上午
+- Posted at raw: 十月 19, 2025, 05:36 上午
+- Posted at iso: 2025-10-19T05:36:00+08:00
 
 Ⅰ. 基础信息
 角色名称： 塔伊兹育罗斯（完整）

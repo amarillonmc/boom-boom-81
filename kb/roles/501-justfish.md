@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=501.0"
 author: "Justfish"
 created_at_raw: "九月 19, 2025, 08:22 上午"
 created_at_iso: "2025-09-19T08:22:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:07 +0800"
-fetched_at_iso: "2026-02-26T10:01:07+08:00"
+fetched_at_raw: "2026-06-10 10:38:24 +0800"
+fetched_at_iso: "2026-06-10T10:38:24.430961+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2976
-approx_tokens: 1488
 ---
 
 # Justfish的角色 - 果神
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 19, 2025, 08:22 上午
+- Posted at raw: 九月 19, 2025, 08:22 上午
+- Posted at iso: 2025-09-19T08:22:00+08:00
 
 **角色填写人：**Justfish
 
@@ -61,15 +61,19 @@ approx_tokens: 1488
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 19, 2025, 08:25 上午
+- Posted at raw: 九月 19, 2025, 08:25 上午
+- Posted at iso: 2025-09-19T08:25:00+08:00
 
 把果神丢给ai生成的界·果神，不是哥们，这还是果然翁吗。
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 九月 19, 2025, 08:30 上午
+- Posted at raw: 九月 19, 2025, 08:30 上午
+- Posted at iso: 2025-09-19T08:30:00+08:00
 
 总之这里是标果神。
 **角色填写人：**Justfish

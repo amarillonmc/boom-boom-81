@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1227.0"
 author: "Ender_Eragon"
 created_at_raw: "十月 03, 2025, 11:27 上午"
 created_at_iso: "2025-10-03T11:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:31 +0800"
-fetched_at_iso: "2026-02-26T10:06:31+08:00"
+fetched_at_raw: "2026-06-10 10:43:12 +0800"
+fetched_at_iso: "2026-06-10T10:43:12.833755+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7813
-approx_tokens: 3907
 ---
 
 # 终末的角色 - 螟灵「魔法秘银」（“魔法秘银”）
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十月 03, 2025, 11:27 上午
+- Posted at raw: 十月 03, 2025, 11:27 上午
+- Posted at iso: 2025-10-03T11:27:00+08:00
 
 **角色填写人：**终末
 
@@ -79,8 +79,10 @@ approx_tokens: 3907
 
 ## 2F
 
+- floor_index: 2
 - Author: Ender_Eragon
-- Posted at: 十一月 15, 2025, 09:49 上午
+- Posted at raw: 十一月 15, 2025, 09:49 上午
+- Posted at iso: 2025-11-15T09:49:00+08:00
 
 第一部分：核心身份 (Core Identity)
 
@@ -164,8 +166,10 @@ approx_tokens: 3907
 
 ## 3F
 
+- floor_index: 3
 - Author: Ender_Eragon
-- Posted at: 一月 03, 2026, 08:37 上午
+- Posted at raw: 一月 03, 2026, 08:37 上午
+- Posted at iso: 2026-01-03T08:37:00+08:00
 
 角色填写人：终末
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=609.0"
 author: "Justfish"
 created_at_raw: "九月 21, 2025, 04:23 上午"
 created_at_iso: "2025-09-21T04:23:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:06 +0800"
-fetched_at_iso: "2026-02-26T10:02:06+08:00"
+fetched_at_raw: "2026-06-10 10:39:17 +0800"
+fetched_at_iso: "2026-06-10T10:39:17.272603+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4530
-approx_tokens: 2265
 ---
 
 # Justfish的角色 - 「无极剑圣」易
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 21, 2025, 04:23 上午
+- Posted at raw: 九月 21, 2025, 04:23 上午
+- Posted at iso: 2025-09-21T04:23:00+08:00
 
 **角色填写人：**Justfish
 
@@ -77,8 +77,10 @@ approx_tokens: 2265
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 21, 2025, 04:32 上午
+- Posted at raw: 九月 21, 2025, 04:32 上午
+- Posted at iso: 2025-09-21T04:32:00+08:00
 
 假如让ai把控强度之剑系角色。
 

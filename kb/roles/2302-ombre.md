@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2302.0"
 author: "Ombre"
 created_at_raw: "十一月 04, 2025, 02:15 上午"
 created_at_iso: "2025-11-04T02:15:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:00 +0800"
-fetched_at_iso: "2026-02-26T10:14:00+08:00"
+fetched_at_raw: "2026-06-10 10:49:46 +0800"
+fetched_at_iso: "2026-06-10T10:49:46.057017+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5946
-approx_tokens: 2973
 ---
 
 # Ombre的角色 - 蜂医
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 04, 2025, 02:15 上午
+- Posted at raw: 十一月 04, 2025, 02:15 上午
+- Posted at iso: 2025-11-04T02:15:00+08:00
 
 ### **干员档案-蜂医 **
 

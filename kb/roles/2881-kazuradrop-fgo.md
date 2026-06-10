@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2881.0"
 author: "小兵"
 created_at_raw: "十一月 19, 2025, 12:27 上午"
 created_at_iso: "2025-11-19T00:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:06 +0800"
-fetched_at_iso: "2026-02-26T10:17:06+08:00"
+fetched_at_raw: "2026-06-10 10:52:38 +0800"
+fetched_at_iso: "2026-06-10T10:52:38.725697+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3710
-approx_tokens: 1855
 ---
 
 # 小兵的角色 - Kazuradrop/缪瑞恩（FGO）
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十一月 19, 2025, 12:27 上午
+- Posted at raw: 十一月 19, 2025, 12:27 上午
+- Posted at iso: 2025-11-19T00:27:00+08:00
 
 **角色填写人：**小兵
 (https://media.fgo.wiki/3/33/%E6%84%9A%E4%BA%BA%E8%8A%82_%E5%8D%A1%E9%9D%A2_FFJ_426.png)
@@ -34,6 +34,9 @@ approx_tokens: 1855
 出自游戏《Fate/Grand Order》和《Fate/EXTRA CCC》
 职阶Alterego。Sakura Five之一，慈爱的Alterego。人类肯定派的治疗型AI，会为了人类竭尽全力。认可规整的体制与具有道德的纪律，也担任着病毒检查员（Virus Checker）一职，负责发现并删除SE.RA.PH内部的程序错误（Bug）。和其他作为人类之敌被制作出来的Sakura Five不同，是对于BB或是她的自我（Ego）们的生存方式——那充满矛盾的生存方式——感到反感的正义Alterego。
 身高／体重：133cm·30kg
+整体外观：Kazuradrop的外表看起来更年幼，拥有紫色短发和明亮的绿黄色眼睛。
+服装主体：她穿着一件绿色和服，领口有白色褶边。和服前方有黄色绳索编织成两个结并带有两个流苏。
+细节装饰：袖口底部有两个类似流苏的装饰物。和服下方穿着青蓝色短裤，脚上穿着黄色鞋子和白色袜子。头部左侧系着一条黄色丝带。
 
 ○性格
 内向、处世主动。性格成熟，头脑聪明、知识渊博，比起自己更优先他人。重视礼节，也会开玩笑缓和气氛的才女。扮演着『聪明伶俐又懂礼貌的妹妹』类型的行为举止，而且本人也喜欢这么干。平等地对待所有人，同时也能够得到所有人怜爱的紫发少女形象。

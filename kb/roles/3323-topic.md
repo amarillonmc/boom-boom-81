@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3323.0"
 author: "Ender_Eragon"
 created_at_raw: "一月 29, 2026, 10:51 下午"
 created_at_iso: "2026-01-29T22:51:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:47 +0800"
-fetched_at_iso: "2026-02-26T10:18:47+08:00"
+fetched_at_raw: "2026-06-10 10:54:00 +0800"
+fetched_at_iso: "2026-06-10T10:54:00.591958+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1451
-approx_tokens: 726
 ---
 
 # 终末的角色 - 「银翼魔侠」
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 一月 29, 2026, 10:51 下午
+- Posted at raw: 一月 29, 2026, 10:51 下午
+- Posted at iso: 2026-01-29T22:51:00+08:00
 
 **角色填写人：**终末
 

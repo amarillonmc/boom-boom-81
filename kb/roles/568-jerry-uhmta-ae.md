@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=568.0"
 author: "Jerry"
 created_at_raw: "九月 20, 2025, 08:49 上午"
 created_at_iso: "2025-09-20T08:49:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:45 +0800"
-fetched_at_iso: "2026-02-26T10:01:45+08:00"
+fetched_at_raw: "2026-06-10 10:38:58 +0800"
+fetched_at_iso: "2026-06-10T10:38:58.300108+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3477
-approx_tokens: 1739
 ---
 
 # Jerry的角色 - Uhmta’ae（曼巴之神）
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 20, 2025, 08:49 上午
+- Posted at raw: 九月 20, 2025, 08:49 上午
+- Posted at iso: 2025-09-20T08:49:00+08:00
 
 **角色填写人：**Jerry
 

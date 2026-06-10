@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1250.0"
 author: "Justfish"
 created_at_raw: "十月 04, 2025, 06:40 上午"
 created_at_iso: "2025-10-04T06:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:43 +0800"
-fetched_at_iso: "2026-02-26T10:06:43+08:00"
+fetched_at_raw: "2026-06-10 10:43:23 +0800"
+fetched_at_iso: "2026-06-10T10:43:23.005298+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4011
-approx_tokens: 2006
 ---
 
 # Justfish的角色 - 无垠之人 / The Unfettered Terrarian
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 04, 2025, 06:40 上午
+- Posted at raw: 十月 04, 2025, 06:40 上午
+- Posted at iso: 2025-10-04T06:40:00+08:00
 
 **角色填写人：**Justfish
 

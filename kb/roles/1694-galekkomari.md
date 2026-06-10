@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1694.0"
 author: "galekkomari"
 created_at_raw: "十月 17, 2025, 10:33 下午"
 created_at_iso: "2025-10-17T22:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:08 +0800"
-fetched_at_iso: "2026-02-26T10:10:08+08:00"
+fetched_at_raw: "2026-06-10 10:46:27 +0800"
+fetched_at_iso: "2026-06-10T10:46:27.682901+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 9020
-approx_tokens: 4510
 ---
 
 # galekkomari的角色 - 龙神薮猫
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十月 17, 2025, 10:33 下午
+- Posted at raw: 十月 17, 2025, 10:33 下午
+- Posted at iso: 2025-10-17T22:33:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -89,8 +89,10 @@ approx_tokens: 4510
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十月 17, 2025, 10:44 下午
+- Posted at raw: 十月 17, 2025, 10:44 下午
+- Posted at iso: 2025-10-17T22:44:00+08:00
 
 附录：
 
@@ -258,8 +260,10 @@ C. 最终得分
 
 ## 3F
 
+- floor_index: 3
 - Author: galekkomari
-- Posted at: 十一月 16, 2025, 10:48 下午
+- Posted at raw: 十一月 16, 2025, 10:48 下午
+- Posted at iso: 2025-11-16T22:48:00+08:00
 
 BONUS:
 FGO从者（若不支持额外职介可改为Lancer）真名 (True Name): 龙神薮猫 (Dragon Serval)

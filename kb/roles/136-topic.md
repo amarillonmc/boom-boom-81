@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=136.0"
 author: "香草大鹅"
 created_at_raw: "九月 09, 2025, 11:22 上午"
 created_at_iso: "2025-09-09T11:22:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:48 +0800"
-fetched_at_iso: "2026-02-26T09:57:48+08:00"
+fetched_at_raw: "2026-06-10 10:35:18 +0800"
+fetched_at_iso: "2026-06-10T10:35:18.354084+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1758
-approx_tokens: 879
 ---
 
 # 香草大鹅的角色 - 渔人
 
 ## 1F
 
+- floor_index: 1
 - Author: 香草大鹅
-- Posted at: 九月 09, 2025, 11:22 上午
+- Posted at raw: 九月 09, 2025, 11:22 上午
+- Posted at iso: 2025-09-09T11:22:00+08:00
 
 **角色填写人：**香草大鹅
 
@@ -35,14 +35,18 @@ approx_tokens: 879
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 九月 09, 2025, 12:58 下午
+- Posted at raw: 九月 09, 2025, 12:58 下午
+- Posted at iso: 2025-09-09T12:58:00+08:00
 
 极为重要的部分可以前面加两个星号，后面加两个星号来加粗
 
 ## 3F
 
+- floor_index: 3
 - Author: 增熵星
-- Posted at: 九月 09, 2025, 10:06 下午
+- Posted at raw: 九月 09, 2025, 10:06 下午
+- Posted at iso: 2025-09-09T22:06:00+08:00
 
 你就是想掐死小猫吧

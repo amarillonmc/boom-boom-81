@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3037.0"
 author: "全装甲高达七号机"
 created_at_raw: "十一月 24, 2025, 11:53 下午"
 created_at_iso: "2025-11-24T23:53:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:38 +0800"
-fetched_at_iso: "2026-02-26T10:17:38+08:00"
+fetched_at_raw: "2026-06-10 10:53:08 +0800"
+fetched_at_iso: "2026-06-10T10:53:08.248557+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8340
-approx_tokens: 4170
 ---
 
 # 全装甲高达七号机的角色 - 红莲骑士兽：真红莲型态 (Dukemon: Crimson Mode)
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十一月 24, 2025, 11:53 下午
+- Posted at raw: 十一月 24, 2025, 11:53 下午
+- Posted at iso: 2025-11-24T23:53:00+08:00
 
 **角色填写人：**全装甲高达七号机
 

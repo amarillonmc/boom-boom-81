@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2923.0"
 author: "全装甲高达七号机"
 created_at_raw: "十一月 19, 2025, 08:44 下午"
 created_at_iso: "2025-11-19T20:44:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:14 +0800"
-fetched_at_iso: "2026-02-26T10:17:14+08:00"
+fetched_at_raw: "2026-06-10 10:52:46 +0800"
+fetched_at_iso: "2026-06-10T10:52:46.786801+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 16383
-approx_tokens: 8192
 ---
 
 # 全装甲高达七号机的角色 - 究极V龙兽-未来形态 (UlforceVeedramon Future Mode)
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十一月 19, 2025, 08:44 下午
+- Posted at raw: 十一月 19, 2025, 08:44 下午
+- Posted at iso: 2025-11-19T20:44:00+08:00
 
 **角色填写人：**全装甲高达七号机
 
@@ -239,8 +239,10 @@ approx_tokens: 8192
 
 ## 2F
 
+- floor_index: 2
 - Author: 全装甲高达七号机
-- Posted at: 十一月 19, 2025, 08:57 下午
+- Posted at raw: 十一月 19, 2025, 08:57 下午
+- Posted at iso: 2025-11-19T20:57:00+08:00
 
 ---
 
@@ -349,8 +351,10 @@ approx_tokens: 8192
 
 ## 3F
 
+- floor_index: 3
 - Author: 全装甲高达七号机
-- Posted at: 十一月 20, 2025, 09:36 上午
+- Posted at raw: 十一月 20, 2025, 09:36 上午
+- Posted at iso: 2025-11-20T09:36:00+08:00
 
 迦勒底协议 v1.1 确认指令。正在基于现有数据执行职阶重定向...
 分析中... 目标职阶：【Rider】。

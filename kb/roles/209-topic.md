@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=209.0"
 author: "增熵星"
 created_at_raw: "九月 12, 2025, 06:16 上午"
 created_at_iso: "2025-09-12T06:16:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:21 +0800"
-fetched_at_iso: "2026-02-26T09:58:21+08:00"
+fetched_at_raw: "2026-06-10 10:35:50 +0800"
+fetched_at_iso: "2026-06-10T10:35:50.474064+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3205
-approx_tokens: 1603
 ---
 
 # 增熵星的角色 - 古明地恋
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 12, 2025, 06:16 上午
+- Posted at raw: 九月 12, 2025, 06:16 上午
+- Posted at iso: 2025-09-12T06:16:00+08:00
 
 **角色填写人：**增熵星
 
@@ -49,8 +49,10 @@ approx_tokens: 1603
 
 ## 2F
 
+- floor_index: 2
 - Author: 增熵星
-- Posted at: 九月 16, 2025, 10:17 上午
+- Posted at raw: 九月 16, 2025, 10:17 上午
+- Posted at iso: 2025-09-16T10:17:00+08:00
 
 【冠军角色】该角色已于https://number81.xyz/index.php?topic=213.0 中成功获得冠军
 附该局游戏中古明地恋的全部行动解密
@@ -84,8 +86,10 @@ approx_tokens: 1603
 
 ## 3F
 
+- floor_index: 3
 - Author: 增熵星
-- Posted at: 九月 23, 2025, 02:35 上午
+- Posted at raw: 九月 23, 2025, 02:35 上午
+- Posted at iso: 2025-09-23T02:35:00+08:00
 
 由于论坛加入了新功能，故对古明地恋的能力作出如下修改
 **角色名称：**古明地恋

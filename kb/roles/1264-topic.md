@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1264.0"
 author: "Ender_Eragon"
 created_at_raw: "十月 04, 2025, 12:09 下午"
 created_at_iso: "2025-10-04T12:09:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:52 +0800"
-fetched_at_iso: "2026-02-26T10:06:52+08:00"
+fetched_at_raw: "2026-06-10 10:43:31 +0800"
+fetched_at_iso: "2026-06-10T10:43:31.748731+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1097
-approx_tokens: 549
 ---
 
 # 终末的角色 - 神化 骷髅骑士
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十月 04, 2025, 12:09 下午
+- Posted at raw: 十月 04, 2025, 12:09 下午
+- Posted at iso: 2025-10-04T12:09:00+08:00
 
 **角色填写人：**终末
 

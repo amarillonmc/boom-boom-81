@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1001.0"
 author: "玄羽"
 created_at_raw: "九月 28, 2025, 02:22 上午"
 created_at_iso: "2025-09-28T02:22:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:09 +0800"
-fetched_at_iso: "2026-02-26T10:05:09+08:00"
+fetched_at_raw: "2026-06-10 10:42:01 +0800"
+fetched_at_iso: "2026-06-10T10:42:01.351638+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6911
-approx_tokens: 3456
 ---
 
 # 玄羽的角色 - 觉者
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 九月 28, 2025, 02:22 上午
+- Posted at raw: 九月 28, 2025, 02:22 上午
+- Posted at iso: 2025-09-28T02:22:00+08:00
 
 大乱斗专用
 
@@ -160,8 +160,10 @@ approx_tokens: 3456
 
 ## 2F
 
+- floor_index: 2
 - Author: 玄羽
-- Posted at: 九月 28, 2025, 08:25 上午
+- Posted at raw: 九月 28, 2025, 08:25 上午
+- Posted at iso: 2025-09-28T08:25:00+08:00
 
 DOTA专用模式
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2354.0"
 author: "小可"
 created_at_raw: "十一月 05, 2025, 12:06 下午"
 created_at_iso: "2025-11-05T12:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:25 +0800"
-fetched_at_iso: "2026-02-26T10:14:25+08:00"
+fetched_at_raw: "2026-06-10 10:50:10 +0800"
+fetched_at_iso: "2026-06-10T10:50:10.143946+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5123
-approx_tokens: 2562
 ---
 
 # 小可的角色 - 深渊之主，万军之王 阿克蒙德（Archimonde, Lord of the Abyss, King of Myriads）
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 05, 2025, 12:06 下午
+- Posted at raw: 十一月 05, 2025, 12:06 下午
+- Posted at iso: 2025-11-05T12:06:00+08:00
 
 **角色填写人：**小可
 
@@ -77,8 +77,10 @@ approx_tokens: 2562
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 09:05 下午
+- Posted at raw: 十一月 07, 2025, 09:05 下午
+- Posted at iso: 2025-11-07T21:05:00+08:00
 
 **角色强度分析：深渊之主，万军之王 阿克蒙德**
 

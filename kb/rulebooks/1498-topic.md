@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1498.0"
 author: "Ombre"
 created_at_raw: "十月 12, 2025, 12:45 上午"
 created_at_iso: "2025-10-12T00:45:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:54 +0800"
-fetched_at_iso: "2026-02-26T10:19:54+08:00"
+fetched_at_raw: "2026-06-10 11:01:09 +0800"
+fetched_at_iso: "2026-06-10T11:01:09.559897+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 15358
-approx_tokens: 7679
 ---
 
 # 超次元厨神大乱斗（代传）
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 12, 2025, 12:45 上午
+- Posted at raw: 十月 12, 2025, 12:45 上午
+- Posted at iso: 2025-10-12T00:45:00+08:00
 
 角色对决游戏: 核心规则手册 (厨神版)
 (基于黑莲规则修改)

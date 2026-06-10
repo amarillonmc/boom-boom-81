@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1603.0"
 author: "Justfish"
 created_at_raw: "十月 15, 2025, 05:35 上午"
 created_at_iso: "2025-10-15T05:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:20 +0800"
-fetched_at_iso: "2026-02-26T10:09:20+08:00"
+fetched_at_raw: "2026-06-10 10:45:43 +0800"
+fetched_at_iso: "2026-06-10T10:45:43.871765+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5643
-approx_tokens: 2822
 ---
 
 # Justfish的角色 - 赎罪之刃 - 心斩 (Blade of Atonement - Shinzan)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 15, 2025, 05:35 上午
+- Posted at raw: 十月 15, 2025, 05:35 上午
+- Posted at iso: 2025-10-15T05:35:00+08:00
 
 **角色填写人：**Justfish
 
@@ -104,8 +104,10 @@ approx_tokens: 2822
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十月 16, 2025, 05:02 上午
+- Posted at raw: 十月 16, 2025, 05:02 上午
+- Posted at iso: 2025-10-16T05:02:00+08:00
 
 【旅途的结算 (Settlement of the Journey)】
 在脱离"无限制传奇乱斗"的战场后，**心斩**于一片宁静的竹林中独自冥想。那斩向神祇**阿克蒙德**的、赌上一切的一剑，以及之后所见证的、**玛修**那纯粹的守护，在他心中反复回响、碰撞，最终归于一片澄澈的明镜止水。

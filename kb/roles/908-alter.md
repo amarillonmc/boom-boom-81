@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=908.0"
 author: "ALTER"
 created_at_raw: "九月 26, 2025, 05:06 上午"
 created_at_iso: "2025-09-26T05:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:22 +0800"
-fetched_at_iso: "2026-02-26T10:04:22+08:00"
+fetched_at_raw: "2026-06-10 10:41:16 +0800"
+fetched_at_iso: "2026-06-10T10:41:16.511395+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3807
-approx_tokens: 1904
 ---
 
 # ALTER的角色 - 阿布罗狄
 
 ## 1F
 
+- floor_index: 1
 - Author: ALTER
-- Posted at: 九月 26, 2025, 05:06 上午
+- Posted at raw: 九月 26, 2025, 05:06 上午
+- Posted at iso: 2025-09-26T05:06:00+08:00
 
 角色填写人：ALTER
 基础信息

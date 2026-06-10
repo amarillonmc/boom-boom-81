@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=132.0"
 author: "玄羽"
 created_at_raw: "九月 09, 2025, 09:10 上午"
 created_at_iso: "2025-09-09T09:10:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:47 +0800"
-fetched_at_iso: "2026-02-26T09:57:47+08:00"
+fetched_at_raw: "2026-06-10 10:35:17 +0800"
+fetched_at_iso: "2026-06-10T10:35:17.485047+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2510
-approx_tokens: 1255
 ---
 
 # 玄羽的角色 - 萨菲罗斯 (Sephiroth)
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 九月 09, 2025, 09:10 上午
+- Posted at raw: 九月 09, 2025, 09:10 上午
+- Posted at iso: 2025-09-09T09:10:00+08:00
 
 **角色填写人：**玄羽
 

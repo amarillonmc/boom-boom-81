@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2933.0"
 author: "塔."
 created_at_raw: "十一月 20, 2025, 06:24 上午"
 created_at_iso: "2025-11-20T06:24:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:17 +0800"
-fetched_at_iso: "2026-02-26T10:17:17+08:00"
+fetched_at_raw: "2026-06-10 10:52:49 +0800"
+fetched_at_iso: "2026-06-10T10:52:49.606047+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 11978
-approx_tokens: 5989
 ---
 
 # 塔.的角色 - 瑞芙蕾希雅
 
 ## 1F
 
+- floor_index: 1
 - Author: 塔.
-- Posted at: 十一月 20, 2025, 06:24 上午
+- Posted at raw: 十一月 20, 2025, 06:24 上午
+- Posted at iso: 2025-11-20T06:24:00+08:00
 
 **角色填写人：**塔.
 
@@ -218,8 +218,10 @@ approx_tokens: 5989
 
 ## 2F
 
+- floor_index: 2
 - Author: 塔.
-- Posted at: 十一月 20, 2025, 07:15 上午
+- Posted at raw: 十一月 20, 2025, 07:15 上午
+- Posted at iso: 2025-11-20T07:15:00+08:00
 
 已收到角色数据【瑞芙蕾希雅】。正在执行角色定位分流协议...
 
@@ -306,8 +308,10 @@ approx_tokens: 5989
 
 ## 3F
 
+- floor_index: 3
 - Author: 塔.
-- Posted at: 十一月 21, 2025, 07:44 上午
+- Posted at raw: 十一月 21, 2025, 07:44 上午
+- Posted at iso: 2025-11-21T07:44:00+08:00
 
 FGO-C3E适配器 - 迦勒底协议 v1.2 正在运行...
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2556.0"
 author: "全装甲高达七号机"
 created_at_raw: "十一月 10, 2025, 08:33 上午"
 created_at_iso: "2025-11-10T08:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:21 +0800"
-fetched_at_iso: "2026-02-26T10:15:21+08:00"
+fetched_at_raw: "2026-06-10 10:51:04 +0800"
+fetched_at_iso: "2026-06-10T10:51:04.628271+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 9670
-approx_tokens: 4835
 ---
 
 # 全装甲高达七号机的角色 - 中世纪红莲骑士兽 (Medieval Dukemon)
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十一月 10, 2025, 08:33 上午
+- Posted at raw: 十一月 10, 2025, 08:33 上午
+- Posted at iso: 2025-11-10T08:33:00+08:00
 
 **角色填写人：**全装甲高达七号机
 
@@ -192,8 +192,10 @@ approx_tokens: 4835
 
 ## 2F
 
+- floor_index: 2
 - Author: 全装甲高达七号机
-- Posted at: 十一月 15, 2025, 05:46 上午
+- Posted at raw: 十一月 15, 2025, 05:46 上午
+- Posted at iso: 2025-11-15T05:46:00+08:00
 
 ---
 ### **FGO风格从者角色转录协议**

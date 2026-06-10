@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1596.0"
 author: "Justfish"
 created_at_raw: "十月 15, 2025, 02:27 上午"
 created_at_iso: "2025-10-15T02:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:19 +0800"
-fetched_at_iso: "2026-02-26T10:09:19+08:00"
+fetched_at_raw: "2026-06-10 10:45:43 +0800"
+fetched_at_iso: "2026-06-10T10:45:43.047579+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 9894
-approx_tokens: 4947
 ---
 
 # Justfish的角色 - 谁 (Who)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 15, 2025, 02:27 上午
+- Posted at raw: 十月 15, 2025, 02:27 上午
+- Posted at iso: 2025-10-15T02:27:00+08:00
 
 **角色填写人：**Justfish
 ---
@@ -113,8 +113,10 @@ approx_tokens: 4947
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十月 18, 2025, 12:52 下午
+- Posted at raw: 十月 18, 2025, 12:52 下午
+- Posted at iso: 2025-10-18T12:52:00+08:00
 
 #### **【协议4.0："谁"之伪代码执行协议 (The "Who" Pseudocode Execution Protocol)】**
 
@@ -204,8 +206,10 @@ approx_tokens: 4947
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 十一月 10, 2025, 02:38 下午
+- Posted at raw: 十一月 10, 2025, 02:38 下午
+- Posted at iso: 2025-11-10T14:38:00+08:00
 
 旧角色卡**角色名称：**谁 (Who)
 

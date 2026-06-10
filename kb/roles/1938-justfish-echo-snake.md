@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1938.0"
 author: "Justfish"
 created_at_raw: "十月 25, 2025, 10:43 上午"
 created_at_iso: "2025-10-25T10:43:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:43 +0800"
-fetched_at_iso: "2026-02-26T10:11:43+08:00"
+fetched_at_raw: "2026-06-10 10:47:47 +0800"
+fetched_at_iso: "2026-06-10T10:47:47.612884+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3759
-approx_tokens: 1880
 ---
 
 # Justfish的角色 - 回响蛇 (Echo Snake)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 25, 2025, 10:43 上午
+- Posted at raw: 十月 25, 2025, 10:43 上午
+- Posted at iso: 2025-10-25T10:43:00+08:00
 
 **角色填写人：**Justfish
 

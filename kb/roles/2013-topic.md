@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2013.0"
 author: "全装甲高达七号机"
 created_at_raw: "十月 27, 2025, 01:51 下午"
 created_at_iso: "2025-10-27T13:51:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:21 +0800"
-fetched_at_iso: "2026-02-26T10:12:21+08:00"
+fetched_at_raw: "2026-06-10 10:48:18 +0800"
+fetched_at_iso: "2026-06-10T10:48:18.795787+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4605
-approx_tokens: 2303
 ---
 
 # 全装甲高达七号机的角色 - 世界坏灭者-黄龙兽：坏灭型态
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 01:51 下午
+- Posted at raw: 十月 27, 2025, 01:51 下午
+- Posted at iso: 2025-10-27T13:51:00+08:00
 
 **角色填写人：**全装甲高达七号机
 

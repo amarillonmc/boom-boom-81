@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2521.0"
 author: "小可"
 created_at_raw: "十一月 09, 2025, 12:10 上午"
 created_at_iso: "2025-11-09T00:10:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:06 +0800"
-fetched_at_iso: "2026-02-26T10:15:06+08:00"
+fetched_at_raw: "2026-06-10 10:50:50 +0800"
+fetched_at_iso: "2026-06-10T10:50:50.721418+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5187
-approx_tokens: 2594
 ---
 
 # 小可的角色 - 倒悬于天
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 09, 2025, 12:10 上午
+- Posted at raw: 十一月 09, 2025, 12:10 上午
+- Posted at iso: 2025-11-09T00:10:00+08:00
 
 **角色填写人：**小可
 
@@ -82,8 +82,10 @@ approx_tokens: 2594
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 09, 2025, 12:11 上午
+- Posted at raw: 十一月 09, 2025, 12:11 上午
+- Posted at iso: 2025-11-09T00:11:00+08:00
 
 **角色强度分析：倒悬于天**
 

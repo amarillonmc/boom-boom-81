@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=834.0"
 author: "玄羽"
 created_at_raw: "九月 24, 2025, 05:58 下午"
 created_at_iso: "2025-09-24T17:58:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:52 +0800"
-fetched_at_iso: "2026-02-26T10:03:52+08:00"
+fetched_at_raw: "2026-06-10 10:40:49 +0800"
+fetched_at_iso: "2026-06-10T10:40:49.594717+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 9701
-approx_tokens: 4851
 ---
 
 # 玄羽的角色 - 花清漪
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 九月 24, 2025, 05:58 下午
+- Posted at raw: 九月 24, 2025, 05:58 下午
+- Posted at iso: 2025-09-24T17:58:00+08:00
 
 **角色填写人：**玄羽
 
@@ -135,8 +135,10 @@ approx_tokens: 4851
 
 ## 2F
 
+- floor_index: 2
 - Author: 玄羽
-- Posted at: 九月 25, 2025, 02:45 上午
+- Posted at raw: 九月 25, 2025, 02:45 上午
+- Posted at iso: 2025-09-25T02:45:00+08:00
 
 ### **英雄名称：花清漪 - 明月仙子**
 
@@ -287,8 +289,10 @@ approx_tokens: 4851
 
 ## 3F
 
+- floor_index: 3
 - Author: 玄羽
-- Posted at: 九月 25, 2025, 01:59 下午
+- Posted at raw: 九月 25, 2025, 01:59 下午
+- Posted at iso: 2025-09-25T13:59:00+08:00
 
 特工档案：花清漪 | 代号「明月」
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1017.0"
 author: "塔."
 created_at_raw: "九月 28, 2025, 10:34 上午"
 created_at_iso: "2025-09-28T10:34:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:16 +0800"
-fetched_at_iso: "2026-02-26T10:05:16+08:00"
+fetched_at_raw: "2026-06-10 10:42:08 +0800"
+fetched_at_iso: "2026-06-10T10:42:08.650365+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10795
-approx_tokens: 5398
 ---
 
 # 塔的角色 - 锡琳
 
 ## 1F
 
+- floor_index: 1
 - Author: 塔.
-- Posted at: 九月 28, 2025, 10:34 上午
+- Posted at raw: 九月 28, 2025, 10:34 上午
+- Posted at iso: 2025-09-28T10:34:00+08:00
 
 **角色填写人：**塔
 
@@ -94,8 +94,10 @@ approx_tokens: 5398
 
 ## 2F
 
+- floor_index: 2
 - Author: 塔.
-- Posted at: 九月 29, 2025, 12:26 上午
+- Posted at raw: 九月 29, 2025, 12:26 上午
+- Posted at iso: 2025-09-29T00:26:00+08:00
 
 对局记录已参加对局
 https://number81.xyz/index.php?topic=1034.0
@@ -118,8 +120,10 @@ https://number81.xyz/index.php?topic=1556.0［/spoiler］[close]
 
 ## 3F
 
+- floor_index: 3
 - Author: 塔.
-- Posted at: 九月 29, 2025, 12:27 上午
+- Posted at raw: 九月 29, 2025, 12:27 上午
+- Posted at iso: 2025-09-29T00:27:00+08:00
 
 战利品，没有声明就不需要复制**锡琳的战利品名册**
 
@@ -170,8 +174,10 @@ https://number81.xyz/index.php?topic=1556.0［/spoiler］[close]
 
 ## 4F
 
+- floor_index: 4
 - Author: 塔.
-- Posted at: 十月 13, 2025, 08:04 上午
+- Posted at raw: 十月 13, 2025, 08:04 上午
+- Posted at iso: 2025-10-13T08:04:00+08:00
 
 经历**可以不复制这些内容**
 锡琳的冒险经历：

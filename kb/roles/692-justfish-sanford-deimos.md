@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=692.0"
 author: "Justfish"
 created_at_raw: "九月 22, 2025, 12:27 下午"
 created_at_iso: "2025-09-22T12:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:43 +0800"
-fetched_at_iso: "2026-02-26T10:02:43+08:00"
+fetched_at_raw: "2026-06-10 10:39:52 +0800"
+fetched_at_iso: "2026-06-10T10:39:52.034347+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2363
-approx_tokens: 1182
 ---
 
 # Justfish的角色 - Sanford & Deimos
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 22, 2025, 12:27 下午
+- Posted at raw: 九月 22, 2025, 12:27 下午
+- Posted at iso: 2025-09-22T12:27:00+08:00
 
 **角色填写人：**Justfish
 

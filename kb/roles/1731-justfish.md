@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1731.0"
 author: "Justfish"
 created_at_raw: "十月 18, 2025, 08:28 下午"
 created_at_iso: "2025-10-18T20:28:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:23 +0800"
-fetched_at_iso: "2026-02-26T10:10:23+08:00"
+fetched_at_raw: "2026-06-10 10:46:39 +0800"
+fetched_at_iso: "2026-06-10T10:46:39.748649+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4713
-approx_tokens: 2357
 ---
 
 # Justfish的角色 - 万象归零之意志 - 愚者
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 18, 2025, 08:28 下午
+- Posted at raw: 十月 18, 2025, 08:28 下午
+- Posted at iso: 2025-10-18T20:28:00+08:00
 
 **角色填写人：**Justfish
 

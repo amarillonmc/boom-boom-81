@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2802.0"
 author: "Ender_Eragon"
 created_at_raw: "十一月 17, 2025, 11:37 上午"
 created_at_iso: "2025-11-17T11:37:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:54 +0800"
-fetched_at_iso: "2026-02-26T10:16:54+08:00"
+fetched_at_raw: "2026-06-10 10:52:28 +0800"
+fetched_at_iso: "2026-06-10T10:52:28.726390+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5033
-approx_tokens: 2517
 ---
 
 # 终末的角色 - 「万界的通行者」密钥师
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十一月 17, 2025, 11:37 上午
+- Posted at raw: 十一月 17, 2025, 11:37 上午
+- Posted at iso: 2025-11-17T11:37:00+08:00
 
 **角色填写人：**终末
 
@@ -74,8 +74,10 @@ approx_tokens: 2517
 
 ## 2F
 
+- floor_index: 2
 - Author: Ender_Eragon
-- Posted at: 十一月 20, 2025, 08:03 上午
+- Posted at raw: 十一月 20, 2025, 08:03 上午
+- Posted at iso: 2025-11-20T08:03:00+08:00
 
 第一部分：核心身份 (Core Identity)
 

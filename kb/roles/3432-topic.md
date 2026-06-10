@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3432.0"
 author: "紫宵"
 created_at_raw: "三月 01, 2026, 06:18 上午"
 created_at_iso: "2026-03-01T06:18:00+08:00"
-fetched_at_raw: "2026-03-02 23:10:01 +0800"
-fetched_at_iso: "2026-03-02T23:10:01.431907+08:00"
+fetched_at_raw: "2026-06-10 10:54:44 +0800"
+fetched_at_iso: "2026-06-10T10:54:44.092103+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -26,7 +26,7 @@ data_quality: "ok"
 ## 基础信息
 
 * **角色名称**：摩莉尔（Mutare）
-* **原作**：《英雄无敌3：历代记》
+* **原作**：《英雄无敌历代记》
 * **角色背景与世界观**：
 在深邃幽暗的尼贡地底，权力从来不属于弱者，也不属于仁慈者。摩莉尔出身于微末，她曾是一个在黑暗中攀爬、指甲缝里塞满敌人碎骨的普通地下领主。
 **"人性"与执念**：

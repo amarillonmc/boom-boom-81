@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1434.0"
 author: "Ender_Eragon"
 created_at_raw: "十月 10, 2025, 12:56 上午"
 created_at_iso: "2025-10-10T00:56:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:10 +0800"
-fetched_at_iso: "2026-02-26T10:08:10+08:00"
+fetched_at_raw: "2026-06-10 10:44:39 +0800"
+fetched_at_iso: "2026-06-10T10:44:39.803618+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 489
-approx_tokens: 245
 ---
 
 # 终末的角色 - “文职人员”
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十月 10, 2025, 12:56 上午
+- Posted at raw: 十月 10, 2025, 12:56 上午
+- Posted at iso: 2025-10-10T00:56:00+08:00
 
 **角色填写人：**终末
 

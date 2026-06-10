@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2225.0"
 author: "小可"
 created_at_raw: "十一月 01, 2025, 10:04 上午"
 created_at_iso: "2025-11-01T10:04:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:34 +0800"
-fetched_at_iso: "2026-02-26T10:13:34+08:00"
+fetched_at_raw: "2026-06-10 10:49:24 +0800"
+fetched_at_iso: "2026-06-10T10:49:24.051425+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3915
-approx_tokens: 1958
 ---
 
 # 小可的角色 - 概率之神的信徒
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 01, 2025, 10:04 上午
+- Posted at raw: 十一月 01, 2025, 10:04 上午
+- Posted at iso: 2025-11-01T10:04:00+08:00
 
 **角色填写人：**小可
 
@@ -60,8 +60,10 @@ approx_tokens: 1958
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 02:42 下午
+- Posted at raw: 十一月 07, 2025, 02:42 下午
+- Posted at iso: 2025-11-07T14:42:00+08:00
 
 **角色强度分析：概率之神的信徒**
 

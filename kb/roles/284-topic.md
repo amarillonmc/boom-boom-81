@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=284.0"
 author: "增熵星"
 created_at_raw: "九月 14, 2025, 10:31 上午"
 created_at_iso: "2025-09-14T10:31:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:07 +0800"
-fetched_at_iso: "2026-02-26T09:59:07+08:00"
+fetched_at_raw: "2026-06-10 10:36:31 +0800"
+fetched_at_iso: "2026-06-10T10:36:31.020698+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 515
-approx_tokens: 258
 ---
 
 # 增熵星的角色 - 黄雀
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 14, 2025, 10:31 上午
+- Posted at raw: 九月 14, 2025, 10:31 上午
+- Posted at iso: 2025-09-14T10:31:00+08:00
 
 **角色填写人：**增熵星
 

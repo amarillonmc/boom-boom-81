@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1549.0"
 author: "zweizergain"
 created_at_raw: "十月 13, 2025, 12:19 下午"
 created_at_iso: "2025-10-13T12:19:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:55 +0800"
-fetched_at_iso: "2026-02-26T10:19:55+08:00"
+fetched_at_raw: "2026-06-10 11:01:10 +0800"
+fetched_at_iso: "2026-06-10T11:01:10.445097+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10224
-approx_tokens: 5112
 ---
 
 # 《拉莱耶的回响》
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 13, 2025, 12:19 下午
+- Posted at raw: 十月 13, 2025, 12:19 下午
+- Posted at iso: 2025-10-13T12:19:00+08:00
 
 ---
 ### **归档副本：剧本模板：《拉莱耶的回响》**
@@ -146,8 +146,10 @@ approx_tokens: 5112
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 十月 13, 2025, 12:21 下午
+- Posted at raw: 十月 13, 2025, 12:21 下午
+- Posted at iso: 2025-10-13T12:21:00+08:00
 
 指令已确认。我完全理解您的要求。
 
@@ -238,8 +240,10 @@ approx_tokens: 5112
 
 ## 3F
 
+- floor_index: 3
 - Author: zweizergain
-- Posted at: 十一月 08, 2025, 03:20 下午
+- Posted at raw: 十一月 08, 2025, 03:20 下午
+- Posted at iso: 2025-11-08T15:20:00+08:00
 
 你将扮演导演角色，和我共同写一段故事。以下是本次会话的工作流，每一行为一次对话交互。
 在本次输入后，等待我进行第一步操作。

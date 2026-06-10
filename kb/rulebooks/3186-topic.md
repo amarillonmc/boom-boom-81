@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3186.0"
 author: "galekkomari"
 created_at_raw: "十二月 05, 2025, 09:25 上午"
 created_at_iso: "2025-12-05T09:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:21:04 +0800"
-fetched_at_iso: "2026-02-26T10:21:04+08:00"
+fetched_at_raw: "2026-06-10 11:02:18 +0800"
+fetched_at_iso: "2026-06-10T11:02:18.151274+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8762
-approx_tokens: 4381
 ---
 
 # 明日晴高中人气战 议程
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十二月 05, 2025, 09:25 上午
+- Posted at raw: 十二月 05, 2025, 09:25 上午
+- Posted at iso: 2025-12-05T09:25:00+08:00
 
 《数码高中生真人秀》大乱斗议程文件
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1671.0"
 author: "Justfish"
 created_at_raw: "十月 17, 2025, 10:17 上午"
 created_at_iso: "2025-10-17T10:17:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:53 +0800"
-fetched_at_iso: "2026-02-26T10:09:53+08:00"
+fetched_at_raw: "2026-06-10 10:46:14 +0800"
+fetched_at_iso: "2026-06-10T10:46:14.961714+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6543
-approx_tokens: 3272
 ---
 
 # Justfish的角色 - 幽莉丝·萨法姆特 (Yu-lis Safamut)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 17, 2025, 10:17 上午
+- Posted at raw: 十月 17, 2025, 10:17 上午
+- Posted at iso: 2025-10-17T10:17:00+08:00
 
 **角色填写人：**Justfish
 
@@ -88,8 +88,10 @@ approx_tokens: 3272
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十月 26, 2025, 11:42 下午
+- Posted at raw: 十月 26, 2025, 11:42 下午
+- Posted at iso: 2025-10-26T23:42:00+08:00
 
 ---
 

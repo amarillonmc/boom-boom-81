@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=4023.0"
 author: "Justfish"
 created_at_raw: "四月 01, 2026, 10:27 上午"
 created_at_iso: "2026-04-01T10:27:00+08:00"
-fetched_at_raw: "2026-04-03 19:57:24 +0800"
-fetched_at_iso: "2026-04-03T19:57:24.377921+08:00"
+fetched_at_raw: "2026-06-10 10:57:52 +0800"
+fetched_at_iso: "2026-06-10T10:57:52.899401+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

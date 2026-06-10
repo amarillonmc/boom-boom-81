@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=229.0"
 author: "小可"
 created_at_raw: "九月 13, 2025, 08:09 上午"
 created_at_iso: "2025-09-13T08:09:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:37 +0800"
-fetched_at_iso: "2026-02-26T09:58:37+08:00"
+fetched_at_raw: "2026-06-10 10:36:00 +0800"
+fetched_at_iso: "2026-06-10T10:36:00.844214+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4040
-approx_tokens: 2020
 ---
 
 # 小可的角色 - 速渡
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 13, 2025, 08:09 上午
+- Posted at raw: 九月 13, 2025, 08:09 上午
+- Posted at iso: 2025-09-13T08:09:00+08:00
 
 **角色填写人：**小可
 
@@ -45,8 +45,10 @@ approx_tokens: 2020
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 10:26 下午
+- Posted at raw: 十一月 07, 2025, 10:26 下午
+- Posted at iso: 2025-11-07T22:26:00+08:00
 
 **角色强度分析：速渡**
 

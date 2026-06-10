@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2351.0"
 author: "小可"
 created_at_raw: "十一月 05, 2025, 12:02 下午"
 created_at_iso: "2025-11-05T12:02:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:22 +0800"
-fetched_at_iso: "2026-02-26T10:14:22+08:00"
+fetched_at_raw: "2026-06-10 10:50:07 +0800"
+fetched_at_iso: "2026-06-10T10:50:07.350318+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5147
-approx_tokens: 2574
 ---
 
 # 小可的角色 - 伊格尼斯，南方魔龙王（Ignis, the Southern Demon Dragon King）
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 05, 2025, 12:02 下午
+- Posted at raw: 十一月 05, 2025, 12:02 下午
+- Posted at iso: 2025-11-05T12:02:00+08:00
 
 **角色填写人：**小可
 
@@ -73,8 +73,10 @@ approx_tokens: 2574
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 12:54 下午
+- Posted at raw: 十一月 07, 2025, 12:54 下午
+- Posted at iso: 2025-11-07T12:54:00+08:00
 
 **角色强度分析：伊格尼斯，南方魔龙王**
 

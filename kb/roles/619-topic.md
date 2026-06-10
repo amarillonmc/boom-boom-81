@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=619.0"
 author: "普通人的无聊生活"
 created_at_raw: "九月 21, 2025, 06:58 上午"
 created_at_iso: "2025-09-21T06:58:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:11 +0800"
-fetched_at_iso: "2026-02-26T10:02:11+08:00"
+fetched_at_raw: "2026-06-10 10:39:21 +0800"
+fetched_at_iso: "2026-06-10T10:39:21.702435+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4539
-approx_tokens: 2270
 ---
 
 # 普通人的无聊生活的角色 - 杨过
 
 ## 1F
 
+- floor_index: 1
 - Author: 普通人的无聊生活
-- Posted at: 九月 21, 2025, 06:58 上午
+- Posted at raw: 九月 21, 2025, 06:58 上午
+- Posted at iso: 2025-09-21T06:58:00+08:00
 
 **角色填写人：**普通人的无聊生活
 
@@ -50,8 +50,10 @@ approx_tokens: 2270
 
 ## 2F
 
+- floor_index: 2
 - Author: 普通人的无聊生活
-- Posted at: 十一月 16, 2025, 08:01 下午
+- Posted at raw: 十一月 16, 2025, 08:01 下午
+- Posted at iso: 2025-11-16T20:01:00+08:00
 
 FGO风格从者角色转录协议 (FGO-Style Character Transcription Protocol）
 第一部分：核心身份 (Core Identity)

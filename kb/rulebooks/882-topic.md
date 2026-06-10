@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=882.0"
 author: "ALTER"
 created_at_raw: "九月 25, 2025, 01:41 下午"
 created_at_iso: "2025-09-25T13:41:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:34 +0800"
-fetched_at_iso: "2026-02-26T10:19:34+08:00"
+fetched_at_raw: "2026-06-10 11:00:50 +0800"
+fetched_at_iso: "2026-06-10T11:00:50.423192+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2294
-approx_tokens: 1147
 ---
 
 # 大乱斗常规地图：特殊议程 《匹诺康尼》之旅
 
 ## 1F
 
+- floor_index: 1
 - Author: ALTER
-- Posted at: 九月 25, 2025, 01:41 下午
+- Posted at raw: 九月 25, 2025, 01:41 下午
+- Posted at iso: 2025-09-25T13:41:00+08:00
 
 **管理者指令确认**
 

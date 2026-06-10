@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=907.0"
 author: "小可"
 created_at_raw: "九月 26, 2025, 04:41 上午"
 created_at_iso: "2025-09-26T04:41:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:21 +0800"
-fetched_at_iso: "2026-02-26T10:04:21+08:00"
+fetched_at_raw: "2026-06-10 10:41:15 +0800"
+fetched_at_iso: "2026-06-10T10:41:15.649202+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3501
-approx_tokens: 1751
 ---
 
 # 小可的角色 - 渊灵统御者-溟渊座头鲸
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 26, 2025, 04:41 上午
+- Posted at raw: 九月 26, 2025, 04:41 上午
+- Posted at iso: 2025-09-26T04:41:00+08:00
 
 **角色填写人：**小可
 
@@ -45,8 +45,10 @@ approx_tokens: 1751
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 09:12 下午
+- Posted at raw: 十一月 07, 2025, 09:12 下午
+- Posted at iso: 2025-11-07T21:12:00+08:00
 
 **角色强度分析：渊灵统御者-溟渊座头鲸**
 

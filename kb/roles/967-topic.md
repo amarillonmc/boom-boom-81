@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=967.0"
 author: "zweizergain"
 created_at_raw: "九月 27, 2025, 06:25 上午"
 created_at_iso: "2025-09-27T06:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:55 +0800"
-fetched_at_iso: "2026-02-26T10:04:55+08:00"
+fetched_at_raw: "2026-06-10 10:41:47 +0800"
+fetched_at_iso: "2026-06-10T10:41:47.877296+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 22095
-approx_tokens: 11048
 ---
 
 # 机甲少女们
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 九月 27, 2025, 06:25 上午
+- Posted at raw: 九月 27, 2025, 06:25 上午
+- Posted at iso: 2025-09-27T06:25:00+08:00
 
 顶楼没用。
 
@@ -34,8 +34,10 @@ approx_tokens: 11048
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 九月 27, 2025, 06:26 上午
+- Posted at raw: 九月 27, 2025, 06:26 上午
+- Posted at iso: 2025-09-27T06:26:00+08:00
 
 # **【机甲少女运用框架 V8.0 - 最终执行版】**
 
@@ -162,8 +164,10 @@ approx_tokens: 11048
 
 ## 3F
 
+- floor_index: 3
 - Author: zweizergain
-- Posted at: 九月 27, 2025, 06:34 上午
+- Posted at raw: 九月 27, 2025, 06:34 上午
+- Posted at iso: 2025-09-27T06:34:00+08:00
 
 ### **【详尽角色卡：轰雷 (Gourai) - v3.1 最终校对版】**
 
@@ -221,8 +225,10 @@ approx_tokens: 11048
 
 ## 4F
 
+- floor_index: 4
 - Author: zweizergain
-- Posted at: 九月 27, 2025, 06:35 上午
+- Posted at raw: 九月 27, 2025, 06:35 上午
+- Posted at iso: 2025-09-27T06:35:00+08:00
 
 ### **【详尽角色卡：短剑 (Stylet) - v3.1 最终校对版】**
 
@@ -280,8 +286,10 @@ approx_tokens: 11048
 
 ## 5F
 
+- floor_index: 5
 - Author: zweizergain
-- Posted at: 九月 27, 2025, 06:37 上午
+- Posted at raw: 九月 27, 2025, 06:37 上午
+- Posted at iso: 2025-09-27T06:37:00+08:00
 
 ### **【详尽角色卡：闪燕 (Baselard) - v4.1 最终校对版】**
 
@@ -334,8 +342,10 @@ approx_tokens: 11048
 
 ## 6F
 
+- floor_index: 6
 - Author: zweizergain
-- Posted at: 九月 27, 2025, 06:47 上午
+- Posted at raw: 九月 27, 2025, 06:47 上午
+- Posted at iso: 2025-09-27T06:47:00+08:00
 
 ### **【详尽角色卡：大鹫 (Hresvelgr) - v5.0 "决斗者"最终版】**
 
@@ -404,8 +414,10 @@ approx_tokens: 11048
 
 ## 7F
 
+- floor_index: 7
 - Author: zweizergain
-- Posted at: 九月 28, 2025, 01:34 下午
+- Posted at raw: 九月 28, 2025, 01:34 下午
+- Posted at iso: 2025-09-28T13:34:00+08:00
 
 ### **【详尽角色卡：骨姬 (Architect) - v3.0 深度重构版】**
 
@@ -460,8 +472,10 @@ approx_tokens: 11048
 
 ## 8F
 
+- floor_index: 8
 - Author: zweizergain
-- Posted at: 十月 11, 2025, 04:48 下午
+- Posted at raw: 十月 11, 2025, 04:48 下午
+- Posted at iso: 2025-10-11T16:48:00+08:00
 
 全部内容进行了重新格式化，准备下轮测试。
 在一体化规则中，需要一条手动指令：指定强制使用【故事模式】。

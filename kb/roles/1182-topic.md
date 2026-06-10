@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1182.0"
 author: "Ender_Eragon"
 created_at_raw: "十月 02, 2025, 04:33 上午"
 created_at_iso: "2025-10-02T04:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:15 +0800"
-fetched_at_iso: "2026-02-26T10:06:15+08:00"
+fetched_at_raw: "2026-06-10 10:42:57 +0800"
+fetched_at_iso: "2026-06-10T10:42:57.120075+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1724
-approx_tokens: 862
 ---
 
 # 终末的角色 - 无限上之规则
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十月 02, 2025, 04:33 上午
+- Posted at raw: 十月 02, 2025, 04:33 上午
+- Posted at iso: 2025-10-02T04:33:00+08:00
 
 **角色填写人：**终末
 

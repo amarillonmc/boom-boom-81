@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=963.0"
 author: "Justfish"
 created_at_raw: "九月 27, 2025, 05:09 上午"
 created_at_iso: "2025-09-27T05:09:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:53 +0800"
-fetched_at_iso: "2026-02-26T10:04:53+08:00"
+fetched_at_raw: "2026-06-10 10:41:45 +0800"
+fetched_at_iso: "2026-06-10T10:41:45.907853+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2182
-approx_tokens: 1091
 ---
 
 # Justfish的角色 - 燃剑舞神·日冕
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 27, 2025, 05:09 上午
+- Posted at raw: 九月 27, 2025, 05:09 上午
+- Posted at iso: 2025-09-27T05:09:00+08:00
 
 **角色填写人：**Justfish
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1145.0"
 author: "小兵"
 created_at_raw: "十月 01, 2025, 08:49 上午"
 created_at_iso: "2025-10-01T08:49:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:58 +0800"
-fetched_at_iso: "2026-02-26T10:05:58+08:00"
+fetched_at_raw: "2026-06-10 10:42:42 +0800"
+fetched_at_iso: "2026-06-10T10:42:42.860933+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4322
-approx_tokens: 2161
 ---
 
 # 小兵的角色 - 玛娜
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 01, 2025, 08:49 上午
+- Posted at raw: 十月 01, 2025, 08:49 上午
+- Posted at iso: 2025-10-01T08:49:00+08:00
 
 **角色填写人：**小兵
 
@@ -60,8 +60,10 @@ approx_tokens: 2161
 
 ## 2F
 
+- floor_index: 2
 - Author: 小兵
-- Posted at: 十一月 14, 2025, 10:19 下午
+- Posted at raw: 十一月 14, 2025, 10:19 下午
+- Posted at iso: 2025-11-14T22:19:00+08:00
 
 ### **御主档案转录协议 (Chaldea Master Archive Transcription Protocol)**
 

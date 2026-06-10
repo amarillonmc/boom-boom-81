@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=129.0"
 author: "王者的老凤凰"
 created_at_raw: "九月 09, 2025, 08:55 上午"
 created_at_iso: "2025-09-09T08:55:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:46 +0800"
-fetched_at_iso: "2026-02-26T09:57:46+08:00"
+fetched_at_raw: "2026-06-10 10:35:16 +0800"
+fetched_at_iso: "2026-06-10T10:35:16.644928+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 647
-approx_tokens: 324
 ---
 
 # 老凤凰的角色 - 赛利卡·希露菲尔
 
 ## 1F
 
+- floor_index: 1
 - Author: 王者的老凤凰
-- Posted at: 九月 09, 2025, 08:55 上午
+- Posted at raw: 九月 09, 2025, 08:55 上午
+- Posted at iso: 2025-09-09T08:55:00+08:00
 
 基本属性：红发绿衣，拥有了属于古神系谱的女神阿斯特莱雅肉体的《战女神》系列的主人公。被称为"弑神者"而为人们所畏惧，作为时常被盯上并谋取其神之躯的存在，已经在世上踱生数百年。
 

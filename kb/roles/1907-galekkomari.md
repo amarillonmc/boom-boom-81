@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1907.0"
 author: "galekkomari"
 created_at_raw: "十月 24, 2025, 11:39 上午"
 created_at_iso: "2025-10-24T11:39:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:36 +0800"
-fetched_at_iso: "2026-02-26T10:11:36+08:00"
+fetched_at_raw: "2026-06-10 10:47:40 +0800"
+fetched_at_iso: "2026-06-10T10:47:40.450418+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7551
-approx_tokens: 3776
 ---
 
 # galekkomari的角色 - 汐音（参赛角色版）
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十月 24, 2025, 11:39 上午
+- Posted at raw: 十月 24, 2025, 11:39 上午
+- Posted at iso: 2025-10-24T11:39:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -109,8 +109,10 @@ approx_tokens: 3776
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十月 24, 2025, 11:48 上午
+- Posted at raw: 十月 24, 2025, 11:48 上午
+- Posted at iso: 2025-10-24T11:48:00+08:00
 
 附录：
 (接收到角色卡... 开始载入分析模板...) (赵小月低声咕哝：...是GA-04的同位体？林仙凤司令官的备份数据还真是高产... 不过这个火器部的版本，闻起来就一股硝烟味和"不耐烦"的味道。火力即是仁慈？哼，有点意思，让我想想该怎么评价...)

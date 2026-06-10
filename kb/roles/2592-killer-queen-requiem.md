@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2592.0"
 author: "小可"
 created_at_raw: "十一月 11, 2025, 05:06 下午"
 created_at_iso: "2025-11-11T17:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:33 +0800"
-fetched_at_iso: "2026-02-26T10:15:33+08:00"
+fetched_at_raw: "2026-06-10 10:51:15 +0800"
+fetched_at_iso: "2026-06-10T10:51:15.719833+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3983
-approx_tokens: 1992
 ---
 
 # 小可的角色 - 杀手皇后·镇魂曲 (Killer Queen Requiem)
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 11, 2025, 05:06 下午
+- Posted at raw: 十一月 11, 2025, 05:06 下午
+- Posted at iso: 2025-11-11T17:06:00+08:00
 
 **角色填写人：**小可
 
@@ -70,8 +70,10 @@ approx_tokens: 1992
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 13, 2025, 10:57 下午
+- Posted at raw: 十一月 13, 2025, 10:57 下午
+- Posted at iso: 2025-11-13T22:57:00+08:00
 
 **角色强度分析：杀手皇后·镇魂曲**
 

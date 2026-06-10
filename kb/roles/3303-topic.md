@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3303.0"
 author: "tt"
 created_at_raw: "一月 03, 2026, 03:37 上午"
 created_at_iso: "2026-01-03T03:37:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:42 +0800"
-fetched_at_iso: "2026-02-26T10:18:42+08:00"
+fetched_at_raw: "2026-06-10 10:53:55 +0800"
+fetched_at_iso: "2026-06-10T10:53:55.769491+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1970
-approx_tokens: 985
 ---
 
 # 金戎之龙——百戈
 
 ## 1F
 
+- floor_index: 1
 - Author: tt
-- Posted at: 一月 03, 2026, 03:37 上午
+- Posted at raw: 一月 03, 2026, 03:37 上午
+- Posted at iso: 2026-01-03T03:37:00+08:00
 
 (https://alice.dianbo.me/images/2026/01/03/---.md.png) (https://alice.dianbo.me/image/Auq3)
 角色卡：金戎之龙——百戈

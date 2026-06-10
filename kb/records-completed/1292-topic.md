@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1292.0"
 author: "AD钙"
 created_at_raw: "十月 05, 2025, 06:54 上午"
 created_at_iso: "2025-10-05T06:54:00+08:00"
-fetched_at_raw: "2026-02-26 10:22:21 +0800"
-fetched_at_iso: "2026-02-26T10:22:21+08:00"
+fetched_at_raw: "2026-06-10 11:04:01 +0800"
+fetched_at_iso: "2026-06-10T11:04:01.742378+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 167229
-approx_tokens: 83615
 ---
 
 # 超次元厨神大赛: 厨者无敌
 
 ## 1F
 
+- floor_index: 1
 - Author: AD钙
-- Posted at: 十月 05, 2025, 06:54 上午
+- Posted at raw: 十月 05, 2025, 06:54 上午
+- Posted at iso: 2025-10-05T06:54:00+08:00
 
 以下15名(组)角色参与本场游戏:
 1. 界·乔氏猫
@@ -42,8 +42,10 @@ approx_tokens: 83615
 
 ## 2F
 
+- floor_index: 2
 - Author: AD钙
-- Posted at: 十月 05, 2025, 06:56 上午
+- Posted at raw: 十月 05, 2025, 06:56 上午
+- Posted at iso: 2025-10-05T06:56:00+08:00
 
 **第 0 回合 【嵐の予感！次元キッチンに集う星々！！】**
 
@@ -211,8 +213,10 @@ approx_tokens: 83615
 
 ## 3F
 
+- floor_index: 3
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:00 上午
+- Posted at raw: 十月 05, 2025, 07:00 上午
+- Posted at iso: 2025-10-05T07:00:00+08:00
 
 **第 1 回合 【激突！黄金平原のグルメデスマッチ！！】**
 
@@ -550,8 +554,10 @@ approx_tokens: 83615
 
 ## 4F
 
+- floor_index: 4
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:04 上午
+- Posted at raw: 十月 05, 2025, 07:04 上午
+- Posted at iso: 2025-10-05T07:04:00+08:00
 
 **第 2 回合 【激突！汐之濱の蟹王争奪デスマッチ！！】**
 
@@ -815,8 +821,10 @@ approx_tokens: 83615
 
 ## 5F
 
+- floor_index: 5
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:07 上午
+- Posted at raw: 十月 05, 2025, 07:07 上午
+- Posted at iso: 2025-10-05T07:07:00+08:00
 
 **第 3 回合 【共鳴！時を超える料理人の魂！！】**
 
@@ -980,8 +988,10 @@ approx_tokens: 83615
 
 ## 6F
 
+- floor_index: 6
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:11 上午
+- Posted at raw: 十月 05, 2025, 07:11 上午
+- Posted at iso: 2025-10-05T07:11:00+08:00
 
 **第 4 回合 【激突！岩窟の三賢人（トライワイズメン）、真理を賭けた交渉ゲーム！！】**
 
@@ -1158,8 +1168,10 @@ approx_tokens: 83615
 
 ## 7F
 
+- floor_index: 7
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:15 上午
+- Posted at raw: 十月 05, 2025, 07:15 上午
+- Posted at iso: 2025-10-05T07:15:00+08:00
 
 **第 5 回合 【神の裁き！？砕け、龍晶！三つの光は誰が為に！！】**
 
@@ -1397,8 +1409,10 @@ approx_tokens: 83615
 
 ## 8F
 
+- floor_index: 8
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:20 上午
+- Posted at raw: 十月 05, 2025, 07:20 上午
+- Posted at iso: 2025-10-05T07:20:00+08:00
 
 **第 6 回合 【戦慄！孔雀は舞い降り、緑の疾風は牙を剥く！】**
 
@@ -1594,8 +1608,10 @@ approx_tokens: 83615
 
 ## 9F
 
+- floor_index: 9
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:25 上午
+- Posted at raw: 十月 05, 2025, 07:25 上午
+- Posted at iso: 2025-10-05T07:25:00+08:00
 
 **第 7 回合 【勝利の意味！孔雀の羽は散り、希望の双葉は芽生える！！】**
 
@@ -1861,8 +1877,10 @@ approx_tokens: 83615
 
 ## 10F
 
+- floor_index: 10
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:31 上午
+- Posted at raw: 十月 05, 2025, 07:31 上午
+- Posted at iso: 2025-10-05T07:31:00+08:00
 
 **第 8 回合 【激震！氷の海で芽生えた史上初の友情！？】**
 
@@ -2084,8 +2102,10 @@ approx_tokens: 83615
 
 ## 11F
 
+- floor_index: 11
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:37 上午
+- Posted at raw: 十月 05, 2025, 07:37 上午
+- Posted at iso: 2025-10-05T07:37:00+08:00
 
 **第 9 回合【地獄餐桌のデッドヒート！心臓を捧げる覚悟はあるか？！】**
 
@@ -2240,8 +2260,10 @@ approx_tokens: 83615
 
 ## 12F
 
+- floor_index: 12
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:42 上午
+- Posted at raw: 十月 05, 2025, 07:42 上午
+- Posted at iso: 2025-10-05T07:42:00+08:00
 
 **第 10 回合 【決死のキッチン！希望のグリルVS終末のベット！！】**
 
@@ -2401,8 +2423,10 @@ approx_tokens: 83615
 
 ## 13F
 
+- floor_index: 13
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:47 上午
+- Posted at raw: 十月 05, 2025, 07:47 上午
+- Posted at iso: 2025-10-05T07:47:00+08:00
 
 **第 11 回合 【暴走！真理の教鞭VS混沌の魔剣！！】**
 
@@ -2567,8 +2591,10 @@ approx_tokens: 83615
 
 ## 14F
 
+- floor_index: 14
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:52 上午
+- Posted at raw: 十月 05, 2025, 07:52 上午
+- Posted at iso: 2025-10-05T07:52:00+08:00
 
 **第 12 回合 【超乱戦！崩壊教室と再生のキッチン！！】**
 
@@ -2721,8 +2747,10 @@ approx_tokens: 83615
 
 ## 15F
 
+- floor_index: 15
 - Author: AD钙
-- Posted at: 十月 05, 2025, 07:57 上午
+- Posted at raw: 十月 05, 2025, 07:57 上午
+- Posted at iso: 2025-10-05T07:57:00+08:00
 
 **第 13 回合 【崩壊のシンフォニー！愛と勇気とチーズケーキ！！】**
 
@@ -2880,8 +2908,10 @@ approx_tokens: 83615
 
 ## 16F
 
+- floor_index: 16
 - Author: AD钙
-- Posted at: 十月 05, 2025, 08:16 上午
+- Posted at raw: 十月 05, 2025, 08:16 上午
+- Posted at iso: 2025-10-05T08:16:00+08:00
 
 **第 14 回合 【新世界狂想曲！砕けた絆と再生のレシピ！！】**
 
@@ -3044,8 +3074,10 @@ approx_tokens: 83615
 
 ## 17F
 
+- floor_index: 17
 - Author: AD钙
-- Posted at: 十月 05, 2025, 08:27 上午
+- Posted at raw: 十月 05, 2025, 08:27 上午
+- Posted at iso: 2025-10-05T08:27:00+08:00
 
 **第 15 回合 【終焉の号砲！争奪！次元風味メルトダウン！！】**
 
@@ -3202,8 +3234,10 @@ approx_tokens: 83615
 
 ## 18F
 
+- floor_index: 18
 - Author: AD钙
-- Posted at: 十月 05, 2025, 08:36 上午
+- Posted at raw: 十月 05, 2025, 08:36 上午
+- Posted at iso: 2025-10-05T08:36:00+08:00
 
 **第 16 回合 【響け終曲！最後の晩餐へ集いし者たち！！】**
 
@@ -3333,8 +3367,10 @@ approx_tokens: 83615
 
 ## 19F
 
+- floor_index: 19
 - Author: AD钙
-- Posted at: 十月 05, 2025, 08:42 上午
+- Posted at raw: 十月 05, 2025, 08:42 上午
+- Posted at iso: 2025-10-05T08:42:00+08:00
 
 **第 17 回合 【熱戦！地獄のスパイスVS魂のガムテープ！！】**
 
@@ -3520,8 +3556,10 @@ approx_tokens: 83615
 
 ## 20F
 
+- floor_index: 20
 - Author: AD钙
-- Posted at: 十月 05, 2025, 08:50 上午
+- Posted at raw: 十月 05, 2025, 08:50 上午
+- Posted at iso: 2025-10-05T08:50:00+08:00
 
 **第 18 回合 【頂上決戦！極め道は四つ、裁きは仏陀の舌一本！】**
 
@@ -3717,8 +3755,10 @@ approx_tokens: 83615
 
 ## 21F
 
+- floor_index: 21
 - Author: AD钙
-- Posted at: 十月 05, 2025, 08:58 上午
+- Posted at raw: 十月 05, 2025, 08:58 上午
+- Posted at iso: 2025-10-05T08:58:00+08:00
 
 **第 19 回合【终焉の食戟！集え、厨房のラストオーダー！！】**
 
@@ -3835,8 +3875,10 @@ approx_tokens: 83615
 
 ## 22F
 
+- floor_index: 22
 - Author: AD钙
-- Posted at: 十月 05, 2025, 09:08 上午
+- Posted at raw: 十月 05, 2025, 09:08 上午
+- Posted at iso: 2025-10-05T09:08:00+08:00
 
 **最终评审【神々の饗宴！味の万華鏡が今、開かれる！！】**
 
@@ -4023,8 +4065,10 @@ approx_tokens: 83615
 
 ## 23F
 
+- floor_index: 23
 - Author: AD钙
-- Posted at: 十月 05, 2025, 09:15 上午
+- Posted at raw: 十月 05, 2025, 09:15 上午
+- Posted at iso: 2025-10-05T09:15:00+08:00
 
 **最终评审【食の终着駅！宴はクライマックスへ！！】**
 
@@ -4190,8 +4234,10 @@ approx_tokens: 83615
 
 ## 24F
 
+- floor_index: 24
 - Author: AD钙
-- Posted at: 十月 05, 2025, 09:26 上午
+- Posted at raw: 十月 05, 2025, 09:26 上午
+- Posted at iso: 2025-10-05T09:26:00+08:00
 
 **最终评审【终宴の四重奏！神、涙、子供、そして...】**
 
@@ -4352,8 +4398,10 @@ approx_tokens: 83615
 
 ## 25F
 
+- floor_index: 25
 - Author: AD钙
-- Posted at: 十月 05, 2025, 09:35 上午
+- Posted at raw: 十月 05, 2025, 09:35 上午
+- Posted at iso: 2025-10-05T09:35:00+08:00
 
 **第 20 回合 【最終楽章！『無』は全てを食らい尽くすか！？】**
 
@@ -4527,8 +4575,10 @@ s[/s]
 
 ## 26F
 
+- floor_index: 26
 - Author: AD钙
-- Posted at: 十月 05, 2025, 09:44 上午
+- Posted at raw: 十月 05, 2025, 09:44 上午
+- Posted at iso: 2025-10-05T09:44:00+08:00
 
 万象厨房的时间，在那宣布比赛结束的钟声之后，仿佛已经失去了意义。没有欢呼，没有失落，所有人都静静地站在原地，沉浸在**狄余思**那曲囊括了万象的**【至高交响乐章】**的余韵之中。每一道菜的风味，每一个人的故事，都化作了灵魂中永不磨灭的烙印。
 
@@ -4687,8 +4737,10 @@ s[/s]
 
 ## 27F
 
+- floor_index: 27
 - Author: AD钙
-- Posted at: 十月 05, 2025, 09:51 上午
+- Posted at raw: 十月 05, 2025, 09:51 上午
+- Posted at iso: 2025-10-05T09:51:00+08:00
 
 当**【始源之种】**最后的黑色光晕彻底消散在空气中，当**【至高交响乐章】**的最后一个音符沉入每个人的灵魂深处，**【万象厨房】**那扇连接着无尽黑暗的大门，在发出一声疲惫的叹息后，缓缓关闭。
 
@@ -4802,8 +4854,10 @@ s[/s]
 
 ## 28F
 
+- floor_index: 28
 - Author: AD钙
-- Posted at: 十月 05, 2025, 10:02 上午
+- Posted at raw: 十月 05, 2025, 10:02 上午
+- Posted at iso: 2025-10-05T10:02:00+08:00
 
 随着**拉帝奥**踏入时空通道，扛在他肩头的**乔氏猫**，那双黄色的眸子闪闪发亮。她的脑海里，也在接收着一份只属于她的"探险报告"。
 
@@ -4831,15 +4885,19 @@ s[/s]
 
 ## 29F
 
+- floor_index: 29
 - Author: 增熵星
-- Posted at: 十月 05, 2025, 10:07 上午
+- Posted at raw: 十月 05, 2025, 10:07 上午
+- Posted at iso: 2025-10-05T10:07:00+08:00
 
 请说明克劳的法术的"共鸣"来源，并用dnd风格的语言描述其效果
 
 ## 30F
 
+- floor_index: 30
 - Author: AD钙
-- Posted at: 十月 05, 2025, 11:22 上午
+- Posted at raw: 十月 05, 2025, 11:22 上午
+- Posted at iso: 2025-10-05T11:22:00+08:00
 
 > [引用自: 增熵星 于 十月 05, 2025, 10:07 上午](https://number81.xyz/index.php?msg=9682)请说明克劳的法术的"共鸣"来源，并用dnd风格的语言描述其效果
 

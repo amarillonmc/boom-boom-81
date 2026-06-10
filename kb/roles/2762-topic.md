@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2762.0"
 author: "Ender_Eragon"
 created_at_raw: "十一月 16, 2025, 11:01 上午"
 created_at_iso: "2025-11-16T11:01:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:46 +0800"
-fetched_at_iso: "2026-02-26T10:16:46+08:00"
+fetched_at_raw: "2026-06-10 10:52:21 +0800"
+fetched_at_iso: "2026-06-10T10:52:21.365363+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7765
-approx_tokens: 3883
 ---
 
 # 终末的角色 - 神话调查员“安德拉·达克”
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十一月 16, 2025, 11:01 上午
+- Posted at raw: 十一月 16, 2025, 11:01 上午
+- Posted at iso: 2025-11-16T11:01:00+08:00
 
 **角色填写人：**终末
 
@@ -70,8 +70,10 @@ HP30 LP30
 
 ## 2F
 
+- floor_index: 2
 - Author: Ender_Eragon
-- Posted at: 十一月 17, 2025, 08:47 上午
+- Posted at raw: 十一月 17, 2025, 08:47 上午
+- Posted at iso: 2025-11-17T08:47:00+08:00
 
 归档：Archer第一部分：核心身份 (Core Identity)
 

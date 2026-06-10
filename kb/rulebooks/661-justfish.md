@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=661.0"
 author: "Justfish"
 created_at_raw: "九月 22, 2025, 07:14 上午"
 created_at_iso: "2025-09-22T07:14:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:20 +0800"
-fetched_at_iso: "2026-02-26T10:19:20+08:00"
+fetched_at_raw: "2026-06-10 11:00:37 +0800"
+fetched_at_iso: "2026-06-10T11:00:37.073308+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 41037
-approx_tokens: 20519
 ---
 
 # Justfish自用整合规则
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 22, 2025, 07:14 上午
+- Posted at raw: 九月 22, 2025, 07:14 上午
+- Posted at iso: 2025-09-22T07:14:00+08:00
 
 旧规则书，已折叠大乱斗基础规则书
 
@@ -315,8 +315,10 @@ Tgo-D000（老板）这次举办的活动是由不同维度的各种"强者"和"
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 22, 2025, 07:17 上午
+- Posted at raw: 九月 22, 2025, 07:17 上午
+- Posted at iso: 2025-09-22T07:17:00+08:00
 
 该规则书包含了 增熵版规则书 galekkomari流补充规则（部分魔改） Ombre流补充规则（部分魔改）
 并添加了额外的GM用于保证过程运行。
@@ -324,8 +326,10 @@ Tgo-D000（老板）这次举办的活动是由不同维度的各种"强者"和"
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 九月 24, 2025, 05:02 上午
+- Posted at raw: 九月 24, 2025, 05:02 上午
+- Posted at iso: 2025-09-24T05:02:00+08:00
 
 更新日志20250924
 添加了BBCODE内容
@@ -341,8 +345,10 @@ Tgo-D000（老板）这次举办的活动是由不同维度的各种"强者"和"
 
 ## 4F
 
+- floor_index: 4
 - Author: Justfish
-- Posted at: 十月 26, 2025, 10:34 上午
+- Posted at raw: 十月 26, 2025, 10:34 上午
+- Posted at iso: 2025-10-26T10:34:00+08:00
 
 更新日志20251026
 添加了叙事可视化界面协议
@@ -353,8 +359,10 @@ Tgo-D000（老板）这次举办的活动是由不同维度的各种"强者"和"
 
 ## 5F
 
+- floor_index: 5
 - Author: Justfish
-- Posted at: 二月 25, 2026, 07:03 上午
+- Posted at raw: 二月 25, 2026, 07:03 上午
+- Posted at iso: 2026-02-25T07:03:00+08:00
 
 ---
 
@@ -627,8 +635,10 @@ Tgo-D000（老板）这次举办的活动是由不同维度的各种"强者"和"
 
 ## 6F
 
+- floor_index: 6
 - Author: Justfish
-- Posted at: 二月 25, 2026, 07:04 上午
+- Posted at raw: 二月 25, 2026, 07:04 上午
+- Posted at iso: 2026-02-25T07:04:00+08:00
 
 ### **三、角色导入与核心裁定模块**
 

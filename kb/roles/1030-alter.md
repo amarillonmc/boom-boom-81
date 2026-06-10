@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1030.0"
 author: "ALTER"
 created_at_raw: "九月 28, 2025, 03:05 下午"
 created_at_iso: "2025-09-28T15:05:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:21 +0800"
-fetched_at_iso: "2026-02-26T10:05:21+08:00"
+fetched_at_raw: "2026-06-10 10:42:12 +0800"
+fetched_at_iso: "2026-06-10T10:42:12.159153+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3193
-approx_tokens: 1597
 ---
 
 # ALTER的角色 - 沙滩派对·塔伊兹育罗斯
 
 ## 1F
 
+- floor_index: 1
 - Author: ALTER
-- Posted at: 九月 28, 2025, 03:05 下午
+- Posted at raw: 九月 28, 2025, 03:05 下午
+- Posted at iso: 2025-09-28T15:05:00+08:00
 
 角色填写人：ALTER
 基础信息：

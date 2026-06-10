@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2515.0"
 author: "小可"
 created_at_raw: "十一月 08, 2025, 11:17 下午"
 created_at_iso: "2025-11-08T23:17:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:01 +0800"
-fetched_at_iso: "2026-02-26T10:15:01+08:00"
+fetched_at_raw: "2026-06-10 10:50:45 +0800"
+fetched_at_iso: "2026-06-10T10:50:45.593380+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4245
-approx_tokens: 2123
 ---
 
 # 小可的角色 - 近身战高手
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 08, 2025, 11:17 下午
+- Posted at raw: 十一月 08, 2025, 11:17 下午
+- Posted at iso: 2025-11-08T23:17:00+08:00
 
 **角色填写人：**小可
 
@@ -81,8 +81,10 @@ approx_tokens: 2123
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 08, 2025, 11:19 下午
+- Posted at raw: 十一月 08, 2025, 11:19 下午
+- Posted at iso: 2025-11-08T23:19:00+08:00
 
 **角色强度分析：近身战高手**
 
@@ -133,7 +135,9 @@ approx_tokens: 2123
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十一月 09, 2025, 07:01 上午
+- Posted at raw: 十一月 09, 2025, 07:01 上午
+- Posted at iso: 2025-11-09T07:01:00+08:00
 
 (https://alice.dianbo.me/images/2025/11/09/E033FB56DC779E7FAE7B0C881B13621A.md.jpg) (https://alice.dianbo.me/image/wemX)

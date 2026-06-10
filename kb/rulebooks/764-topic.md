@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=764.0"
 author: "梦梦"
 created_at_raw: "九月 23, 2025, 12:03 下午"
 created_at_iso: "2025-09-23T12:03:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:24 +0800"
-fetched_at_iso: "2026-02-26T10:19:24+08:00"
+fetched_at_raw: "2026-06-10 11:00:41 +0800"
+fetched_at_iso: "2026-06-10T11:00:41.367764+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2293
-approx_tokens: 1147
 ---
 
 # 特殊规则：终幕回响
 
 ## 1F
 
+- floor_index: 1
 - Author: 梦梦
-- Posted at: 九月 23, 2025, 12:03 下午
+- Posted at raw: 九月 23, 2025, 12:03 下午
+- Posted at iso: 2025-09-23T12:03:00+08:00
 
 追加规则：
 **退场者独白机制**

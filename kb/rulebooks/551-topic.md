@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=551.0"
 author: "Jerry"
 created_at_raw: "九月 20, 2025, 03:02 上午"
 created_at_iso: "2025-09-20T03:02:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:13 +0800"
-fetched_at_iso: "2026-02-26T10:19:13+08:00"
+fetched_at_raw: "2026-06-10 11:00:31 +0800"
+fetched_at_iso: "2026-06-10T11:00:31.114315+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 12509
-approx_tokens: 6255
 ---
 
 # 补充规则-夺旗模式
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 20, 2025, 03:02 上午
+- Posted at raw: 九月 20, 2025, 03:02 上午
+- Posted at iso: 2025-09-20T03:02:00+08:00
 
 ### **【补充规则-夺旗模式】**
 
@@ -239,8 +239,10 @@ approx_tokens: 6255
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 九月 21, 2025, 05:02 上午
+- Posted at raw: 九月 21, 2025, 05:02 上午
+- Posted at iso: 2025-09-21T05:02:00+08:00
 
 ### **【补充规则-夺旗模式】之 特殊仲裁原则：高光保障与反工具人条款**
 
@@ -274,8 +276,10 @@ approx_tokens: 6255
 
 ## 3F
 
+- floor_index: 3
 - Author: Jerry
-- Posted at: 九月 21, 2025, 06:06 上午
+- Posted at raw: 九月 21, 2025, 06:06 上午
+- Posted at iso: 2025-09-21T06:06:00+08:00
 
 遵命。
 

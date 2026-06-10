@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=648.0"
 author: "增熵星"
 created_at_raw: "九月 22, 2025, 03:50 上午"
 created_at_iso: "2025-09-22T03:50:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:18 +0800"
-fetched_at_iso: "2026-02-26T10:19:18+08:00"
+fetched_at_raw: "2026-06-10 11:00:35 +0800"
+fetched_at_iso: "2026-06-10T11:00:35.754127+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4308
-approx_tokens: 2154
 ---
 
 # 追加规则:bbcode风格的输出
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 22, 2025, 03:50 上午
+- Posted at raw: 九月 22, 2025, 03:50 上午
+- Posted at iso: 2025-09-22T03:50:00+08:00
 
 （本部分内容供用户阅读，提交给ai的规则建议复制下方评论区 (https://number81.xyz/index.php?topic=648.msg4990#msg4990)的内容）
 本追加规则适用于需要将对局结果发送到论坛上的对局，以优化显示效果。
@@ -127,8 +127,10 @@ echo "Hello, World!";
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 九月 23, 2025, 04:31 下午
+- Posted at raw: 九月 23, 2025, 04:31 下午
+- Posted at iso: 2025-09-23T16:31:00+08:00
 
 你还可以使用以下四种信息框，来显示对应用途的信息。
 
@@ -150,8 +152,10 @@ echo "Hello, World!";
 
 ## 3F
 
+- floor_index: 3
 - Author: 增熵星
-- Posted at: 九月 25, 2025, 07:07 上午
+- Posted at raw: 九月 25, 2025, 07:07 上午
+- Posted at iso: 2025-09-25T07:07:00+08:00
 
 无示例精简版：
 当需要使用加粗，斜体，下划线，有颜色的字体等，来增强表现力时，请参考以下的bbcode标签使用方法

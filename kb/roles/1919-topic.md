@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1919.0"
 author: "烛火"
 created_at_raw: "十月 24, 2025, 07:50 下午"
 created_at_iso: "2025-10-24T19:50:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:41 +0800"
-fetched_at_iso: "2026-02-26T10:11:41+08:00"
+fetched_at_raw: "2026-06-10 10:47:45 +0800"
+fetched_at_iso: "2026-06-10T10:47:45.117324+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10126
-approx_tokens: 5063
 ---
 
 # 烛火的角色 - 右代宫缘寿& 古户绘梨香
 
 ## 1F
 
+- floor_index: 1
 - Author: 烛火
-- Posted at: 十月 24, 2025, 07:50 下午
+- Posted at raw: 十月 24, 2025, 07:50 下午
+- Posted at iso: 2025-10-24T19:50:00+08:00
 
 **角色填写人：**烛火
 

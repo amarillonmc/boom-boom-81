@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=122.0"
 author: "紫宵"
 created_at_raw: "九月 09, 2025, 06:37 上午"
 created_at_iso: "2025-09-09T06:37:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:45 +0800"
-fetched_at_iso: "2026-02-26T09:57:45+08:00"
+fetched_at_raw: "2026-06-10 10:35:15 +0800"
+fetched_at_iso: "2026-06-10T10:35:15.817032+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6831
-approx_tokens: 3416
 ---
 
 # 紫宵的角色 - “传达者”
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 九月 09, 2025, 06:37 上午
+- Posted at raw: 九月 09, 2025, 06:37 上午
+- Posted at iso: 2025-09-09T06:37:00+08:00
 
 **角色填写人：**紫宵
 
@@ -48,8 +48,10 @@ approx_tokens: 3416
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 九月 15, 2025, 12:33 下午
+- Posted at raw: 九月 15, 2025, 12:33 下午
+- Posted at iso: 2025-09-15T12:33:00+08:00
 
 让AI1:1仿写了一篇，实际狗屁不通。用来测试AI能不能读狗屁不通的设定。
 

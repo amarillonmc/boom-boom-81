@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1055.0"
 author: "Ombre"
 created_at_raw: "九月 29, 2025, 06:52 上午"
 created_at_iso: "2025-09-29T06:52:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:29 +0800"
-fetched_at_iso: "2026-02-26T10:05:29+08:00"
+fetched_at_raw: "2026-06-10 10:42:18 +0800"
+fetched_at_iso: "2026-06-10T10:42:18.745633+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 31713
-approx_tokens: 15857
 ---
 
 # Ombre的角色 - “你小姐”
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 29, 2025, 06:52 上午
+- Posted at raw: 九月 29, 2025, 06:52 上午
+- Posted at iso: 2025-09-29T06:52:00+08:00
 
 ### 《"你小姐"宵AI演绎手册》
 **请根据情境选择正确演绎方式。**
@@ -151,8 +151,10 @@ approx_tokens: 15857
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 07, 2025, 06:34 上午
+- Posted at raw: 十一月 07, 2025, 06:34 上午
+- Posted at iso: 2025-11-07T06:34:00+08:00
 
 旧人物卡**角色填写人：**Ombre
 
@@ -232,8 +234,10 @@ approx_tokens: 15857
 
 ## 3F
 
+- floor_index: 3
 - Author: Ombre
-- Posted at: 十一月 18, 2025, 09:22 上午
+- Posted at raw: 十一月 18, 2025, 09:22 上午
+- Posted at iso: 2025-11-18T09:22:00+08:00
 
 旧人物卡v2> [引用自: Ombre 于 九月 29, 2025, 06:52 上午](https://number81.xyz/index.php?msg=7049)### **角色档案：你小姐 (Ms. You)**
 >
@@ -638,10 +642,12 @@ approx_tokens: 15857
 
 ## 4F
 
+- floor_index: 4
 - Author: Ombre
-- Posted at: 十一月 22, 2025, 06:44 上午
+- Posted at raw: 十一月 22, 2025, 06:44 上午
+- Posted at iso: 2025-11-22T06:44:00+08:00
 
-Spoiler### **角色档案：宵**
+折叠内容### **角色档案：宵**
 
 ### **角色核心演绎纲要：你小姐 (晓)**
 

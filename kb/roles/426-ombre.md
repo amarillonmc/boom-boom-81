@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=426.0"
 author: "Ombre"
 created_at_raw: "九月 18, 2025, 02:41 上午"
 created_at_iso: "2025-09-18T02:41:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:33 +0800"
-fetched_at_iso: "2026-02-26T10:00:33+08:00"
+fetched_at_raw: "2026-06-10 10:37:52 +0800"
+fetched_at_iso: "2026-06-10T10:37:52.774473+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3322
-approx_tokens: 1661
 ---
 
 # Ombre的角色 - 瓦古·赤
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 18, 2025, 02:41 上午
+- Posted at raw: 九月 18, 2025, 02:41 上午
+- Posted at iso: 2025-09-18T02:41:00+08:00
 
 **角色填写人：**Ombre
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=178.0"
 author: "Ender_Eragon"
 created_at_raw: "九月 11, 2025, 07:28 上午"
 created_at_iso: "2025-09-11T07:28:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:11 +0800"
-fetched_at_iso: "2026-02-26T09:58:11+08:00"
+fetched_at_raw: "2026-06-10 10:35:40 +0800"
+fetched_at_iso: "2026-06-10T10:35:40.077384+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3223
-approx_tokens: 1612
 ---
 
 # 终末的角色 - "毁灭骑士"和"伪【魔法少女人格】"（安德拉吉尔尼斯和宠爱之粉）
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 九月 11, 2025, 07:28 上午
+- Posted at raw: 九月 11, 2025, 07:28 上午
+- Posted at iso: 2025-09-11T07:28:00+08:00
 
 **角色填写人：**终末
 

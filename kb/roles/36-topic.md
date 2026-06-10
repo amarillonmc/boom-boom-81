@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=36.0"
 author: "Ender_Eragon"
 created_at_raw: "九月 08, 2025, 10:24 上午"
 created_at_iso: "2025-09-08T10:24:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:43 +0800"
-fetched_at_iso: "2026-02-26T09:56:43+08:00"
+fetched_at_raw: "2026-06-10 10:34:15 +0800"
+fetched_at_iso: "2026-06-10T10:34:15.788742+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 548
-approx_tokens: 274
 ---
 
 # 终末的角色 - 魔法少女人格聚合体
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 九月 08, 2025, 10:24 上午
+- Posted at raw: 九月 08, 2025, 10:24 上午
+- Posted at iso: 2025-09-08T10:24:00+08:00
 
 **角色填写人：**终末
 

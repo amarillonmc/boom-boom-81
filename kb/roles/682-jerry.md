@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=682.0"
 author: "Jerry"
 created_at_raw: "九月 22, 2025, 12:09 下午"
 created_at_iso: "2025-09-22T12:09:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:34 +0800"
-fetched_at_iso: "2026-02-26T10:02:34+08:00"
+fetched_at_raw: "2026-06-10 10:39:43 +0800"
+fetched_at_iso: "2026-06-10T10:39:43.511406+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8180
-approx_tokens: 4090
 ---
 
 # Jerry的角色 - 旺达·马克西莫夫
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 22, 2025, 12:09 下午
+- Posted at raw: 九月 22, 2025, 12:09 下午
+- Posted at iso: 2025-09-22T12:09:00+08:00
 
 **角色填写人：**Jerry
 
@@ -92,8 +92,10 @@ approx_tokens: 4090
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 十一月 15, 2025, 08:18 上午
+- Posted at raw: 十一月 15, 2025, 08:18 上午
+- Posted at iso: 2025-11-15T08:18:00+08:00
 
 ### **第一部分：核心身份 (Core Identity)**
 

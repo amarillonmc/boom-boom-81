@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=54.0"
 author: "Ombre"
 created_at_raw: "九月 08, 2025, 11:12 上午"
 created_at_iso: "2025-09-08T11:12:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:57 +0800"
-fetched_at_iso: "2026-02-26T09:56:57+08:00"
+fetched_at_raw: "2026-06-10 10:34:28 +0800"
+fetched_at_iso: "2026-06-10T10:34:28.816085+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1132
-approx_tokens: 566
 ---
 
 # Ombre的角色-来栖晓（Joker）
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 08, 2025, 11:12 上午
+- Posted at raw: 九月 08, 2025, 11:12 上午
+- Posted at iso: 2025-09-08T11:12:00+08:00
 
 来栖晓 (Joker) - 角色设定摘要
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=395.0"
 author: "Ender_Eragon"
 created_at_raw: "九月 17, 2025, 10:08 上午"
 created_at_iso: "2025-09-17T10:08:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:14 +0800"
-fetched_at_iso: "2026-02-26T10:00:14+08:00"
+fetched_at_raw: "2026-06-10 10:37:35 +0800"
+fetched_at_iso: "2026-06-10T10:37:35.053300+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1295
-approx_tokens: 648
 ---
 
 # 终末的角色 - 魔法少女们的女神殿堂
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 九月 17, 2025, 10:08 上午
+- Posted at raw: 九月 17, 2025, 10:08 上午
+- Posted at iso: 2025-09-17T10:08:00+08:00
 
 **角色填写人：**终末
 

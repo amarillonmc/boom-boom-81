@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=877.0"
 author: "ALTER"
 created_at_raw: "九月 25, 2025, 11:09 上午"
 created_at_iso: "2025-09-25T11:09:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:08 +0800"
-fetched_at_iso: "2026-02-26T10:04:08+08:00"
+fetched_at_raw: "2026-06-10 10:41:04 +0800"
+fetched_at_iso: "2026-06-10T10:41:04.362188+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6538
-approx_tokens: 3269
 ---
 
 # ALTER的角色 - 艾格勒
 
 ## 1F
 
+- floor_index: 1
 - Author: ALTER
-- Posted at: 九月 25, 2025, 11:09 上午
+- Posted at raw: 九月 25, 2025, 11:09 上午
+- Posted at iso: 2025-09-25T11:09:00+08:00
 
 角色填写人：ALTER
 基础信息

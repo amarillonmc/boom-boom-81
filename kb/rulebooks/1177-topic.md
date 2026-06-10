@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1177.0"
 author: "Ombre"
 created_at_raw: "十月 02, 2025, 02:52 上午"
 created_at_iso: "2025-10-02T02:52:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:42 +0800"
-fetched_at_iso: "2026-02-26T10:19:42+08:00"
+fetched_at_raw: "2026-06-10 11:00:57 +0800"
+fetched_at_iso: "2026-06-10T11:00:57.807858+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3130
-approx_tokens: 1565
 ---
 
 # 临时规则-能力载具化
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 02, 2025, 02:52 上午
+- Posted at raw: 十月 02, 2025, 02:52 上午
+- Posted at iso: 2025-10-02T02:52:00+08:00
 
 我们将引入一个核心概念："共感神经座舱" (Sympathetic Neural Cockpit - SNC)。
 

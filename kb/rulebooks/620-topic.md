@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=620.0"
 author: "增熵星"
 created_at_raw: "九月 21, 2025, 09:34 上午"
 created_at_iso: "2025-09-21T09:34:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:17 +0800"
-fetched_at_iso: "2026-02-26T10:19:17+08:00"
+fetched_at_raw: "2026-06-10 11:00:34 +0800"
+fetched_at_iso: "2026-06-10T11:00:34.937943+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5897
-approx_tokens: 2949
 ---
 
 # 大乱斗规则（新）
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 21, 2025, 09:34 上午
+- Posted at raw: 九月 21, 2025, 09:34 上午
+- Posted at iso: 2025-09-21T09:34:00+08:00
 
 本游戏是一个依靠玩家投稿角色来进行对抗的文字游戏，你将负责处理角色间的冲突，创造精彩、公平、富有戏剧性且令人难忘的对决体验。在游戏过程中，你是管理者，世界构建者，导演，裁判，也是讲述者。
 
@@ -85,8 +85,10 @@ approx_tokens: 2949
 
 ## 2F
 
+- floor_index: 2
 - Author: 增熵星
-- Posted at: 九月 21, 2025, 09:40 上午
+- Posted at raw: 九月 21, 2025, 09:40 上午
+- Posted at iso: 2025-09-21T09:40:00+08:00
 
 本次主要修改内容：
 -移除了区分角色背景-角色能力-角色行为逻辑的内容
@@ -100,8 +102,10 @@ ai应该能自己写出来
 
 ## 3F
 
+- floor_index: 3
 - Author: 紫宵
-- Posted at: 九月 21, 2025, 01:40 下午
+- Posted at raw: 九月 21, 2025, 01:40 下午
+- Posted at iso: 2025-09-21T13:40:00+08:00
 
 > [引用自: 增熵星 于 九月 21, 2025, 09:40 上午](https://number81.xyz/index.php?msg=2514)本次主要修改内容：
 > -移除了区分角色背景-角色能力-角色行为逻辑的内容
@@ -117,8 +121,10 @@ ai应该能自己写出来
 
 ## 4F
 
+- floor_index: 4
 - Author: zweizergain
-- Posted at: 九月 21, 2025, 01:47 下午
+- Posted at raw: 九月 21, 2025, 01:47 下午
+- Posted at iso: 2025-09-21T13:47:00+08:00
 
 > [引用自: 紫宵 于 九月 21, 2025, 01:40 下午](https://number81.xyz/index.php?msg=2637)> [引用自: 增熵星 于 九月 21, 2025, 09:40 上午](https://number81.xyz/index.php?msg=2514)本次主要修改内容：
 > > -移除了区分角色背景-角色能力-角色行为逻辑的内容

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1779.0"
 author: "黑森谨"
 created_at_raw: "十月 20, 2025, 03:12 上午"
 created_at_iso: "2025-10-20T03:12:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:47 +0800"
-fetched_at_iso: "2026-02-26T10:10:47+08:00"
+fetched_at_raw: "2026-06-10 10:46:57 +0800"
+fetched_at_iso: "2026-06-10T10:46:57.280186+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3292
-approx_tokens: 1646
 ---
 
 # 司掌仪式者 献祭之格拉斯
 
 ## 1F
 
+- floor_index: 1
 - Author: 黑森谨
-- Posted at: 十月 20, 2025, 03:12 上午
+- Posted at raw: 十月 20, 2025, 03:12 上午
+- Posted at iso: 2025-10-20T03:12:00+08:00
 
 **角色填写人：**黑森谨
 

@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3491.0"
 author: "zweizergain"
 created_at_raw: "三月 03, 2026, 01:51 下午"
 created_at_iso: "2026-03-03T13:51:00+08:00"
-fetched_at_raw: "2026-03-04 12:56:08 +0800"
-fetched_at_iso: "2026-03-04T12:56:08.434011+08:00"
+fetched_at_raw: "2026-06-10 10:55:07 +0800"
+fetched_at_iso: "2026-06-10T10:55:07.984817+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

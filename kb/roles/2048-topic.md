@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2048.0"
 author: "王者的老凤凰"
 created_at_raw: "十月 28, 2025, 09:09 上午"
 created_at_iso: "2025-10-28T09:09:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:34 +0800"
-fetched_at_iso: "2026-02-26T10:12:34+08:00"
+fetched_at_raw: "2026-06-10 10:48:30 +0800"
+fetched_at_iso: "2026-06-10T10:48:30.461107+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2981
-approx_tokens: 1491
 ---
 
 # 老凤凰的角色 - 堕落母神
 
 ## 1F
 
+- floor_index: 1
 - Author: 王者的老凤凰
-- Posted at: 十月 28, 2025, 09:09 上午
+- Posted at raw: 十月 28, 2025, 09:09 上午
+- Posted at iso: 2025-10-28T09:09:00+08:00
 
 **角色填写人：**老凤凰
 

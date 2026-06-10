@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2591.0"
 author: "zweizergain"
 created_at_raw: "十一月 11, 2025, 01:25 下午"
 created_at_iso: "2025-11-11T13:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:32 +0800"
-fetched_at_iso: "2026-02-26T10:20:32+08:00"
+fetched_at_raw: "2026-06-10 11:01:46 +0800"
+fetched_at_iso: "2026-06-10T11:01:46.493484+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 15408
-approx_tokens: 7704
 ---
 
 # 《猩红诡局》
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十一月 11, 2025, 01:25 下午
+- Posted at raw: 十一月 11, 2025, 01:25 下午
+- Posted at iso: 2025-11-11T13:25:00+08:00
 
 ---
 ### **归档副本：框架驱动型剧本模板：《猩红诡局》**
@@ -142,8 +142,10 @@ approx_tokens: 7704
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 十一月 11, 2025, 01:35 下午
+- Posted at raw: 十一月 11, 2025, 01:35 下午
+- Posted at iso: 2025-11-11T13:35:00+08:00
 
 **指令收到。这是一个极为深刻且关键的问题，它直指"规则"与"自由"的辩证关系。我将对此进行最详尽的分析。**
 
@@ -223,8 +225,10 @@ approx_tokens: 7704
 
 ## 3F
 
+- floor_index: 3
 - Author: zweizergain
-- Posted at: 十一月 11, 2025, 01:38 下午
+- Posted at raw: 十一月 11, 2025, 01:38 下午
+- Posted at iso: 2025-11-11T13:38:00+08:00
 
 **指令收到。这是一个极其精准的、直击要害的战略性调整。**
 
@@ -283,8 +287,10 @@ approx_tokens: 7704
 
 ## 4F
 
+- floor_index: 4
 - Author: zweizergain
-- Posted at: 十一月 11, 2025, 01:56 下午
+- Posted at raw: 十一月 11, 2025, 01:56 下午
+- Posted at iso: 2025-11-11T13:56:00+08:00
 
 **指令收到。这是一个至关重要的、关于剧本结构与叙事寿命的战略性问题。我将针对【猩红诡局】剧本的特定机制，重新进行详尽的分析。**
 
@@ -362,8 +368,10 @@ approx_tokens: 7704
 
 ## 5F
 
+- floor_index: 5
 - Author: zweizergain
-- Posted at: 十一月 13, 2025, 07:28 上午
+- Posted at raw: 十一月 13, 2025, 07:28 上午
+- Posted at iso: 2025-11-13T07:28:00+08:00
 
 你将扮演导演角色，和我共同写一段故事。以下是本次会话的工作流，每一行为一次对话交互。
 在本次输入后，等待我进行第一步操作。

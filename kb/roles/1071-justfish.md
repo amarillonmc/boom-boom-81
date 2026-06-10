@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1071.0"
 author: "Justfish"
 created_at_raw: "九月 29, 2025, 12:30 下午"
 created_at_iso: "2025-09-29T12:30:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:34 +0800"
-fetched_at_iso: "2026-02-26T10:05:34+08:00"
+fetched_at_raw: "2026-06-10 10:42:22 +0800"
+fetched_at_iso: "2026-06-10T10:42:22.276151+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4832
-approx_tokens: 2416
 ---
 
 # Justfish的角色 - 【寂静剑士】音无 哆菈
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 29, 2025, 12:30 下午
+- Posted at raw: 九月 29, 2025, 12:30 下午
+- Posted at iso: 2025-09-29T12:30:00+08:00
 
 **角色填写人：**Justfish
 

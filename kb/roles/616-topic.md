@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=616.0"
 author: "小可"
 created_at_raw: "九月 21, 2025, 05:36 上午"
 created_at_iso: "2025-09-21T05:36:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:09 +0800"
-fetched_at_iso: "2026-02-26T10:02:09+08:00"
+fetched_at_raw: "2026-06-10 10:39:19 +0800"
+fetched_at_iso: "2026-06-10T10:39:19.970210+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4318
-approx_tokens: 2159
 ---
 
 # 小可的角色 - 「诛心破妄」贾诩
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 21, 2025, 05:36 上午
+- Posted at raw: 九月 21, 2025, 05:36 上午
+- Posted at iso: 2025-09-21T05:36:00+08:00
 
 **角色填写人：**小可
 
@@ -73,8 +73,10 @@ approx_tokens: 2159
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 12:32 下午
+- Posted at raw: 十一月 07, 2025, 12:32 下午
+- Posted at iso: 2025-11-07T12:32:00+08:00
 
 **角色强度分析：「诛心破妄」贾诩**
 

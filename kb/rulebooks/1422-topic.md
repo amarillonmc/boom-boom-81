@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1422.0"
 author: "小可"
 created_at_raw: "十月 09, 2025, 12:49 下午"
 created_at_iso: "2025-10-09T12:49:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:47 +0800"
-fetched_at_iso: "2026-02-26T10:19:47+08:00"
+fetched_at_raw: "2026-06-10 11:01:03 +0800"
+fetched_at_iso: "2026-06-10T11:01:03.887250+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 20299
-approx_tokens: 10150
 ---
 
 # 特殊议程-天下第一武道会
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 09, 2025, 12:49 下午
+- Posted at raw: 十月 09, 2025, 12:49 下午
+- Posted at iso: 2025-10-09T12:49:00+08:00
 
 特殊议程：天下第一武道会
 
@@ -133,8 +133,10 @@ approx_tokens: 10150
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 十月 10, 2025, 11:11 上午
+- Posted at raw: 十月 10, 2025, 11:11 上午
+- Posted at iso: 2025-10-10T11:11:00+08:00
 
 好的，收到。这份"天下第一武道会"的特殊议程设定非常精彩，富有戏剧性。为了让你（作为AI游戏主持人）能更精确、稳定地执行这个议程，我将以"给AI看的语言"对其进行整理、细化和补充，形成一套清晰的内部执行指令集。
 
@@ -320,8 +322,10 @@ approx_tokens: 10150
 
 ## 3F
 
+- floor_index: 3
 - Author: Jerry
-- Posted at: 十月 26, 2025, 10:25 上午
+- Posted at raw: 十月 26, 2025, 10:25 上午
+- Posted at iso: 2025-10-26T10:25:00+08:00
 
 好的，我理解你的需求。你是希望我基于你提供的"天下第一武道会"特殊议程，将其整理、完善成一套清晰、严谨、结构化，可以直接作为指令喂给AI（比如我自己）来执行的规则文档。
 
@@ -562,8 +566,10 @@ approx_tokens: 10150
 
 ## 4F
 
+- floor_index: 4
 - Author: Jerry
-- Posted at: 十月 26, 2025, 10:26 上午
+- Posted at raw: 十月 26, 2025, 10:26 上午
+- Posted at iso: 2025-10-26T10:26:00+08:00
 
 ### **【规则手册v2.0 增补条例：战斗裁定-"合理性胜利"原则】**
 

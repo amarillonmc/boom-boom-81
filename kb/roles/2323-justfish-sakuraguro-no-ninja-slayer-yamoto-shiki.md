@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2323.0"
 author: "Justfish"
 created_at_raw: "十一月 04, 2025, 11:50 上午"
 created_at_iso: "2025-11-04T11:50:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:07 +0800"
-fetched_at_iso: "2026-02-26T10:14:07+08:00"
+fetched_at_raw: "2026-06-10 10:49:53 +0800"
+fetched_at_iso: "2026-06-10T10:49:53.135315+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 15147
-approx_tokens: 7574
 ---
 
 # Justfish的角色 - 桜黒の忍者殺手-矢本·四季 (Sakuraguro no Ninja Slayer - Yamoto Shiki)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 04, 2025, 11:50 上午
+- Posted at raw: 十一月 04, 2025, 11:50 上午
+- Posted at iso: 2025-11-04T11:50:00+08:00
 
 **角色填写人：**Justfish
 
@@ -91,8 +91,10 @@ approx_tokens: 7574
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十一月 04, 2025, 11:51 上午
+- Posted at raw: 十一月 04, 2025, 11:51 上午
+- Posted at iso: 2025-11-04T11:51:00+08:00
 
 该角色设定来源Ninja Slayer ShikiBorn in Sakurairo Black 生于樱黑【作：Qfwfq】
 

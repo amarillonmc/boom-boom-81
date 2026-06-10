@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2329.0"
 author: "小兵"
 created_at_raw: "十一月 04, 2025, 09:35 下午"
 created_at_iso: "2025-11-04T21:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:10 +0800"
-fetched_at_iso: "2026-02-26T10:14:10+08:00"
+fetched_at_raw: "2026-06-10 10:49:55 +0800"
+fetched_at_iso: "2026-06-10T10:49:55.575369+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1213
-approx_tokens: 607
 ---
 
 # 小兵的角色 - 巴巴尔星人
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十一月 04, 2025, 09:35 下午
+- Posted at raw: 十一月 04, 2025, 09:35 下午
+- Posted at iso: 2025-11-04T21:35:00+08:00
 
 **角色填写人：**小兵
 

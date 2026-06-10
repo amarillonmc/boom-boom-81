@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1257.0"
 author: "zweizergain"
 created_at_raw: "十月 04, 2025, 09:46 上午"
 created_at_iso: "2025-10-04T09:46:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:46 +0800"
-fetched_at_iso: "2026-02-26T10:06:46+08:00"
+fetched_at_raw: "2026-06-10 10:43:26 +0800"
+fetched_at_iso: "2026-06-10T10:43:26.383343+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7057
-approx_tokens: 3529
 ---
 
 # 阿姆罗·雷（富）
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 04, 2025, 09:46 上午
+- Posted at raw: 十月 04, 2025, 09:46 上午
+- Posted at iso: 2025-10-04T09:46:00+08:00
 
 # **【详尽角色卡：阿姆罗·雷 (Amuro Ray) - 叙事反转版 V3.2 - 最终锁定版】**
 
@@ -136,19 +136,6 @@ approx_tokens: 3529
  * **钢铁吉克 (Steel Jeeg):**
  * **执行方式：** 在肉身状态下，可大喊"Build Up!"，变身为一台外形酷似RX-78-2的巨大机器人。或让ν高达使用吉克破坏者（Jeeg Breaker）。
  * **出处：** 《钢铁吉克 (Steel Jeeg)》
- * **ν高达-再生型 (ν-Gundam Reborns Type) (V3.2 复合功能版):**
- * **核心能力：**
- * **人格覆写 (Personality Override):** 阿姆罗的言行举止将暂时被"利冯兹·阿尔马克"的人格所覆写。他会以一种自诩为神的、傲慢的姿态，宣称自己将要"引导人类"或进行"神的审判"。
- * **机体能力 (Mecha Abilities):** 机体将获得再生高达（Reborns Gundam）的核心能力，包括：启动Trans-Am系统、变形为加农模式、以及使用GN破坏步枪和GN獠牙。
- * **【强制调用场景限制 (Mandatory Activation Scenario)】(新增核心限制):**
- * **触发条件：** **当且仅当**，当前剧本的叙事发展，明确地需要一个拥有"利冯兹·阿尔马克"特征（如：自诩为神、试图"引导"或"审判"人类、作为故事的最终反派登场）的敌对角色时，此形态才被允许激活。
- * **绝对禁令：** 在所有其他情况下，无论战术需求多么迫切，都**绝对禁止**调用此形态。
- * **复合功能扩展 (Composite Functionality Extension):**
- * **1. 【VEDA链接（精神感应框架全域链接）】:** 获得有限的"全知"视角，能够**窥视过去**和**预知未来**。
- * **2. 【浮游炮军团（Gaga集群）】:** 超高速复制飞翼浮游炮，形成无人机军团，可发动饱和攻击或**Trans-Am自杀式突击**。
- * **强制叙事协议 (Mandatory Narrative Protocol):**
- * **【变革者叙事协议】:** 当此形态被激活时，叙事风格必须向《高达00》第二季的最终决战靠拢，包含**神之视角**的台词、与指定**宿敌**的哲学辩论、以及充满**最终审判**仪式感的攻击。
- * **出处：** 《机动战士高达00 (Mobile Suit Gundam 00)》
 
  * **宿敌武装 (Rival Armament):**
  * **ν-沙扎比高达 (ν-Sazabi Gundam):**

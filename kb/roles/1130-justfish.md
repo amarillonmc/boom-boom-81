@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1130.0"
 author: "Justfish"
 created_at_raw: "十月 01, 2025, 03:43 上午"
 created_at_iso: "2025-10-01T03:43:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:51 +0800"
-fetched_at_iso: "2026-02-26T10:05:51+08:00"
+fetched_at_raw: "2026-06-10 10:42:36 +0800"
+fetched_at_iso: "2026-06-10T10:42:36.864218+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3047
-approx_tokens: 1524
 ---
 
 # Justfish的角色 - 大卫·戴
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 01, 2025, 03:43 上午
+- Posted at raw: 十月 01, 2025, 03:43 上午
+- Posted at iso: 2025-10-01T03:43:00+08:00
 
 **角色填写人：**Justfish
 

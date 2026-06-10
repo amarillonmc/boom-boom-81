@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3760.0"
 author: "小可"
 created_at_raw: "三月 21, 2026, 08:37 上午"
 created_at_iso: "2026-03-21T08:37:00+08:00"
-fetched_at_raw: "2026-03-24 08:13:32 +0800"
-fetched_at_iso: "2026-03-24T08:13:32.373398+08:00"
+fetched_at_raw: "2026-06-10 10:56:38 +0800"
+fetched_at_iso: "2026-06-10T10:56:38.348255+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

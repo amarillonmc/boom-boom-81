@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2359.0"
 author: "galekkomari"
 created_at_raw: "十一月 05, 2025, 08:00 下午"
 created_at_iso: "2025-11-05T20:00:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:17 +0800"
-fetched_at_iso: "2026-02-26T10:20:17+08:00"
+fetched_at_raw: "2026-06-10 11:01:33 +0800"
+fetched_at_iso: "2026-06-10T11:01:33.750032+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8591
-approx_tokens: 4296
 ---
 
 # HEROES Volume One 群像演绎议程
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十一月 05, 2025, 08:00 下午
+- Posted at raw: 十一月 05, 2025, 08:00 下午
+- Posted at iso: 2025-11-05T20:00:00+08:00
 
 《HEROES Volume One 群像演绎议程》
 基于美剧《HEROES》第一季 Volume One 世界观的角色乱斗特别企划

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1902.0"
 author: "玄羽"
 created_at_raw: "十月 24, 2025, 07:24 上午"
 created_at_iso: "2025-10-24T07:24:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:33 +0800"
-fetched_at_iso: "2026-02-26T10:11:33+08:00"
+fetched_at_raw: "2026-06-10 10:47:36 +0800"
+fetched_at_iso: "2026-06-10T10:47:36.908623+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10423
-approx_tokens: 5212
 ---
 
 # 玄羽的角色 - 苏尔
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 十月 24, 2025, 07:24 上午
+- Posted at raw: 十月 24, 2025, 07:24 上午
+- Posted at iso: 2025-10-24T07:24:00+08:00
 
 **角色填写人：**玄羽
 
@@ -269,8 +269,10 @@ P2（第二优先级）：抵达阿扎尔海，完成约定。此动机为行动
 
 ## 2F
 
+- floor_index: 2
 - Author: 玄羽
-- Posted at: 十一月 15, 2025, 06:15 上午
+- Posted at raw: 十一月 15, 2025, 06:15 上午
+- Posted at iso: 2025-11-15T06:15:00+08:00
 
 好的，协议已确认。资深的Fate/Grand Order角色概念设计师已就位。正在接收御主提交的核心设定，开始进行转录。
 

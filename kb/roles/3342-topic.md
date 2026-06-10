@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3342.0"
 author: "增熵星"
 created_at_raw: "二月 23, 2026, 11:15 下午"
 created_at_iso: "2026-02-23T23:15:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:56 +0800"
-fetched_at_iso: "2026-02-26T10:18:56+08:00"
+fetched_at_raw: "2026-06-10 10:54:09 +0800"
+fetched_at_iso: "2026-06-10T10:54:09.596785+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 852
-approx_tokens: 426
 ---
 
 # 增熵星的角色 - 全收集皇帝
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 二月 23, 2026, 11:15 下午
+- Posted at raw: 二月 23, 2026, 11:15 下午
+- Posted at iso: 2026-02-23T23:15:00+08:00
 
 **角色填写人：**增熵星
 

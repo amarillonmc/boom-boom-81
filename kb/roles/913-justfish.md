@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=913.0"
 author: "Justfish"
 created_at_raw: "九月 26, 2025, 05:49 上午"
 created_at_iso: "2025-09-26T05:49:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:26 +0800"
-fetched_at_iso: "2026-02-26T10:04:26+08:00"
+fetched_at_raw: "2026-06-10 10:41:20 +0800"
+fetched_at_iso: "2026-06-10T10:41:20.798887+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1258
-approx_tokens: 629
 ---
 
 # Justfish的角色 - 凯·奇斯克
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 26, 2025, 05:49 上午
+- Posted at raw: 九月 26, 2025, 05:49 上午
+- Posted at iso: 2025-09-26T05:49:00+08:00
 
 **角色填写人：**Justfish
 

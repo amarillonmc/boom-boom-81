@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1249.0"
 author: "烛火"
 created_at_raw: "十月 04, 2025, 06:19 上午"
 created_at_iso: "2025-10-04T06:19:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:42 +0800"
-fetched_at_iso: "2026-02-26T10:06:42+08:00"
+fetched_at_raw: "2026-06-10 10:43:22 +0800"
+fetched_at_iso: "2026-06-10T10:43:22.145376+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 25553
-approx_tokens: 12777
 ---
 
 # 烛火的角色 - 盖亚德洛斯
 
 ## 1F
 
+- floor_index: 1
 - Author: 烛火
-- Posted at: 十月 04, 2025, 06:19 上午
+- Posted at raw: 十月 04, 2025, 06:19 上午
+- Posted at iso: 2025-10-04T06:19:00+08:00
 
 **角色填写人：**烛火
 
@@ -326,8 +326,10 @@ XII. 父亲的悖论面对"未来"的降临者
 
 ## 2F
 
+- floor_index: 2
 - Author: 烛火
-- Posted at: 十一月 26, 2025, 04:34 上午
+- Posted at raw: 十一月 26, 2025, 04:34 上午
+- Posted at iso: 2025-11-26T04:34:00+08:00
 
 [color=var(--tw-prose-headings)]【赫菲斯托斯MS设计协议 V1.0】—— 机体档案[/color]
 [color=var(--tw-prose-headings)]1. 【机体命名 (Unit Naming)】[/color]

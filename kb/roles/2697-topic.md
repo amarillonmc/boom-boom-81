@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2697.0"
 author: "小可"
 created_at_raw: "十一月 15, 2025, 06:15 上午"
 created_at_iso: "2025-11-15T06:15:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:12 +0800"
-fetched_at_iso: "2026-02-26T10:16:12+08:00"
+fetched_at_raw: "2026-06-10 10:51:49 +0800"
+fetched_at_iso: "2026-06-10T10:51:49.992421+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3359
-approx_tokens: 1680
 ---
 
 # 小可的角色 - 墨曦
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 15, 2025, 06:15 上午
+- Posted at raw: 十一月 15, 2025, 06:15 上午
+- Posted at iso: 2025-11-15T06:15:00+08:00
 
 **角色填写人：**小可
 

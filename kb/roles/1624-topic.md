@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1624.0"
 author: "小壶"
 created_at_raw: "十月 16, 2025, 12:40 上午"
 created_at_iso: "2025-10-16T00:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:31 +0800"
-fetched_at_iso: "2026-02-26T10:09:31+08:00"
+fetched_at_raw: "2026-06-10 10:45:55 +0800"
+fetched_at_iso: "2026-06-10T10:45:55.233911+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 386
-approx_tokens: 193
 ---
 
 # 小壶的角色 - 壶神
 
 ## 1F
 
+- floor_index: 1
 - Author: 小壶
-- Posted at: 十月 16, 2025, 12:40 上午
+- Posted at raw: 十月 16, 2025, 12:40 上午
+- Posted at iso: 2025-10-16T00:40:00+08:00
 
 **角色填写人：**小壶
 

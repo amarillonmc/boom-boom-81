@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2270.0"
 author: "Ombre"
 created_at_raw: "十一月 03, 2025, 01:49 上午"
 created_at_iso: "2025-11-03T01:49:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:49 +0800"
-fetched_at_iso: "2026-02-26T10:13:49+08:00"
+fetched_at_raw: "2026-06-10 10:49:35 +0800"
+fetched_at_iso: "2026-06-10T10:49:35.883096+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8992
-approx_tokens: 4496
 ---
 
 # Ombre的角色 - 欧文
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 03, 2025, 01:49 上午
+- Posted at raw: 十一月 03, 2025, 01:49 上午
+- Posted at iso: 2025-11-03T01:49:00+08:00
 
 ### **角色档案：水色彗星-欧文 (Project: Azure Comet - Owen)**
 

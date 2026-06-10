@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2524.0"
 author: "Jerry"
 created_at_raw: "十一月 09, 2025, 01:30 上午"
 created_at_iso: "2025-11-09T01:30:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:08 +0800"
-fetched_at_iso: "2026-02-26T10:15:08+08:00"
+fetched_at_raw: "2026-06-10 10:50:52 +0800"
+fetched_at_iso: "2026-06-10T10:50:52.415799+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3275
-approx_tokens: 1638
 ---
 
 # Jerry的角色 - 九叔
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十一月 09, 2025, 01:30 上午
+- Posted at raw: 十一月 09, 2025, 01:30 上午
+- Posted at iso: 2025-11-09T01:30:00+08:00
 
 **角色填写人：**Jerry
 

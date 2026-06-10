@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=146.0"
 author: "紫宵"
 created_at_raw: "九月 09, 2025, 01:25 下午"
 created_at_iso: "2025-09-09T13:25:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:51 +0800"
-fetched_at_iso: "2026-02-26T09:57:51+08:00"
+fetched_at_raw: "2026-06-10 10:35:21 +0800"
+fetched_at_iso: "2026-06-10T10:35:21.783411+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4142
-approx_tokens: 2071
 ---
 
 # 紫宵的角色 - 八音盒
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 九月 09, 2025, 01:25 下午
+- Posted at raw: 九月 09, 2025, 01:25 下午
+- Posted at iso: 2025-09-09T13:25:00+08:00
 
 **角色填写人：**紫宵
 
@@ -119,7 +119,9 @@ approx_tokens: 2071
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 九月 15, 2025, 09:12 上午
+- Posted at raw: 九月 15, 2025, 09:12 上午
+- Posted at iso: 2025-09-15T09:12:00+08:00
 
 该机制在不同ai下的触发率有较大差距。

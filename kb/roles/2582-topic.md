@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2582.0"
 author: "Ombre"
 created_at_raw: "十一月 11, 2025, 09:06 上午"
 created_at_iso: "2025-11-11T09:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:30 +0800"
-fetched_at_iso: "2026-02-26T10:15:30+08:00"
+fetched_at_raw: "2026-06-10 10:51:13 +0800"
+fetched_at_iso: "2026-06-10T10:51:13.182345+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 14334
-approx_tokens: 7167
 ---
 
 # 希露·普莱恩的角色 - 兰斯·英雄王
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 11, 2025, 09:06 上午
+- Posted at raw: 十一月 11, 2025, 09:06 上午
+- Posted at iso: 2025-11-11T09:06:00+08:00
 
 ### **角色档案：兰斯·英雄王 (Rance the Conqueror)**
 
@@ -208,8 +208,10 @@ approx_tokens: 7167
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 18, 2025, 03:33 上午
+- Posted at raw: 十一月 18, 2025, 03:33 上午
+- Posted at iso: 2025-11-18T03:33:00+08:00
 
 从者档案（Saber）#### 第一部分：核心身份 (Core Identity)
 **真名 (True Name):** 兰斯 (Rance)

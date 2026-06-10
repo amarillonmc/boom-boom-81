@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2608.0"
 author: "增熵星"
 created_at_raw: "十一月 12, 2025, 04:39 上午"
 created_at_iso: "2025-11-12T04:39:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:35 +0800"
-fetched_at_iso: "2026-02-26T10:15:35+08:00"
+fetched_at_raw: "2026-06-10 10:51:18 +0800"
+fetched_at_iso: "2026-06-10T10:51:18.315797+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2652
-approx_tokens: 1326
 ---
 
 # 增熵星的角色 - 超级机枪豌豆
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 十一月 12, 2025, 04:39 上午
+- Posted at raw: 十一月 12, 2025, 04:39 上午
+- Posted at iso: 2025-11-12T04:39:00+08:00
 
 **角色填写人：**增熵星
 
@@ -71,8 +71,10 @@ approx_tokens: 1326
 
 ## 2F
 
+- floor_index: 2
 - Author: 增熵星
-- Posted at: 十一月 12, 2025, 05:24 上午
+- Posted at raw: 十一月 12, 2025, 05:24 上午
+- Posted at iso: 2025-11-12T05:24:00+08:00
 
 d老师说这是纸物理强度：2/10 (作为固定植物，无物理移动和格斗能力) -> 加权分：0.2
 能量强度：7/10 (常态下为街区~城市级破坏力；叶绿素状态下可瞬间清除屏幕内大量敌人) -> 加权分：0.7

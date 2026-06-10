@@ -6,14 +6,12 @@ source_url: "https://number81.xyz/index.php?topic=3368.0"
 author: "小可"
 created_at_raw: "二月 26, 2026, 04:05 上午"
 created_at_iso: "2026-02-26T04:05:00+08:00"
-fetched_at_raw: "2026-02-27 11:31:34 +0800"
-fetched_at_iso: "2026-02-27T11:31:34.256980+08:00"
+fetched_at_raw: "2026-06-10 10:54:22 +0800"
+fetched_at_iso: "2026-06-10T10:54:22.686243+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 16204
-approx_tokens: 8102
 ---
 
 # 小可的角色 - 「闪光」

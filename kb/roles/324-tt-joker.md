@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=324.0"
 author: "tt"
 created_at_raw: "九月 15, 2025, 10:12 上午"
 created_at_iso: "2025-09-15T10:12:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:31 +0800"
-fetched_at_iso: "2026-02-26T09:59:31+08:00"
+fetched_at_raw: "2026-06-10 10:36:53 +0800"
+fetched_at_iso: "2026-06-10T10:36:53.218976+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2439
-approx_tokens: 1220
 ---
 
 # tt的角色 - 雨宫莲-Joker
 
 ## 1F
 
+- floor_index: 1
 - Author: tt
-- Posted at: 九月 15, 2025, 10:12 上午
+- Posted at raw: 九月 15, 2025, 10:12 上午
+- Posted at iso: 2025-09-15T10:12:00+08:00
 
 **角色填写人：**tt
 

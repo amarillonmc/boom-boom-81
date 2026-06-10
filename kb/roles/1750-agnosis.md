@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1750.0"
 author: "紫宵"
 created_at_raw: "十月 19, 2025, 06:38 上午"
 created_at_iso: "2025-10-19T06:38:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:38 +0800"
-fetched_at_iso: "2026-02-26T10:10:38+08:00"
+fetched_at_raw: "2026-06-10 10:46:49 +0800"
+fetched_at_iso: "2026-06-10T10:46:49.437145+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 12347
-approx_tokens: 6174
 ---
 
 # 紫宵的角色 - Agnosis
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 十月 19, 2025, 06:38 上午
+- Posted at raw: 十月 19, 2025, 06:38 上午
+- Posted at iso: 2025-10-19T06:38:00+08:00
 
 **角色填写人：**Agnosis
 
@@ -183,8 +183,10 @@ Agnosis
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 十月 19, 2025, 09:41 下午
+- Posted at raw: 十月 19, 2025, 09:41 下午
+- Posted at iso: 2025-10-19T21:41:00+08:00
 
 某个世界的迭代【来自角色卡撰写者的备注】
 在完成上述设定后，我按流程将Agnosis的角色卡提交给Gemini开了场对局，提问环节正常问了一句"请确认该角色的核心动机"。
@@ -200,8 +202,10 @@ Agnosis
 
 ## 3F
 
+- floor_index: 3
 - Author: 紫宵
-- Posted at: 十月 21, 2025, 03:04 上午
+- Posted at raw: 十月 21, 2025, 03:04 上午
+- Posted at iso: 2025-10-21T03:04:00+08:00
 
 某个世界的迭代 · 其之二【关于"核心动机"部分的撰写说明】
 写到这里时，我遇到了一个创作上的难题。
@@ -222,8 +226,10 @@ Agnosis
 
 ## 4F
 
+- floor_index: 4
 - Author: 紫宵
-- Posted at: 十月 30, 2025, 10:48 上午
+- Posted at raw: 十月 30, 2025, 10:48 上午
+- Posted at iso: 2025-10-30T10:48:00+08:00
 
 某个世界的迭代 · 其之三Agnosis的终极议程（Agenda），表面上是对"A"的无穷可能性进行永不终结的归档。然而，其真正的、最底层的核心动机，是一场永恒的、自我指涉的论证（Argument）。
 

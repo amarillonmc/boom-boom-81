@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=114.0"
 author: "Huager"
 created_at_raw: "九月 09, 2025, 12:32 上午"
 created_at_iso: "2025-09-09T00:32:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:41 +0800"
-fetched_at_iso: "2026-02-26T09:57:41+08:00"
+fetched_at_raw: "2026-06-10 10:35:12 +0800"
+fetched_at_iso: "2026-06-10T10:35:12.457045+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 626
-approx_tokens: 313
 ---
 
 # 黑莲的角色 - 成龙
 
 ## 1F
 
+- floor_index: 1
 - Author: Huager
-- Posted at: 九月 09, 2025, 12:32 上午
+- Posted at raw: 九月 09, 2025, 12:32 上午
+- Posted at iso: 2025-09-09T00:32:00+08:00
 
 **角色填写人：**黑莲
 
@@ -35,16 +35,20 @@ approx_tokens: 313
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 九月 09, 2025, 12:33 上午
+- Posted at raw: 九月 09, 2025, 12:33 上午
+- Posted at iso: 2025-09-09T00:33:00+08:00
 
 游戏正式结束。
 最终胜者：成龙
 
 ## 3F
 
+- floor_index: 3
 - Author: 增熵星
-- Posted at: 九月 09, 2025, 04:38 上午
+- Posted at raw: 九月 09, 2025, 04:38 上午
+- Posted at iso: 2025-09-09T04:38:00+08:00
 
 游戏正式结束。
 最终胜者：成龙

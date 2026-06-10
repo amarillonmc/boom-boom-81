@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=487.0"
 author: "Ombre"
 created_at_raw: "九月 19, 2025, 01:24 上午"
 created_at_iso: "2025-09-19T01:24:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:00 +0800"
-fetched_at_iso: "2026-02-26T10:01:00+08:00"
+fetched_at_raw: "2026-06-10 10:38:17 +0800"
+fetched_at_iso: "2026-06-10T10:38:17.397378+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7679
-approx_tokens: 3840
 ---
 
 # Ombre的角色 - 须佐之男 (Susanoo)
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 19, 2025, 01:24 上午
+- Posted at raw: 九月 19, 2025, 01:24 上午
+- Posted at iso: 2025-09-19T01:24:00+08:00
 
 ### **角色档案：天威之武神·须佐之男**
 
@@ -140,8 +140,10 @@ approx_tokens: 3840
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 14, 2025, 01:14 上午
+- Posted at raw: 十一月 14, 2025, 01:14 上午
+- Posted at iso: 2025-11-14T01:14:00+08:00
 
 从者档案（Archer）### **第一部分：核心身份 (Core Identity)**
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=984.0"
 author: "黑森谨"
 created_at_raw: "九月 27, 2025, 02:33 下午"
 created_at_iso: "2025-09-27T14:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:01 +0800"
-fetched_at_iso: "2026-02-26T10:05:01+08:00"
+fetched_at_raw: "2026-06-10 10:41:54 +0800"
+fetched_at_iso: "2026-06-10T10:41:54.128700+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 12047
-approx_tokens: 6024
 ---
 
 # 黑森谨的角色 - 时间锻印龙
 
 ## 1F
 
+- floor_index: 1
 - Author: 黑森谨
-- Posted at: 九月 27, 2025, 02:33 下午
+- Posted at raw: 九月 27, 2025, 02:33 下午
+- Posted at iso: 2025-09-27T14:33:00+08:00
 
 **角色填写人：**黑森谨
 
@@ -112,8 +112,10 @@ approx_tokens: 6024
 
 ## 2F
 
+- floor_index: 2
 - Author: 黑森谨
-- Posted at: 十月 27, 2025, 11:25 下午
+- Posted at raw: 十月 27, 2025, 11:25 下午
+- Posted at iso: 2025-10-27T23:25:00+08:00
 
 以下为记录，录卡时不要录入
 目前已仿造的齿轮兽：

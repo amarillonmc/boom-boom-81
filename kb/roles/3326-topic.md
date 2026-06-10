@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3326.0"
 author: "Ender_Eragon"
 created_at_raw: "二月 01, 2026, 04:37 上午"
 created_at_iso: "2026-02-01T04:37:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:48 +0800"
-fetched_at_iso: "2026-02-26T10:18:48+08:00"
+fetched_at_raw: "2026-06-10 10:54:02 +0800"
+fetched_at_iso: "2026-06-10T10:54:02.232824+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1713
-approx_tokens: 857
 ---
 
 # 终末的角色 - 「公正骑士」
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 二月 01, 2026, 04:37 上午
+- Posted at raw: 二月 01, 2026, 04:37 上午
+- Posted at iso: 2026-02-01T04:37:00+08:00
 
 **角色填写人：**终末
 

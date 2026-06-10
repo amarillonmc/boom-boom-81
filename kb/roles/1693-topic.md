@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1693.0"
 author: "小兵"
 created_at_raw: "十月 17, 2025, 10:30 下午"
 created_at_iso: "2025-10-17T22:30:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:07 +0800"
-fetched_at_iso: "2026-02-26T10:10:07+08:00"
+fetched_at_raw: "2026-06-10 10:46:26 +0800"
+fetched_at_iso: "2026-06-10T10:46:26.853715+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1420
-approx_tokens: 710
 ---
 
 # 小兵的角色 - 拉布
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 17, 2025, 10:30 下午
+- Posted at raw: 十月 17, 2025, 10:30 下午
+- Posted at iso: 2025-10-17T22:30:00+08:00
 
 **角色填写人：**小兵
 
@@ -67,7 +67,9 @@ approx_tokens: 710
 
 ## 2F
 
+- floor_index: 2
 - Author: 小兵
-- Posted at: 十月 18, 2025, 11:44 上午
+- Posted at raw: 十月 18, 2025, 11:44 上午
+- Posted at iso: 2025-10-18T11:44:00+08:00
 
 因为该角色肘击了一次大赛，直接进行一次修改。

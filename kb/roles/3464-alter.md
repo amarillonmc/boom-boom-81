@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3464.0"
 author: "ALTER"
 created_at_raw: "三月 02, 2026, 02:43 下午"
 created_at_iso: "2026-03-02T14:43:00+08:00"
-fetched_at_raw: "2026-03-04 12:55:54 +0800"
-fetched_at_iso: "2026-03-04T12:55:54.671822+08:00"
+fetched_at_raw: "2026-06-10 10:54:55 +0800"
+fetched_at_iso: "2026-06-10T10:54:55.236793+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -28,7 +28,7 @@ data_quality: "ok"
 角色名称： 维因·赫卡特 (*Veyn·Hekate*)
 角色称号： 永世行者·惶庭代言·无心维因
 存在本质： 天慧造物（「惶庭」第三百次魔脉统辖的代言人）
-外貌年龄： 约90岁（外表定格于青春时期）
+年龄： 约90岁（外表定格于青春时期）
 性别认同： 女性
 归属势力： 「惶庭」
 ---

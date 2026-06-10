@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1904.0"
 author: "Ombre"
 created_at_raw: "十月 24, 2025, 09:57 上午"
 created_at_iso: "2025-10-24T09:57:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:35 +0800"
-fetched_at_iso: "2026-02-26T10:11:35+08:00"
+fetched_at_raw: "2026-06-10 10:47:38 +0800"
+fetched_at_iso: "2026-06-10T10:47:38.768040+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 14523
-approx_tokens: 7262
 ---
 
 # Ombre的角色 - 布莱德
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 24, 2025, 09:57 上午
+- Posted at raw: 十月 24, 2025, 09:57 上午
+- Posted at iso: 2025-10-24T09:57:00+08:00
 
 ### **布莱德·冯·埃斯特（Brad von Ester）详细角色档案**
 
@@ -209,8 +209,10 @@ approx_tokens: 7262
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 11:23 下午
+- Posted at raw: 十一月 09, 2025, 11:23 下午
+- Posted at iso: 2025-11-09T23:23:00+08:00
 
 从者档案（Archer）### **核心身份 (Core Identity)**
 

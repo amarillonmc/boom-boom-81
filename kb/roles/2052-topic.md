@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2052.0"
 author: "小兵"
 created_at_raw: "十月 28, 2025, 10:24 上午"
 created_at_iso: "2025-10-28T10:24:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:36 +0800"
-fetched_at_iso: "2026-02-26T10:12:36+08:00"
+fetched_at_raw: "2026-06-10 10:48:32 +0800"
+fetched_at_iso: "2026-06-10T10:48:32.131482+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2096
-approx_tokens: 1048
 ---
 
 # 小兵的角色 - 玉壶
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 28, 2025, 10:24 上午
+- Posted at raw: 十月 28, 2025, 10:24 上午
+- Posted at iso: 2025-10-28T10:24:00+08:00
 
 **角色填写人：**小兵
 

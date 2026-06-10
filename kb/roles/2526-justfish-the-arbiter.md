@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2526.0"
 author: "Justfish"
 created_at_raw: "十一月 09, 2025, 02:06 上午"
 created_at_iso: "2025-11-09T02:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:09 +0800"
-fetched_at_iso: "2026-02-26T10:15:09+08:00"
+fetched_at_raw: "2026-06-10 10:50:53 +0800"
+fetched_at_iso: "2026-06-10T10:50:53.258480+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4619
-approx_tokens: 2310
 ---
 
 # Justfish的角色 - 仲裁者 (The Arbiter)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 09, 2025, 02:06 上午
+- Posted at raw: 十一月 09, 2025, 02:06 上午
+- Posted at iso: 2025-11-09T02:06:00+08:00
 
 **角色填写人：**Justfish
 
@@ -84,8 +84,10 @@ approx_tokens: 2310
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十一月 09, 2025, 02:29 上午
+- Posted at raw: 十一月 09, 2025, 02:29 上午
+- Posted at iso: 2025-11-09T02:29:00+08:00
 
 好的，已接收角色卡：仲裁者 (The Arbiter)，并已理解其核心的"设定欺诈"内核。
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=552.0"
 author: "Justfish"
 created_at_raw: "九月 20, 2025, 03:37 上午"
 created_at_iso: "2025-09-20T03:37:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:37 +0800"
-fetched_at_iso: "2026-02-26T10:01:37+08:00"
+fetched_at_raw: "2026-06-10 10:38:50 +0800"
+fetched_at_iso: "2026-06-10T10:38:50.696531+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 62436
-approx_tokens: 31218
 ---
 
 # Justfish的角色 - 【天衡仲裁官】榭衣酉（裁定用GM）
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 20, 2025, 03:37 上午
+- Posted at raw: 九月 20, 2025, 03:37 上午
+- Posted at iso: 2025-09-20T03:37:00+08:00
 
 榭衣酉**角色填写人：**Justfish
 
@@ -132,16 +132,20 @@ approx_tokens: 31218
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 20, 2025, 03:42 上午
+- Posted at raw: 九月 20, 2025, 03:42 上午
+- Posted at iso: 2025-09-20T03:42:00+08:00
 
 该角色卡不直接参与战斗，仅作为规则上的GM负责避免出现GM生态位被占用。
 若有对局需求GM可直接让该角色作为GM暂时出场。
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 九月 20, 2025, 01:21 下午
+- Posted at raw: 九月 20, 2025, 01:21 下午
+- Posted at iso: 2025-09-20T13:21:00+08:00
 
 以下为用于测试GM能不能下场打架的测试用角色，不会参与常规对局。
 
@@ -265,8 +269,10 @@ approx_tokens: 31218
 
 ## 4F
 
+- floor_index: 4
 - Author: Justfish
-- Posted at: 九月 20, 2025, 01:29 下午
+- Posted at raw: 九月 20, 2025, 01:29 下午
+- Posted at iso: 2025-09-20T13:29:00+08:00
 
 后日谈：一份关于"神之棋局"的事故报告（修正版）【收件人：Tgo-D000（老板）】
 【发件人：Mek-C100（榭衣酉）】
@@ -454,8 +460,10 @@ approx_tokens: 31218
 
 ## 5F
 
+- floor_index: 5
 - Author: Justfish
-- Posted at: 九月 20, 2025, 09:54 下午
+- Posted at raw: 九月 20, 2025, 09:54 下午
+- Posted at iso: 2025-09-20T21:54:00+08:00
 
 后继型号因为起名困难原因难产了。
 现有两个角色的起名规律为
@@ -466,10 +474,12 @@ approx_tokens: 31218
 
 ## 6F
 
+- floor_index: 6
 - Author: Justfish
-- Posted at: 九月 21, 2025, 12:00 上午
+- Posted at raw: 九月 21, 2025, 12:00 上午
+- Posted at iso: 2025-09-21T00:00:00+08:00
 
-Spoiler### **//-- AI核心指令集：大乱斗执行协议 V1.0 --//**
+折叠内容### **//-- AI核心指令集：大乱斗执行协议 V1.0 --//**
 
 #### **零、核心执行清单**
 * **最高指令:** 本协议为裁判/叙事者AI的最高行动纲领与工作流程。所有后续规则的解读与执行，都必须在本协议的框架下进行。本协议旨在将分散的规则条款，整合为一套线性的、强制执行的检查清单，以确保叙事的准确性、公平性与逻辑自洽。
@@ -912,10 +922,12 @@ Spoiler### **//-- AI核心指令集：大乱斗执行协议 V1.0 --//**
 
 ## 7F
 
+- floor_index: 7
 - Author: Justfish
-- Posted at: 十月 30, 2025, 06:34 上午
+- Posted at raw: 十月 30, 2025, 06:34 上午
+- Posted at iso: 2025-10-30T06:34:00+08:00
 
-Spoiler---
+折叠内容---
 ### **大乱斗基础规则书 (AI执行版 v5.4)**
 
 本规则书是为叙事/裁判AI设计的最高行动纲领。所有裁定与叙事生成，必须严格遵循本文件定义的协议与流程。
@@ -1169,10 +1181,12 @@ Spoiler---
 
 ## 8F
 
+- floor_index: 8
 - Author: Justfish
-- Posted at: 十月 30, 2025, 06:34 上午
+- Posted at raw: 十月 30, 2025, 06:34 上午
+- Posted at iso: 2025-10-30T06:34:00+08:00
 
-Spoiler---
+折叠内容---
 
 ### **二、核心原则与高级裁定 (Core Principles & Advanced Rulings)**
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=716.0"
 author: "Ombre"
 created_at_raw: "九月 23, 2025, 01:29 上午"
 created_at_iso: "2025-09-23T01:29:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:23 +0800"
-fetched_at_iso: "2026-02-26T10:19:23+08:00"
+fetched_at_raw: "2026-06-10 11:00:40 +0800"
+fetched_at_iso: "2026-06-10T11:00:40.553581+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2485
-approx_tokens: 1243
 ---
 
 # 特殊议程【荒坂塔攻坚战】
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 23, 2025, 01:29 上午
+- Posted at raw: 九月 23, 2025, 01:29 上午
+- Posted at iso: 2025-09-23T01:29:00+08:00
 
 **此议程建议与【灵魂武装】规则共同使用，以防止量级差距过多影响副本体验。**
 "全面战场"特殊地图+特殊议程

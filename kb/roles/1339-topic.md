@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1339.0"
 author: "zweizergain"
 created_at_raw: "十月 06, 2025, 06:08 上午"
 created_at_iso: "2025-10-06T06:08:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:24 +0800"
-fetched_at_iso: "2026-02-26T10:07:24+08:00"
+fetched_at_raw: "2026-06-10 10:44:03 +0800"
+fetched_at_iso: "2026-06-10T10:44:03.570958+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4327
-approx_tokens: 2164
 ---
 
 # 亚娴·布雷迪尔
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 06, 2025, 06:08 上午
+- Posted at raw: 十月 06, 2025, 06:08 上午
+- Posted at iso: 2025-10-06T06:08:00+08:00
 
 ### **【详尽角色卡：亚娴·布雷迪尔 - v1.4 最终修正版】**
 

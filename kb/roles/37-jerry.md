@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=37.0"
 author: "Jerry"
 created_at_raw: "九月 08, 2025, 10:24 上午"
 created_at_iso: "2025-09-08T10:24:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:44 +0800"
-fetched_at_iso: "2026-02-26T09:56:44+08:00"
+fetched_at_raw: "2026-06-10 10:34:16 +0800"
+fetched_at_iso: "2026-06-10T10:34:16.625929+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3831
-approx_tokens: 1916
 ---
 
 # Jerry的角色 - 五代雄介
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 08, 2025, 10:24 上午
+- Posted at raw: 九月 08, 2025, 10:24 上午
+- Posted at iso: 2025-09-08T10:24:00+08:00
 
 **角色填写人：**Jerry
 

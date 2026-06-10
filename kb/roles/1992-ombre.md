@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1992.0"
 author: "Ombre"
 created_at_raw: "十月 27, 2025, 02:28 上午"
 created_at_iso: "2025-10-27T02:28:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:08 +0800"
-fetched_at_iso: "2026-02-26T10:12:08+08:00"
+fetched_at_raw: "2026-06-10 10:48:08 +0800"
+fetched_at_iso: "2026-06-10T10:48:08.234878+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 21118
-approx_tokens: 10559
 ---
 
 # Ombre的角色 - 塔迪斯
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 27, 2025, 02:28 上午
+- Posted at raw: 十月 27, 2025, 02:28 上午
+- Posted at iso: 2025-10-27T02:28:00+08:00
 
 ### **塔迪斯·冯·诺伊曼（Tadis von Neumann）详细角色档案**
 
@@ -195,8 +195,10 @@ approx_tokens: 10559
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十月 28, 2025, 09:08 下午
+- Posted at raw: 十月 28, 2025, 09:08 下午
+- Posted at iso: 2025-10-28T21:08:00+08:00
 
 常态准神理论论外版
 代码 [选择] Expand

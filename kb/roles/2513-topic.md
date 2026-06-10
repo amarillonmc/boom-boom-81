@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2513.0"
 author: "小可"
 created_at_raw: "十一月 08, 2025, 10:41 下午"
 created_at_iso: "2025-11-08T22:41:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:59 +0800"
-fetched_at_iso: "2026-02-26T10:14:59+08:00"
+fetched_at_raw: "2026-06-10 10:50:43 +0800"
+fetched_at_iso: "2026-06-10T10:50:43.900767+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5167
-approx_tokens: 2584
 ---
 
 # 小可的角色 - 搞笑吕布
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 08, 2025, 10:41 下午
+- Posted at raw: 十一月 08, 2025, 10:41 下午
+- Posted at iso: 2025-11-08T22:41:00+08:00
 
 **角色填写人：**小可
 
@@ -77,8 +77,10 @@ approx_tokens: 2584
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 08, 2025, 11:01 下午
+- Posted at raw: 十一月 08, 2025, 11:01 下午
+- Posted at iso: 2025-11-08T23:01:00+08:00
 
 **角色强度分析：搞笑吕布**
 

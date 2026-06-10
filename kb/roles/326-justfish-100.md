@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=326.0"
 author: "Justfish"
 created_at_raw: "九月 15, 2025, 10:50 上午"
 created_at_iso: "2025-09-15T10:50:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:33 +0800"
-fetched_at_iso: "2026-02-26T09:59:33+08:00"
+fetched_at_raw: "2026-06-10 10:36:54 +0800"
+fetched_at_iso: "2026-06-10T10:36:54.870988+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 800
-approx_tokens: 400
 ---
 
 # Justfish的角色 - 【你获得了100金币】
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 15, 2025, 10:50 上午
+- Posted at raw: 九月 15, 2025, 10:50 上午
+- Posted at iso: 2025-09-15T10:50:00+08:00
 
 **角色填写人：**Justfish
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2022.0"
 author: "galekkomari"
 created_at_raw: "十月 27, 2025, 08:41 下午"
 created_at_iso: "2025-10-27T20:41:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:27 +0800"
-fetched_at_iso: "2026-02-26T10:12:27+08:00"
+fetched_at_raw: "2026-06-10 10:48:24 +0800"
+fetched_at_iso: "2026-06-10T10:48:24.735141+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6888
-approx_tokens: 3444
 ---
 
 # galekkomari的角色 - 界·白鼬
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十月 27, 2025, 08:41 下午
+- Posted at raw: 十月 27, 2025, 08:41 下午
+- Posted at iso: 2025-10-27T20:41:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -86,8 +86,10 @@ approx_tokens: 3444
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十月 27, 2025, 08:47 下午
+- Posted at raw: 十月 27, 2025, 08:47 下午
+- Posted at iso: 2025-10-27T20:47:00+08:00
 
 附录：
 

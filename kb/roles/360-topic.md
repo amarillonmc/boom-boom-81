@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=360.0"
 author: "增熵星"
 created_at_raw: "九月 16, 2025, 03:43 上午"
 created_at_iso: "2025-09-16T03:43:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:53 +0800"
-fetched_at_iso: "2026-02-26T09:59:53+08:00"
+fetched_at_raw: "2026-06-10 10:37:14 +0800"
+fetched_at_iso: "2026-06-10T10:37:14.936859+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1315
-approx_tokens: 658
 ---
 
 # 增熵星的角色 - 诺艾儿·柯涅尔
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 16, 2025, 03:43 上午
+- Posted at raw: 九月 16, 2025, 03:43 上午
+- Posted at iso: 2025-09-16T03:43:00+08:00
 
 **角色填写人：**增熵星
 
@@ -43,14 +43,18 @@ approx_tokens: 658
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 九月 16, 2025, 03:58 上午
+- Posted at raw: 九月 16, 2025, 03:58 上午
+- Posted at iso: 2025-09-16T03:58:00+08:00
 
 圣光爆发，然后是圣光爆发
 
 ## 3F
 
+- floor_index: 3
 - Author: 增熵星
-- Posted at: 九月 30, 2025, 09:16 上午
+- Posted at raw: 九月 30, 2025, 09:16 上午
+- Posted at iso: 2025-09-30T09:16:00+08:00
 
 【冠军角色】于https://number81.xyz/index.php?topic=969.0 中拿下了厨神大赛的冠军

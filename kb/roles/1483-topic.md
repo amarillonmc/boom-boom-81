@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1483.0"
 author: "小可"
 created_at_raw: "十月 11, 2025, 08:40 上午"
 created_at_iso: "2025-10-11T08:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:32 +0800"
-fetched_at_iso: "2026-02-26T10:08:32+08:00"
+fetched_at_raw: "2026-06-10 10:44:59 +0800"
+fetched_at_iso: "2026-06-10T10:44:59.451482+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4259
-approx_tokens: 2130
 ---
 
 # 小可的角色 - 搞笑方天画戟
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 11, 2025, 08:40 上午
+- Posted at raw: 十月 11, 2025, 08:40 上午
+- Posted at iso: 2025-10-11T08:40:00+08:00
 
 **角色填写人：**小可
 
@@ -75,8 +75,10 @@ approx_tokens: 2130
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 02:03 下午
+- Posted at raw: 十一月 07, 2025, 02:03 下午
+- Posted at iso: 2025-11-07T14:03:00+08:00
 
 **角色强度分析：搞笑方天画戟**
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1548.0"
 author: "Ender_Eragon"
 created_at_raw: "十月 13, 2025, 12:06 下午"
 created_at_iso: "2025-10-13T12:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:05 +0800"
-fetched_at_iso: "2026-02-26T10:09:05+08:00"
+fetched_at_raw: "2026-06-10 10:45:29 +0800"
+fetched_at_iso: "2026-06-10T10:45:29.581291+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7580
-approx_tokens: 3790
 ---
 
 # 终末的角色 - 极限化神-骷髅骑士（原神化进阶 骷髅骑士）
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十月 13, 2025, 12:06 下午
+- Posted at raw: 十月 13, 2025, 12:06 下午
+- Posted at iso: 2025-10-13T12:06:00+08:00
 
 **角色填写人：**终末
 
@@ -103,16 +103,20 @@ approx_tokens: 3790
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十月 13, 2025, 01:29 下午
+- Posted at raw: 十月 13, 2025, 01:29 下午
+- Posted at iso: 2025-10-13T13:29:00+08:00
 
 您完全没想过骷髅吃生命回复会变成掉血是吗。
 还有药箭也是有伤害的，不懂就问荆棘会不会把队友弹死。
 
 ## 3F
 
+- floor_index: 3
 - Author: Ender_Eragon
-- Posted at: 十月 14, 2025, 07:44 上午
+- Posted at raw: 十月 14, 2025, 07:44 上午
+- Posted at iso: 2025-10-14T07:44:00+08:00
 
 > [引用自: Justfish 于 十月 13, 2025, 01:29 下午](https://number81.xyz/index.php?msg=11997)您完全没想过骷髅吃生命回复会变成掉血是吗。
 > 还有药箭也是有伤害的，不懂就问荆棘会不会把队友弹死。
@@ -122,8 +126,10 @@ approx_tokens: 3790
 
 ## 4F
 
+- floor_index: 4
 - Author: Justfish
-- Posted at: 十月 14, 2025, 09:16 上午
+- Posted at raw: 十月 14, 2025, 09:16 上午
+- Posted at iso: 2025-10-14T09:16:00+08:00
 
 > [引用自: Ender_Eragon 于 十月 14, 2025, 07:44 上午](https://number81.xyz/index.php?msg=12202)> [引用自: Justfish 于 十月 13, 2025, 01:29 下午](https://number81.xyz/index.php?msg=11997)您完全没想过骷髅吃生命回复会变成掉血是吗。
 > > 还有药箭也是有伤害的，不懂就问荆棘会不会把队友弹死。
@@ -135,8 +141,10 @@ approx_tokens: 3790
 
 ## 5F
 
+- floor_index: 5
 - Author: Ender_Eragon
-- Posted at: 十月 14, 2025, 09:18 上午
+- Posted at raw: 十月 14, 2025, 09:18 上午
+- Posted at iso: 2025-10-14T09:18:00+08:00
 
 > [引用自: Justfish 于 十月 14, 2025, 09:16 上午](https://number81.xyz/index.php?msg=12216)> [引用自: Ender_Eragon 于 十月 14, 2025, 07:44 上午](https://number81.xyz/index.php?msg=12202)> [引用自: Justfish 于 十月 13, 2025, 01:29 下午](https://number81.xyz/index.php?msg=11997)您完全没想过骷髅吃生命回复会变成掉血是吗。
 > > > 还有药箭也是有伤害的，不懂就问荆棘会不会把队友弹死。
@@ -150,8 +158,10 @@ approx_tokens: 3790
 
 ## 6F
 
+- floor_index: 6
 - Author: Ender_Eragon
-- Posted at: 十一月 15, 2025, 09:55 上午
+- Posted at raw: 十一月 15, 2025, 09:55 上午
+- Posted at iso: 2025-11-15T09:55:00+08:00
 
 第一部分：核心身份 (Core Identity)
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1933.0"
 author: "Ombre"
 created_at_raw: "十月 25, 2025, 08:43 上午"
 created_at_iso: "2025-10-25T08:43:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:06 +0800"
-fetched_at_iso: "2026-02-26T10:20:06+08:00"
+fetched_at_raw: "2026-06-10 11:01:22 +0800"
+fetched_at_iso: "2026-06-10T11:01:22.541816+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 13159
-approx_tokens: 6580
 ---
 
 # 新Ombre流大乱斗规则
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 25, 2025, 08:43 上午
+- Posted at raw: 十月 25, 2025, 08:43 上午
+- Posted at iso: 2025-10-25T08:43:00+08:00
 
 ### **//-- AI核心指令集：荣光的战场协议 V2.0 --//**
 
@@ -395,7 +395,9 @@ approx_tokens: 6580
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十月 28, 2025, 11:18 上午
+- Posted at raw: 十月 28, 2025, 11:18 上午
+- Posted at iso: 2025-10-28T11:18:00+08:00
 
 2025-10-28 完成1.0版本现代化更新

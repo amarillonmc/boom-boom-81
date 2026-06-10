@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2349.0"
 author: "小可"
 created_at_raw: "十一月 05, 2025, 11:43 上午"
 created_at_iso: "2025-11-05T11:43:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:20 +0800"
-fetched_at_iso: "2026-02-26T10:14:20+08:00"
+fetched_at_raw: "2026-06-10 10:50:05 +0800"
+fetched_at_iso: "2026-06-10T10:50:05.646935+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5742
-approx_tokens: 2871
 ---
 
 # 小可的角色 - “无言的勇者王”伊莱亚斯
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 05, 2025, 11:43 上午
+- Posted at raw: 十一月 05, 2025, 11:43 上午
+- Posted at iso: 2025-11-05T11:43:00+08:00
 
 **角色填写人：**小可
 
@@ -77,8 +77,10 @@ approx_tokens: 2871
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 12:14 下午
+- Posted at raw: 十一月 07, 2025, 12:14 下午
+- Posted at iso: 2025-11-07T12:14:00+08:00
 
 **角色强度分析："无言的勇者王" 伊莱亚斯**
 

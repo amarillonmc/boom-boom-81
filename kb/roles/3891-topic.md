@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3891.0"
 author: "全装甲高达七号机"
 created_at_raw: "三月 28, 2026, 02:48 上午"
 created_at_iso: "2026-03-28T02:48:00+08:00"
-fetched_at_raw: "2026-03-30 08:44:47 +0800"
-fetched_at_iso: "2026-03-30T08:44:47.601154+08:00"
+fetched_at_raw: "2026-06-10 10:57:26 +0800"
+fetched_at_iso: "2026-06-10T10:57:26.756835+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

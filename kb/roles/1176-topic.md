@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1176.0"
 author: "小兵"
 created_at_raw: "十月 02, 2025, 02:35 上午"
 created_at_iso: "2025-10-02T02:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:13 +0800"
-fetched_at_iso: "2026-02-26T10:06:13+08:00"
+fetched_at_raw: "2026-06-10 10:42:56 +0800"
+fetched_at_iso: "2026-06-10T10:42:56.285382+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1216
-approx_tokens: 608
 ---
 
 # 小兵的角色 - 暗影牧师
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 02, 2025, 02:35 上午
+- Posted at raw: 十月 02, 2025, 02:35 上午
+- Posted at iso: 2025-10-02T02:35:00+08:00
 
 **角色填写人：**小兵
 

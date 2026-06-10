@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2350.0"
 author: "小可"
 created_at_raw: "十一月 05, 2025, 11:59 上午"
 created_at_iso: "2025-11-05T11:59:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:21 +0800"
-fetched_at_iso: "2026-02-26T10:14:21+08:00"
+fetched_at_raw: "2026-06-10 10:50:06 +0800"
+fetched_at_iso: "2026-06-10T10:50:06.510129+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4923
-approx_tokens: 2462
 ---
 
 # 小可的角色 - 阿斯特拉德，万龙之源，存在与延续的编织者 (Astrad, the Wyrm-Progenitor, Weaver of Existence and Continuation)
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 05, 2025, 11:59 上午
+- Posted at raw: 十一月 05, 2025, 11:59 上午
+- Posted at iso: 2025-11-05T11:59:00+08:00
 
 **角色填写人：**小可
 
@@ -75,8 +75,10 @@ approx_tokens: 2462
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 10:47 下午
+- Posted at raw: 十一月 07, 2025, 10:47 下午
+- Posted at iso: 2025-11-07T22:47:00+08:00
 
 **角色强度分析：阿斯特拉德，万龙之源**
 

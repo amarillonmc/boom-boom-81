@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1316.0"
 author: "Justfish"
 created_at_raw: "十月 05, 2025, 11:33 下午"
 created_at_iso: "2025-10-05T23:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:15 +0800"
-fetched_at_iso: "2026-02-26T10:07:15+08:00"
+fetched_at_raw: "2026-06-10 10:43:53 +0800"
+fetched_at_iso: "2026-06-10T10:43:53.644302+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2607
-approx_tokens: 1304
 ---
 
 # Justfish的角色 - 苍穹圣龙·Alter
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 05, 2025, 11:33 下午
+- Posted at raw: 十月 05, 2025, 11:33 下午
+- Posted at iso: 2025-10-05T23:33:00+08:00
 
 **角色填写人：**Justfish
 

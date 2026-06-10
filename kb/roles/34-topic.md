@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=34.0"
 author: "失智毛玉"
 created_at_raw: "九月 08, 2025, 10:21 上午"
 created_at_iso: "2025-09-08T10:21:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:42 +0800"
-fetched_at_iso: "2026-02-26T09:56:42+08:00"
+fetched_at_raw: "2026-06-10 10:34:14 +0800"
+fetched_at_iso: "2026-06-10T10:34:14.959555+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3782
-approx_tokens: 1891
 ---
 
 # 失智毛玉的角色 - 主神
 
 ## 1F
 
+- floor_index: 1
 - Author: 失智毛玉
-- Posted at: 九月 08, 2025, 10:21 上午
+- Posted at raw: 九月 08, 2025, 10:21 上午
+- Posted at iso: 2025-09-08T10:21:00+08:00
 
 **角色填写人：**失智毛玉
 

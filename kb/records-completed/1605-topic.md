@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1605.0"
 author: "Jerry"
 created_at_raw: "十月 15, 2025, 06:25 上午"
 created_at_iso: "2025-10-15T06:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:23:21 +0800"
-fetched_at_iso: "2026-02-26T10:23:21+08:00"
+fetched_at_raw: "2026-06-10 11:05:11 +0800"
+fetched_at_iso: "2026-06-10T11:05:11.130819+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 197088
-approx_tokens: 98544
 ---
 
 # 天下第一武道会第二期
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 15, 2025, 06:25 上午
+- Posted at raw: 十月 15, 2025, 06:25 上午
+- Posted at iso: 2025-10-15T06:25:00+08:00
 
 **【赛前预审核：柏喙意志的选手观察记录】**
 
@@ -193,8 +193,10 @@ approx_tokens: 98544
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 十月 15, 2025, 06:26 上午
+- Posted at raw: 十月 15, 2025, 06:26 上午
+- Posted at iso: 2025-10-15T06:26:00+08:00
 
 **【第0回合】**
 
@@ -308,8 +310,10 @@ approx_tokens: 98544
 
 ## 3F
 
+- floor_index: 3
 - Author: Jerry
-- Posted at: 十月 15, 2025, 06:44 上午
+- Posted at raw: 十月 15, 2025, 06:44 上午
+- Posted at iso: 2025-10-15T06:44:00+08:00
 
 **【第1回合】**
 
@@ -660,8 +664,10 @@ approx_tokens: 98544
 
 ## 4F
 
+- floor_index: 4
 - Author: Jerry
-- Posted at: 十月 15, 2025, 06:52 上午
+- Posted at raw: 十月 15, 2025, 06:52 上午
+- Posted at iso: 2025-10-15T06:52:00+08:00
 
 **【第1回合】（续）**
 
@@ -989,8 +995,10 @@ approx_tokens: 98544
 
 ## 5F
 
+- floor_index: 5
 - Author: Jerry
-- Posted at: 十月 15, 2025, 06:59 上午
+- Posted at raw: 十月 15, 2025, 06:59 上午
+- Posted at iso: 2025-10-15T06:59:00+08:00
 
 **【第1回合】（续）**
 
@@ -1322,8 +1330,10 @@ approx_tokens: 98544
 
 ## 6F
 
+- floor_index: 6
 - Author: Jerry
-- Posted at: 十月 15, 2025, 07:08 上午
+- Posted at raw: 十月 15, 2025, 07:08 上午
+- Posted at iso: 2025-10-15T07:08:00+08:00
 
 **【休整回合】**
 
@@ -1454,8 +1464,10 @@ approx_tokens: 98544
 
 ## 7F
 
+- floor_index: 7
 - Author: Jerry
-- Posted at: 十月 15, 2025, 07:18 上午
+- Posted at raw: 十月 15, 2025, 07:18 上午
+- Posted at iso: 2025-10-15T07:18:00+08:00
 
 **【第2回合】**
 
@@ -1834,8 +1846,10 @@ approx_tokens: 98544
 
 ## 8F
 
+- floor_index: 8
 - Author: Jerry
-- Posted at: 十月 15, 2025, 07:28 上午
+- Posted at raw: 十月 15, 2025, 07:28 上午
+- Posted at iso: 2025-10-15T07:28:00+08:00
 
 **【第2回合】（续）**
 
@@ -2147,8 +2161,10 @@ Team Den-O的五人，被这对配合默契的夫妻，耍得团团转。
 
 ## 9F
 
+- floor_index: 9
 - Author: Jerry
-- Posted at: 十月 15, 2025, 07:35 上午
+- Posted at raw: 十月 15, 2025, 07:35 上午
+- Posted at iso: 2025-10-15T07:35:00+08:00
 
 **【第2回合】（续）**
 
@@ -2499,8 +2515,10 @@ Team Den-O的五人，被这对配合默契的夫妻，耍得团团转。
 
 ## 10F
 
+- floor_index: 10
 - Author: Jerry
-- Posted at: 十月 15, 2025, 07:43 上午
+- Posted at raw: 十月 15, 2025, 07:43 上午
+- Posted at iso: 2025-10-15T07:43:00+08:00
 
 **【休整回合】**
 
@@ -2616,8 +2634,10 @@ Team Den-O的五人，被这对配合默契的夫妻，耍得团团转。
 
 ## 11F
 
+- floor_index: 11
 - Author: Jerry
-- Posted at: 十月 15, 2025, 07:58 上午
+- Posted at raw: 十月 15, 2025, 07:58 上午
+- Posted at iso: 2025-10-15T07:58:00+08:00
 
 **【第3回合】**
 
@@ -2898,8 +2918,10 @@ Team Den-O的五人，被这对配合默契的夫妻，耍得团团转。
 
 ## 12F
 
+- floor_index: 12
 - Author: Jerry
-- Posted at: 十月 15, 2025, 08:06 上午
+- Posted at raw: 十月 15, 2025, 08:06 上午
+- Posted at iso: 2025-10-15T08:06:00+08:00
 
 **【第3回合】（续）**
 
@@ -3235,8 +3257,10 @@ Team Den-O的五人，被这对配合默契的夫妻，耍得团团转。
 
 ## 13F
 
+- floor_index: 13
 - Author: Jerry
-- Posted at: 十月 15, 2025, 08:17 上午
+- Posted at raw: 十月 15, 2025, 08:17 上午
+- Posted at iso: 2025-10-15T08:17:00+08:00
 
 **【第3回合】（续）**
 
@@ -3564,8 +3588,10 @@ Team Den-O的五人，被这对配合默契的夫妻，耍得团团转。
 
 ## 14F
 
+- floor_index: 14
 - Author: Jerry
-- Posted at: 十月 15, 2025, 08:34 上午
+- Posted at raw: 十月 15, 2025, 08:34 上午
+- Posted at iso: 2025-10-15T08:34:00+08:00
 
 **【休整回合】**
 
@@ -3685,8 +3711,10 @@ Team Den-O的五人，被这对配合默契的夫妻，耍得团团转。
 
 ## 15F
 
+- floor_index: 15
 - Author: Jerry
-- Posted at: 十月 15, 2025, 08:42 上午
+- Posted at raw: 十月 15, 2025, 08:42 上午
+- Posted at iso: 2025-10-15T08:42:00+08:00
 
 **【第4回合】**
 
@@ -3990,8 +4018,10 @@ D. 杂鱼
 
 ## 16F
 
+- floor_index: 16
 - Author: Jerry
-- Posted at: 十月 15, 2025, 08:52 上午
+- Posted at raw: 十月 15, 2025, 08:52 上午
+- Posted at iso: 2025-10-15T08:52:00+08:00
 
 **【第4回合】（续）**
 
@@ -4365,8 +4395,10 @@ D. 杂鱼
 
 ## 17F
 
+- floor_index: 17
 - Author: Jerry
-- Posted at: 十月 15, 2025, 09:01 上午
+- Posted at raw: 十月 15, 2025, 09:01 上午
+- Posted at iso: 2025-10-15T09:01:00+08:00
 
 **【第4回合】（续）**
 
@@ -4779,8 +4811,10 @@ D. 杂鱼
 
 ## 18F
 
+- floor_index: 18
 - Author: Jerry
-- Posted at: 十月 15, 2025, 09:12 上午
+- Posted at raw: 十月 15, 2025, 09:12 上午
+- Posted at iso: 2025-10-15T09:12:00+08:00
 
 **【休整回合】**
 
@@ -4916,8 +4950,10 @@ D. 杂鱼
 
 ## 19F
 
+- floor_index: 19
 - Author: Jerry
-- Posted at: 十月 15, 2025, 09:17 上午
+- Posted at raw: 十月 15, 2025, 09:17 上午
+- Posted at iso: 2025-10-15T09:17:00+08:00
 
 **【休整回合】**
 
@@ -5062,8 +5098,10 @@ D. 杂鱼
 
 ## 20F
 
+- floor_index: 20
 - Author: Jerry
-- Posted at: 十月 15, 2025, 09:21 上午
+- Posted at raw: 十月 15, 2025, 09:21 上午
+- Posted at iso: 2025-10-15T09:21:00+08:00
 
 **【第5回合】**
 
@@ -5294,8 +5332,10 @@ D. 杂鱼
 
 ## 21F
 
+- floor_index: 21
 - Author: Jerry
-- Posted at: 十月 15, 2025, 09:30 上午
+- Posted at raw: 十月 15, 2025, 09:30 上午
+- Posted at iso: 2025-10-15T09:30:00+08:00
 
 **【第6回合】**
 
@@ -5484,8 +5524,10 @@ D. 杂鱼
 
 ## 22F
 
+- floor_index: 22
 - Author: Jerry
-- Posted at: 十月 15, 2025, 09:38 上午
+- Posted at raw: 十月 15, 2025, 09:38 上午
+- Posted at iso: 2025-10-15T09:38:00+08:00
 
 **【第7回合】**
 
@@ -5709,8 +5751,10 @@ D. 杂鱼
 
 ## 23F
 
+- floor_index: 23
 - Author: Jerry
-- Posted at: 十月 15, 2025, 09:45 上午
+- Posted at raw: 十月 15, 2025, 09:45 上午
+- Posted at iso: 2025-10-15T09:45:00+08:00
 
 **【第8回合】**
 
@@ -5933,8 +5977,10 @@ D. 杂鱼
 
 ## 24F
 
+- floor_index: 24
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:07 上午
+- Posted at raw: 十月 15, 2025, 10:07 上午
+- Posted at iso: 2025-10-15T10:07:00+08:00
 
 **【休整回合】**
 
@@ -6103,8 +6149,10 @@ D. 杂鱼
 
 ## 25F
 
+- floor_index: 25
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:13 上午
+- Posted at raw: 十月 15, 2025, 10:13 上午
+- Posted at iso: 2025-10-15T10:13:00+08:00
 
 **【第9回合】**
 
@@ -6406,8 +6454,10 @@ D. 杂鱼
 
 ## 26F
 
+- floor_index: 26
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:18 上午
+- Posted at raw: 十月 15, 2025, 10:18 上午
+- Posted at iso: 2025-10-15T10:18:00+08:00
 
 **【第10回合】**
 
@@ -6628,8 +6678,10 @@ D. 杂鱼
 
 ## 27F
 
+- floor_index: 27
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:28 上午
+- Posted at raw: 十月 15, 2025, 10:28 上午
+- Posted at iso: 2025-10-15T10:28:00+08:00
 
 **【休整回合】**
 
@@ -6803,8 +6855,10 @@ D. 杂鱼
 
 ## 28F
 
+- floor_index: 28
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:36 上午
+- Posted at raw: 十月 15, 2025, 10:36 上午
+- Posted at iso: 2025-10-15T10:36:00+08:00
 
 **【第11回合】**
 
@@ -7095,8 +7149,10 @@ D. 杂鱼
 
 ## 29F
 
+- floor_index: 29
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:38 上午
+- Posted at raw: 十月 15, 2025, 10:38 上午
+- Posted at iso: 2025-10-15T10:38:00+08:00
 
 **【第12回合】**
 
@@ -7278,8 +7334,10 @@ D. 杂鱼
 
 ## 30F
 
+- floor_index: 30
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:45 上午
+- Posted at raw: 十月 15, 2025, 10:45 上午
+- Posted at iso: 2025-10-15T10:45:00+08:00
 
 **【颁奖典礼】**
 
@@ -7455,8 +7513,10 @@ D. 杂鱼
 
 ## 31F
 
+- floor_index: 31
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:50 上午
+- Posted at raw: 十月 15, 2025, 10:50 上午
+- Posted at iso: 2025-10-15T10:50:00+08:00
 
 **【休整回合】**
 
@@ -7631,8 +7691,10 @@ D. 杂鱼
 
 ## 32F
 
+- floor_index: 32
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:54 上午
+- Posted at raw: 十月 15, 2025, 10:54 上午
+- Posted at iso: 2025-10-15T10:54:00+08:00
 
 **【第13回合】**
 
@@ -7856,8 +7918,10 @@ D. 杂鱼
 
 ## 33F
 
+- floor_index: 33
 - Author: Jerry
-- Posted at: 十月 15, 2025, 10:58 上午
+- Posted at raw: 十月 15, 2025, 10:58 上午
+- Posted at iso: 2025-10-15T10:58:00+08:00
 
 **【最终章：盛宴与尾声】**
 

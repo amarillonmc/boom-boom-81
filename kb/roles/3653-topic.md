@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3653.0"
 author: "圆脸胖鸡Ovo"
 created_at_raw: "三月 15, 2026, 03:50 上午"
 created_at_iso: "2026-03-15T03:50:00+08:00"
-fetched_at_raw: "2026-03-18 22:28:54 +0800"
-fetched_at_iso: "2026-03-18T22:28:54.560140+08:00"
+fetched_at_raw: "2026-06-10 10:55:55 +0800"
+fetched_at_iso: "2026-06-10T10:55:55.983494+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

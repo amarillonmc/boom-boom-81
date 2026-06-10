@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=56.0"
 author: "小可"
 created_at_raw: "九月 08, 2025, 11:13 上午"
 created_at_iso: "2025-09-08T11:13:00+08:00"
-fetched_at_raw: "2026-02-26 09:56:59 +0800"
-fetched_at_iso: "2026-02-26T09:56:59+08:00"
+fetched_at_raw: "2026-06-10 10:34:30 +0800"
+fetched_at_iso: "2026-06-10T10:34:30.584489+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5089
-approx_tokens: 2545
 ---
 
 # 小可的角色 - 天下第一武道会
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 08, 2025, 11:13 上午
+- Posted at raw: 九月 08, 2025, 11:13 上午
+- Posted at iso: 2025-09-08T11:13:00+08:00
 
 **角色填写人：**小可
 
@@ -78,8 +78,10 @@ approx_tokens: 2545
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 01:34 下午
+- Posted at raw: 十一月 07, 2025, 01:34 下午
+- Posted at iso: 2025-11-07T13:34:00+08:00
 
 **角色强度分析：天下第一武道会**
 

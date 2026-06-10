@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2946.0"
 author: "Jerry"
 created_at_raw: "十一月 20, 2025, 12:10 下午"
 created_at_iso: "2025-11-20T12:10:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:20 +0800"
-fetched_at_iso: "2026-02-26T10:17:20+08:00"
+fetched_at_raw: "2026-06-10 10:52:52 +0800"
+fetched_at_iso: "2026-06-10T10:52:52.015606+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3210
-approx_tokens: 1605
 ---
 
 # Jerry的角色 - 神代剑
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十一月 20, 2025, 12:10 下午
+- Posted at raw: 十一月 20, 2025, 12:10 下午
+- Posted at iso: 2025-11-20T12:10:00+08:00
 
 **角色填写人：**Jerry
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1738.0"
 author: "烛火"
 created_at_raw: "十月 19, 2025, 12:31 上午"
 created_at_iso: "2025-10-19T00:31:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:33 +0800"
-fetched_at_iso: "2026-02-26T10:10:33+08:00"
+fetched_at_raw: "2026-06-10 10:46:44 +0800"
+fetched_at_iso: "2026-06-10T10:46:44.049514+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 16797
-approx_tokens: 8399
 ---
 
 # 烛火的角色 - 鲍勃
 
 ## 1F
 
+- floor_index: 1
 - Author: 烛火
-- Posted at: 十月 19, 2025, 12:31 上午
+- Posted at raw: 十月 19, 2025, 12:31 上午
+- Posted at iso: 2025-10-19T00:31:00+08:00
 
 **角色填写人：**烛火
 
@@ -195,15 +195,19 @@ TIPS（鲍勃对你说的几句心里话）
 
 ## 2F
 
+- floor_index: 2
 - Author: 烛火
-- Posted at: 十月 19, 2025, 02:10 下午
+- Posted at raw: 十月 19, 2025, 02:10 下午
+- Posted at iso: 2025-10-19T14:10:00+08:00
 
 注。本角色理论层级为论外（完全掌握）。其位于准神层级是因为缺乏aoe的弱点导致的极度的偏科。其加权前基础评分为5，0，5，10，10，10。加权后总计67.5分。扣分项10（10*1）。最后分数57.5分刚好落入准神分数线内。
 
 ## 3F
 
+- floor_index: 3
 - Author: 烛火
-- Posted at: 十一月 17, 2025, 07:33 上午
+- Posted at raw: 十一月 17, 2025, 07:33 上午
+- Posted at iso: 2025-11-17T07:33:00+08:00
 
 ***
 ### **【AI生成部分】**
@@ -282,8 +286,10 @@ TIPS（鲍勃对你说的几句心里话）
 
 ## 4F
 
+- floor_index: 4
 - Author: 烛火
-- Posted at: 十一月 26, 2025, 05:01 上午
+- Posted at raw: 十一月 26, 2025, 05:01 上午
+- Posted at iso: 2025-11-26T05:01:00+08:00
 
 [color=var(--tw-prose-headings)]【赫菲斯托斯MS设计协议 V1.0】—— 机体档案[/color]
 [color=var(--tw-prose-headings)]1. 【机体命名 (Unit Naming)】[/color]

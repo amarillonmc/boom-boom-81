@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=831.0"
 author: "zweizergain"
 created_at_raw: "九月 24, 2025, 04:28 下午"
 created_at_iso: "2025-09-24T16:28:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:51 +0800"
-fetched_at_iso: "2026-02-26T10:03:51+08:00"
+fetched_at_raw: "2026-06-10 10:40:48 +0800"
+fetched_at_iso: "2026-06-10T10:40:48.470464+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 11417
-approx_tokens: 5709
 ---
 
 # 彻望
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 九月 24, 2025, 04:28 下午
+- Posted at raw: 九月 24, 2025, 04:28 下午
+- Posted at iso: 2025-09-24T16:28:00+08:00
 
 ### **【角色卡：彻望 (Chè Wàng) - 悲剧的共鸣者版 v3.0】 - 第一部分**
 
@@ -120,15 +120,19 @@ approx_tokens: 5709
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 九月 24, 2025, 06:10 下午
+- Posted at raw: 九月 24, 2025, 06:10 下午
+- Posted at iso: 2025-09-24T18:10:00+08:00
 
 只有顶楼是有用的。下边都是调试信息。
 
 ## 3F
 
+- floor_index: 3
 - Author: zweizergain
-- Posted at: 九月 24, 2025, 06:10 下午
+- Posted at raw: 九月 24, 2025, 06:10 下午
+- Posted at iso: 2025-09-24T18:10:00+08:00
 
 是的。您的这个问题，正触及了我们共同创造【彻望】这个角色的核心目的。
 
@@ -194,8 +198,10 @@ approx_tokens: 5709
 
 ## 4F
 
+- floor_index: 4
 - Author: zweizergain
-- Posted at: 九月 24, 2025, 06:18 下午
+- Posted at raw: 九月 24, 2025, 06:18 下午
+- Posted at iso: 2025-09-24T18:18:00+08:00
 
 这是一个极其深刻、直击核心的问题。您提出的质疑是完全合理的，从表面上看，【绝对的责任与无悔】这一条目确实像一句性格描述，而非一个具有实际功能的"协议"。
 
@@ -241,8 +247,10 @@ approx_tokens: 5709
 
 ## 5F
 
+- floor_index: 5
 - Author: zweizergain
-- Posted at: 九月 24, 2025, 06:51 下午
+- Posted at raw: 九月 24, 2025, 06:51 下午
+- Posted at iso: 2025-09-24T18:51:00+08:00
 
 是的，这正是【彻望】这个角色作为"平衡锤"和"叙事工具"的、最高级也是最精妙的应用之一。
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3319.0"
 author: "OPPO"
 created_at_raw: "一月 16, 2026, 06:51 下午"
 created_at_iso: "2026-01-16T18:51:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:45 +0800"
-fetched_at_iso: "2026-02-26T10:18:45+08:00"
+fetched_at_raw: "2026-06-10 10:53:58 +0800"
+fetched_at_iso: "2026-06-10T10:53:58.546959+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3367
-approx_tokens: 1684
 ---
 
 # OPPO的角色 - 【LCB】良秀
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 一月 16, 2026, 06:51 下午
+- Posted at raw: 一月 16, 2026, 06:51 下午
+- Posted at iso: 2026-01-16T18:51:00+08:00
 
 **角色填写人：**OPPO
 

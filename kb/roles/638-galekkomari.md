@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=638.0"
 author: "galekkomari"
 created_at_raw: "九月 21, 2025, 08:27 下午"
 created_at_iso: "2025-09-21T20:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:21 +0800"
-fetched_at_iso: "2026-02-26T10:02:21+08:00"
+fetched_at_raw: "2026-06-10 10:39:30 +0800"
+fetched_at_iso: "2026-06-10T10:39:30.986320+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3934
-approx_tokens: 1967
 ---
 
 # galekkomari的角色 - 鸟澄珠乌
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 21, 2025, 08:27 下午
+- Posted at raw: 九月 21, 2025, 08:27 下午
+- Posted at iso: 2025-09-21T20:27:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -76,8 +76,10 @@ Spell Card列表：
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 九月 21, 2025, 08:47 下午
+- Posted at raw: 九月 21, 2025, 08:47 下午
+- Posted at iso: 2025-09-21T20:47:00+08:00
 
 **角色填写人：**galekkomari
 

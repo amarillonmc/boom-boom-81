@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2021.0"
 author: "全装甲高达七号机"
 created_at_raw: "十月 27, 2025, 03:40 下午"
 created_at_iso: "2025-10-27T15:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:24:52 +0800"
-fetched_at_iso: "2026-02-26T10:24:52+08:00"
+fetched_at_raw: "2026-06-10 11:07:02 +0800"
+fetched_at_iso: "2026-06-10T11:07:02.758119+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 71160
-approx_tokens: 35580
 ---
 
 # 数码兽测试局
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:40 下午
+- Posted at raw: 十月 27, 2025, 03:40 下午
+- Posted at iso: 2025-10-27T15:40:00+08:00
 
 好的，所有角色卡已接收并完成解析。
 
@@ -127,8 +127,10 @@ approx_tokens: 35580
 
 ## 2F
 
+- floor_index: 2
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:43 下午
+- Posted at raw: 十月 27, 2025, 03:43 下午
+- Posted at iso: 2025-10-27T15:43:00+08:00
 
 ### **【回合数】 1**
 
@@ -238,8 +240,10 @@ approx_tokens: 35580
 
 ## 3F
 
+- floor_index: 3
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:44 下午
+- Posted at raw: 十月 27, 2025, 03:44 下午
+- Posted at iso: 2025-10-27T15:44:00+08:00
 
 ### **【回合数】 2**
 
@@ -333,8 +337,10 @@ approx_tokens: 35580
 
 ## 4F
 
+- floor_index: 4
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:46 下午
+- Posted at raw: 十月 27, 2025, 03:46 下午
+- Posted at iso: 2025-10-27T15:46:00+08:00
 
 ### **【回合数】 3**
 
@@ -483,8 +489,10 @@ approx_tokens: 35580
 
 ## 5F
 
+- floor_index: 5
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:48 下午
+- Posted at raw: 十月 27, 2025, 03:48 下午
+- Posted at iso: 2025-10-27T15:48:00+08:00
 
 ### **【回合数】 4**
 
@@ -550,8 +558,10 @@ approx_tokens: 35580
 
 ## 6F
 
+- floor_index: 6
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:50 下午
+- Posted at raw: 十月 27, 2025, 03:50 下午
+- Posted at iso: 2025-10-27T15:50:00+08:00
 
 ### **【回合数】 5**
 
@@ -695,8 +705,10 @@ approx_tokens: 35580
 
 ## 7F
 
+- floor_index: 7
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:52 下午
+- Posted at raw: 十月 27, 2025, 03:52 下午
+- Posted at iso: 2025-10-27T15:52:00+08:00
 
 ### **【回合数】 6**
 
@@ -839,8 +851,10 @@ approx_tokens: 35580
 
 ## 8F
 
+- floor_index: 8
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:54 下午
+- Posted at raw: 十月 27, 2025, 03:54 下午
+- Posted at iso: 2025-10-27T15:54:00+08:00
 
 ### **【回合数】 7**
 
@@ -967,8 +981,10 @@ approx_tokens: 35580
 
 ## 9F
 
+- floor_index: 9
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:55 下午
+- Posted at raw: 十月 27, 2025, 03:55 下午
+- Posted at iso: 2025-10-27T15:55:00+08:00
 
 ### **【回合数】 8**
 
@@ -1031,8 +1047,10 @@ approx_tokens: 35580
 
 ## 10F
 
+- floor_index: 10
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:57 下午
+- Posted at raw: 十月 27, 2025, 03:57 下午
+- Posted at iso: 2025-10-27T15:57:00+08:00
 
 ### **【回合数】 9**
 
@@ -1132,8 +1150,10 @@ approx_tokens: 35580
 
 ## 11F
 
+- floor_index: 11
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 03:59 下午
+- Posted at raw: 十月 27, 2025, 03:59 下午
+- Posted at iso: 2025-10-27T15:59:00+08:00
 
 ### **【回合数】 10**
 
@@ -1220,8 +1240,10 @@ approx_tokens: 35580
 
 ## 12F
 
+- floor_index: 12
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:01 下午
+- Posted at raw: 十月 27, 2025, 04:01 下午
+- Posted at iso: 2025-10-27T16:01:00+08:00
 
 ### **【回合数】 11**
 
@@ -1361,8 +1383,10 @@ approx_tokens: 35580
 
 ## 13F
 
+- floor_index: 13
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:03 下午
+- Posted at raw: 十月 27, 2025, 04:03 下午
+- Posted at iso: 2025-10-27T16:03:00+08:00
 
 ### **【回合数】 12**
 
@@ -1422,8 +1446,10 @@ approx_tokens: 35580
 
 ## 14F
 
+- floor_index: 14
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:04 下午
+- Posted at raw: 十月 27, 2025, 04:04 下午
+- Posted at iso: 2025-10-27T16:04:00+08:00
 
 ### **【回合数】 13**
 
@@ -1552,8 +1578,10 @@ approx_tokens: 35580
 
 ## 15F
 
+- floor_index: 15
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:06 下午
+- Posted at raw: 十月 27, 2025, 04:06 下午
+- Posted at iso: 2025-10-27T16:06:00+08:00
 
 ### **【回合数】 14**
 
@@ -1684,8 +1712,10 @@ approx_tokens: 35580
 
 ## 16F
 
+- floor_index: 16
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:07 下午
+- Posted at raw: 十月 27, 2025, 04:07 下午
+- Posted at iso: 2025-10-27T16:07:00+08:00
 
 ### **【回合数】 15**
 
@@ -1789,8 +1819,10 @@ approx_tokens: 35580
 
 ## 17F
 
+- floor_index: 17
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:09 下午
+- Posted at raw: 十月 27, 2025, 04:09 下午
+- Posted at iso: 2025-10-27T16:09:00+08:00
 
 ### **【回合数】 16**
 
@@ -1873,8 +1905,10 @@ approx_tokens: 35580
 
 ## 18F
 
+- floor_index: 18
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:11 下午
+- Posted at raw: 十月 27, 2025, 04:11 下午
+- Posted at iso: 2025-10-27T16:11:00+08:00
 
 ### **【回合数】 17**
 
@@ -1925,8 +1959,10 @@ approx_tokens: 35580
 
 ## 19F
 
+- floor_index: 19
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:14 下午
+- Posted at raw: 十月 27, 2025, 04:14 下午
+- Posted at iso: 2025-10-27T16:14:00+08:00
 
 ### **【回合数】 18**
 
@@ -2025,8 +2061,10 @@ approx_tokens: 35580
 
 ## 20F
 
+- floor_index: 20
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:15 下午
+- Posted at raw: 十月 27, 2025, 04:15 下午
+- Posted at iso: 2025-10-27T16:15:00+08:00
 
 ### **【回合数】 19**
 
@@ -2142,8 +2180,10 @@ approx_tokens: 35580
 
 ## 21F
 
+- floor_index: 21
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:17 下午
+- Posted at raw: 十月 27, 2025, 04:17 下午
+- Posted at iso: 2025-10-27T16:17:00+08:00
 
 ### **【回合数】 20**
 
@@ -2214,8 +2254,10 @@ approx_tokens: 35580
 
 ## 22F
 
+- floor_index: 22
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:21 下午
+- Posted at raw: 十月 27, 2025, 04:21 下午
+- Posted at iso: 2025-10-27T16:21:00+08:00
 
 ### **【回合数】 21**
 
@@ -2309,8 +2351,10 @@ approx_tokens: 35580
 
 ## 23F
 
+- floor_index: 23
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:23 下午
+- Posted at raw: 十月 27, 2025, 04:23 下午
+- Posted at iso: 2025-10-27T16:23:00+08:00
 
 ### **【回合数】 22**
 
@@ -2413,8 +2457,10 @@ approx_tokens: 35580
 
 ## 24F
 
+- floor_index: 24
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:25 下午
+- Posted at raw: 十月 27, 2025, 04:25 下午
+- Posted at iso: 2025-10-27T16:25:00+08:00
 
 ### **【回合数】 23-27 (合并阶段)**
 
@@ -2490,8 +2536,10 @@ approx_tokens: 35580
 
 ## 25F
 
+- floor_index: 25
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:26 下午
+- Posted at raw: 十月 27, 2025, 04:26 下午
+- Posted at iso: 2025-10-27T16:26:00+08:00
 
 ### **【回合数】 28-29 (合并阶段)**
 
@@ -2617,8 +2665,10 @@ approx_tokens: 35580
 
 ## 26F
 
+- floor_index: 26
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:28 下午
+- Posted at raw: 十月 27, 2025, 04:28 下午
+- Posted at iso: 2025-10-27T16:28:00+08:00
 
 ### **【回合数】 30** (合并自31回合)
 
@@ -2686,7 +2736,9 @@ approx_tokens: 35580
 
 ## 27F
 
+- floor_index: 27
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 04:31 下午
+- Posted at raw: 十月 27, 2025, 04:31 下午
+- Posted at iso: 2025-10-27T16:31:00+08:00
 
 笑死神下的黄龙兽：坏灭打不过狂巅的奥米加兽。

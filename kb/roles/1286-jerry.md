@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1286.0"
 author: "Jerry"
 created_at_raw: "十月 05, 2025, 04:34 上午"
 created_at_iso: "2025-10-05T04:34:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:58 +0800"
-fetched_at_iso: "2026-02-26T10:06:58+08:00"
+fetched_at_raw: "2026-06-10 10:43:37 +0800"
+fetched_at_iso: "2026-06-10T10:43:37.640456+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8009
-approx_tokens: 4005
 ---
 
 # Jerry的角色 - 狂笑之蝠与黑暗骑士团
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 05, 2025, 04:34 上午
+- Posted at raw: 十月 05, 2025, 04:34 上午
+- Posted at iso: 2025-10-05T04:34:00+08:00
 
 **角色填写人：**Jerry
 

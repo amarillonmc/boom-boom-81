@@ -6,86 +6,104 @@ source_url: "https://number81.xyz/index.php?topic=3028.0"
 author: "OPPO"
 created_at_raw: "十一月 24, 2025, 10:37 上午"
 created_at_iso: "2025-11-24T10:37:00+08:00"
-fetched_at_raw: "2026-02-26 10:27:31 +0800"
-fetched_at_iso: "2026-02-26T10:27:31+08:00"
+fetched_at_raw: "2026-06-10 11:10:02 +0800"
+fetched_at_iso: "2026-06-10T11:10:02.261120+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 26525
-approx_tokens: 13263
 ---
 
 # 【云顶之奕】测试
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 10:37 上午
+- Posted at raw: 十一月 24, 2025, 10:37 上午
+- Posted at iso: 2025-11-24T10:37:00+08:00
 
 只接受有明确出处的角色
 8人
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 十一月 24, 2025, 10:43 上午
+- Posted at raw: 十一月 24, 2025, 10:43 上午
+- Posted at iso: 2025-11-24T10:43:00+08:00
 
 佐助
 
 ## 3F
 
+- floor_index: 3
 - Author: 小兵
-- Posted at: 十一月 24, 2025, 10:46 上午
+- Posted at raw: 十一月 24, 2025, 10:46 上午
+- Posted at iso: 2025-11-24T10:46:00+08:00
 
 亚历山德罗·迪·卡利奥斯特罗（FGO）
 
 ## 4F
 
+- floor_index: 4
 - Author: 烛火
-- Posted at: 十一月 24, 2025, 10:48 上午
+- Posted at raw: 十一月 24, 2025, 10:48 上午
+- Posted at iso: 2025-11-24T10:48:00+08:00
 
 山城拓也
 
 ## 5F
 
+- floor_index: 5
 - Author: 全装甲高达七号机
-- Posted at: 十一月 24, 2025, 10:53 上午
+- Posted at raw: 十一月 24, 2025, 10:53 上午
+- Posted at iso: 2025-11-24T10:53:00+08:00
 
 金甲龙兽
 
 ## 6F
 
+- floor_index: 6
 - Author: zweizergain
-- Posted at: 十一月 24, 2025, 10:53 上午
+- Posted at raw: 十一月 24, 2025, 10:53 上午
+- Posted at iso: 2025-11-24T10:53:00+08:00
 
 张华
 
 ## 7F
 
+- floor_index: 7
 - Author: 普通人的无聊生活
-- Posted at: 十一月 24, 2025, 10:54 上午
+- Posted at raw: 十一月 24, 2025, 10:54 上午
+- Posted at iso: 2025-11-24T10:54:00+08:00
 
 东风谷早苗
 
 ## 8F
 
+- floor_index: 8
 - Author: Ender_Eragon
-- Posted at: 十一月 24, 2025, 10:59 上午
+- Posted at raw: 十一月 24, 2025, 10:59 上午
+- Posted at iso: 2025-11-24T10:59:00+08:00
 
 万界的通行者
 
 ## 9F
 
+- floor_index: 9
 - Author: 增熵星
-- Posted at: 十一月 24, 2025, 11:02 上午
+- Posted at raw: 十一月 24, 2025, 11:02 上午
+- Posted at iso: 2025-11-24T11:02:00+08:00
 
 朵拉
 
 ## 10F
 
+- floor_index: 10
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:13 下午
+- Posted at raw: 十一月 24, 2025, 12:13 下午
+- Posted at iso: 2025-11-24T12:13:00+08:00
 
 我已收到您提供的八位角色的详尽设定。这八份角色卡信息量巨大，细节丰富，设定严谨，为叙事提供了极其坚实的基础。
 
@@ -231,8 +249,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 11F
 
+- floor_index: 11
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:13 下午
+- Posted at raw: 十一月 24, 2025, 12:13 下午
+- Posted at iso: 2025-11-24T12:13:00+08:00
 
 好的，正在根据八位角色的世界观生成60张卡牌库。以下是完整的卡牌列表，包含名称、费用、羁绊及效果。
 
@@ -426,8 +446,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 12F
 
+- floor_index: 12
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:14 下午
+- Posted at raw: 十一月 24, 2025, 12:14 下午
+- Posted at iso: 2025-11-24T12:14:00+08:00
 
 好的，游戏正式开始。以下是第一回合的叙事。
 
@@ -558,8 +580,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 13F
 
+- floor_index: 13
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:19 下午
+- Posted at raw: 十一月 24, 2025, 12:19 下午
+- Posted at iso: 2025-11-24T12:19:00+08:00
 
 好的，游戏继续。以下是第一场PvP对局与强化符文选择的关键节点。
 
@@ -677,8 +701,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 14F
 
+- floor_index: 14
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:20 下午
+- Posted at raw: 十一月 24, 2025, 12:20 下午
+- Posted at iso: 2025-11-24T12:20:00+08:00
 
 好的，让我们聚焦于最精彩的对决，并快速过渡到阶段结果。
 
@@ -728,8 +754,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 15F
 
+- floor_index: 15
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:23 下午
+- Posted at raw: 十一月 24, 2025, 12:23 下午
+- Posted at iso: 2025-11-24T12:23:00+08:00
 
 您指出的非常对，这是一个重要的设定遗漏。在标准的云顶之弈对局中，2-1、3-2和4-2回合是固定的强化符文选择环节。由于我的疏忽，在之前的叙述中跳过了3-2的符文选择。
 
@@ -806,8 +834,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 16F
 
+- floor_index: 16
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:25 下午
+- Posted at raw: 十一月 24, 2025, 12:25 下午
+- Posted at iso: 2025-11-24T12:25:00+08:00
 
 好的，游戏进入白热化的阶段4。
 
@@ -883,8 +913,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 17F
 
+- floor_index: 17
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:27 下午
+- Posted at raw: 十一月 24, 2025, 12:27 下午
+- Posted at iso: 2025-11-24T12:27:00+08:00
 
 目前战局进入白热化的五阶段，各位弈手的阵容基本成型。这里帮你梳理了他们的现有阵容、装备和后续追求。
 
@@ -915,8 +947,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 18F
 
+- floor_index: 18
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:28 下午
+- Posted at raw: 十一月 24, 2025, 12:28 下午
+- Posted at iso: 2025-11-24T12:28:00+08:00
 
 好的，游戏进入决定性的第五阶段后半程。
 
@@ -982,8 +1016,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 19F
 
+- floor_index: 19
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:30 下午
+- Posted at raw: 十一月 24, 2025, 12:30 下午
+- Posted at iso: 2025-11-24T12:30:00+08:00
 
 第八章：万象终章（上）——觉醒时刻
 
@@ -1044,8 +1080,10 @@ A.D.F.A.G.N.A. V1.1 协议 - 最终确认
 
 ## 20F
 
+- floor_index: 20
 - Author: OPPO
-- Posted at: 十一月 24, 2025, 12:31 下午
+- Posted at raw: 十一月 24, 2025, 12:31 下午
+- Posted at iso: 2025-11-24T12:31:00+08:00
 
 第八章：万象终章（下）——唯一之王
 

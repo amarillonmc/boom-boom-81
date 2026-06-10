@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=4345.0"
 author: "zweizergain"
 created_at_raw: "五月 16, 2026, 06:09 上午"
 created_at_iso: "2026-05-16T06:09:00+08:00"
-fetched_at_raw: "2026-05-18 03:55:25 +0800"
-fetched_at_iso: "2026-05-18T03:55:25.937608+08:00"
+fetched_at_raw: "2026-06-10 10:59:33 +0800"
+fetched_at_iso: "2026-06-10T10:59:33.600355+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -576,5 +576,3 @@ AI必须追踪当前理智稳定度，严禁把找回理智写成完全恢复。
 10. **【严禁控制努力消失】：** 只要理智尚存，布罗利就会持续尝试控制力量。严禁在激战态初期就把他写成完全放弃控制。
 
 ---
-
-**【V1.1 · 未驯服的可能性 · 剧场版后 · 封存完毕】**

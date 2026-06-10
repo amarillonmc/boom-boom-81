@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=481.0"
 author: "Jerry"
 created_at_raw: "九月 19, 2025, 12:33 上午"
 created_at_iso: "2025-09-19T00:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:11 +0800"
-fetched_at_iso: "2026-02-26T10:19:11+08:00"
+fetched_at_raw: "2026-06-10 11:00:29 +0800"
+fetched_at_iso: "2026-06-10T11:00:29.208887+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2998
-approx_tokens: 1499
 ---
 
 # 新规-生化危机任务
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 19, 2025, 12:33 上午
+- Posted at raw: 九月 19, 2025, 12:33 上午
+- Posted at iso: 2025-09-19T00:33:00+08:00
 
 ### **《争夺之卷：零号病毒协议》**
 **——《角色对决游戏：终极规则手册》V7.1 补充规则**
@@ -95,22 +95,28 @@ approx_tokens: 1499
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 九月 19, 2025, 12:36 上午
+- Posted at raw: 九月 19, 2025, 12:36 上午
+- Posted at iso: 2025-09-19T00:36:00+08:00
 
 各位可以发表一下建议。。。
 
 ## 3F
 
+- floor_index: 3
 - Author: 乐乐
-- Posted at: 九月 19, 2025, 12:36 上午
+- Posted at raw: 九月 19, 2025, 12:36 上午
+- Posted at iso: 2025-09-19T00:36:00+08:00
 
 爱神•丘比特（万象导演），丘比
 两者各玩各的，不组队
 
 ## 4F
 
+- floor_index: 4
 - Author: Jerry
-- Posted at: 九月 19, 2025, 12:48 上午
+- Posted at raw: 九月 19, 2025, 12:48 上午
+- Posted at iso: 2025-09-19T00:48:00+08:00
 
 报名请移步主页（）

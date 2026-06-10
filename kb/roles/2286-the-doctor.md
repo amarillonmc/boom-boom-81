@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2286.0"
 author: "全装甲高达七号机"
 created_at_raw: "十一月 03, 2025, 07:17 上午"
 created_at_iso: "2025-11-03T07:17:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:52 +0800"
-fetched_at_iso: "2026-02-26T10:13:52+08:00"
+fetched_at_raw: "2026-06-10 10:49:39 +0800"
+fetched_at_iso: "2026-06-10T10:49:39.416680+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 9336
-approx_tokens: 4668
 ---
 
 # 全装甲高达七号机的角色 - 博士 (The Doctor)
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十一月 03, 2025, 07:17 上午
+- Posted at raw: 十一月 03, 2025, 07:17 上午
+- Posted at iso: 2025-11-03T07:17:00+08:00
 
 **角色填写人：**全装甲高达七号机
 

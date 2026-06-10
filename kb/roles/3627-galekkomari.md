@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3627.0"
 author: "galekkomari"
 created_at_raw: "三月 12, 2026, 10:15 下午"
 created_at_iso: "2026-03-12T22:15:00+08:00"
-fetched_at_raw: "2026-03-13 19:01:39 +0800"
-fetched_at_iso: "2026-03-13T19:01:39.977745+08:00"
+fetched_at_raw: "2026-06-10 10:55:46 +0800"
+fetched_at_iso: "2026-06-10T10:55:46.715378+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=147.0"
 author: "普通人的无聊生活"
 created_at_raw: "九月 09, 2025, 02:54 下午"
 created_at_iso: "2025-09-09T14:54:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:52 +0800"
-fetched_at_iso: "2026-02-26T09:57:52+08:00"
+fetched_at_raw: "2026-06-10 10:35:22 +0800"
+fetched_at_iso: "2026-06-10T10:35:22.627601+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4213
-approx_tokens: 2107
 ---
 
 # 普通人的无聊生活的角色 - 战刃骸
 
 ## 1F
 
+- floor_index: 1
 - Author: 普通人的无聊生活
-- Posted at: 九月 09, 2025, 02:54 下午
+- Posted at raw: 九月 09, 2025, 02:54 下午
+- Posted at iso: 2025-09-09T14:54:00+08:00
 
 **角色填写人：**普通人的无聊生活
 
@@ -42,8 +42,10 @@ approx_tokens: 2107
 
 ## 2F
 
+- floor_index: 2
 - Author: 普通人的无聊生活
-- Posted at: 十一月 15, 2025, 05:56 上午
+- Posted at raw: 十一月 15, 2025, 05:56 上午
+- Posted at iso: 2025-11-15T05:56:00+08:00
 
 ### FGO风格从者角色转录协议 (FGO-Style Character Transcription Protocol)
 【AI指令前言】

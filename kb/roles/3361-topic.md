@@ -6,14 +6,12 @@ source_url: "https://number81.xyz/index.php?topic=3361.0"
 author: "王者的老凤凰"
 created_at_raw: "二月 25, 2026, 10:16 下午"
 created_at_iso: "2026-02-25T22:16:00+08:00"
-fetched_at_raw: "2026-02-27 11:31:28 +0800"
-fetched_at_iso: "2026-02-27T11:31:28.597951+08:00"
+fetched_at_raw: "2026-06-10 10:54:18 +0800"
+fetched_at_iso: "2026-06-10T10:54:18.134717+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1869
-approx_tokens: 935
 ---
 
 # 老凤凰的角色 - 克莱恩·莫雷蒂

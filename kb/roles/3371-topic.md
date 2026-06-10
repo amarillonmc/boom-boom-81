@@ -6,14 +6,12 @@ source_url: "https://number81.xyz/index.php?topic=3371.0"
 author: "Ender_Eragon"
 created_at_raw: "二月 26, 2026, 07:24 上午"
 created_at_iso: "2026-02-26T07:24:00+08:00"
-fetched_at_raw: "2026-02-27 11:31:36 +0800"
-fetched_at_iso: "2026-02-27T11:31:36.811999+08:00"
+fetched_at_raw: "2026-06-10 10:54:25 +0800"
+fetched_at_iso: "2026-06-10T10:54:25.129882+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 815
-approx_tokens: 408
 ---
 
 # 终末的角色 - 胜利龙

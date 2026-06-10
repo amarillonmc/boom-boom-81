@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=939.0"
 author: "zweizergain"
 created_at_raw: "九月 26, 2025, 09:06 下午"
 created_at_iso: "2025-09-26T21:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:41 +0800"
-fetched_at_iso: "2026-02-26T10:04:41+08:00"
+fetched_at_raw: "2026-06-10 10:41:34 +0800"
+fetched_at_iso: "2026-06-10T10:41:34.503228+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4642
-approx_tokens: 2321
 ---
 
 # 归思·史官
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 九月 26, 2025, 09:06 下午
+- Posted at raw: 九月 26, 2025, 09:06 下午
+- Posted at iso: 2025-09-26T21:06:00+08:00
 
 ### **【详尽角色卡：归思·史官 (Guī Sī, the Chronicler) - 人性修正版 v2.0 - 最终决定版】**
 

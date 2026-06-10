@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=809.0"
 author: "增熵星"
 created_at_raw: "九月 24, 2025, 09:58 上午"
 created_at_iso: "2025-09-24T09:58:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:38 +0800"
-fetched_at_iso: "2026-02-26T10:03:38+08:00"
+fetched_at_raw: "2026-06-10 10:40:36 +0800"
+fetched_at_iso: "2026-06-10T10:40:36.629486+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4988
-approx_tokens: 2494
 ---
 
 # 增熵星的角色 -
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 24, 2025, 09:58 上午
+- Posted at raw: 九月 24, 2025, 09:58 上午
+- Posted at iso: 2025-09-24T09:58:00+08:00
 
 **角色填写人：**增熵星
 
@@ -37,8 +37,10 @@ approx_tokens: 2494
 
 ## 2F
 
+- floor_index: 2
 - Author: 增熵星
-- Posted at: 九月 24, 2025, 10:13 上午
+- Posted at raw: 九月 24, 2025, 10:13 上午
+- Posted at iso: 2025-09-24T10:13:00+08:00
 
 ```
 .............................................................................................
@@ -88,14 +90,18 @@ approx_tokens: 2494
 
 ## 3F
 
+- floor_index: 3
 - Author: 增熵星
-- Posted at: 九月 24, 2025, 10:22 上午
+- Posted at raw: 九月 24, 2025, 10:22 上午
+- Posted at iso: 2025-09-24T10:22:00+08:00
 
 棍母 (https://number81.xyz/index.php?topic=809.0)
 
 ## 4F
 
+- floor_index: 4
 - Author: Justfish
-- Posted at: 九月 24, 2025, 11:52 上午
+- Posted at raw: 九月 24, 2025, 11:52 上午
+- Posted at iso: 2025-09-24T11:52:00+08:00
 
 空气系角色。

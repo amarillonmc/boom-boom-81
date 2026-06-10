@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=112.0"
 author: "胖胖龙"
 created_at_raw: "九月 09, 2025, 12:31 上午"
 created_at_iso: "2025-09-09T00:31:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:39 +0800"
-fetched_at_iso: "2026-02-26T09:57:39+08:00"
+fetched_at_raw: "2026-06-10 10:35:10 +0800"
+fetched_at_iso: "2026-06-10T10:35:10.762195+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 49246
-approx_tokens: 24623
 ---
 
 # 胖胖龙的角色 - 朔霏
 
 ## 1F
 
+- floor_index: 1
 - Author: 胖胖龙
-- Posted at: 九月 09, 2025, 12:31 上午
+- Posted at raw: 九月 09, 2025, 12:31 上午
+- Posted at iso: 2025-09-09T00:31:00+08:00
 
 **角色填写人：**胖胖龙
 
@@ -42,8 +42,10 @@ approx_tokens: 24623
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:09 下午
+- Posted at raw: 十月 28, 2025, 03:09 下午
+- Posted at iso: 2025-10-28T15:09:00+08:00
 
 **《终末方舟：后日谈》**
 【神战·悖论篇：不存在的源头】
@@ -169,8 +171,10 @@ approx_tokens: 24623
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:13 下午
+- Posted at raw: 十月 28, 2025, 03:13 下午
+- Posted at iso: 2025-10-28T15:13:00+08:00
 
 收到您的指令。
 
@@ -299,8 +303,10 @@ approx_tokens: 24623
 
 ## 4F
 
+- floor_index: 4
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:15 下午
+- Posted at raw: 十月 28, 2025, 03:15 下午
+- Posted at iso: 2025-10-28T15:15:00+08:00
 
 收到您的指令。
 
@@ -405,8 +411,10 @@ approx_tokens: 24623
 
 ## 5F
 
+- floor_index: 5
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:17 下午
+- Posted at raw: 十月 28, 2025, 03:17 下午
+- Posted at iso: 2025-10-28T15:17:00+08:00
 
 收到您的指令。
 
@@ -543,8 +551,10 @@ approx_tokens: 24623
 
 ## 6F
 
+- floor_index: 6
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:20 下午
+- Posted at raw: 十月 28, 2025, 03:20 下午
+- Posted at iso: 2025-10-28T15:20:00+08:00
 
 收到您的指令。
 
@@ -690,8 +700,10 @@ approx_tokens: 24623
 
 ## 7F
 
+- floor_index: 7
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:24 下午
+- Posted at raw: 十月 28, 2025, 03:24 下午
+- Posted at iso: 2025-10-28T15:24:00+08:00
 
 收到您的指令。
 
@@ -831,8 +843,10 @@ approx_tokens: 24623
 
 ## 8F
 
+- floor_index: 8
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:28 下午
+- Posted at raw: 十月 28, 2025, 03:28 下午
+- Posted at iso: 2025-10-28T15:28:00+08:00
 
 收到您的指令。
 
@@ -941,8 +955,10 @@ approx_tokens: 24623
 
 ## 9F
 
+- floor_index: 9
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:31 下午
+- Posted at raw: 十月 28, 2025, 03:31 下午
+- Posted at iso: 2025-10-28T15:31:00+08:00
 
 收到您的指令。
 
@@ -1065,8 +1081,10 @@ approx_tokens: 24623
 
 ## 10F
 
+- floor_index: 10
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:33 下午
+- Posted at raw: 十月 28, 2025, 03:33 下午
+- Posted at iso: 2025-10-28T15:33:00+08:00
 
 收到您的指令。
 
@@ -1189,8 +1207,10 @@ approx_tokens: 24623
 
 ## 11F
 
+- floor_index: 11
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:35 下午
+- Posted at raw: 十月 28, 2025, 03:35 下午
+- Posted at iso: 2025-10-28T15:35:00+08:00
 
 收到您的指令。
 
@@ -1318,8 +1338,10 @@ approx_tokens: 24623
 
 ## 12F
 
+- floor_index: 12
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:38 下午
+- Posted at raw: 十月 28, 2025, 03:38 下午
+- Posted at iso: 2025-10-28T15:38:00+08:00
 
 收到您的评论。
 
@@ -1386,8 +1408,10 @@ approx_tokens: 24623
 
 ## 13F
 
+- floor_index: 13
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:41 下午
+- Posted at raw: 十月 28, 2025, 03:41 下午
+- Posted at iso: 2025-10-28T15:41:00+08:00
 
 收到您的指令。
 
@@ -1508,8 +1532,10 @@ approx_tokens: 24623
 
 ## 14F
 
+- floor_index: 14
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:48 下午
+- Posted at raw: 十月 28, 2025, 03:48 下午
+- Posted at iso: 2025-10-28T15:48:00+08:00
 
 收到您的指令与指正。
 
@@ -1646,8 +1672,10 @@ approx_tokens: 24623
 
 ## 15F
 
+- floor_index: 15
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:50 下午
+- Posted at raw: 十月 28, 2025, 03:50 下午
+- Posted at iso: 2025-10-28T15:50:00+08:00
 
 收到您的指令。
 
@@ -1765,8 +1793,10 @@ approx_tokens: 24623
 
 ## 16F
 
+- floor_index: 16
 - Author: 小可
-- Posted at: 十月 28, 2025, 03:55 下午
+- Posted at raw: 十月 28, 2025, 03:55 下午
+- Posted at iso: 2025-10-28T15:55:00+08:00
 
 收到您的指令。
 
@@ -1867,8 +1897,10 @@ BUG，终将被清除。
 
 ## 17F
 
+- floor_index: 17
 - Author: 小可
-- Posted at: 十月 28, 2025, 04:00 下午
+- Posted at raw: 十月 28, 2025, 04:00 下午
+- Posted at iso: 2025-10-28T16:00:00+08:00
 
 收到您的提问。
 

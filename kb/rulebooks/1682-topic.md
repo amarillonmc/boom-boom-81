@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1682.0"
 author: "tt"
 created_at_raw: "十月 17, 2025, 12:07 下午"
 created_at_iso: "2025-10-17T12:07:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:00 +0800"
-fetched_at_iso: "2026-02-26T10:20:00+08:00"
+fetched_at_raw: "2026-06-10 11:01:16 +0800"
+fetched_at_iso: "2026-06-10T11:01:16.934555+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1306
-approx_tokens: 653
 ---
 
 # 适用于将大乱斗角色卡进行故事性修正的协议
 
 ## 1F
 
+- floor_index: 1
 - Author: tt
-- Posted at: 十月 17, 2025, 12:07 下午
+- Posted at raw: 十月 17, 2025, 12:07 下午
+- Posted at iso: 2025-10-17T12:07:00+08:00
 
 ***角色卡和谐协议规则***
 我需要你将我上传的ai跑团用角色卡进行修正，根据我所上传的*故事背景背板*进行修正，主要包含以下几个方面：

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=516.0"
 author: "Ombre"
 created_at_raw: "九月 19, 2025, 10:16 上午"
 created_at_iso: "2025-09-19T10:16:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:20 +0800"
-fetched_at_iso: "2026-02-26T10:01:20+08:00"
+fetched_at_raw: "2026-06-10 10:38:33 +0800"
+fetched_at_iso: "2026-06-10T10:38:33.478494+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7065
-approx_tokens: 3533
 ---
 
 # Ombre的角色 - 光 (Hikari)
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 19, 2025, 10:16 上午
+- Posted at raw: 九月 19, 2025, 10:16 上午
+- Posted at iso: 2025-09-19T10:16:00+08:00
 
 ### **角色档案：光 (Hikari)**
 
@@ -134,8 +134,10 @@ approx_tokens: 3533
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 14, 2025, 09:33 上午
+- Posted at raw: 十一月 14, 2025, 09:33 上午
+- Posted at iso: 2025-11-14T09:33:00+08:00
 
 御主档案### **御主档案转录协议 (Chaldea Master Archive Transcription Protocol)**
 

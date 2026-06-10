@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=712.0"
 author: "Ombre"
 created_at_raw: "九月 22, 2025, 11:58 下午"
 created_at_iso: "2025-09-22T23:58:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:00 +0800"
-fetched_at_iso: "2026-02-26T10:03:00+08:00"
+fetched_at_raw: "2026-06-10 10:40:03 +0800"
+fetched_at_iso: "2026-06-10T10:40:03.404101+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10043
-approx_tokens: 5022
 ---
 
 # Ombre的角色 - 荷妮特
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 22, 2025, 11:58 下午
+- Posted at raw: 九月 22, 2025, 11:58 下午
+- Posted at iso: 2025-09-22T23:58:00+08:00
 
 ### **角色档案：荷妮特**
 
@@ -143,8 +143,10 @@ approx_tokens: 5022
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 09:25 下午
+- Posted at raw: 十一月 09, 2025, 09:25 下午
+- Posted at iso: 2025-11-09T21:25:00+08:00
 
 旧角色卡**角色填写人：**Ombre
 
@@ -222,8 +224,10 @@ LV3：超乎了概念，难以用思维理解的存在，"厨师LV3"相当于"�
 
 ## 3F
 
+- floor_index: 3
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 09:55 下午
+- Posted at raw: 十一月 09, 2025, 09:55 下午
+- Posted at iso: 2025-11-09T21:55:00+08:00
 
 从者档案（Caster）#### 第一部分：核心身份 (Core Identity)
 **真名 (True Name):** 荷妮特 (Hornet)

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1457.0"
 author: "千鸢彩花"
 created_at_raw: "十月 10, 2025, 01:27 下午"
 created_at_iso: "2025-10-10T13:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:20 +0800"
-fetched_at_iso: "2026-02-26T10:08:20+08:00"
+fetched_at_raw: "2026-06-10 10:44:49 +0800"
+fetched_at_iso: "2026-06-10T10:44:49.062309+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3208
-approx_tokens: 1604
 ---
 
 # 彩花的角色 - 黑灯侠
 
 ## 1F
 
+- floor_index: 1
 - Author: 千鸢彩花
-- Posted at: 十月 10, 2025, 01:27 下午
+- Posted at raw: 十月 10, 2025, 01:27 下午
+- Posted at iso: 2025-10-10T13:27:00+08:00
 
 角色档案：黑灯侠
 角色背景与世界观

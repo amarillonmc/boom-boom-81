@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3648.0"
 author: "祀酒挽歌"
 created_at_raw: "三月 14, 2026, 09:28 下午"
 created_at_iso: "2026-03-14T21:28:00+08:00"
-fetched_at_raw: "2026-03-18 22:28:52 +0800"
-fetched_at_iso: "2026-03-18T22:28:52.547704+08:00"
+fetched_at_raw: "2026-06-10 10:55:54 +0800"
+fetched_at_iso: "2026-06-10T10:55:54.311116+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

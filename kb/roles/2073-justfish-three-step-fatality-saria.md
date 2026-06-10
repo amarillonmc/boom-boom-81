@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2073.0"
 author: "Justfish"
 created_at_raw: "十月 28, 2025, 02:25 下午"
 created_at_iso: "2025-10-28T14:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:45 +0800"
-fetched_at_iso: "2026-02-26T10:12:45+08:00"
+fetched_at_raw: "2026-06-10 10:48:40 +0800"
+fetched_at_iso: "2026-06-10T10:48:40.534904+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2631
-approx_tokens: 1316
 ---
 
 # Justfish的角色 - “三步必杀”塞蕾娅 ("Three-Step Fatality" Saria)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 28, 2025, 02:25 下午
+- Posted at raw: 十月 28, 2025, 02:25 下午
+- Posted at iso: 2025-10-28T14:25:00+08:00
 
 **角色填写人：**Justfish
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2248.0"
 author: "Justfish"
 created_at_raw: "十一月 02, 2025, 12:43 上午"
 created_at_iso: "2025-11-02T00:43:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:43 +0800"
-fetched_at_iso: "2026-02-26T10:13:43+08:00"
+fetched_at_raw: "2026-06-10 10:49:30 +0800"
+fetched_at_iso: "2026-06-10T10:49:30.930981+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2874
-approx_tokens: 1437
 ---
 
 # Justfish的角色 - 破妄者 - ‘无匙’ (The Illusion-Breaker - 'No-Spoon')
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 02, 2025, 12:43 上午
+- Posted at raw: 十一月 02, 2025, 12:43 上午
+- Posted at iso: 2025-11-02T00:43:00+08:00
 
 **角色填写人：**Justfish
 

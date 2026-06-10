@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=878.0"
 author: "乐乐"
 created_at_raw: "九月 25, 2025, 11:20 上午"
 created_at_iso: "2025-09-25T11:20:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:08 +0800"
-fetched_at_iso: "2026-02-26T10:04:08+08:00"
+fetched_at_raw: "2026-06-10 10:41:05 +0800"
+fetched_at_iso: "2026-06-10T10:41:05.466436+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 14861
-approx_tokens: 7431
 ---
 
 # 乐乐的角色 - 孵化者•丘比
 
 ## 1F
 
+- floor_index: 1
 - Author: 乐乐
-- Posted at: 九月 25, 2025, 11:20 上午
+- Posted at raw: 九月 25, 2025, 11:20 上午
+- Posted at iso: 2025-09-25T11:20:00+08:00
 
 **角色填写人：**乐乐
 

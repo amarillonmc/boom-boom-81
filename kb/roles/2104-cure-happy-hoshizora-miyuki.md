@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2104.0"
 author: "小可"
 created_at_raw: "十月 29, 2025, 02:22 下午"
 created_at_iso: "2025-10-29T14:22:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:55 +0800"
-fetched_at_iso: "2026-02-26T10:12:55+08:00"
+fetched_at_raw: "2026-06-10 10:48:48 +0800"
+fetched_at_iso: "2026-06-10T10:48:48.603667+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4915
-approx_tokens: 2458
 ---
 
 # 小可的角色 - Cure Happy / 星空幸 (Hoshizora Miyuki)
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 29, 2025, 02:22 下午
+- Posted at raw: 十月 29, 2025, 02:22 下午
+- Posted at iso: 2025-10-29T14:22:00+08:00
 
 **角色填写人：**小可
 
@@ -68,8 +68,10 @@ approx_tokens: 2458
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 29, 2025, 02:23 下午
+- Posted at raw: 十月 29, 2025, 02:23 下午
+- Posted at iso: 2025-10-29T14:23:00+08:00
 
 > 引用最"魔法少女"的魔法少女
 > KP，这是我为您构建的【Cure Happy / 星空幸】角色卡。
@@ -84,8 +86,10 @@ approx_tokens: 2458
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十一月 07, 2025, 12:06 下午
+- Posted at raw: 十一月 07, 2025, 12:06 下午
+- Posted at iso: 2025-11-07T12:06:00+08:00
 
 **角色强度分析：Cure Happy / 星空幸**
 

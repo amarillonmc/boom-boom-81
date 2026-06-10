@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2436.0"
 author: "Justfish"
 created_at_raw: "十一月 07, 2025, 01:26 下午"
 created_at_iso: "2025-11-07T13:26:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:46 +0800"
-fetched_at_iso: "2026-02-26T10:14:46+08:00"
+fetched_at_raw: "2026-06-10 10:50:30 +0800"
+fetched_at_iso: "2026-06-10T10:50:30.375243+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2850
-approx_tokens: 1425
 ---
 
 # Justfish的角色 - 辉依·斯图亚特 (Huiyi Stuart)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 07, 2025, 01:26 下午
+- Posted at raw: 十一月 07, 2025, 01:26 下午
+- Posted at iso: 2025-11-07T13:26:00+08:00
 
 **角色填写人：**Justfish
 

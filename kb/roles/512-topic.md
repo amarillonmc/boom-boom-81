@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=512.0"
 author: "小可"
 created_at_raw: "九月 19, 2025, 09:43 上午"
 created_at_iso: "2025-09-19T09:43:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:18 +0800"
-fetched_at_iso: "2026-02-26T10:01:18+08:00"
+fetched_at_raw: "2026-06-10 10:38:31 +0800"
+fetched_at_iso: "2026-06-10T10:38:31.724333+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3626
-approx_tokens: 1813
 ---
 
 # 小可的角色 - 毛利小五郎 & 江户川柯南
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 19, 2025, 09:43 上午
+- Posted at raw: 九月 19, 2025, 09:43 上午
+- Posted at iso: 2025-09-19T09:43:00+08:00
 
 **角色填写人：**小可
 
@@ -65,8 +65,10 @@ approx_tokens: 1813
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 02:46 下午
+- Posted at raw: 十一月 07, 2025, 02:46 下午
+- Posted at iso: 2025-11-07T14:46:00+08:00
 
 **角色强度分析：毛利小五郎 & 江户川柯南**
 

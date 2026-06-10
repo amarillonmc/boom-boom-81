@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2246.0"
 author: "Ender_Eragon"
 created_at_raw: "十一月 01, 2025, 11:56 下午"
 created_at_iso: "2025-11-01T23:56:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:43 +0800"
-fetched_at_iso: "2026-02-26T10:13:43+08:00"
+fetched_at_raw: "2026-06-10 10:49:30 +0800"
+fetched_at_iso: "2026-06-10T10:49:30.077789+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1226
-approx_tokens: 613
 ---
 
 # 终末的角色 - “超游玩家”-终末使徒
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十一月 01, 2025, 11:56 下午
+- Posted at raw: 十一月 01, 2025, 11:56 下午
+- Posted at iso: 2025-11-01T23:56:00+08:00
 
 **角色填写人：**终末
 

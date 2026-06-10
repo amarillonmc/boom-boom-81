@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2064.0"
 author: "烛火"
 created_at_raw: "十月 28, 2025, 12:50 下午"
 created_at_iso: "2025-10-28T12:50:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:40 +0800"
-fetched_at_iso: "2026-02-26T10:12:40+08:00"
+fetched_at_raw: "2026-06-10 10:48:36 +0800"
+fetched_at_iso: "2026-06-10T10:48:36.327425+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1271
-approx_tokens: 636
 ---
 
 # 烛火的角色 - 阿乌阿乌
 
 ## 1F
 
+- floor_index: 1
 - Author: 烛火
-- Posted at: 十月 28, 2025, 12:50 下午
+- Posted at raw: 十月 28, 2025, 12:50 下午
+- Posted at iso: 2025-10-28T12:50:00+08:00
 
 **角色填写人：**烛火
 

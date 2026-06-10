@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2644.0"
 author: "Ombre"
 created_at_raw: "十一月 13, 2025, 07:11 上午"
 created_at_iso: "2025-11-13T07:11:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:54 +0800"
-fetched_at_iso: "2026-02-26T10:15:54+08:00"
+fetched_at_raw: "2026-06-10 10:51:33 +0800"
+fetched_at_iso: "2026-06-10T10:51:33.066718+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6939
-approx_tokens: 3470
 ---
 
 # Ombre的角色 - 樱满 集
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 13, 2025, 07:11 上午
+- Posted at raw: 十一月 13, 2025, 07:11 上午
+- Posted at iso: 2025-11-13T07:11:00+08:00
 
 ### **角色档案：樱满集 (Shu Ouma)**
 
@@ -144,8 +144,10 @@ approx_tokens: 3470
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 13, 2025, 07:15 上午
+- Posted at raw: 十一月 13, 2025, 07:15 上午
+- Posted at iso: 2025-11-13T07:15:00+08:00
 
 御主档案### **第一部分：核心身份 (Core Identity)**
 

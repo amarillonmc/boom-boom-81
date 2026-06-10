@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2362.0"
 author: "小兵"
 created_at_raw: "十一月 05, 2025, 11:53 下午"
 created_at_iso: "2025-11-05T23:53:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:28 +0800"
-fetched_at_iso: "2026-02-26T10:14:28+08:00"
+fetched_at_raw: "2026-06-10 10:50:12 +0800"
+fetched_at_iso: "2026-06-10T10:50:12.804045+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2649
-approx_tokens: 1325
 ---
 
 # 小兵的角色 - 鬼舞辻无惨
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十一月 05, 2025, 11:53 下午
+- Posted at raw: 十一月 05, 2025, 11:53 下午
+- Posted at iso: 2025-11-05T23:53:00+08:00
 
 **角色填写人：**小兵
 (https://sns-img-hw.xhscdn.com/3bf74ad5-28c1-3635-a836-43c61243df85?imageView2/2/w/1080/format/webp)

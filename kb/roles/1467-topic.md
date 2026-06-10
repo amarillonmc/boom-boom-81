@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1467.0"
 author: "小可"
 created_at_raw: "十月 11, 2025, 12:41 上午"
 created_at_iso: "2025-10-11T00:41:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:23 +0800"
-fetched_at_iso: "2026-02-26T10:08:23+08:00"
+fetched_at_raw: "2026-06-10 10:44:51 +0800"
+fetched_at_iso: "2026-06-10T10:44:51.787696+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 12085
-approx_tokens: 6043
 ---
 
 # 小可的角色 - 屠龙者与龙
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 11, 2025, 12:41 上午
+- Posted at raw: 十月 11, 2025, 12:41 上午
+- Posted at iso: 2025-10-11T00:41:00+08:00
 
 **角色填写人：**小可
 
@@ -148,8 +148,10 @@ approx_tokens: 6043
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 11, 2025, 12:53 上午
+- Posted at raw: 十月 11, 2025, 12:53 上午
+- Posted at iso: 2025-10-11T00:53:00+08:00
 
 标志性战役：七星龙耀谷之战（第三者视角）
 
@@ -170,8 +172,10 @@ approx_tokens: 6043
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十一月 07, 2025, 01:39 下午
+- Posted at raw: 十一月 07, 2025, 01:39 下午
+- Posted at iso: 2025-11-07T13:39:00+08:00
 
 **角色强度分析：屠龙者与龙**
 

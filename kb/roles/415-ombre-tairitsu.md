@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=415.0"
 author: "Ombre"
 created_at_raw: "九月 17, 2025, 11:38 下午"
 created_at_iso: "2025-09-17T23:38:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:25 +0800"
-fetched_at_iso: "2026-02-26T10:00:25+08:00"
+fetched_at_raw: "2026-06-10 10:37:45 +0800"
+fetched_at_iso: "2026-06-10T10:37:45.824912+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3770
-approx_tokens: 1885
 ---
 
 # Ombre的角色 - 对立 (Tairitsu)
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 17, 2025, 11:38 下午
+- Posted at raw: 九月 17, 2025, 11:38 下午
+- Posted at iso: 2025-09-17T23:38:00+08:00
 
 **角色填写人：**Ombre
 

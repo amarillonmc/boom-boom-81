@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2222.0"
 author: "小可"
 created_at_raw: "十一月 01, 2025, 09:51 上午"
 created_at_iso: "2025-11-01T09:51:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:33 +0800"
-fetched_at_iso: "2026-02-26T10:13:33+08:00"
+fetched_at_raw: "2026-06-10 10:49:23 +0800"
+fetched_at_iso: "2026-06-10T10:49:23.227439+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3307
-approx_tokens: 1654
 ---
 
 # 小可的角色 - 命运的配角
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 01, 2025, 09:51 上午
+- Posted at raw: 十一月 01, 2025, 09:51 上午
+- Posted at iso: 2025-11-01T09:51:00+08:00
 
 **角色填写人：**小可
 
@@ -52,8 +52,10 @@ approx_tokens: 1654
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 01:11 下午
+- Posted at raw: 十一月 07, 2025, 01:11 下午
+- Posted at iso: 2025-11-07T13:11:00+08:00
 
 **角色强度分析：命运的配角**
 

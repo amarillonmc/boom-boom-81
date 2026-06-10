@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=308.0"
 author: "小兵"
 created_at_raw: "九月 15, 2025, 12:58 上午"
 created_at_iso: "2025-09-15T00:58:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:23 +0800"
-fetched_at_iso: "2026-02-26T09:59:23+08:00"
+fetched_at_raw: "2026-06-10 10:36:45 +0800"
+fetched_at_iso: "2026-06-10T10:36:45.394296+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 641
-approx_tokens: 321
 ---
 
 # 小兵的角色 - 耐心的白无常与不耐烦的黑无常
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 九月 15, 2025, 12:58 上午
+- Posted at raw: 九月 15, 2025, 12:58 上午
+- Posted at iso: 2025-09-15T00:58:00+08:00
 
 **角色填写人：**小兵
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=558.0"
 author: "Ombre"
 created_at_raw: "九月 20, 2025, 05:28 上午"
 created_at_iso: "2025-09-20T05:28:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:15 +0800"
-fetched_at_iso: "2026-02-26T10:19:15+08:00"
+fetched_at_raw: "2026-06-10 11:00:33 +0800"
+fetched_at_iso: "2026-06-10T11:00:33.027609+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1617
-approx_tokens: 809
 ---
 
 # 战斗场地补充-【光与纷争交错的失落世界】
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 20, 2025, 05:28 上午
+- Posted at raw: 九月 20, 2025, 05:28 上午
+- Posted at iso: 2025-09-20T05:28:00+08:00
 
 新增战斗场地【光与纷争交错的失落世界】
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2522.0"
 author: "Jerry"
 created_at_raw: "十一月 09, 2025, 12:17 上午"
 created_at_iso: "2025-11-09T00:17:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:07 +0800"
-fetched_at_iso: "2026-02-26T10:15:07+08:00"
+fetched_at_raw: "2026-06-10 10:50:51 +0800"
+fetched_at_iso: "2026-06-10T10:50:51.579611+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 9677
-approx_tokens: 4839
 ---
 
 # Jerry的角色 - [you]
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十一月 09, 2025, 12:17 上午
+- Posted at raw: 十一月 09, 2025, 12:17 上午
+- Posted at iso: 2025-11-09T00:17:00+08:00
 
 代码 [选择] Expand
 
@@ -98,8 +98,10 @@ approx_tokens: 4839
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 十一月 09, 2025, 12:19 上午
+- Posted at raw: 十一月 09, 2025, 12:19 上午
+- Posted at iso: 2025-11-09T00:19:00+08:00
 
 ### **角色名称：boom-boom-archiver**
 
@@ -214,14 +216,18 @@ boom-boom-archiver的参与感，并非来源于改变故事的能力，而来�
 
 ## 3F
 
+- floor_index: 3
 - Author: 紫宵
-- Posted at: 十一月 09, 2025, 02:11 上午
+- Posted at raw: 十一月 09, 2025, 02:11 上午
+- Posted at iso: 2025-11-09T02:11:00+08:00
 
 我喜欢[you]
 
 ## 4F
 
+- floor_index: 4
 - Author: Justfish
-- Posted at: 十一月 09, 2025, 02:26 上午
+- Posted at raw: 十一月 09, 2025, 02:26 上午
+- Posted at iso: 2025-11-09T02:26:00+08:00
 
 我不喜欢[you]

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=450.0"
 author: "Jerry"
 created_at_raw: "九月 18, 2025, 10:17 上午"
 created_at_iso: "2025-09-18T10:17:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:43 +0800"
-fetched_at_iso: "2026-02-26T10:00:43+08:00"
+fetched_at_raw: "2026-06-10 10:38:02 +0800"
+fetched_at_iso: "2026-06-10T10:38:02.435718+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3776
-approx_tokens: 1888
 ---
 
 # Jerry的角色 - 南光太郎
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 18, 2025, 10:17 上午
+- Posted at raw: 九月 18, 2025, 10:17 上午
+- Posted at iso: 2025-09-18T10:17:00+08:00
 
 **角色填写人：**Jerry
 

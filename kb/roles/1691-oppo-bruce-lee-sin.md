@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1691.0"
 author: "OPPO"
 created_at_raw: "十月 17, 2025, 04:11 下午"
 created_at_iso: "2025-10-17T16:11:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:05 +0800"
-fetched_at_iso: "2026-02-26T10:10:05+08:00"
+fetched_at_raw: "2026-06-10 10:46:25 +0800"
+fetched_at_iso: "2026-06-10T10:46:25.264359+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1592
-approx_tokens: 796
 ---
 
 # OPPO的角色 - 龙的传人・李青（Bruce Lee Sin）
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 十月 17, 2025, 04:11 下午
+- Posted at raw: 十月 17, 2025, 04:11 下午
+- Posted at iso: 2025-10-17T16:11:00+08:00
 
 **角色填写人：**OPPO
 

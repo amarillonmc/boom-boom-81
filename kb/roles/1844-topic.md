@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1844.0"
 author: "zweizergain"
 created_at_raw: "十月 22, 2025, 05:25 上午"
 created_at_iso: "2025-10-22T05:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:12 +0800"
-fetched_at_iso: "2026-02-26T10:11:12+08:00"
+fetched_at_raw: "2026-06-10 10:47:20 +0800"
+fetched_at_iso: "2026-06-10T10:47:20.451074+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7492
-approx_tokens: 3746
 ---
 
 # 弗尔·伏朗托
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 22, 2025, 05:25 上午
+- Posted at raw: 十月 22, 2025, 05:25 上午
+- Posted at iso: 2025-10-22T05:25:00+08:00
 
 ### **【详尽角色卡：弗尔·伏朗托 - v1.7 最终校正版】**
 

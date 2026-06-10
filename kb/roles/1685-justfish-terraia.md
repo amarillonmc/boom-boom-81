@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1685.0"
 author: "Justfish"
 created_at_raw: "十月 17, 2025, 01:45 下午"
 created_at_iso: "2025-10-17T13:45:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:00 +0800"
-fetched_at_iso: "2026-02-26T10:10:00+08:00"
+fetched_at_raw: "2026-06-10 10:46:21 +0800"
+fetched_at_iso: "2026-06-10T10:46:21.094642+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3779
-approx_tokens: 1890
 ---
 
 # Justfish的角色 - 泰瑞亚 (Terraia)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 17, 2025, 01:45 下午
+- Posted at raw: 十月 17, 2025, 01:45 下午
+- Posted at iso: 2025-10-17T13:45:00+08:00
 
 **角色填写人：**Justfish
 

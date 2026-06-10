@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2560.0"
 author: "Jerry"
 created_at_raw: "十一月 10, 2025, 09:44 上午"
 created_at_iso: "2025-11-10T09:44:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:22 +0800"
-fetched_at_iso: "2026-02-26T10:15:22+08:00"
+fetched_at_raw: "2026-06-10 10:51:05 +0800"
+fetched_at_iso: "2026-06-10T10:51:05.473461+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4116
-approx_tokens: 2058
 ---
 
 # Jerry的角色 - 燃灯道人
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十一月 10, 2025, 09:44 上午
+- Posted at raw: 十一月 10, 2025, 09:44 上午
+- Posted at iso: 2025-11-10T09:44:00+08:00
 
 **角色填写人：**Jerry
 

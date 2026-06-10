@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=631.0"
 author: "无羁"
 created_at_raw: "九月 21, 2025, 12:33 下午"
 created_at_iso: "2025-09-21T12:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:17 +0800"
-fetched_at_iso: "2026-02-26T10:02:17+08:00"
+fetched_at_raw: "2026-06-10 10:39:27 +0800"
+fetched_at_iso: "2026-06-10T10:39:27.612620+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3575
-approx_tokens: 1788
 ---
 
 # 无羁的角色 - 将军
 
 ## 1F
 
+- floor_index: 1
 - Author: 无羁
-- Posted at: 九月 21, 2025, 12:33 下午
+- Posted at raw: 九月 21, 2025, 12:33 下午
+- Posted at iso: 2025-09-21T12:33:00+08:00
 
 **角色填写人：**无羁
 

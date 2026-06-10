@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2140.0"
 author: "Ombre"
 created_at_raw: "十月 30, 2025, 08:32 上午"
 created_at_iso: "2025-10-30T08:32:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:11 +0800"
-fetched_at_iso: "2026-02-26T10:20:11+08:00"
+fetched_at_raw: "2026-06-10 11:01:27 +0800"
+fetched_at_iso: "2026-06-10T11:01:27.733486+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3507
-approx_tokens: 1754
 ---
 
 # 机读航天基地地图
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 30, 2025, 08:32 上午
+- Posted at raw: 十月 30, 2025, 08:32 上午
+- Posted at iso: 2025-10-30T08:32:00+08:00
 
 ### 《航天基地》地图构造翔实描述
 

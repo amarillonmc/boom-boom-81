@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2699.0"
 author: "小可"
 created_at_raw: "十一月 15, 2025, 06:27 上午"
 created_at_iso: "2025-11-15T06:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:13 +0800"
-fetched_at_iso: "2026-02-26T10:16:13+08:00"
+fetched_at_raw: "2026-06-10 10:51:51 +0800"
+fetched_at_iso: "2026-06-10T10:51:51.651793+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2912
-approx_tokens: 1456
 ---
 
 # 小可的角色 - 乌列（berserker）
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 15, 2025, 06:27 上午
+- Posted at raw: 十一月 15, 2025, 06:27 上午
+- Posted at iso: 2025-11-15T06:27:00+08:00
 
 **角色填写人：**小可
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1386.0"
 author: "黑森谨"
 created_at_raw: "十月 07, 2025, 01:14 下午"
 created_at_iso: "2025-10-07T13:14:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:49 +0800"
-fetched_at_iso: "2026-02-26T10:07:49+08:00"
+fetched_at_raw: "2026-06-10 10:44:22 +0800"
+fetched_at_iso: "2026-06-10T10:44:22.824102+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2447
-approx_tokens: 1224
 ---
 
 # 黑森谨的角色 - 黑龟
 
 ## 1F
 
+- floor_index: 1
 - Author: 黑森谨
-- Posted at: 十月 07, 2025, 01:14 下午
+- Posted at raw: 十月 07, 2025, 01:14 下午
+- Posted at iso: 2025-10-07T13:14:00+08:00
 
 **角色填写人：**黑森谨
 

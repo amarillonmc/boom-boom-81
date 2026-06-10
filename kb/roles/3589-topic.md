@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3589.0"
 author: "竹中千惠理"
 created_at_raw: "三月 10, 2026, 10:00 下午"
 created_at_iso: "2026-03-10T22:00:00+08:00"
-fetched_at_raw: "2026-03-13 19:01:28 +0800"
-fetched_at_iso: "2026-03-13T19:01:28.298803+08:00"
+fetched_at_raw: "2026-06-10 10:55:35 +0800"
+fetched_at_iso: "2026-06-10T10:55:35.941409+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

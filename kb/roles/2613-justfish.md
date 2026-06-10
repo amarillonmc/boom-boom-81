@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2613.0"
 author: "Justfish"
 created_at_raw: "十一月 12, 2025, 06:31 上午"
 created_at_iso: "2025-11-12T06:31:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:38 +0800"
-fetched_at_iso: "2026-02-26T10:15:38+08:00"
+fetched_at_raw: "2026-06-10 10:51:19 +0800"
+fetched_at_iso: "2026-06-10T10:51:19.952164+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4023
-approx_tokens: 2012
 ---
 
 # Justfish的角色 - 火云邪神
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 12, 2025, 06:31 上午
+- Posted at raw: 十一月 12, 2025, 06:31 上午
+- Posted at iso: 2025-11-12T06:31:00+08:00
 
 **角色填写人：**Justfish
 ---

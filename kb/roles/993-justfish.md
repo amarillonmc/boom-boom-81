@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=993.0"
 author: "Justfish"
 created_at_raw: "九月 27, 2025, 11:03 下午"
 created_at_iso: "2025-09-27T23:03:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:05 +0800"
-fetched_at_iso: "2026-02-26T10:05:05+08:00"
+fetched_at_raw: "2026-06-10 10:41:57 +0800"
+fetched_at_iso: "2026-06-10T10:41:57.890545+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2751
-approx_tokens: 1376
 ---
 
 # Justfish的角色 - 安心院薰染
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 27, 2025, 11:03 下午
+- Posted at raw: 九月 27, 2025, 11:03 下午
+- Posted at iso: 2025-09-27T23:03:00+08:00
 
 **角色填写人：**Justfish
 

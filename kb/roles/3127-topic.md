@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3127.0"
 author: "Ender_Eragon"
 created_at_raw: "十一月 30, 2025, 10:35 上午"
 created_at_iso: "2025-11-30T10:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:11 +0800"
-fetched_at_iso: "2026-02-26T10:18:11+08:00"
+fetched_at_raw: "2026-06-10 10:53:27 +0800"
+fetched_at_iso: "2026-06-10T10:53:27.375161+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1191
-approx_tokens: 596
 ---
 
 # 终末的角色 - “仿身魔法少女”-青晨（未完成
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十一月 30, 2025, 10:35 上午
+- Posted at raw: 十一月 30, 2025, 10:35 上午
+- Posted at iso: 2025-11-30T10:35:00+08:00
 
 **角色填写人：**终末
 

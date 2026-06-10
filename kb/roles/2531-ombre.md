@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2531.0"
 author: "Ombre"
 created_at_raw: "十一月 09, 2025, 07:35 上午"
 created_at_iso: "2025-11-09T07:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:12 +0800"
-fetched_at_iso: "2026-02-26T10:15:12+08:00"
+fetched_at_raw: "2026-06-10 10:50:56 +0800"
+fetched_at_iso: "2026-06-10T10:50:56.602928+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7570
-approx_tokens: 3785
 ---
 
 # Ombre的角色 - 泷夜叉姬
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 07:35 上午
+- Posted at raw: 十一月 09, 2025, 07:35 上午
+- Posted at iso: 2025-11-09T07:35:00+08:00
 
 ### **角色档案：泷夜叉姬**
 
@@ -176,8 +176,10 @@ approx_tokens: 3785
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 07:39 上午
+- Posted at raw: 十一月 09, 2025, 07:39 上午
+- Posted at iso: 2025-11-09T07:39:00+08:00
 
 从者档案（Lancer）### **核心身份 (Core Identity)**
 

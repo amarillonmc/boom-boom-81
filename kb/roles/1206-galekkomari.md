@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1206.0"
 author: "galekkomari"
 created_at_raw: "十月 02, 2025, 10:03 下午"
 created_at_iso: "2025-10-02T22:03:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:20 +0800"
-fetched_at_iso: "2026-02-26T10:06:20+08:00"
+fetched_at_raw: "2026-06-10 10:43:02 +0800"
+fetched_at_iso: "2026-06-10T10:43:02.669376+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8543
-approx_tokens: 4272
 ---
 
 # galekkomari的角色 - 界·欧洲野马
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十月 02, 2025, 10:03 下午
+- Posted at raw: 十月 02, 2025, 10:03 下午
+- Posted at iso: 2025-10-02T22:03:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -89,8 +89,10 @@ approx_tokens: 4272
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十月 02, 2025, 10:43 下午
+- Posted at raw: 十月 02, 2025, 10:43 下午
+- Posted at iso: 2025-10-02T22:43:00+08:00
 
 （如果允许，请将这一楼的内容也喂给AI）
 
@@ -112,8 +114,10 @@ approx_tokens: 4272
 
 ## 3F
 
+- floor_index: 3
 - Author: galekkomari
-- Posted at: 十月 02, 2025, 10:47 下午
+- Posted at raw: 十月 02, 2025, 10:47 下午
+- Posted at iso: 2025-10-02T22:47:00+08:00
 
 附录：
 

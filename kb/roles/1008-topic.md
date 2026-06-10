@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1008.0"
 author: "小可"
 created_at_raw: "九月 28, 2025, 07:57 上午"
 created_at_iso: "2025-09-28T07:57:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:12 +0800"
-fetched_at_iso: "2026-02-26T10:05:12+08:00"
+fetched_at_raw: "2026-06-10 10:42:04 +0800"
+fetched_at_iso: "2026-06-10T10:42:04.765492+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3302
-approx_tokens: 1651
 ---
 
 # 小可的角色 - 织梦者-阿拉克涅
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 28, 2025, 07:57 上午
+- Posted at raw: 九月 28, 2025, 07:57 上午
+- Posted at iso: 2025-09-28T07:57:00+08:00
 
 **角色填写人：**小可
 
@@ -42,8 +42,10 @@ approx_tokens: 1651
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 09:31 下午
+- Posted at raw: 十一月 07, 2025, 09:31 下午
+- Posted at iso: 2025-11-07T21:31:00+08:00
 
 **角色强度分析：织梦者-阿拉克涅**
 

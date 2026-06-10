@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2535.0"
 author: "Ombre"
 created_at_raw: "十一月 09, 2025, 09:46 上午"
 created_at_iso: "2025-11-09T09:46:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:15 +0800"
-fetched_at_iso: "2026-02-26T10:15:15+08:00"
+fetched_at_raw: "2026-06-10 10:50:59 +0800"
+fetched_at_iso: "2026-06-10T10:50:59.073023+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6799
-approx_tokens: 3400
 ---
 
 # Ombre的角色 - 阿修罗
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 09:46 上午
+- Posted at raw: 十一月 09, 2025, 09:46 上午
+- Posted at iso: 2025-11-09T09:46:00+08:00
 
 ### **角色档案：阿修罗**
 
@@ -168,8 +168,10 @@ approx_tokens: 3400
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 09, 2025, 10:05 上午
+- Posted at raw: 十一月 09, 2025, 10:05 上午
+- Posted at iso: 2025-11-09T10:05:00+08:00
 
 从者档案（Berserker）### **FGO风格角色转录协议 (FGO-Style Character Transcription Protocol) - 标准七职阶版**
 

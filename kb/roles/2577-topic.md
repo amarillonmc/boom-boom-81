@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2577.0"
 author: "全装甲高达七号机"
 created_at_raw: "十一月 11, 2025, 08:00 上午"
 created_at_iso: "2025-11-11T08:00:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:28 +0800"
-fetched_at_iso: "2026-02-26T10:15:28+08:00"
+fetched_at_raw: "2026-06-10 10:51:11 +0800"
+fetched_at_iso: "2026-06-10T10:51:11.291921+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4709
-approx_tokens: 2355
 ---
 
 # 全装甲高达七号机的角色 - 金剛蝶 (こんごうちょう) - 貂蝉 (ちょうせん) 【真名：錬 (れん)】
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十一月 11, 2025, 08:00 上午
+- Posted at raw: 十一月 11, 2025, 08:00 上午
+- Posted at iso: 2025-11-11T08:00:00+08:00
 
 **角色填写人：**全装甲高达七号机
 

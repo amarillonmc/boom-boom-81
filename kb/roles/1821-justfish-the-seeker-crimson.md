@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1821.0"
 author: "Justfish"
 created_at_raw: "十月 21, 2025, 09:12 上午"
 created_at_iso: "2025-10-21T09:12:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:02 +0800"
-fetched_at_iso: "2026-02-26T10:11:02+08:00"
+fetched_at_raw: "2026-06-10 10:47:11 +0800"
+fetched_at_iso: "2026-06-10T10:47:11.116901+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8400
-approx_tokens: 4200
 ---
 
 # Justfish的角色 - 追寻者 - 绯 (The Seeker - Crimson)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 21, 2025, 09:12 上午
+- Posted at raw: 十月 21, 2025, 09:12 上午
+- Posted at iso: 2025-10-21T09:12:00+08:00
 
 **角色填写人：**Justfish
 
@@ -144,8 +144,10 @@ approx_tokens: 4200
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十月 22, 2025, 10:56 上午
+- Posted at raw: 十月 22, 2025, 10:56 上午
+- Posted at iso: 2025-10-22T10:56:00+08:00
 
 【角色成长档案：追寻者 - 绯】结算周期： "墨比乌斯-7"弈局 结束
 结算目标： 对"绯"在此次冒险中的行为与感悟进行【记忆的重构】结算。

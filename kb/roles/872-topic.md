@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=872.0"
 author: "小兵"
 created_at_raw: "九月 25, 2025, 09:40 上午"
 created_at_iso: "2025-09-25T09:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:05 +0800"
-fetched_at_iso: "2026-02-26T10:04:05+08:00"
+fetched_at_raw: "2026-06-10 10:41:01 +0800"
+fetched_at_iso: "2026-06-10T10:41:01.845657+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 800
-approx_tokens: 400
 ---
 
 # 小兵的角色 - 脩杜·月咒
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 九月 25, 2025, 09:40 上午
+- Posted at raw: 九月 25, 2025, 09:40 上午
+- Posted at iso: 2025-09-25T09:40:00+08:00
 
 **角色填写人：**小兵
 

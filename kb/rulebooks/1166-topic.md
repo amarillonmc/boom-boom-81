@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1166.0"
 author: "galekkomari"
 created_at_raw: "十月 01, 2025, 11:16 下午"
 created_at_iso: "2025-10-01T23:16:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:41 +0800"
-fetched_at_iso: "2026-02-26T10:19:41+08:00"
+fetched_at_raw: "2026-06-10 11:00:56 +0800"
+fetched_at_iso: "2026-06-10T11:00:56.938659+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2995
-approx_tokens: 1498
 ---
 
 # 针对角色持续增长的补充规则
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十月 01, 2025, 11:16 下午
+- Posted at raw: 十月 01, 2025, 11:16 下午
+- Posted at iso: 2025-10-01T23:16:00+08:00
 
 你可以按照你的需求，对此规则进行魔改。
 该规则默认你使用的AI具有类似于Project或者Gem，也即能够上传特定文件构成长期记忆的方式。没有这种方式的场合，不保证该规则会有用。因此请进一步进行魔改。
@@ -102,8 +102,10 @@ b_growth_agenda.txt中的内容如下：
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十月 01, 2025, 11:18 下午
+- Posted at raw: 十月 01, 2025, 11:18 下午
+- Posted at iso: 2025-10-01T23:18:00+08:00
 
 这里是上文提到的w_deep_dive_agenda_record.txt中的模板内容，你也需要将其一并上传至你的项目中，并且该文件需要你手动更新。
 

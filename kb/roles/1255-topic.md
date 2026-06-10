@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1255.0"
 author: "小可"
 created_at_raw: "十月 04, 2025, 08:10 上午"
 created_at_iso: "2025-10-04T08:10:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:45 +0800"
-fetched_at_iso: "2026-02-26T10:06:45+08:00"
+fetched_at_raw: "2026-06-10 10:43:25 +0800"
+fetched_at_iso: "2026-06-10T10:43:25.504733+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4355
-approx_tokens: 2178
 ---
 
 # 小可的角色 - 枯血老魔
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 04, 2025, 08:10 上午
+- Posted at raw: 十月 04, 2025, 08:10 上午
+- Posted at iso: 2025-10-04T08:10:00+08:00
 
 **角色填写人：**小可
 
@@ -102,8 +102,10 @@ approx_tokens: 2178
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 02:30 下午
+- Posted at raw: 十一月 07, 2025, 02:30 下午
+- Posted at iso: 2025-11-07T14:30:00+08:00
 
 **角色强度分析：枯血老魔**
 

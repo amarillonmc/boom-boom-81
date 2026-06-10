@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1839.0"
 author: "Jerry"
 created_at_raw: "十月 22, 2025, 02:47 上午"
 created_at_iso: "2025-10-22T02:47:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:11 +0800"
-fetched_at_iso: "2026-02-26T10:11:11+08:00"
+fetched_at_raw: "2026-06-10 10:47:19 +0800"
+fetched_at_iso: "2026-06-10T10:47:19.616886+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4781
-approx_tokens: 2391
 ---
 
 # Jerry的角色 - 不可测船长-杰克·斯派洛
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 22, 2025, 02:47 上午
+- Posted at raw: 十月 22, 2025, 02:47 上午
+- Posted at iso: 2025-10-22T02:47:00+08:00
 
 **角色填写人：**Jerry
 

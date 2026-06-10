@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3155.0"
 author: "全装甲高达七号机"
 created_at_raw: "十二月 02, 2025, 08:40 下午"
 created_at_iso: "2025-12-02T20:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:21:03 +0800"
-fetched_at_iso: "2026-02-26T10:21:03+08:00"
+fetched_at_raw: "2026-06-10 11:02:17 +0800"
+fetched_at_iso: "2026-06-10T11:02:17.250071+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 24569
-approx_tokens: 12285
 ---
 
 # 从酒馆“借”来的主神空间规则书（等大佬适配）
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十二月 02, 2025, 08:40 下午
+- Posted at raw: 十二月 02, 2025, 08:40 下午
+- Posted at iso: 2025-12-02T20:40:00+08:00
 
 ---
 ```
@@ -111,7 +111,7 @@ Marking syntax:
  2. **面板**: 正文结束后，**必须**以下面的标准html格式输出轮回者个人数据面板**完整且实时更新并严格遵守【面板输出规则】**：
 好的，这是您提供的HTML格式转换为通用BBCode（Discuz!、phpBB等常用论坛系统支持的格式）后的代码。
 
-BBCode没有HTML/CSS那样强大的布局和样式能力，因此转换后会使用 `Spoiler` 标签模拟可折叠的 `<details>` 菜单，并使用 `**`、`[size]`、`****主神**
+BBCode没有HTML/CSS那样强大的布局和样式能力，因此转换后会使用 `折叠内容` 标签模拟可折叠的 `<details>` 菜单，并使用 `**`、`[size]`、`****主神**
 
 **[轮回者：名字]**
 
@@ -355,15 +355,19 @@ LTM: [任务间隙总结] - [序号]: [内容]
 
 ## 2F
 
+- floor_index: 2
 - Author: 全装甲高达七号机
-- Posted at: 十二月 02, 2025, 11:41 下午
+- Posted at raw: 十二月 02, 2025, 11:41 下午
+- Posted at iso: 2025-12-02T23:41:00+08:00
 
 初步融合
 
 ## 3F
 
+- floor_index: 3
 - Author: 全装甲高达七号机
-- Posted at: 十二月 02, 2025, 11:46 下午
+- Posted at raw: 十二月 02, 2025, 11:46 下午
+- Posted at iso: 2025-12-02T23:46:00+08:00
 
 # Priority Hierarchy v4 (@PH4)
 1. @rule

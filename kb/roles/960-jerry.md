@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=960.0"
 author: "Jerry"
 created_at_raw: "九月 27, 2025, 04:25 上午"
 created_at_iso: "2025-09-27T04:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:50 +0800"
-fetched_at_iso: "2026-02-26T10:04:50+08:00"
+fetched_at_raw: "2026-06-10 10:41:43 +0800"
+fetched_at_iso: "2026-06-10T10:41:43.404288+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10111
-approx_tokens: 5056
 ---
 
 # Jerry的角色 - 海贼战队豪快者
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 27, 2025, 04:25 上午
+- Posted at raw: 九月 27, 2025, 04:25 上午
+- Posted at iso: 2025-09-27T04:25:00+08:00
 
 **角色填写人：**Jerry
 
@@ -183,8 +183,10 @@ approx_tokens: 5056
 
 ## 2F
 
+- floor_index: 2
 - Author: Jerry
-- Posted at: 十一月 26, 2025, 05:14 上午
+- Posted at raw: 十一月 26, 2025, 05:14 上午
+- Posted at iso: 2025-11-26T05:14:00+08:00
 
 收到，【赫菲斯托斯】系统已激活。正在读取【海贼战队豪快者】档案......
 

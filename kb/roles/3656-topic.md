@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3656.0"
 author: "全装甲高达七号机"
 created_at_raw: "三月 15, 2026, 05:15 上午"
 created_at_iso: "2026-03-15T05:15:00+08:00"
-fetched_at_raw: "2026-03-18 22:28:55 +0800"
-fetched_at_iso: "2026-03-18T22:28:55.377831+08:00"
+fetched_at_raw: "2026-06-10 10:55:56 +0800"
+fetched_at_iso: "2026-06-10T10:55:56.802553+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -22,8 +22,6 @@ data_quality: "ok"
 - Author: 全装甲高达七号机
 - Posted at raw: 三月 15, 2026, 05:15 上午
 - Posted at iso: 2026-03-15T05:15:00+08:00
-
-**角色填写人：**全装甲高达七号机
 
 **角色名称**
 深空巨构·战略决战平台 "锤" (Deep Space Megastructure: Hammer)

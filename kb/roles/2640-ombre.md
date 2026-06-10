@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2640.0"
 author: "Ombre"
 created_at_raw: "十一月 13, 2025, 06:19 上午"
 created_at_iso: "2025-11-13T06:19:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:52 +0800"
-fetched_at_iso: "2026-02-26T10:15:52+08:00"
+fetched_at_raw: "2026-06-10 10:51:31 +0800"
+fetched_at_iso: "2026-06-10T10:51:31.316324+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7016
-approx_tokens: 3508
 ---
 
 # Ombre的角色 - 芳泽 霞
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十一月 13, 2025, 06:19 上午
+- Posted at raw: 十一月 13, 2025, 06:19 上午
+- Posted at iso: 2025-11-13T06:19:00+08:00
 
 ### **角色档案：芳泽霞 (芳泽堇)**
 
@@ -143,8 +143,10 @@ approx_tokens: 3508
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 13, 2025, 06:22 上午
+- Posted at raw: 十一月 13, 2025, 06:22 上午
+- Posted at iso: 2025-11-13T06:22:00+08:00
 
 御主档案### **第一部分：核心身份 (Core Identity)**
 

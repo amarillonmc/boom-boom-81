@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1108.0"
 author: "Jerry"
 created_at_raw: "九月 30, 2025, 12:56 下午"
 created_at_iso: "2025-09-30T12:56:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:46 +0800"
-fetched_at_iso: "2026-02-26T10:05:46+08:00"
+fetched_at_raw: "2026-06-10 10:42:31 +0800"
+fetched_at_iso: "2026-06-10T10:42:31.522405+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5991
-approx_tokens: 2996
 ---
 
 # Jerry的角色 - 五十岚一辉 & 维斯
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 30, 2025, 12:56 下午
+- Posted at raw: 九月 30, 2025, 12:56 下午
+- Posted at iso: 2025-09-30T12:56:00+08:00
 
 **角色填写人：**Jerry
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1583.0"
 author: "galekkomari"
 created_at_raw: "十月 14, 2025, 02:48 下午"
 created_at_iso: "2025-10-14T14:48:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:15 +0800"
-fetched_at_iso: "2026-02-26T10:09:15+08:00"
+fetched_at_raw: "2026-06-10 10:45:39 +0800"
+fetched_at_iso: "2026-06-10T10:45:39.760247+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7858
-approx_tokens: 3929
 ---
 
 # galekkomari的角色 - 界·青龙
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十月 14, 2025, 02:48 下午
+- Posted at raw: 十月 14, 2025, 02:48 下午
+- Posted at iso: 2025-10-14T14:48:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -101,16 +101,20 @@ approx_tokens: 3929
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十月 14, 2025, 02:52 下午
+- Posted at raw: 十月 14, 2025, 02:52 下午
+- Posted at iso: 2025-10-14T14:52:00+08:00
 
 ——青龙给出的建言·光辉——
 暂无
 
 ## 3F
 
+- floor_index: 3
 - Author: galekkomari
-- Posted at: 十月 14, 2025, 03:01 下午
+- Posted at raw: 十月 14, 2025, 03:01 下午
+- Posted at iso: 2025-10-14T15:01:00+08:00
 
 附录：
 角色综合评价：界·青龙

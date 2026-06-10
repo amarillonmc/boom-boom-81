@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2842.0"
 author: "AD钙"
 created_at_raw: "十一月 18, 2025, 03:24 上午"
 created_at_iso: "2025-11-18T03:24:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:45 +0800"
-fetched_at_iso: "2026-02-26T10:20:45+08:00"
+fetched_at_raw: "2026-06-10 11:01:59 +0800"
+fetched_at_iso: "2026-06-10T11:01:59.110587+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 27010
-approx_tokens: 13505
 ---
 
 # 条目式-大乱斗规则书（低米线大乱斗使用）
 
 ## 1F
 
+- floor_index: 1
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 03:24 上午
+- Posted at raw: 十一月 18, 2025, 03:24 上午
+- Posted at iso: 2025-11-18T03:24:00+08:00
 
 这是第四次低米线大乱斗所使用的规则书。基于黑莲7.1规则修改。
 
@@ -82,8 +82,10 @@ approx_tokens: 13505
 
 ## 2F
 
+- floor_index: 2
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 03:25 上午
+- Posted at raw: 十一月 18, 2025, 03:25 上午
+- Posted at iso: 2025-11-18T03:25:00+08:00
 
 {
  "rulebook": {
@@ -542,8 +544,10 @@ approx_tokens: 13505
 
 ## 3F
 
+- floor_index: 3
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 03:30 上午
+- Posted at raw: 十一月 18, 2025, 03:30 上午
+- Posted at iso: 2025-11-18T03:30:00+08:00
 
 规则书本体追求高度结构化，分为三大Meta和四大支柱，加之使用json格式，使得llm对其有非常高的执行力。
 
@@ -555,8 +559,10 @@ approx_tokens: 13505
 
 ## 4F
 
+- floor_index: 4
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 03:32 上午
+- Posted at raw: 十一月 18, 2025, 03:32 上午
+- Posted at iso: 2025-11-18T03:32:00+08:00
 
 {
  "pre_audit_procedure": {
@@ -659,8 +665,10 @@ approx_tokens: 13505
 
 ## 5F
 
+- floor_index: 5
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 05:18 上午
+- Posted at raw: 十一月 18, 2025, 05:18 上午
+- Posted at iso: 2025-11-18T05:18:00+08:00
 
 预审核文档旨在为llm提供能力量级的校准和叙事弧光的引导。在很大程度上，避免角色的能力出现超出量级的表现（比如最经典的物理攻击被赋予法则效果），避免角色退场了但是能力展示不足且没有给人留下足够印象的情况。
 
@@ -670,8 +678,10 @@ approx_tokens: 13505
 
 ## 6F
 
+- floor_index: 6
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 05:18 上午
+- Posted at raw: 十一月 18, 2025, 05:18 上午
+- Posted at iso: 2025-11-18T05:18:00+08:00
 
 {
  "turn_conception_procedure": {
@@ -765,8 +775,10 @@ approx_tokens: 13505
 
 ## 7F
 
+- floor_index: 7
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:04 上午
+- Posted at raw: 十一月 18, 2025, 06:04 上午
+- Posted at iso: 2025-11-18T06:04:00+08:00
 
 起草一个下回合的大纲给llm参考。
 大纲中角色的动作越多，正文也就越细致。
@@ -776,8 +788,10 @@ approx_tokens: 13505
 
 ## 8F
 
+- floor_index: 8
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:05 上午
+- Posted at raw: 十一月 18, 2025, 06:05 上午
+- Posted at iso: 2025-11-18T06:05:00+08:00
 
 {
  "turn_advancement_procedure": {
@@ -824,8 +838,10 @@ approx_tokens: 13505
 
 ## 9F
 
+- floor_index: 9
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:09 上午
+- Posted at raw: 十一月 18, 2025, 06:09 上午
+- Posted at iso: 2025-11-18T06:09:00+08:00
 
 好像没什么好解释的【可以看到推进回合需要llm参考哪些内容。
 
@@ -833,8 +849,10 @@ approx_tokens: 13505
 
 ## 10F
 
+- floor_index: 10
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:11 上午
+- Posted at raw: 十一月 18, 2025, 06:11 上午
+- Posted at iso: 2025-11-18T06:11:00+08:00
 
 {
  "modular_review_pipeline": {
@@ -945,8 +963,10 @@ approx_tokens: 13505
 
 ## 11F
 
+- floor_index: 11
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:14 上午
+- Posted at raw: 十一月 18, 2025, 06:14 上午
+- Posted at iso: 2025-11-18T06:14:00+08:00
 
 回合复检机制是非常折磨的，因为llm无法一次发现所有问题，大概需要视情况执行5-20次。
 但是，它可以消灭几乎所有逻辑上出现的错误（比如量级不匹配、前后不衔接等），并且消灭一半以上的陈词滥调。
@@ -955,8 +975,10 @@ approx_tokens: 13505
 
 ## 12F
 
+- floor_index: 12
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:14 上午
+- Posted at raw: 十一月 18, 2025, 06:14 上午
+- Posted at iso: 2025-11-18T06:14:00+08:00
 
 本指令为规则书中"数据提取"流程的专用人格。
 当接收"启动数据提取"指令时，暂时切换为以下定义的"数据提取与记录机器人"人格。
@@ -996,8 +1018,10 @@ approx_tokens: 13505
 
 ## 13F
 
+- floor_index: 13
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:17 上午
+- Posted at raw: 十一月 18, 2025, 06:17 上午
+- Posted at iso: 2025-11-18T06:17:00+08:00
 
 在不丢失任何关键信息的情况下，将整个回合的叙事结构化。
 不仅显著节约token从而提升llm智商，而且让llm更清楚地了解发生了什么事情，显著降低了前后不衔接的概率。
@@ -1006,16 +1030,20 @@ approx_tokens: 13505
 
 ## 14F
 
+- floor_index: 14
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:18 上午
+- Posted at raw: 十一月 18, 2025, 06:18 上午
+- Posted at iso: 2025-11-18T06:18:00+08:00
 
 以下是其他零散的放在酒馆预设里的内容。
 本规则书使用小猫之神预设。
 
 ## 15F
 
+- floor_index: 15
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:20 上午
+- Posted at raw: 十一月 18, 2025, 06:20 上午
+- Posted at iso: 2025-11-18T06:20:00+08:00
 
 执行除推进回合之外指令时打开。我替换掉了其中一个预填。
 
@@ -1023,8 +1051,10 @@ approx_tokens: 13505
 
 ## 16F
 
+- floor_index: 16
 - Author: AD钙
-- Posted at: 十一月 18, 2025, 06:20 上午
+- Posted at raw: 十一月 18, 2025, 06:20 上午
+- Posted at iso: 2025-11-18T06:20:00+08:00
 
 你懂的：
 

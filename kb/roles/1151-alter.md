@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1151.0"
 author: "ALTER"
 created_at_raw: "十月 01, 2025, 10:06 上午"
 created_at_iso: "2025-10-01T10:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:01 +0800"
-fetched_at_iso: "2026-02-26T10:06:01+08:00"
+fetched_at_raw: "2026-06-10 10:42:45 +0800"
+fetched_at_iso: "2026-06-10T10:42:45.376499+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2199
-approx_tokens: 1100
 ---
 
 # ALTER的角色 - 码丽丝
 
 ## 1F
 
+- floor_index: 1
 - Author: ALTER
-- Posted at: 十月 01, 2025, 10:06 上午
+- Posted at raw: 十月 01, 2025, 10:06 上午
+- Posted at iso: 2025-10-01T10:06:00+08:00
 
 角色填写人：ALTER
 角色名称：码丽丝（数据逻辑的镜像核心）

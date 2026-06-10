@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1405.0"
 author: "增熵星"
 created_at_raw: "十月 08, 2025, 11:21 上午"
 created_at_iso: "2025-10-08T11:21:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:55 +0800"
-fetched_at_iso: "2026-02-26T10:07:55+08:00"
+fetched_at_raw: "2026-06-10 10:44:27 +0800"
+fetched_at_iso: "2026-06-10T10:44:27.776729+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1251
-approx_tokens: 626
 ---
 
 # 增熵星的角色 - 盗贼
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 十月 08, 2025, 11:21 上午
+- Posted at raw: 十月 08, 2025, 11:21 上午
+- Posted at iso: 2025-10-08T11:21:00+08:00
 
 **角色填写人：**增熵星
 

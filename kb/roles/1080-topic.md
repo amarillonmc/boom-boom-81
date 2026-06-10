@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1080.0"
 author: "小兵"
 created_at_raw: "九月 30, 2025, 12:04 上午"
 created_at_iso: "2025-09-30T00:04:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:39 +0800"
-fetched_at_iso: "2026-02-26T10:05:39+08:00"
+fetched_at_raw: "2026-06-10 10:42:26 +0800"
+fetched_at_iso: "2026-06-10T10:42:26.445323+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1222
-approx_tokens: 611
 ---
 
 # 小兵的角色 - 骷髅弓箭手
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 九月 30, 2025, 12:04 上午
+- Posted at raw: 九月 30, 2025, 12:04 上午
+- Posted at iso: 2025-09-30T00:04:00+08:00
 
 **角色填写人：**小兵
 

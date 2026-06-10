@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=876.0"
 author: "Justfish"
 created_at_raw: "九月 25, 2025, 10:45 上午"
 created_at_iso: "2025-09-25T10:45:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:33 +0800"
-fetched_at_iso: "2026-02-26T10:19:33+08:00"
+fetched_at_raw: "2026-06-10 11:00:49 +0800"
+fetched_at_iso: "2026-06-10T11:00:49.627014+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7954
-approx_tokens: 3977
 ---
 
 # 角色多维度评价参考
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 25, 2025, 10:45 上午
+- Posted at raw: 九月 25, 2025, 10:45 上午
+- Posted at iso: 2025-09-25T10:45:00+08:00
 
 本评价参考意义在于分析角色在剧情上的弹性，以及确认其设计的薄弱项和角色大致的阵营。
 主要角度分为以下几项。

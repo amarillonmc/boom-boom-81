@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1674.0"
 author: "小可"
 created_at_raw: "十月 17, 2025, 11:00 上午"
 created_at_iso: "2025-10-17T11:00:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:58 +0800"
-fetched_at_iso: "2026-02-26T10:19:58+08:00"
+fetched_at_raw: "2026-06-10 11:01:15 +0800"
+fetched_at_iso: "2026-06-10T11:01:15.186160+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 18293
-approx_tokens: 9147
 ---
 
 # 特殊议程：胡闹厨房·土豆大战
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 17, 2025, 11:00 上午
+- Posted at raw: 十月 17, 2025, 11:00 上午
+- Posted at iso: 2025-10-17T11:00:00+08:00
 
 特殊议程：胡闹厨房·土豆大战
 
@@ -287,8 +287,10 @@ approx_tokens: 9147
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 17, 2025, 11:00 上午
+- Posted at raw: 十月 17, 2025, 11:00 上午
+- Posted at iso: 2025-10-17T11:00:00+08:00
 
 第四部分：游戏流程与胜利条件
 
@@ -575,8 +577,10 @@ approx_tokens: 9147
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十月 17, 2025, 11:02 上午
+- Posted at raw: 十月 17, 2025, 11:02 上午
+- Posted at iso: 2025-10-17T11:02:00+08:00
 
 使用此议程需加入的角色
 圣地·土豆泥教堂

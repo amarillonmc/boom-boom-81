@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=508.0"
 author: "OPPO"
 created_at_raw: "九月 19, 2025, 09:30 上午"
 created_at_iso: "2025-09-19T09:30:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:15 +0800"
-fetched_at_iso: "2026-02-26T10:01:15+08:00"
+fetched_at_raw: "2026-06-10 10:38:30 +0800"
+fetched_at_iso: "2026-06-10T10:38:30.056960+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 31087
-approx_tokens: 15544
 ---
 
 # OPPO的角色 - 「鸿园之主」红露
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 九月 19, 2025, 09:30 上午
+- Posted at raw: 九月 19, 2025, 09:30 上午
+- Posted at iso: 2025-09-19T09:30:00+08:00
 
 **角色填写人：**OPPO
 
@@ -460,8 +460,10 @@ approx_tokens: 15544
 
 ## 2F
 
+- floor_index: 2
 - Author: OPPO
-- Posted at: 十一月 14, 2025, 11:29 下午
+- Posted at raw: 十一月 14, 2025, 11:29 下午
+- Posted at iso: 2025-11-14T23:29:00+08:00
 
 好的，已理解您提供的详细设定。现在，开始根据协议，将「鸿园之主」红露转录为FGO世界观下的御主角色。
 
@@ -539,8 +541,10 @@ approx_tokens: 15544
 
 ## 3F
 
+- floor_index: 3
 - Author: OPPO
-- Posted at: 十一月 14, 2025, 11:32 下午
+- Posted at raw: 十一月 14, 2025, 11:32 下午
+- Posted at iso: 2025-11-14T23:32:00+08:00
 
 好的，完全理解。将这个自动防护机制的核心调整为保护友军，能更深刻地体现其作为"魁首"与"战略家"的职责，而非仅仅关注自身。以下是最终的修订版，突出了她对整个团队的守护与赋能。
 
@@ -634,8 +638,10 @@ approx_tokens: 15544
 
 ## 4F
 
+- floor_index: 4
 - Author: OPPO
-- Posted at: 十二月 12, 2025, 06:41 下午
+- Posted at raw: 十二月 12, 2025, 06:41 下午
+- Posted at iso: 2025-12-12T18:41:00+08:00
 
 角色强度评估报告
 
@@ -678,8 +684,10 @@ approx_tokens: 15544
 
 ## 5F
 
+- floor_index: 5
 - Author: OPPO
-- Posted at: 十二月 20, 2025, 12:00 上午
+- Posted at raw: 十二月 20, 2025, 12:00 上午
+- Posted at iso: 2025-12-20T00:00:00+08:00
 
 #1版设定备份
 **角色填写人：**OPPO

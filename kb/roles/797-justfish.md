@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=797.0"
 author: "Justfish"
 created_at_raw: "九月 24, 2025, 07:49 上午"
 created_at_iso: "2025-09-24T07:49:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:34 +0800"
-fetched_at_iso: "2026-02-26T10:03:34+08:00"
+fetched_at_raw: "2026-06-10 10:40:32 +0800"
+fetched_at_iso: "2026-06-10T10:40:32.159976+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 27968
-approx_tokens: 13984
 ---
 
 # Justfish的角色强度分层表（用于快速检索角色）
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 24, 2025, 07:49 上午
+- Posted at raw: 九月 24, 2025, 07:49 上午
+- Posted at iso: 2025-09-24T07:49:00+08:00
 
 **裁定用GM：**
 【天衡仲裁官】榭衣酉（Mek-C100） & 【天序书记官】榭衣未（Mek-C101） (https://number81.xyz/index.php?topic=552.msg2066#msg2066)
@@ -56,10 +56,11 @@ KFM (Kung Fu Man / 功夫男) (https://number81.xyz/index.php?topic=1568)
 万象归零之意志 - 愚者 (https://number81.xyz/index.php?topic=1731)
 半透明の魔法使-二階堂 真紅 (https://number81.xyz/index.php?topic=1962)
 『擦玻璃小伙』 (https://number81.xyz/index.php?topic=1982)
-墨泷云 (https://number81.xyz/index.php?topic=2010)
 不败的舞台绅士 - 杰斯顿·威廉姆斯 (https://number81.xyz/index.php?topic=2070)
 "三步必杀"塞蕾娅 (https://number81.xyz/index.php?topic=2073)
 知兵主 - '熔融武识' (https://number81.xyz/index.php?topic=2111)
+墨泷云 (https://number81.xyz/index.php?topic=2010)
+墨瑜 (https://number81.xyz/index.php?topic=3667)
 书 虫 (B kw m) (https://number81.xyz/index.php?topic=2124)
 「剧终：本次乱斗已圆满结束。」 (https://number81.xyz/index.php?topic=2150)
 戏言玩家 - 「我」 (The Zaregoto Player - "Boku") (https://number81.xyz/index.php?topic=2193)
@@ -79,12 +80,30 @@ Dsrugal (https://number81.xyz/index.php?topic=2213)
 夜师傅-夜鹭 (https://number81.xyz/index.php?topic=2574)
 末法时代 (https://number81.xyz/index.php?topic=2645)
 李靖 (https://number81.xyz/index.php?topic=3283)
+奥黎尊（AORIZON） (https://number81.xyz/index.php?topic=3382)
+红超人（レッドマン） (https://number81.xyz/index.php?topic=3337)
+"渡" (https://number81.xyz/index.php?topic=3420)
+"梦" (https://number81.xyz/index.php?topic=3560)
+火柴人亨利 (Henry Stickmin) (https://number81.xyz/index.php?topic=3677)
+孔丘，天之木铎 (https://number81.xyz/index.php?topic=3686)
+终景之墨 (https://number81.xyz/index.php?topic=3727)
+戈多（Godot） (https://number81.xyz/index.php?topic=3790)
+洁书语 (https://number81.xyz/index.php?topic=3835)
+查拉图斯特拉 (Zarathustra) (https://number81.xyz/index.php?topic=3840)
+一 (https://number81.xyz/index.php?topic=3918)
+多元宇宙老资历（The Oldest） (https://number81.xyz/index.php?topic=4023)
+VERSUS (https://number81.xyz/index.php?topic=4164)
+那是鸟！那是飞机！不，那是鲨鱼！ (https://number81.xyz/index.php?topic=4182)
+真实的圣诞老人 (https://number81.xyz/index.php?topic=4189)
+你应该知道，力的作用是相互的 (https://number81.xyz/index.php?topic=4294)
+超模超模超模 (https://number81.xyz/index.php?topic=4300)
+羽一 (https://number81.xyz/index.php?topic=4360)
 
 **神上（位面之主~单体）：**
 恐怖铁皮人 (https://number81.xyz/index.php?topic=2562)
 「生死之王」莫德凯撒 (https://number81.xyz/index.php?topic=500)
 克洛诺斯，最终虚空 (Chronos, the Final Void) (https://number81.xyz/index.php?topic=665)
-迪奥·超越天堂（完全体） (https://number81.xyz/index.php?topic=640)
+迪奥·超越天堂 (https://number81.xyz/index.php?topic=640)
 无底坑之王 亚波伦 (https://number81.xyz/index.php?topic=542)
 Auditor (https://number81.xyz/index.php?topic=686)
 Tricky the Clown（有光环） (https://number81.xyz/index.php?topic=690)
@@ -106,6 +125,12 @@ CV：若本规夫 (Character Voice : Norio Wakamoto) (https://number81.xyz/index
 尤格-萨隆 (Yogg'Saron) (https://number81.xyz/index.php?topic=2579)
 孙悟空 (https://number81.xyz/index.php?topic=2583)
 "超脱者"-纤羽织 (https://number81.xyz/index.php?topic=2709)
+全维衍化之钥-阿比斯 (Abyss) (https://number81.xyz/index.php?topic=3561)
+某不愿透露姓名的拼字爱心人 (https://number81.xyz/index.php?topic=3712)
+物理学死神 (Phenomenon: Physical Death) (https://number81.xyz/index.php?topic=3726)
+「死神/银剑之圣人」拉格纳 (Ragna) (https://number81.xyz/index.php?topic=3982)
+红 超 人 (https://number81.xyz/index.php?topic=4293)
+破军 (https://number81.xyz/index.php?topic=4387)
 
 **神下~神中（概念神/规则神/大部分【异态魔女】的上限战力）：**
 琉彩 (https://number81.xyz/index.php?topic=506)
@@ -154,12 +179,16 @@ Lord·of·罪罚 (ロード・オブ・ザイバツ) (https://number81.xyz/index
 逻各斯 (Logos) (https://number81.xyz/index.php?topic=2365)
 莲心 (https://number81.xyz/index.php?topic=2403)
 辉依·斯图亚特 (Huiyi Stuart) (https://number81.xyz/index.php?topic=2436)
-红超人（レッドマン） (https://number81.xyz/index.php?topic=3337)
 三六零卫士兽（Sanliuling-Guardmon） (https://number81.xyz/index.php?topic=3358)
+神秘背尺男 (https://number81.xyz/index.php?topic=3658)
+星态龙 (Star Eater) (https://number81.xyz/index.php?topic=3791)
+储君 (Regent) (https://number81.xyz/index.php?topic=3860)
+骷髅王和他的冷知识(Skeletor facts) (https://number81.xyz/index.php?topic=3985)
+【白胡子】爱德华·纽盖特 (https://number81.xyz/index.php?topic=4161)
+天体之魔法少女 - 满天星 (https://number81.xyz/index.php?topic=4223)
 
 **准神（理论上应该是神级，但表现不到神级）：**
 「万象天灵」坤仑 (https://number81.xyz/index.php?topic=424)
-迪奥·超越天堂（初始状态） (https://number81.xyz/index.php?topic=640)
 漂浮电晶之壳 (https://number81.xyz/index.php?topic=479)
 「战神」玛尔斯 (https://number81.xyz/index.php?topic=422)
 隐藏的真机壳盖塔 （Apoqliphort Getter） (https://number81.xyz/index.php?topic=158)
@@ -179,9 +208,11 @@ Lord·of·罪罚 (ロード・オブ・ザイバツ) (https://number81.xyz/index
 悉达·凯隐 (Sydan Kayn) (https://number81.xyz/index.php?topic=1888)
 武库之魔法少女 - 曼珠 (Magical Girl of Armory - Manju) (https://number81.xyz/index.php?topic=1916)
 英雄杀手 - 巴鲁巴托斯·盖迪亚 (Hero-Slayer - Barbatos Goetia) (https://number81.xyz/index.php?topic=2172)
-破碎本源-泽特 (https://number81.xyz/index.php?topic=2306)
+天穹守望者-泽特 (https://number81.xyz/index.php?topic=2306)
 光辉之人（The One of Aura） (https://number81.xyz/index.php?topic=2412)
 共鸣者-雨藜 (Yu Li) (https://number81.xyz/index.php?topic=2499)
+大力·D·一聋 (https://number81.xyz/index.php?topic=1230)
+Mega图图犬 (Mega Smeargle) (https://number81.xyz/index.php?topic=3920)
 
 **狂（战斗力远超常人/大多数异态魔女的常态战力）：**
 Hank (https://number81.xyz/index.php?topic=683)
@@ -207,7 +238,6 @@ Hank (https://number81.xyz/index.php?topic=683)
 【寂静剑士】音无 哆菈 (https://number81.xyz/index.php?topic=1071)
 【瞬爆艺人】硝石 灰 (https://number81.xyz/index.php?topic=1406)
 The Peace Keeper: AL-2S / 天童爱丽丝#2 (https://number81.xyz/index.php?topic=1221)
-大力·D·一聋 (https://number81.xyz/index.php?topic=1230)
 杀戮行者-奈陌 (https://number81.xyz/index.php?topic=1363)
 神最上 沙奥萨 (Shin-Saijō Sauzer) (https://number81.xyz/index.php?topic=1506)
 世纪末最强病人 托奇 (Seikimatsu Saikyō Byōnin - Toki) (https://number81.xyz/index.php?topic=1508)
@@ -221,6 +251,8 @@ The Peace Keeper: AL-2S / 天童爱丽丝#2 (https://number81.xyz/index.php?topi
 桜黒の忍者殺手-矢本·四季 (Sakuraguro no Ninja Slayer - Yamoto Shiki) (https://number81.xyz/index.php?topic=2323)
 火云邪神 (https://number81.xyz/index.php?topic=2613)
 伊利丹·怒风 (https://number81.xyz/index.php?topic=2805)
+史蒂夫 (操作者：Dream) (https://number81.xyz/index.php?topic=4115)
+日车宽见 (Hiromi Higuruma) (https://number81.xyz/index.php?topic=4116)
 
 **强/凶（战斗力超出绝大多数人）：**
 "不幸的幸运枪手" 蓝芸 (https://number81.xyz/index.php?topic=1530)
@@ -229,6 +261,7 @@ The Peace Keeper: AL-2S / 天童爱丽丝#2 (https://number81.xyz/index.php?topi
 游梦客 - 沃克 (Dreamwalker - Walker) (https://number81.xyz/index.php?topic=1825)
 追寻者 - 绯 (The Seeker - Crimson) (https://number81.xyz/index.php?topic=1821)
 天王新 (https://number81.xyz/index.php?topic=2503)
+88mm Flak41 (https://number81.xyz/index.php?topic=4159)
 
 **并（战斗力超出常人/大多数异态魔女的完全无加成时的战力）：**
 Sanford & Deimos (https://number81.xyz/index.php?topic=692)
@@ -244,6 +277,7 @@ Sanford & Deimos (https://number81.xyz/index.php?topic=692)
 
 **成龙：**
 路过的普通人类（不是成龙） (https://number81.xyz/index.php?topic=337)
+传奇·成龙（准神） (https://number81.xyz/index.php?topic=4157)
 KING (https://number81.xyz/index.php?topic=982)
 野比大雄 (https://number81.xyz/index.php?topic=1759)
 
@@ -260,8 +294,10 @@ KING (https://number81.xyz/index.php?topic=982)
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 九月 27, 2025, 09:52 上午
+- Posted at raw: 九月 27, 2025, 09:52 上午
+- Posted at iso: 2025-09-27T09:52:00+08:00
 
 [b][size=4]裁定用GM：[/size][/b]
 [url="https://number81.xyz/index.php?topic=552.msg2066#msg2066"]【天衡仲裁官】榭衣酉（Mek-C100） & 【天序书记官】榭衣未（Mek-C101）[/url]
@@ -296,10 +332,11 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=1731"]万象归零之意志 - 愚者[/url]
 [url="https://number81.xyz/index.php?topic=1962"]半透明の魔法使-二階堂 真紅[/url]
 [url="https://number81.xyz/index.php?topic=1982"]『擦玻璃小伙』[/url]
-[url="https://number81.xyz/index.php?topic=2010"]墨泷云[/url]
 [url="https://number81.xyz/index.php?topic=2070"]不败的舞台绅士 - 杰斯顿·威廉姆斯[/url]
 [url="https://number81.xyz/index.php?topic=2073"]"三步必杀"塞蕾娅[/url]
 [url="https://number81.xyz/index.php?topic=2111"]知兵主 - '熔融武识'[/url]
+[url="https://number81.xyz/index.php?topic=2010"]墨泷云[/url]
+[url="https://number81.xyz/index.php?topic=3667"]墨瑜[/url]
 [url="https://number81.xyz/index.php?topic=2124"]书 虫 (B kw m)[/url]
 [url="https://number81.xyz/index.php?topic=2150"]「剧终：本次乱斗已圆满结束。」[/url]
 [url="https://number81.xyz/index.php?topic=2193"]戏言玩家 - 「我」 (The Zaregoto Player - "Boku")[/url]
@@ -314,11 +351,31 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=2400"]哈Gemi[/url]
 [url="https://number81.xyz/index.php?topic=2415"]许多 猪[/url]
 [url="https://number81.xyz/index.php?topic=2527"]奥尔加·伊兹卡 (Orga Itsuka)[/url]
+[url="https://number81.xyz/index.php?topic=2529"]应届毕业生[/url]
+[url="https://number81.xyz/index.php?topic=2563"]「虚空狂雷」沃利贝尔[/url]
+[url="https://number81.xyz/index.php?topic=2574"]夜师傅-夜鹭[/url]
+[url="https://number81.xyz/index.php?topic=2645"]末法时代[/url]
+[url="https://number81.xyz/index.php?topic=3283"]李靖[/url]
+[url="https://number81.xyz/index.php?topic=3382"]奥黎尊（AORIZON）[/url]
+[url="https://number81.xyz/index.php?topic=3337"]红超人（レッドマン）[/url]
+[url="https://number81.xyz/index.php?topic=3420"]"渡"[/url]
+[url="https://number81.xyz/index.php?topic=3560"]"梦"[/url]
+[url="https://number81.xyz/index.php?topic=3677"]火柴人亨利 (Henry Stickmin)[/url]
+[url="https://number81.xyz/index.php?topic=3686"]孔丘，天之木铎[/url]
+[url="https://number81.xyz/index.php?topic=3727"]终景之墨[/url]
+[url="https://number81.xyz/index.php?topic=3790"]戈多（Godot）[/url]
+[url="https://number81.xyz/index.php?topic=3835"]洁书语[/url]
+[url="https://number81.xyz/index.php?topic=3840"]查拉图斯特拉 (Zarathustra)[/url]
+[url="https://number81.xyz/index.php?topic=3918"]一[/url]
+[url="https://number81.xyz/index.php?topic=4023"]多元宇宙老资历（The Oldest）[/url]
+[url="https://number81.xyz/index.php?topic=4164"]VERSUS[/url]
+[url="https://number81.xyz/index.php?topic=4182"]那是鸟！那是飞机！不，那是鲨鱼！[/url]
 
 [b][size=4]神上（位面之主~单体）：[/size][/b]
-[url="https://number81.xyz/index.php?topic=665"]克洛诺斯，最终虚空 (Chronos, the Final Void)[/url]
-[url="https://number81.xyz/index.php?topic=640"]迪奥·超越天堂（完全体）[/url]
+[url="https://number81.xyz/index.php?topic=2562"]恐怖铁皮人[/url]
 [url="https://number81.xyz/index.php?topic=500"]「生死之王」莫德凯撒[/url]
+[url="https://number81.xyz/index.php?topic=665"]克洛诺斯，最终虚空 (Chronos, the Final Void)[/url]
+[url="https://number81.xyz/index.php?topic=640"]迪奥·超越天堂[/url]
 [url="https://number81.xyz/index.php?topic=542"]无底坑之王 亚波伦[/url]
 [url="https://number81.xyz/index.php?topic=686"]Auditor[/url]
 [url="https://number81.xyz/index.php?topic=690"]Tricky the Clown（有光环）[/url]
@@ -337,6 +394,13 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=2209"]拳流派之皇 - 卢卡尔 (King of All Fighting Styles - Rugal)[/url]
 [url="https://number81.xyz/index.php?topic=2301"]原初混沌-奈萨斯[/url]
 [url="https://number81.xyz/index.php?topic=2488"]阿尔伯特·爱因斯坦 (Albert Einstein)[/url]
+[url="https://number81.xyz/index.php?topic=2579"]尤格-萨隆 (Yogg'Saron)[/url]
+[url="https://number81.xyz/index.php?topic=2583"]孙悟空[/url]
+[url="https://number81.xyz/index.php?topic=2709"]"超脱者"-纤羽织[/url]
+[url="https://number81.xyz/index.php?topic=3561"]全维衍化之钥-阿比斯 (Abyss)[/url]
+[url="https://number81.xyz/index.php?topic=3712"]某不愿透露姓名的拼字爱心人[/url]
+[url="https://number81.xyz/index.php?topic=3726"]物理学死神 (Phenomenon: Physical Death)[/url]
+[url="https://number81.xyz/index.php?topic=3982"]「死神/银剑之圣人」拉格纳 (Ragna)[/url]
 
 [b][size=4]神下~神中（概念神/规则神/大部分【异态魔女】的上限战力）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=506"]琉彩[/url]
@@ -385,10 +449,14 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=2365"]逻各斯 (Logos)[/url]
 [url="https://number81.xyz/index.php?topic=2403"]莲心[/url]
 [url="https://number81.xyz/index.php?topic=2436"]辉依·斯图亚特 (Huiyi Stuart)[/url]
+[url="https://number81.xyz/index.php?topic=3358"]三六零卫士兽（Sanliuling-Guardmon）[/url]
+[url="https://number81.xyz/index.php?topic=3658"]神秘背尺男[/url]
+[url="https://number81.xyz/index.php?topic=3791"]星态龙 (Star Eater)[/url]
+[url="https://number81.xyz/index.php?topic=3860"]储君 (Regent)[/url]
+[url="https://number81.xyz/index.php?topic=3985"]骷髅王和他的冷知识(Skeletor facts)[/url]
 
 [b][size=4]准神（理论上应该是神级，但表现不到神级）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=424"]「万象天灵」坤仑[/url]
-[url="https://number81.xyz/index.php?topic=640"]迪奥·超越天堂（初始状态）[/url]
 [url="https://number81.xyz/index.php?topic=479"]漂浮电晶之壳[/url]
 [url="https://number81.xyz/index.php?topic=422"]「战神」玛尔斯[/url]
 [url="https://number81.xyz/index.php?topic=158"]隐藏的真机壳盖塔 （Apoqliphort Getter）[/url]
@@ -408,9 +476,11 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=1888"]悉达·凯隐 (Sydan Kayn)[/url]
 [url="https://number81.xyz/index.php?topic=1916"]武库之魔法少女 - 曼珠 (Magical Girl of Armory - Manju)[/url]
 [url="https://number81.xyz/index.php?topic=2172"]英雄杀手 - 巴鲁巴托斯·盖迪亚 (Hero-Slayer - Barbatos Goetia)[/url]
-[url="https://number81.xyz/index.php?topic=2306"]破碎本源-泽特[/url]
+[url="https://number81.xyz/index.php?topic=2306"]天穹守望者-泽特[/url]
 [url="https://number81.xyz/index.php?topic=2412"]光辉之人（The One of Aura）[/url]
 [url="https://number81.xyz/index.php?topic=2499"]共鸣者-雨藜 (Yu Li)[/url]
+[url="https://number81.xyz/index.php?topic=1230"]大力·D·一聋[/url]
+[url="https://number81.xyz/index.php?topic=3920"]Mega图图犬 (Mega Smeargle)[/url]
 
 [b][size=4]狂（战斗力远超常人/大多数异态魔女的常态战力）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=683"]Hank[/url]
@@ -436,7 +506,6 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=1071"]【寂静剑士】音无 哆菈[/url]
 [url="https://number81.xyz/index.php?topic=1406"]【瞬爆艺人】硝石 灰[/url]
 [url="https://number81.xyz/index.php?topic=1221"]The Peace Keeper: AL-2S / 天童爱丽丝#2[/url]
-[url="https://number81.xyz/index.php?topic=1230"]大力·D·一聋[/url]
 [url="https://number81.xyz/index.php?topic=1363"]杀戮行者-奈陌[/url]
 [url="https://number81.xyz/index.php?topic=1506"]神最上 沙奥萨 (Shin-Saijō Sauzer)[/url]
 [url="https://number81.xyz/index.php?topic=1508"]世纪末最强病人 托奇 (Seikimatsu Saikyō Byōnin - Toki)[/url]
@@ -448,6 +517,10 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=1803"]冗长城池君主统领 - 王将之座君临晶 (Lord Commander of the Redundant Citadel - Crystal of the King's Throne's Dominion)[/url]
 [url="https://number81.xyz/index.php?topic=2214"]夜刀公主 - 凛音 (Princess of the Night Blade - Linne)[/url]
 [url="https://number81.xyz/index.php?topic=2323"]桜黒の忍者殺手-矢本·四季 (Sakuraguro no Ninja Slayer - Yamoto Shiki)[/url]
+[url="https://number81.xyz/index.php?topic=2613"]火云邪神[/url]
+[url="https://number81.xyz/index.php?topic=2805"]伊利丹·怒风[/url]
+[url="https://number81.xyz/index.php?topic=4115"]史蒂夫 (操作者：Dream)[/url]
+[url="https://number81.xyz/index.php?topic=4116"]日车宽见 (Hiromi Higuruma)[/url]
 
 [b][size=4]强/凶（战斗力超出绝大多数人）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=1530"]"不幸的幸运枪手" 蓝芸[/url]
@@ -456,6 +529,7 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=1825"]游梦客 - 沃克 (Dreamwalker - Walker)[/url]
 [url="https://number81.xyz/index.php?topic=1821"]追寻者 - 绯 (The Seeker - Crimson)[/url]
 [url="https://number81.xyz/index.php?topic=2503"]天王新[/url]
+[url="https://number81.xyz/index.php?topic=4159"]88mm Flak41[/url]
 
 [b][size=4]并（战斗力超出常人/大多数异态魔女的完全无加成时的战力）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=692"]Sanford & Deimos[/url]

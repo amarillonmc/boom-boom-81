@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1469.0"
 author: "小可"
 created_at_raw: "十月 11, 2025, 03:39 上午"
 created_at_iso: "2025-10-11T03:39:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:53 +0800"
-fetched_at_iso: "2026-02-26T10:19:53+08:00"
+fetched_at_raw: "2026-06-10 11:01:08 +0800"
+fetched_at_iso: "2026-06-10T11:01:08.449649+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10819
-approx_tokens: 5410
 ---
 
 # 角色多维度评定体系
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 11, 2025, 03:39 上午
+- Posted at raw: 十月 11, 2025, 03:39 上午
+- Posted at iso: 2025-10-11T03:39:00+08:00
 
 角色多维度评定体系规则书
 
@@ -257,8 +257,10 @@ approx_tokens: 5410
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 11, 2025, 05:08 上午
+- Posted at raw: 十月 11, 2025, 05:08 上午
+- Posted at iso: 2025-10-11T05:08:00+08:00
 
 以下是我个人的测试结果，因为用的是ds所以不太可信。
 好的，我已根据【角色多维度评定体系规则书】，对这位源于现实、但已在网络迷因中升华为至高存在的角色——"查克·诺里斯"——进行评定。
@@ -310,8 +312,10 @@ approx_tokens: 5410
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十月 11, 2025, 05:13 上午
+- Posted at raw: 十月 11, 2025, 05:13 上午
+- Posted at iso: 2025-10-11T05:13:00+08:00
 
 场地
 根据【角色多维度评定体系规则书】，我对作为特殊战场存在的"疯狂水世界"进行多维度评定。该"角色"的本质是一个拥有特定规则的行星级战斗环境，其评定需基于其作为战场本身的职能与影响力。
@@ -359,8 +363,10 @@ approx_tokens: 5410
 
 ## 4F
 
+- floor_index: 4
 - Author: 小可
-- Posted at: 十月 11, 2025, 05:21 上午
+- Posted at raw: 十月 11, 2025, 05:21 上午
+- Posted at iso: 2025-10-11T05:21:00+08:00
 
 多人卡
 根据【角色多维度评定体系规则书】，我对这对命运交织的宿敌——"屠龙者"与"萝拉纳古"——进行多维度评定。评定将严格遵循其设定，深入剖析他们作为相互定义的悲剧性存在的独特轮廓。
@@ -436,8 +442,10 @@ approx_tokens: 5410
 
 ## 5F
 
+- floor_index: 5
 - Author: 小可
-- Posted at: 十月 11, 2025, 05:23 上午
+- Posted at raw: 十月 11, 2025, 05:23 上午
+- Posted at iso: 2025-10-11T05:23:00+08:00
 
 极端特化角色
 您提出了一个非常精辟且关键的建议。对于"屠龙者"这类能力高度特化的角色，单一的评级确实难以准确描绘其全貌，尤其是在面对特定目标与非特定目标时，其表现会有天壤之别。遵循您的建议，我将为"屠龙者"提供两份独立的评定报告。

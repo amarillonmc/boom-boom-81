@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=161.0"
 author: "galekkomari"
 created_at_raw: "九月 10, 2025, 08:34 上午"
 created_at_iso: "2025-09-10T08:34:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:03 +0800"
-fetched_at_iso: "2026-02-26T09:58:03+08:00"
+fetched_at_raw: "2026-06-10 10:35:32 +0800"
+fetched_at_iso: "2026-06-10T10:35:32.181895+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1493
-approx_tokens: 747
 ---
 
 # galekkomari的角色 - 「莱卡」（神库特）
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 10, 2025, 08:34 上午
+- Posted at raw: 九月 10, 2025, 08:34 上午
+- Posted at iso: 2025-09-10T08:34:00+08:00
 
 **角色填写人：**galekkomari
 

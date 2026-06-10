@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=222.0"
 author: "小可"
 created_at_raw: "九月 13, 2025, 03:54 上午"
 created_at_iso: "2025-09-13T03:54:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:33 +0800"
-fetched_at_iso: "2026-02-26T09:58:33+08:00"
+fetched_at_raw: "2026-06-10 10:35:57 +0800"
+fetched_at_iso: "2026-06-10T10:35:57.277540+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3697
-approx_tokens: 1849
 ---
 
 # 小可的角色 - 山神代行·朔影
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 13, 2025, 03:54 上午
+- Posted at raw: 九月 13, 2025, 03:54 上午
+- Posted at iso: 2025-09-13T03:54:00+08:00
 
 **角色填写人：**小可
 
@@ -45,8 +45,10 @@ approx_tokens: 1849
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 01:42 下午
+- Posted at raw: 十一月 07, 2025, 01:42 下午
+- Posted at iso: 2025-11-07T13:42:00+08:00
 
 **角色强度分析：山神代行·朔影**
 

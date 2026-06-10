@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2507.0"
 author: "Justfish"
 created_at_raw: "十一月 08, 2025, 12:40 下午"
 created_at_iso: "2025-11-08T12:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:56 +0800"
-fetched_at_iso: "2026-02-26T10:14:56+08:00"
+fetched_at_raw: "2026-06-10 10:50:40 +0800"
+fetched_at_iso: "2026-06-10T10:50:40.358970+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4111
-approx_tokens: 2056
 ---
 
 # Justfish的角色 - 最强之人-“我”
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 08, 2025, 12:40 下午
+- Posted at raw: 十一月 08, 2025, 12:40 下午
+- Posted at iso: 2025-11-08T12:40:00+08:00
 
 **角色填写人：**Justfish
 
@@ -35,8 +35,10 @@ approx_tokens: 2056
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十一月 08, 2025, 12:48 下午
+- Posted at raw: 十一月 08, 2025, 12:48 下午
+- Posted at iso: 2025-11-08T12:48:00+08:00
 
 好的，已接收角色卡。现在开始使用【完整版】角色强度分级分析标准 V2.0进行分析。
 
@@ -116,8 +118,10 @@ approx_tokens: 2056
 
 ## 3F
 
+- floor_index: 3
 - Author: Justfish
-- Posted at: 十一月 08, 2025, 12:50 下午
+- Posted at raw: 十一月 08, 2025, 12:50 下午
+- Posted at iso: 2025-11-08T12:50:00+08:00
 
 是的，即使完全忽略"我"这个名称所带有的哲学指向性（即指向读者/观察者），该角色的位阶判定**依然不变**。
 
@@ -147,7 +151,9 @@ approx_tokens: 2056
 
 ## 4F
 
+- floor_index: 4
 - Author: Justfish
-- Posted at: 十一月 08, 2025, 01:04 下午
+- Posted at raw: 十一月 08, 2025, 01:04 下午
+- Posted at iso: 2025-11-08T13:04:00+08:00
 
 顺带一提，单纯丢个名字进去也会被认定为位阶 T-S，给我看笑了。

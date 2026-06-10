@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=192.0"
 author: "galekkomari"
 created_at_raw: "九月 11, 2025, 02:36 下午"
 created_at_iso: "2025-09-11T14:36:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:17 +0800"
-fetched_at_iso: "2026-02-26T09:58:17+08:00"
+fetched_at_raw: "2026-06-10 10:35:45 +0800"
+fetched_at_iso: "2026-06-10T10:35:45.993059+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1381
-approx_tokens: 691
 ---
 
 # galekkomari的角色 - 玛莉珂（Märchen / 神·小毬）
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 11, 2025, 02:36 下午
+- Posted at raw: 九月 11, 2025, 02:36 下午
+- Posted at iso: 2025-09-11T14:36:00+08:00
 
 **角色填写人：**galekkomari
 

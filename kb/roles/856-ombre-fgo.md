@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=856.0"
 author: "Ombre"
 created_at_raw: "九月 25, 2025, 03:32 上午"
 created_at_iso: "2025-09-25T03:32:00+08:00"
-fetched_at_raw: "2026-02-26 10:04:00 +0800"
-fetched_at_iso: "2026-02-26T10:04:00+08:00"
+fetched_at_raw: "2026-06-10 10:40:56 +0800"
+fetched_at_iso: "2026-06-10T10:40:56.357420+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 7180
-approx_tokens: 3590
 ---
 
 # Ombre的角色 - 源赖光 (Fgo)
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 25, 2025, 03:32 上午
+- Posted at raw: 九月 25, 2025, 03:32 上午
+- Posted at iso: 2025-09-25T03:32:00+08:00
 
 ### **角色档案：源赖光 (Minamoto-no-Raikou)**
 
@@ -147,8 +147,10 @@ approx_tokens: 3590
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 14, 2025, 01:03 上午
+- Posted at raw: 十一月 14, 2025, 01:03 上午
+- Posted at iso: 2025-11-14T01:03:00+08:00
 
 从者档案（Berserker）#### 第一部分：核心身份 (Core Identity)
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1576.0"
 author: "zweizergain"
 created_at_raw: "十月 14, 2025, 11:42 上午"
 created_at_iso: "2025-10-14T11:42:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:12 +0800"
-fetched_at_iso: "2026-02-26T10:09:12+08:00"
+fetched_at_raw: "2026-06-10 10:45:36 +0800"
+fetched_at_iso: "2026-06-10T10:45:36.236455+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5265
-approx_tokens: 2633
 ---
 
 # 帕普提马斯·西罗克
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 14, 2025, 11:42 上午
+- Posted at raw: 十月 14, 2025, 11:42 上午
+- Posted at iso: 2025-10-14T11:42:00+08:00
 
 ### **【详尽角色卡：帕普提马斯·西罗克 - v1.3 最终完整版】**
 

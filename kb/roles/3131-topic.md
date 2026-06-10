@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=3131.0"
 author: "烛火"
 created_at_raw: "十一月 30, 2025, 02:43 下午"
 created_at_iso: "2025-11-30T14:43:00+08:00"
-fetched_at_raw: "2026-02-26 10:18:13 +0800"
-fetched_at_iso: "2026-02-26T10:18:13+08:00"
+fetched_at_raw: "2026-06-10 10:53:29 +0800"
+fetched_at_iso: "2026-06-10T10:53:29.292583+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 18321
-approx_tokens: 9161
 ---
 
 # 烛火的角色 - 卫宫绮罗
 
 ## 1F
 
+- floor_index: 1
 - Author: 烛火
-- Posted at: 十一月 30, 2025, 02:43 下午
+- Posted at raw: 十一月 30, 2025, 02:43 下午
+- Posted at iso: 2025-11-30T14:43:00+08:00
 
 **角色填写人：**烛火
 
@@ -303,8 +303,10 @@ approx_tokens: 9161
 
 ## 2F
 
+- floor_index: 2
 - Author: 烛火
-- Posted at: 十一月 30, 2025, 03:32 下午
+- Posted at raw: 十一月 30, 2025, 03:32 下午
+- Posted at iso: 2025-11-30T15:32:00+08:00
 
 FGO风格从者角色转录协议 (Final Complete Ver.)
 第一部分：核心身份 (Core Identity)
@@ -410,8 +412,10 @@ FGO风格从者角色转录协议 (Final Complete Ver.)
 
 ## 3F
 
+- floor_index: 3
 - Author: 烛火
-- Posted at: 十一月 30, 2025, 04:29 下午
+- Posted at raw: 十一月 30, 2025, 04:29 下午
+- Posted at iso: 2025-11-30T16:29:00+08:00
 
 **[color=var(--tw-prose-bold)]场景：**[/b] 夜已深。冬木市街角的"童话咖啡馆·泡沫"早已挂上了"休息中"的牌子。店内只亮着一盏吧台的暖光灯，将两个人的影子拉得很长。[/font][/size][/color]
 空气中弥漫着现磨咖啡豆的醇香与牡丹饼的甜糯气息。

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1737.0"
 author: "Justfish"
 created_at_raw: "十月 19, 2025, 12:23 上午"
 created_at_iso: "2025-10-19T00:23:00+08:00"
-fetched_at_raw: "2026-02-26 10:20:03 +0800"
-fetched_at_iso: "2026-02-26T10:20:03+08:00"
+fetched_at_raw: "2026-06-10 11:01:18 +0800"
+fetched_at_iso: "2026-06-10T11:01:18.747963+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4030
-approx_tokens: 2015
 ---
 
 # 特殊议程-诡意行商
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 19, 2025, 12:23 上午
+- Posted at raw: 十月 19, 2025, 12:23 上午
+- Posted at iso: 2025-10-19T00:23:00+08:00
 
 特殊议程：【诡意行商】（商铺版）
 议程编号： Agenda-M-001-Rev.A

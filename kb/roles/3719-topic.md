@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3719.0"
 author: "Ender_Eragon"
 created_at_raw: "三月 18, 2026, 02:12 下午"
 created_at_iso: "2026-03-18T14:12:00+08:00"
-fetched_at_raw: "2026-03-24 08:13:14 +0800"
-fetched_at_iso: "2026-03-24T08:13:14.648097+08:00"
+fetched_at_raw: "2026-06-10 10:56:21 +0800"
+fetched_at_iso: "2026-06-10T10:56:21.622113+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []

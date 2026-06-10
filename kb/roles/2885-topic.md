@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2885.0"
 author: "小可"
 created_at_raw: "十一月 19, 2025, 03:46 上午"
 created_at_iso: "2025-11-19T03:46:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:06 +0800"
-fetched_at_iso: "2026-02-26T10:17:06+08:00"
+fetched_at_raw: "2026-06-10 10:52:39 +0800"
+fetched_at_iso: "2026-06-10T10:52:39.588336+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2248
-approx_tokens: 1124
 ---
 
 # 小可的角色卡 - 名侦探“千结”
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 19, 2025, 03:46 上午
+- Posted at raw: 十一月 19, 2025, 03:46 上午
+- Posted at iso: 2025-11-19T03:46:00+08:00
 
 **角色填写人：**小可
 
@@ -56,7 +56,9 @@ approx_tokens: 1124
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十二月 03, 2025, 09:34 下午
+- Posted at raw: 十二月 03, 2025, 09:34 下午
+- Posted at iso: 2025-12-03T21:34:00+08:00
 
 身形瘦削，约178公分，常年有些驼背，散发着一种慵懒而倦怠的书卷气。穿着一件略显陈旧的卡其色风衣，袖口常沾着粉笔灰或咖啡渍，脖子上挂着一副复古的金丝边单片眼镜，但很少真正戴上。与怪盗的精致完美截然相反，他头发总是乱糟糟的，仿佛刚睡醒，眼神看似浑浊迷离，实则深不见底。手中不拿武器，只把玩着一团看似无序的、极细的银色金属丝线（名为"因果律"）。修习偏门奇术《心演天算》，大脑时刻处于高负荷运转状态，因此总是显得精神不济，嗜甜如命，口袋里永远塞满了高热量的糖果。

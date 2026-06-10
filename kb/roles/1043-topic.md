@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1043.0"
 author: "小可"
 created_at_raw: "九月 29, 2025, 01:46 上午"
 created_at_iso: "2025-09-29T01:46:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:23 +0800"
-fetched_at_iso: "2026-02-26T10:05:23+08:00"
+fetched_at_raw: "2026-06-10 10:42:14 +0800"
+fetched_at_iso: "2026-06-10T10:42:14.735732+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3539
-approx_tokens: 1770
 ---
 
 # 小可的角色 - 拉米艾尔
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 29, 2025, 01:46 上午
+- Posted at raw: 九月 29, 2025, 01:46 上午
+- Posted at iso: 2025-09-29T01:46:00+08:00
 
 **角色填写人：**小可
 
@@ -81,8 +81,10 @@ approx_tokens: 1770
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 01:58 下午
+- Posted at raw: 十一月 07, 2025, 01:58 下午
+- Posted at iso: 2025-11-07T13:58:00+08:00
 
 **角色强度分析：拉米艾尔**
 

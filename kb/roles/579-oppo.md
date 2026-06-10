@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=579.0"
 author: "OPPO"
 created_at_raw: "九月 20, 2025, 11:46 上午"
 created_at_iso: "2025-09-20T11:46:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:52 +0800"
-fetched_at_iso: "2026-02-26T10:01:52+08:00"
+fetched_at_raw: "2026-06-10 10:39:05 +0800"
+fetched_at_iso: "2026-06-10T10:39:05.926220+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2170
-approx_tokens: 1085
 ---
 
 # OPPO的角色 - 阿莱夫与虚构集
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 九月 20, 2025, 11:46 上午
+- Posted at raw: 九月 20, 2025, 11:46 上午
+- Posted at iso: 2025-09-20T11:46:00+08:00
 
 **角色填写人：**OPPO
 

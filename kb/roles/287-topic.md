@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=287.0"
 author: "塔."
 created_at_raw: "九月 14, 2025, 10:58 上午"
 created_at_iso: "2025-09-14T10:58:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:10 +0800"
-fetched_at_iso: "2026-02-26T09:59:10+08:00"
+fetched_at_raw: "2026-06-10 10:36:32 +0800"
+fetched_at_iso: "2026-06-10T10:36:32.801687+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4494
-approx_tokens: 2247
 ---
 
 # 塔的角色 - 狂妄法师
 
 ## 1F
 
+- floor_index: 1
 - Author: 塔.
-- Posted at: 九月 14, 2025, 10:58 上午
+- Posted at raw: 九月 14, 2025, 10:58 上午
+- Posted at iso: 2025-09-14T10:58:00+08:00
 
 **角色填写人：**塔
 

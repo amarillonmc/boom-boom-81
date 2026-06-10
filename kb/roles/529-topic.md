@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=529.0"
 author: "小可"
 created_at_raw: "九月 19, 2025, 12:35 下午"
 created_at_iso: "2025-09-19T12:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:26 +0800"
-fetched_at_iso: "2026-02-26T10:01:26+08:00"
+fetched_at_raw: "2026-06-10 10:38:38 +0800"
+fetched_at_iso: "2026-06-10T10:38:38.977352+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4621
-approx_tokens: 2311
 ---
 
 # 小可的角色 - 后被称为神的向日葵
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 19, 2025, 12:35 下午
+- Posted at raw: 九月 19, 2025, 12:35 下午
+- Posted at iso: 2025-09-19T12:35:00+08:00
 
 **角色填写人：**小可
 
@@ -85,8 +85,10 @@ approx_tokens: 2311
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 01:05 下午
+- Posted at raw: 十一月 07, 2025, 01:05 下午
+- Posted at iso: 2025-11-07T13:05:00+08:00
 
 **角色强度分析：后被称为神的向日葵**
 

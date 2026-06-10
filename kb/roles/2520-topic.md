@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2520.0"
 author: "小可"
 created_at_raw: "十一月 09, 2025, 12:01 上午"
 created_at_iso: "2025-11-09T00:01:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:05 +0800"
-fetched_at_iso: "2026-02-26T10:15:05+08:00"
+fetched_at_raw: "2026-06-10 10:50:49 +0800"
+fetched_at_iso: "2026-06-10T10:50:49.876228+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5250
-approx_tokens: 2625
 ---
 
 # 小可的角色 - 究极生物-卡兹
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 09, 2025, 12:01 上午
+- Posted at raw: 十一月 09, 2025, 12:01 上午
+- Posted at iso: 2025-11-09T00:01:00+08:00
 
 **角色填写人：**小可
 
@@ -81,8 +81,10 @@ approx_tokens: 2625
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 09, 2025, 12:04 上午
+- Posted at raw: 十一月 09, 2025, 12:04 上午
+- Posted at iso: 2025-11-09T00:04:00+08:00
 
 **角色强度分析：究极生物-卡兹**
 

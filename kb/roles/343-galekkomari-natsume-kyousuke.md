@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=343.0"
 author: "galekkomari"
 created_at_raw: "九月 15, 2025, 09:50 下午"
 created_at_iso: "2025-09-15T21:50:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:42 +0800"
-fetched_at_iso: "2026-02-26T09:59:42+08:00"
+fetched_at_raw: "2026-06-10 10:37:03 +0800"
+fetched_at_iso: "2026-06-10T10:37:03.790477+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1698
-approx_tokens: 849
 ---
 
 # galekkomari的角色 - 棗 恭介 (Natsume Kyousuke)
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 15, 2025, 09:50 下午
+- Posted at raw: 九月 15, 2025, 09:50 下午
+- Posted at iso: 2025-09-15T21:50:00+08:00
 
 **角色填写人：**galekkomari
 

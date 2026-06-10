@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2014.0"
 author: "全装甲高达七号机"
 created_at_raw: "十月 27, 2025, 02:18 下午"
 created_at_iso: "2025-10-27T14:18:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:22 +0800"
-fetched_at_iso: "2026-02-26T10:12:22+08:00"
+fetched_at_raw: "2026-06-10 10:48:19 +0800"
+fetched_at_iso: "2026-06-10T10:48:19.730997+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8152
-approx_tokens: 4076
 ---
 
 # 全装甲高达七号机的角色 - 和平的祈愿 - 奥米加兽 (Omegamon)
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 02:18 下午
+- Posted at raw: 十月 27, 2025, 02:18 下午
+- Posted at iso: 2025-10-27T14:18:00+08:00
 
 **角色填写人：**全装甲高达七号机
 
@@ -213,5 +213,3 @@ approx_tokens: 4076
 4. 这维持了**骑士的威严**，还是工具的冷漠？
 **只要答案全部为前者，即可输出。**
 ---
-### **精简说明：**
-这份V5.0协议是V4.0的**高浓度精炼版**。它将旧版协议中分散的条款，提炼为**"心法 + 行为对照"**的模式，旨在让AI能在一秒内抓住角色内核，快速、准确地进行角色扮演。特别是将旧版最核心的『内心活动绝对隐性化』原则融入了四大支柱中，效益完全等同于原版，但执行效率与准确性更高。

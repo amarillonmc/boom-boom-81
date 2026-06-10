@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2353.0"
 author: "小可"
 created_at_raw: "十一月 05, 2025, 12:05 下午"
 created_at_iso: "2025-11-05T12:05:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:24 +0800"
-fetched_at_iso: "2026-02-26T10:14:24+08:00"
+fetched_at_raw: "2026-06-10 10:50:09 +0800"
+fetched_at_iso: "2026-06-10T10:50:09.199734+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5377
-approx_tokens: 2689
 ---
 
 # 小可的角色 - 不谐之语的君王 莱桑德（Lysander, the King of the Dissonant Word）
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 05, 2025, 12:05 下午
+- Posted at raw: 十一月 05, 2025, 12:05 下午
+- Posted at iso: 2025-11-05T12:05:00+08:00
 
 **角色填写人：**小可
 
@@ -75,8 +75,10 @@ approx_tokens: 2689
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 12:46 下午
+- Posted at raw: 十一月 07, 2025, 12:46 下午
+- Posted at iso: 2025-11-07T12:46:00+08:00
 
 **角色强度分析：不谐之语的君王 莱桑德**
 

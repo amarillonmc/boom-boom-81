@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1218.0"
 author: "小可"
 created_at_raw: "十月 03, 2025, 07:41 上午"
 created_at_iso: "2025-10-03T07:41:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:23 +0800"
-fetched_at_iso: "2026-02-26T10:06:23+08:00"
+fetched_at_raw: "2026-06-10 10:43:06 +0800"
+fetched_at_iso: "2026-06-10T10:43:06.003059+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2399
-approx_tokens: 1200
 ---
 
 # 小可的角色 - 查克·诺里斯
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 03, 2025, 07:41 上午
+- Posted at raw: 十月 03, 2025, 07:41 上午
+- Posted at iso: 2025-10-03T07:41:00+08:00
 
 **角色填写人：**小可
 
@@ -35,15 +35,19 @@ approx_tokens: 1200
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 03, 2025, 07:45 上午
+- Posted at raw: 十月 03, 2025, 07:45 上午
+- Posted at iso: 2025-10-03T07:45:00+08:00
 
 极简卡测试（话说这个真的极简吗，应该有背书我还写这么麻烦。基本属性完全不知道写什么）
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十一月 07, 2025, 02:33 下午
+- Posted at raw: 十一月 07, 2025, 02:33 下午
+- Posted at iso: 2025-11-07T14:33:00+08:00
 
 **角色强度分析：查克·诺里斯**
 

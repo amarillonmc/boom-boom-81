@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2661.0"
 author: "小可"
 created_at_raw: "十一月 13, 2025, 11:29 下午"
 created_at_iso: "2025-11-13T23:29:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:58 +0800"
-fetched_at_iso: "2026-02-26T10:15:58+08:00"
+fetched_at_raw: "2026-06-10 10:51:37 +0800"
+fetched_at_iso: "2026-06-10T10:51:37.211779+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2445
-approx_tokens: 1223
 ---
 
 # 小可的角色 - 「柏喙意志」
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 13, 2025, 11:29 下午
+- Posted at raw: 十一月 13, 2025, 11:29 下午
+- Posted at iso: 2025-11-13T23:29:00+08:00
 
 **角色填写人：**小可
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2355.0"
 author: "小可"
 created_at_raw: "十一月 05, 2025, 12:14 下午"
 created_at_iso: "2025-11-05T12:14:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:26 +0800"
-fetched_at_iso: "2026-02-26T10:14:26+08:00"
+fetched_at_raw: "2026-06-10 10:50:11 +0800"
+fetched_at_iso: "2026-06-10T10:50:11.096160+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5818
-approx_tokens: 2909
 ---
 
 # 小可的角色 - 萝拉纳古，隐秘与预兆的末代龙神 (Loranagu, the Last Dragon God of Secrets and Omens)
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 05, 2025, 12:14 下午
+- Posted at raw: 十一月 05, 2025, 12:14 下午
+- Posted at iso: 2025-11-05T12:14:00+08:00
 
 **角色填写人：**小可
 
@@ -78,8 +78,10 @@ approx_tokens: 2909
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 09:54 下午
+- Posted at raw: 十一月 07, 2025, 09:54 下午
+- Posted at iso: 2025-11-07T21:54:00+08:00
 
 **角色强度分析：萝拉纳古，隐秘与预兆的末代龙神**
 

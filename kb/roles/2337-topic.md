@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2337.0"
 author: "小兵"
 created_at_raw: "十一月 05, 2025, 01:38 上午"
 created_at_iso: "2025-11-05T01:38:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:15 +0800"
-fetched_at_iso: "2026-02-26T10:14:15+08:00"
+fetched_at_raw: "2026-06-10 10:49:59 +0800"
+fetched_at_iso: "2026-06-10T10:49:59.221492+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5838
-approx_tokens: 2919
 ---
 
 # 小兵的角色 - 蓝染惣右介
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十一月 05, 2025, 01:38 上午
+- Posted at raw: 十一月 05, 2025, 01:38 上午
+- Posted at iso: 2025-11-05T01:38:00+08:00
 
 **角色填写人：**小兵
 (https://patchwiki.biligame.com/images/gwdz/c/c6/rham86lqswkdomt7beqz5evnircfcaf.png)
@@ -94,8 +94,10 @@ approx_tokens: 2919
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 24, 2025, 11:38 下午
+- Posted at raw: 十一月 24, 2025, 11:38 下午
+- Posted at iso: 2025-11-24T23:38:00+08:00
 
 御主档案### **第一部分：核心身份 (Core Identity)**
 

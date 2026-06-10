@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1982.0"
 author: "Justfish"
 created_at_raw: "十月 26, 2025, 02:42 下午"
 created_at_iso: "2025-10-26T14:42:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:02 +0800"
-fetched_at_iso: "2026-02-26T10:12:02+08:00"
+fetched_at_raw: "2026-06-10 10:48:04 +0800"
+fetched_at_iso: "2026-06-10T10:48:04.599081+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2694
-approx_tokens: 1347
 ---
 
 # Justfish的角色 - 『擦玻璃小伙』
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 26, 2025, 02:42 下午
+- Posted at raw: 十月 26, 2025, 02:42 下午
+- Posted at iso: 2025-10-26T14:42:00+08:00
 
 **角色填写人：**Justfish
 

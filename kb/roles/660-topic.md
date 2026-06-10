@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=660.0"
 author: "王者的老凤凰"
 created_at_raw: "九月 22, 2025, 07:02 上午"
 created_at_iso: "2025-09-22T07:02:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:26 +0800"
-fetched_at_iso: "2026-02-26T10:02:26+08:00"
+fetched_at_raw: "2026-06-10 10:39:36 +0800"
+fetched_at_iso: "2026-06-10T10:39:36.653819+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1347
-approx_tokens: 674
 ---
 
 # 老凤凰的角色 - 格尔曼·斯帕罗
 
 ## 1F
 
+- floor_index: 1
 - Author: 王者的老凤凰
-- Posted at: 九月 22, 2025, 07:02 上午
+- Posted at raw: 九月 22, 2025, 07:02 上午
+- Posted at iso: 2025-09-22T07:02:00+08:00
 
 **角色填写人：**老凤凰
 

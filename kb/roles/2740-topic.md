@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2740.0"
 author: "玄羽"
 created_at_raw: "十一月 16, 2025, 05:36 上午"
 created_at_iso: "2025-11-16T05:36:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:39 +0800"
-fetched_at_iso: "2026-02-26T10:16:39+08:00"
+fetched_at_raw: "2026-06-10 10:52:14 +0800"
+fetched_at_iso: "2026-06-10T10:52:14.778543+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8306
-approx_tokens: 4153
 ---
 
 # 玄羽的角色 - 圣光灵神
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 十一月 16, 2025, 05:36 上午
+- Posted at raw: 十一月 16, 2025, 05:36 上午
+- Posted at iso: 2025-11-16T05:36:00+08:00
 
 **角色填写人：**玄羽
 
@@ -123,8 +123,10 @@ approx_tokens: 4153
 
 ## 2F
 
+- floor_index: 2
 - Author: 玄羽
-- Posted at: 十一月 16, 2025, 05:40 上午
+- Posted at raw: 十一月 16, 2025, 05:40 上午
+- Posted at iso: 2025-11-16T05:40:00+08:00
 
 好的，协议已确认。资深概念设计师已就位。正在根据御主要求，将从者"圣光灵神"的灵基数据调整为**Saber**职阶，开始重新转录。
 
@@ -220,10 +222,12 @@ approx_tokens: 4153
 
 ## 3F
 
+- floor_index: 3
 - Author: 玄羽
-- Posted at: 十一月 20, 2025, 09:53 上午
+- Posted at raw: 十一月 20, 2025, 09:53 上午
+- Posted at iso: 2025-11-20T09:53:00+08:00
 
-Spoiler**圣光灵神**
+折叠内容**圣光灵神**
 
 ★★★★★
 

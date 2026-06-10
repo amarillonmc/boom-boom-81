@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1972.0"
 author: "Jerry"
 created_at_raw: "十月 26, 2025, 08:13 上午"
 created_at_iso: "2025-10-26T08:13:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:57 +0800"
-fetched_at_iso: "2026-02-26T10:11:57+08:00"
+fetched_at_raw: "2026-06-10 10:48:00 +0800"
+fetched_at_iso: "2026-06-10T10:48:00.456143+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2843
-approx_tokens: 1422
 ---
 
 # Jerry的角色 - 詹奈
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十月 26, 2025, 08:13 上午
+- Posted at raw: 十月 26, 2025, 08:13 上午
+- Posted at iso: 2025-10-26T08:13:00+08:00
 
 **角色填写人：**Jerry
 

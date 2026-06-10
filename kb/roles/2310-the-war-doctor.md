@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2310.0"
 author: "全装甲高达七号机"
 created_at_raw: "十一月 04, 2025, 05:56 上午"
 created_at_iso: "2025-11-04T05:56:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:03 +0800"
-fetched_at_iso: "2026-02-26T10:14:03+08:00"
+fetched_at_raw: "2026-06-10 10:49:48 +0800"
+fetched_at_iso: "2026-06-10T10:49:48.778825+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10213
-approx_tokens: 5107
 ---
 
 # 全装甲高达七号机的角色 - 战争博士 (The War Doctor)
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十一月 04, 2025, 05:56 上午
+- Posted at raw: 十一月 04, 2025, 05:56 上午
+- Posted at iso: 2025-11-04T05:56:00+08:00
 
 **角色填写人：**全装甲高达七号机
 

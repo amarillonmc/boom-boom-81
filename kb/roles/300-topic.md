@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=300.0"
 author: "小可"
 created_at_raw: "九月 14, 2025, 09:33 下午"
 created_at_iso: "2025-09-14T21:33:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:17 +0800"
-fetched_at_iso: "2026-02-26T09:59:17+08:00"
+fetched_at_raw: "2026-06-10 10:36:40 +0800"
+fetched_at_iso: "2026-06-10T10:36:40.330286+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3702
-approx_tokens: 1851
 ---
 
 # 小可的角色 - 魔法帝王·银岚
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 14, 2025, 09:33 下午
+- Posted at raw: 九月 14, 2025, 09:33 下午
+- Posted at iso: 2025-09-14T21:33:00+08:00
 
 **角色填写人：**小可
 
@@ -59,8 +59,10 @@ approx_tokens: 1851
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 10:57 下午
+- Posted at raw: 十一月 07, 2025, 10:57 下午
+- Posted at iso: 2025-11-07T22:57:00+08:00
 
 **角色强度分析：魔法帝王·银岚**
 

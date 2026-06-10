@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=384.0"
 author: "玄羽"
 created_at_raw: "九月 17, 2025, 12:24 上午"
 created_at_iso: "2025-09-17T00:24:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:10 +0800"
-fetched_at_iso: "2026-02-26T10:00:10+08:00"
+fetched_at_raw: "2026-06-10 10:37:30 +0800"
+fetched_at_iso: "2026-06-10T10:37:30.730586+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3258
-approx_tokens: 1629
 ---
 
 # 玄羽的角色 - 不灭·艾恩斯
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 九月 17, 2025, 12:24 上午
+- Posted at raw: 九月 17, 2025, 12:24 上午
+- Posted at iso: 2025-09-17T00:24:00+08:00
 
 **角色填写人：**玄羽
 

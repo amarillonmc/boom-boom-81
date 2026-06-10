@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2123.0"
 author: "小兵"
 created_at_raw: "十月 30, 2025, 12:29 上午"
 created_at_iso: "2025-10-30T00:29:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:04 +0800"
-fetched_at_iso: "2026-02-26T10:13:04+08:00"
+fetched_at_raw: "2026-06-10 10:48:56 +0800"
+fetched_at_iso: "2026-06-10T10:48:56.403727+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2720
-approx_tokens: 1360
 ---
 
 # 小兵的角色 - 猗窝座
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 30, 2025, 12:29 上午
+- Posted at raw: 十月 30, 2025, 12:29 上午
+- Posted at iso: 2025-10-30T00:29:00+08:00
 
 **角色填写人：**小兵
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2387.0"
 author: "Ender_Eragon"
 created_at_raw: "十一月 06, 2025, 12:22 下午"
 created_at_iso: "2025-11-06T12:22:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:30 +0800"
-fetched_at_iso: "2026-02-26T10:14:30+08:00"
+fetched_at_raw: "2026-06-10 10:50:15 +0800"
+fetched_at_iso: "2026-06-10T10:50:15.491390+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5804
-approx_tokens: 2902
 ---
 
 # 终末的角色 - 螟灵「规则信徒」
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十一月 06, 2025, 12:22 下午
+- Posted at raw: 十一月 06, 2025, 12:22 下午
+- Posted at iso: 2025-11-06T12:22:00+08:00
 
 **角色填写人：**终末
 
@@ -90,8 +90,10 @@ approx_tokens: 2902
 
 ## 2F
 
+- floor_index: 2
 - Author: Ender_Eragon
-- Posted at: 十一月 14, 2025, 10:30 下午
+- Posted at raw: 十一月 14, 2025, 10:30 下午
+- Posted at iso: 2025-11-14T22:30:00+08:00
 
 第一部分：核心身份 (Core Identity)
 

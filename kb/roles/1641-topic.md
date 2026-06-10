@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1641.0"
 author: "普通人的无聊生活"
 created_at_raw: "十月 16, 2025, 09:44 上午"
 created_at_iso: "2025-10-16T09:44:00+08:00"
-fetched_at_raw: "2026-02-26 10:09:39 +0800"
-fetched_at_iso: "2026-02-26T10:09:39+08:00"
+fetched_at_raw: "2026-06-10 10:46:02 +0800"
+fetched_at_iso: "2026-06-10T10:46:02.804117+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5380
-approx_tokens: 2690
 ---
 
 # 普通人的无聊生活的角色 - 无名剑神
 
 ## 1F
 
+- floor_index: 1
 - Author: 普通人的无聊生活
-- Posted at: 十月 16, 2025, 09:44 上午
+- Posted at raw: 十月 16, 2025, 09:44 上午
+- Posted at iso: 2025-10-16T09:44:00+08:00
 
 **角色填写人：**普通人的无聊生活
 
@@ -57,8 +57,10 @@ approx_tokens: 2690
 
 ## 2F
 
+- floor_index: 2
 - Author: 普通人的无聊生活
-- Posted at: 十一月 16, 2025, 12:39 上午
+- Posted at raw: 十一月 16, 2025, 12:39 上午
+- Posted at iso: 2025-11-16T00:39:00+08:00
 
 ### FGO风格从者角色转录协议 (FGO-Style Character Transcription Protocol)
 【AI指令前言】

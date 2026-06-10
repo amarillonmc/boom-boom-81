@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1703.0"
 author: "小可"
 created_at_raw: "十月 18, 2025, 02:35 上午"
 created_at_iso: "2025-10-18T02:35:00+08:00"
-fetched_at_raw: "2026-02-26 10:23:43 +0800"
-fetched_at_iso: "2026-02-26T10:23:43+08:00"
+fetched_at_raw: "2026-06-10 11:05:41 +0800"
+fetched_at_iso: "2026-06-10T11:05:41.451318+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 64975
-approx_tokens: 32488
 ---
 
 # 第一期土豆大战
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:35 上午
+- Posted at raw: 十月 18, 2025, 02:35 上午
+- Posted at iso: 2025-10-18T02:35:00+08:00
 
 赛前预审核与强度评估报告 (内部执行)
 
@@ -141,8 +141,10 @@ B. 角色状态简述：
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:42 上午
+- Posted at raw: 十月 18, 2025, 02:42 上午
+- Posted at iso: 2025-10-18T02:42:00+08:00
 
 第1回合：初动！六大风味的交错
 
@@ -226,8 +228,10 @@ B. 角色状态简述：
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:44 上午
+- Posted at raw: 十月 18, 2025, 02:44 上午
+- Posted at iso: 2025-10-18T02:44:00+08:00
 
 第2回合：雾中迷局，圣田惊变
 
@@ -301,8 +305,10 @@ B. 角色状态简述：
 
 ## 4F
 
+- floor_index: 4
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:45 上午
+- Posted at raw: 十月 18, 2025, 02:45 上午
+- Posted at iso: 2025-10-18T02:45:00+08:00
 
 第3回合：盐与沼泽的交响，森林的温情与王的野望
 
@@ -389,8 +395,10 @@ B. 角色状态简述：
 
 ## 5F
 
+- floor_index: 5
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:47 上午
+- Posted at raw: 十月 18, 2025, 02:47 上午
+- Posted at iso: 2025-10-18T02:47:00+08:00
 
 第4回合：毒薯军团降临！圣田的乱战与雾中的祷告
 
@@ -471,8 +479,10 @@ B. 角色状态简述：
 
 ## 6F
 
+- floor_index: 6
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:49 上午
+- Posted at raw: 十月 18, 2025, 02:49 上午
+- Posted at iso: 2025-10-18T02:49:00+08:00
 
 第5回合：神降之薯的叹息，丑陋化身的终焉
 
@@ -564,8 +574,10 @@ B. 角色状态简述：
 
 ## 7F
 
+- floor_index: 7
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:50 上午
+- Posted at raw: 十月 18, 2025, 02:50 上午
+- Posted at iso: 2025-10-18T02:50:00+08:00
 
 第6回合：魔王之威，圣田清场与寂静的收获
 
@@ -638,8 +650,10 @@ B. 角色状态简述：
 
 ## 8F
 
+- floor_index: 8
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:51 上午
+- Posted at raw: 十月 18, 2025, 02:51 上午
+- Posted at iso: 2025-10-18T02:51:00+08:00
 
 第7回合：暂时的和平，各自的道路与新的联盟
 
@@ -713,8 +727,10 @@ B. 角色状态简述：
 
 ## 9F
 
+- floor_index: 9
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:53 上午
+- Posted at raw: 十月 18, 2025, 02:53 上午
+- Posted at iso: 2025-10-18T02:53:00+08:00
 
 第8回合：炉火初燃，沼泽边的绝望低语
 
@@ -785,8 +801,10 @@ B. 角色状态简述：
 
 ## 10F
 
+- floor_index: 10
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:55 上午
+- Posted at raw: 十月 18, 2025, 02:55 上午
+- Posted at iso: 2025-10-18T02:55:00+08:00
 
 第9回合：剑心的答案，绝望的协奏与摇滚的追猎
 
@@ -859,8 +877,10 @@ B. 角色状态简述：
 
 ## 11F
 
+- floor_index: 11
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:56 上午
+- Posted at raw: 十月 18, 2025, 02:56 上午
+- Posted at iso: 2025-10-18T02:56:00+08:00
 
 第10回合：摇滚的终结，剑士的回归与厨房里的"病灶"
 
@@ -937,8 +957,10 @@ B. 角色状态简述：
 
 ## 12F
 
+- floor_index: 12
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:58 上午
+- Posted at raw: 十月 18, 2025, 02:58 上午
+- Posted at iso: 2025-10-18T02:58:00+08:00
 
 第11回合：归来的剑士，厨房的净化与联盟的盛宴
 
@@ -1015,8 +1037,10 @@ B. 角色状态简述：
 
 ## 13F
 
+- floor_index: 13
 - Author: 小可
-- Posted at: 十月 18, 2025, 02:59 上午
+- Posted at raw: 十月 18, 2025, 02:59 上午
+- Posted at iso: 2025-10-18T02:59:00+08:00
 
 第12回合：绝望的连锁，魔王的盛宴与凡人的狂想
 
@@ -1089,8 +1113,10 @@ B. 角色状态简述：
 
 ## 14F
 
+- floor_index: 14
 - Author: 小可
-- Posted at: 十月 18, 2025, 03:00 上午
+- Posted at raw: 十月 18, 2025, 03:00 上午
+- Posted at iso: 2025-10-18T03:00:00+08:00
 
 第13回合：净化的剑意，时间的秘药与旅人的馈赠
 
@@ -1155,8 +1181,10 @@ B. 角色状态简述：
 
 ## 15F
 
+- floor_index: 15
 - Author: 小可
-- Posted at: 十月 18, 2025, 03:03 上午
+- Posted at raw: 十月 18, 2025, 03:03 上午
+- Posted at iso: 2025-10-18T03:03:00+08:00
 
 第14回合：最后的点睛，各自的终曲
 
@@ -1211,8 +1239,10 @@ B. 角色状态简述：
 
 ## 16F
 
+- floor_index: 16
 - Author: 小可
-- Posted at: 十月 18, 2025, 03:05 上午
+- Posted at raw: 十月 18, 2025, 03:05 上午
+- Posted at iso: 2025-10-18T03:05:00+08:00
 
 第15回合：最后的呈现
 
@@ -1261,8 +1291,10 @@ B. 角色状态简述：
 
 ## 17F
 
+- floor_index: 17
 - Author: 小可
-- Posted at: 十月 18, 2025, 03:06 上午
+- Posted at raw: 十月 18, 2025, 03:06 上午
+- Posted at iso: 2025-10-18T03:06:00+08:00
 
 最终评审：胜者之道，神谕终焉
 
@@ -1325,8 +1357,10 @@ B. 角色状态简述：
 
 ## 18F
 
+- floor_index: 18
 - Author: 小可
-- Posted at: 十月 18, 2025, 03:09 上午
+- Posted at raw: 十月 18, 2025, 03:09 上午
+- Posted at iso: 2025-10-18T03:09:00+08:00
 
 最终评审：完整评分与评语
 
@@ -1451,8 +1485,10 @@ B. 角色状态简述：
 
 ## 19F
 
+- floor_index: 19
 - Author: 小可
-- Posted at: 十月 18, 2025, 03:11 上午
+- Posted at raw: 十月 18, 2025, 03:11 上午
+- Posted at iso: 2025-10-18T03:11:00+08:00
 
 终焉：神国之召，王的愿望
 
@@ -1530,29 +1566,37 @@ B. 角色状态简述：
 
 ## 20F
 
+- floor_index: 20
 - Author: 小可
-- Posted at: 十月 18, 2025, 03:13 上午
+- Posted at raw: 十月 18, 2025, 03:13 上午
+- Posted at iso: 2025-10-18T03:13:00+08:00
 
 第一届土豆大战至此结束，16:00我回来收提问。
 
 ## 21F
 
+- floor_index: 21
 - Author: Justfish
-- Posted at: 十月 18, 2025, 03:22 上午
+- Posted at raw: 十月 18, 2025, 03:22 上午
+- Posted at iso: 2025-10-18T03:22:00+08:00
 
 既然露西失败了，请裁判/GM为露西总结此次轮回的收获，并输出角色卡的改动部分，在轮回中遇到的新的伙伴的能力会被记录在"记忆再现：调查团的羁绊之中"。
 
 ## 22F
 
+- floor_index: 22
 - Author: zweizergain
-- Posted at: 十月 18, 2025, 03:48 上午
+- Posted at raw: 十月 18, 2025, 03:48 上午
+- Posted at iso: 2025-10-18T03:48:00+08:00
 
 巴萨拉的切歌协议为什么会重复输出两次
 
 ## 23F
 
+- floor_index: 23
 - Author: 小可
-- Posted at: 十月 18, 2025, 03:50 上午
+- Posted at raw: 十月 18, 2025, 03:50 上午
+- Posted at iso: 2025-10-18T03:50:00+08:00
 
 > [引用自: Justfish 于 十月 18, 2025, 03:22 上午](https://number81.xyz/index.php?msg=13565)既然露西失败了，请裁判/GM为露西总结此次轮回的收获，并输出角色卡的改动部分，在轮回中遇到的新的伙伴的能力会被记录在"记忆再现：调查团的羁绊之中"。
 
@@ -1597,8 +1641,10 @@ B. 角色状态简述：
 
 ## 24F
 
+- floor_index: 24
 - Author: 小可
-- Posted at: 十月 18, 2025, 03:52 上午
+- Posted at raw: 十月 18, 2025, 03:52 上午
+- Posted at iso: 2025-10-18T03:52:00+08:00
 
 > [引用自: zweizergain 于 十月 18, 2025, 03:48 上午](https://number81.xyz/index.php?msg=13604)巴萨拉的切歌协议为什么会重复输出两次
 

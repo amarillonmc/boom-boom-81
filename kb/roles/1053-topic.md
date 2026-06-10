@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1053.0"
 author: "小可"
 created_at_raw: "九月 29, 2025, 06:43 上午"
 created_at_iso: "2025-09-29T06:43:00+08:00"
-fetched_at_raw: "2026-02-26 10:05:27 +0800"
-fetched_at_iso: "2026-02-26T10:05:27+08:00"
+fetched_at_raw: "2026-06-10 10:42:17 +0800"
+fetched_at_iso: "2026-06-10T10:42:17.355321+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5813
-approx_tokens: 2907
 ---
 
 # 小可的角色 - 神秘对波男
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 29, 2025, 06:43 上午
+- Posted at raw: 九月 29, 2025, 06:43 上午
+- Posted at iso: 2025-09-29T06:43:00+08:00
 
 **角色填写人：**小可
 
@@ -115,8 +115,10 @@ approx_tokens: 2907
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 09:20 下午
+- Posted at raw: 十一月 07, 2025, 09:20 下午
+- Posted at iso: 2025-11-07T21:20:00+08:00
 
 旧卡存档**角色填写人：**小可
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2081.0"
 author: "小兵"
 created_at_raw: "十月 29, 2025, 03:44 上午"
 created_at_iso: "2025-10-29T03:44:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:48 +0800"
-fetched_at_iso: "2026-02-26T10:12:48+08:00"
+fetched_at_raw: "2026-06-10 10:48:44 +0800"
+fetched_at_iso: "2026-06-10T10:48:44.274313+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 9774
-approx_tokens: 4887
 ---
 
 # 小兵的角色 - 时空大盗 拉法姆 （开放系共写角色）
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 29, 2025, 03:44 上午
+- Posted at raw: 十月 29, 2025, 03:44 上午
+- Posted at iso: 2025-10-29T03:44:00+08:00
 
 **角色填写人：**小兵
 
@@ -59,8 +59,10 @@ approx_tokens: 4887
 
 ## 2F
 
+- floor_index: 2
 - Author: 小兵
-- Posted at: 十月 29, 2025, 03:50 上午
+- Posted at raw: 十月 29, 2025, 03:50 上午
+- Posted at iso: 2025-10-29T03:50:00+08:00
 
 以下为拉法姆的填写格式（尽量别写太多字）
 
@@ -78,8 +80,10 @@ approx_tokens: 4887
 
 ## 3F
 
+- floor_index: 3
 - Author: 小兵
-- Posted at: 十月 29, 2025, 03:59 上午
+- Posted at raw: 十月 29, 2025, 03:59 上午
+- Posted at iso: 2025-10-29T03:59:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -98,8 +102,10 @@ approx_tokens: 4887
 
 ## 4F
 
+- floor_index: 4
 - Author: 小兵
-- Posted at: 十月 29, 2025, 04:05 上午
+- Posted at raw: 十月 29, 2025, 04:05 上午
+- Posted at iso: 2025-10-29T04:05:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -117,8 +123,10 @@ approx_tokens: 4887
 
 ## 5F
 
+- floor_index: 5
 - Author: 小兵
-- Posted at: 十月 29, 2025, 04:13 上午
+- Posted at raw: 十月 29, 2025, 04:13 上午
+- Posted at iso: 2025-10-29T04:13:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -137,8 +145,10 @@ approx_tokens: 4887
 
 ## 6F
 
+- floor_index: 6
 - Author: Justfish
-- Posted at: 十月 29, 2025, 04:33 上午
+- Posted at raw: 十月 29, 2025, 04:33 上午
+- Posted at iso: 2025-10-29T04:33:00+08:00
 
 **本拉法姆填写人：**Justfish
 
@@ -158,8 +168,10 @@ approx_tokens: 4887
 
 ## 7F
 
+- floor_index: 7
 - Author: Justfish
-- Posted at: 十月 29, 2025, 04:41 上午
+- Posted at raw: 十月 29, 2025, 04:41 上午
+- Posted at iso: 2025-10-29T04:41:00+08:00
 
 **本拉法姆填写人：**Justfish
 
@@ -178,8 +190,10 @@ approx_tokens: 4887
 
 ## 8F
 
+- floor_index: 8
 - Author: 小兵
-- Posted at: 十月 29, 2025, 04:45 上午
+- Posted at raw: 十月 29, 2025, 04:45 上午
+- Posted at iso: 2025-10-29T04:45:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -197,8 +211,10 @@ approx_tokens: 4887
 
 ## 9F
 
+- floor_index: 9
 - Author: 小兵
-- Posted at: 十月 29, 2025, 04:50 上午
+- Posted at raw: 十月 29, 2025, 04:50 上午
+- Posted at iso: 2025-10-29T04:50:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -216,8 +232,10 @@ approx_tokens: 4887
 
 ## 10F
 
+- floor_index: 10
 - Author: 小兵
-- Posted at: 十月 29, 2025, 04:55 上午
+- Posted at raw: 十月 29, 2025, 04:55 上午
+- Posted at iso: 2025-10-29T04:55:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -235,8 +253,10 @@ approx_tokens: 4887
 
 ## 11F
 
+- floor_index: 11
 - Author: 无羁
-- Posted at: 十月 29, 2025, 05:03 上午
+- Posted at raw: 十月 29, 2025, 05:03 上午
+- Posted at iso: 2025-10-29T05:03:00+08:00
 
 本拉法姆填写人： 无羁
 
@@ -252,8 +272,10 @@ approx_tokens: 4887
 
 ## 12F
 
+- floor_index: 12
 - Author: 小兵
-- Posted at: 十月 29, 2025, 05:14 上午
+- Posted at raw: 十月 29, 2025, 05:14 上午
+- Posted at iso: 2025-10-29T05:14:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -271,8 +293,10 @@ approx_tokens: 4887
 
 ## 13F
 
+- floor_index: 13
 - Author: 小兵
-- Posted at: 十月 29, 2025, 05:19 上午
+- Posted at raw: 十月 29, 2025, 05:19 上午
+- Posted at iso: 2025-10-29T05:19:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -290,8 +314,10 @@ approx_tokens: 4887
 
 ## 14F
 
+- floor_index: 14
 - Author: Jerry
-- Posted at: 十月 29, 2025, 05:57 上午
+- Posted at raw: 十月 29, 2025, 05:57 上午
+- Posted at iso: 2025-10-29T05:57:00+08:00
 
 本拉法姆填写人： Jerry
 
@@ -307,8 +333,10 @@ approx_tokens: 4887
 
 ## 15F
 
+- floor_index: 15
 - Author: 紫宵
-- Posted at: 十月 29, 2025, 06:06 上午
+- Posted at raw: 十月 29, 2025, 06:06 上午
+- Posted at iso: 2025-10-29T06:06:00+08:00
 
 **本拉法姆填写人：**紫宵
 
@@ -328,8 +356,10 @@ approx_tokens: 4887
 
 ## 16F
 
+- floor_index: 16
 - Author: Ombre
-- Posted at: 十月 29, 2025, 09:02 上午
+- Posted at raw: 十月 29, 2025, 09:02 上午
+- Posted at iso: 2025-10-29T09:02:00+08:00
 
 **本拉法姆填写人：**Ombre
 
@@ -374,8 +404,10 @@ approx_tokens: 4887
 
 ## 17F
 
+- floor_index: 17
 - Author: 小兵
-- Posted at: 十月 29, 2025, 09:10 上午
+- Posted at raw: 十月 29, 2025, 09:10 上午
+- Posted at iso: 2025-10-29T09:10:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -393,8 +425,10 @@ approx_tokens: 4887
 
 ## 18F
 
+- floor_index: 18
 - Author: 小兵
-- Posted at: 十月 29, 2025, 09:17 上午
+- Posted at raw: 十月 29, 2025, 09:17 上午
+- Posted at iso: 2025-10-29T09:17:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -412,8 +446,10 @@ approx_tokens: 4887
 
 ## 19F
 
+- floor_index: 19
 - Author: Ombre
-- Posted at: 十月 29, 2025, 09:25 上午
+- Posted at raw: 十月 29, 2025, 09:25 上午
+- Posted at iso: 2025-10-29T09:25:00+08:00
 
 **本拉法姆填写人：**Ombre
 
@@ -460,8 +496,10 @@ approx_tokens: 4887
 
 ## 20F
 
+- floor_index: 20
 - Author: 小兵
-- Posted at: 十月 29, 2025, 09:34 上午
+- Posted at raw: 十月 29, 2025, 09:34 上午
+- Posted at iso: 2025-10-29T09:34:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -479,8 +517,10 @@ approx_tokens: 4887
 
 ## 21F
 
+- floor_index: 21
 - Author: 小兵
-- Posted at: 十月 29, 2025, 11:53 上午
+- Posted at raw: 十月 29, 2025, 11:53 上午
+- Posted at iso: 2025-10-29T11:53:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -497,8 +537,10 @@ approx_tokens: 4887
 
 ## 22F
 
+- floor_index: 22
 - Author: 小兵
-- Posted at: 十月 29, 2025, 12:09 下午
+- Posted at raw: 十月 29, 2025, 12:09 下午
+- Posted at iso: 2025-10-29T12:09:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -518,8 +560,10 @@ approx_tokens: 4887
 
 ## 23F
 
+- floor_index: 23
 - Author: 小兵
-- Posted at: 十月 29, 2025, 10:19 下午
+- Posted at raw: 十月 29, 2025, 10:19 下午
+- Posted at iso: 2025-10-29T22:19:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -537,8 +581,10 @@ approx_tokens: 4887
 
 ## 24F
 
+- floor_index: 24
 - Author: 小兵
-- Posted at: 十月 31, 2025, 10:30 上午
+- Posted at raw: 十月 31, 2025, 10:30 上午
+- Posted at iso: 2025-10-31T10:30:00+08:00
 
 **本拉法姆填写人：** 小兵
 
@@ -555,8 +601,10 @@ approx_tokens: 4887
 
 ## 25F
 
+- floor_index: 25
 - Author: 烛火
-- Posted at: 十月 31, 2025, 10:25 下午
+- Posted at raw: 十月 31, 2025, 10:25 下午
+- Posted at iso: 2025-10-31T22:25:00+08:00
 
 **本拉法姆填写人：** 烛火
 

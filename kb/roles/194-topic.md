@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=194.0"
 author: "紫宵"
 created_at_raw: "九月 11, 2025, 04:04 下午"
 created_at_iso: "2025-09-11T16:04:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:18 +0800"
-fetched_at_iso: "2026-02-26T09:58:18+08:00"
+fetched_at_raw: "2026-06-10 10:35:46 +0800"
+fetched_at_iso: "2026-06-10T10:35:46.820009+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2417
-approx_tokens: 1209
 ---
 
 # 紫宵的角色 - 转折点
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 九月 11, 2025, 04:04 下午
+- Posted at raw: 九月 11, 2025, 04:04 下午
+- Posted at iso: 2025-09-11T16:04:00+08:00
 
 **角色填写人：**紫宵
 
@@ -43,15 +43,19 @@ approx_tokens: 1209
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 九月 13, 2025, 02:40 上午
+- Posted at raw: 九月 13, 2025, 02:40 上午
+- Posted at iso: 2025-09-13T02:40:00+08:00
 
 本机制的定位为规则书补充，目的主要是将乱斗局通过较短的灾难片片段过渡到废土生存局。现有的测试结果表明，该机制在强者较多的局内叙事效果有限，仅能维持基础的情节功能。与其他机制发生冲突的可能性较高。
 
 ## 3F
 
+- floor_index: 3
 - Author: 紫宵
-- Posted at: 九月 14, 2025, 03:04 下午
+- Posted at raw: 九月 14, 2025, 03:04 下午
+- Posted at iso: 2025-09-14T15:04:00+08:00
 
 本机制似乎在ds下的运行非常糟糕。这里记录一些尝试性的修改草稿。
 **你需要为实现它而有意识且自然地控制叙事和时间尺度，通过安排一场灾难让所有角色进行转场，将故事以灾难为分界点，分为上下两半场，并在下半部分重新推理角色的成长转变和编织新的故事。**

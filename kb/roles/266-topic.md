@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=266.0"
 author: "小兵"
 created_at_raw: "九月 14, 2025, 07:18 上午"
 created_at_iso: "2025-09-14T07:18:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:55 +0800"
-fetched_at_iso: "2026-02-26T09:58:55+08:00"
+fetched_at_raw: "2026-06-10 10:36:19 +0800"
+fetched_at_iso: "2026-06-10T10:36:19.070933+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 868
-approx_tokens: 434
 ---
 
 # 小兵的角色 - 喷上裕也
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 九月 14, 2025, 07:18 上午
+- Posted at raw: 九月 14, 2025, 07:18 上午
+- Posted at iso: 2025-09-14T07:18:00+08:00
 
 **角色填写人：**小兵
 

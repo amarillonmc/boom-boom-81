@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=359.0"
 author: "小兵"
 created_at_raw: "九月 16, 2025, 02:58 上午"
 created_at_iso: "2025-09-16T02:58:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:52 +0800"
-fetched_at_iso: "2026-02-26T09:59:52+08:00"
+fetched_at_raw: "2026-06-10 10:37:14 +0800"
+fetched_at_iso: "2026-06-10T10:37:14.084667+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 520
-approx_tokens: 260
 ---
 
 # 小兵的角色 - 周处
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 九月 16, 2025, 02:58 上午
+- Posted at raw: 九月 16, 2025, 02:58 上午
+- Posted at iso: 2025-09-16T02:58:00+08:00
 
 **角色填写人：**小兵
 

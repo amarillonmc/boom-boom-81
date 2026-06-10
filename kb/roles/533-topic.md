@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=533.0"
 author: "小可"
 created_at_raw: "九月 19, 2025, 01:20 下午"
 created_at_iso: "2025-09-19T13:20:00+08:00"
-fetched_at_raw: "2026-02-26 10:01:29 +0800"
-fetched_at_iso: "2026-02-26T10:01:29+08:00"
+fetched_at_raw: "2026-06-10 10:38:42 +0800"
+fetched_at_iso: "2026-06-10T10:38:42.443115+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3845
-approx_tokens: 1923
 ---
 
 # 小可的角色 - 最强最耀眼的魔法少女
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 19, 2025, 01:20 下午
+- Posted at raw: 九月 19, 2025, 01:20 下午
+- Posted at iso: 2025-09-19T13:20:00+08:00
 
 **角色填写人：**小可
 
@@ -41,8 +41,10 @@ approx_tokens: 1923
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 02:09 下午
+- Posted at raw: 十一月 07, 2025, 02:09 下午
+- Posted at iso: 2025-11-07T14:09:00+08:00
 
 **角色强度分析：最强最耀眼的魔法少女**
 

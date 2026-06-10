@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2011.0"
 author: "全装甲高达七号机"
 created_at_raw: "十月 27, 2025, 01:33 下午"
 created_at_iso: "2025-10-27T13:33:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:20 +0800"
-fetched_at_iso: "2026-02-26T10:12:20+08:00"
+fetched_at_raw: "2026-06-10 10:48:17 +0800"
+fetched_at_iso: "2026-06-10T10:48:17.956596+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4749
-approx_tokens: 2375
 ---
 
 # 全装甲高达七号机的角色 - 中央的皇帝 - 黄龙兽 (Huanglongmon)
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十月 27, 2025, 01:33 下午
+- Posted at raw: 十月 27, 2025, 01:33 下午
+- Posted at iso: 2025-10-27T13:33:00+08:00
 
 **角色填写人：**全装甲高达七号机
 

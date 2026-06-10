@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1164.0"
 author: "Ombre"
 created_at_raw: "十月 01, 2025, 10:37 下午"
 created_at_iso: "2025-10-01T22:37:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:08 +0800"
-fetched_at_iso: "2026-02-26T10:06:08+08:00"
+fetched_at_raw: "2026-06-10 10:42:51 +0800"
+fetched_at_iso: "2026-06-10T10:42:51.197310+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 41029
-approx_tokens: 20515
 ---
 
 # Ombre的角色 - “你先生”
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 01, 2025, 10:37 下午
+- Posted at raw: 十月 01, 2025, 10:37 下午
+- Posted at iso: 2025-10-01T22:37:00+08:00
 
 ### **角色档案：你先生 (Mr. You)**
 
@@ -649,8 +649,10 @@ approx_tokens: 20515
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 04, 2025, 04:15 上午
+- Posted at raw: 十一月 04, 2025, 04:15 上午
+- Posted at iso: 2025-11-04T04:15:00+08:00
 
 旧人物卡**角色填写人：**Ombre
 
@@ -740,8 +742,10 @@ approx_tokens: 20515
 
 ## 3F
 
+- floor_index: 3
 - Author: Ombre
-- Posted at: 十一月 04, 2025, 10:00 下午
+- Posted at raw: 十一月 04, 2025, 10:00 下午
+- Posted at iso: 2025-11-04T22:00:00+08:00
 
 从者档案（Ruler）---
 * **核心前提：** 召唤的异常
@@ -827,8 +831,10 @@ approx_tokens: 20515
 
 ## 4F
 
+- floor_index: 4
 - Author: Ombre
-- Posted at: 十一月 14, 2025, 01:35 上午
+- Posted at raw: 十一月 14, 2025, 01:35 上午
+- Posted at iso: 2025-11-14T01:35:00+08:00
 
 御主档案### **角色档案：你先生 (Mr. You)**
 

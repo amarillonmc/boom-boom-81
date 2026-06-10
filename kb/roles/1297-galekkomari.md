@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1297.0"
 author: "galekkomari"
 created_at_raw: "十月 05, 2025, 08:36 上午"
 created_at_iso: "2025-10-05T08:36:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:04 +0800"
-fetched_at_iso: "2026-02-26T10:07:04+08:00"
+fetched_at_raw: "2026-06-10 10:43:43 +0800"
+fetched_at_iso: "2026-06-10T10:43:43.372995+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10545
-approx_tokens: 5273
 ---
 
 # galekkomari的角色 - 界·天竿鱼
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 十月 05, 2025, 08:36 上午
+- Posted at raw: 十月 05, 2025, 08:36 上午
+- Posted at iso: 2025-10-05T08:36:00+08:00
 
 **角色填写人：**galekkomari
 
@@ -68,8 +68,10 @@ approx_tokens: 5273
 
 ## 2F
 
+- floor_index: 2
 - Author: galekkomari
-- Posted at: 十月 05, 2025, 08:43 上午
+- Posted at raw: 十月 05, 2025, 08:43 上午
+- Posted at iso: 2025-10-05T08:43:00+08:00
 
 附录：
 
@@ -182,8 +184,10 @@ approx_tokens: 5273
 
 ## 3F
 
+- floor_index: 3
 - Author: galekkomari
-- Posted at: 十一月 16, 2025, 10:29 下午
+- Posted at raw: 十一月 16, 2025, 10:29 下午
+- Posted at iso: 2025-11-16T22:29:00+08:00
 
 BONUS：
 FGO格式（御主）第一部分：核心身份 (Core Identity)

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2499.0"
 author: "Justfish"
 created_at_raw: "十一月 08, 2025, 09:50 上午"
 created_at_iso: "2025-11-08T09:50:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:52 +0800"
-fetched_at_iso: "2026-02-26T10:14:52+08:00"
+fetched_at_raw: "2026-06-10 10:50:35 +0800"
+fetched_at_iso: "2026-06-10T10:50:35.974054+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 16761
-approx_tokens: 8381
 ---
 
 # Justfish的角色 - 共鸣者-雨藜 (Yu Li)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十一月 08, 2025, 09:50 上午
+- Posted at raw: 十一月 08, 2025, 09:50 上午
+- Posted at iso: 2025-11-08T09:50:00+08:00
 
 **角色填写人：**Justfish
 ---
@@ -275,8 +275,10 @@ approx_tokens: 8381
 
 ## 2F
 
+- floor_index: 2
 - Author: Justfish
-- Posted at: 十一月 12, 2025, 09:42 上午
+- Posted at raw: 十一月 12, 2025, 09:42 上午
+- Posted at iso: 2025-11-12T09:42:00+08:00
 
 旧角色卡**角色填写人：**Justfish
 

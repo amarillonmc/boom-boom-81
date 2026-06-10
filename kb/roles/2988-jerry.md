@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2988.0"
 author: "Jerry"
 created_at_raw: "十一月 22, 2025, 06:05 上午"
 created_at_iso: "2025-11-22T06:05:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:30 +0800"
-fetched_at_iso: "2026-02-26T10:17:30+08:00"
+fetched_at_raw: "2026-06-10 10:53:01 +0800"
+fetched_at_iso: "2026-06-10T10:53:01.520792+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 8015
-approx_tokens: 4008
 ---
 
 # Jerry的角色 - 渚薰
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十一月 22, 2025, 06:05 上午
+- Posted at raw: 十一月 22, 2025, 06:05 上午
+- Posted at iso: 2025-11-22T06:05:00+08:00
 
 **角色填写人：**Jerry
 
@@ -113,16 +113,20 @@ approx_tokens: 4008
 
 ## 2F
 
+- floor_index: 2
 - Author: zweizergain
-- Posted at: 十一月 22, 2025, 08:29 上午
+- Posted at raw: 十一月 22, 2025, 08:29 上午
+- Posted at iso: 2025-11-22T08:29:00+08:00
 
 无印渚薰主要的战斗能力是劫持EVA，他劫持了二号机（而且人不在里边）打到了教条门口，如果不是主动放弃就提前剧终了。
 以此类推就是越有灵魂的机体越容易被劫持（二号机是灵魂含量最低的也顶不住）。只有唯物主义战士能不受影响。
 
 ## 3F
 
+- floor_index: 3
 - Author: Ombre
-- Posted at: 十一月 24, 2025, 11:32 下午
+- Posted at raw: 十一月 24, 2025, 11:32 下午
+- Posted at iso: 2025-11-24T23:32:00+08:00
 
 御主档案### **第一部分：核心身份 (Core Identity)**
 

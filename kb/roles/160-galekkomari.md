@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=160.0"
 author: "galekkomari"
 created_at_raw: "九月 10, 2025, 08:32 上午"
 created_at_iso: "2025-09-10T08:32:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:02 +0800"
-fetched_at_iso: "2026-02-26T09:58:02+08:00"
+fetched_at_raw: "2026-06-10 10:35:31 +0800"
+fetched_at_iso: "2026-06-10T10:35:31.339706+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 955
-approx_tokens: 478
 ---
 
 # galekkomari的角色 - 能美·库特莉亚芙卡
 
 ## 1F
 
+- floor_index: 1
 - Author: galekkomari
-- Posted at: 九月 10, 2025, 08:32 上午
+- Posted at raw: 九月 10, 2025, 08:32 上午
+- Posted at iso: 2025-09-10T08:32:00+08:00
 
 **角色填写人：**galekkomari
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2485.0"
 author: "Jerry"
 created_at_raw: "十一月 08, 2025, 04:41 上午"
 created_at_iso: "2025-11-08T04:41:00+08:00"
-fetched_at_raw: "2026-02-26 10:14:49 +0800"
-fetched_at_iso: "2026-02-26T10:14:49+08:00"
+fetched_at_raw: "2026-06-10 10:50:33 +0800"
+fetched_at_iso: "2026-06-10T10:50:33.169870+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4579
-approx_tokens: 2290
 ---
 
 # Jerry的角色 - 琴·葛蕾
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 十一月 08, 2025, 04:41 上午
+- Posted at raw: 十一月 08, 2025, 04:41 上午
+- Posted at iso: 2025-11-08T04:41:00+08:00
 
 **角色填写人：**Jerry
 

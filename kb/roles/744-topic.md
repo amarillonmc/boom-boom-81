@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=744.0"
 author: "王者的老凤凰"
 created_at_raw: "九月 23, 2025, 08:28 上午"
 created_at_iso: "2025-09-23T08:28:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:13 +0800"
-fetched_at_iso: "2026-02-26T10:03:13+08:00"
+fetched_at_raw: "2026-06-10 10:40:11 +0800"
+fetched_at_iso: "2026-06-10T10:40:11.973586+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1196
-approx_tokens: 598
 ---
 
 # 老凤凰的角色 - 奥黛丽·霍尔
 
 ## 1F
 
+- floor_index: 1
 - Author: 王者的老凤凰
-- Posted at: 九月 23, 2025, 08:28 上午
+- Posted at raw: 九月 23, 2025, 08:28 上午
+- Posted at iso: 2025-09-23T08:28:00+08:00
 
 **角色填写人：**老凤凰
 

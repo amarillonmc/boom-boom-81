@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2103.0"
 author: "小可"
 created_at_raw: "十月 29, 2025, 02:19 下午"
 created_at_iso: "2025-10-29T14:19:00+08:00"
-fetched_at_raw: "2026-02-26 10:12:53 +0800"
-fetched_at_iso: "2026-02-26T10:12:53+08:00"
+fetched_at_raw: "2026-06-10 10:48:47 +0800"
+fetched_at_iso: "2026-06-10T10:48:47.738472+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4397
-approx_tokens: 2199
 ---
 
 # 小可的角色 - 圆环之理 (The Law of Cycles) / 鹿目圆 (Kaname Madoka)
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十月 29, 2025, 02:19 下午
+- Posted at raw: 十月 29, 2025, 02:19 下午
+- Posted at iso: 2025-10-29T14:19:00+08:00
 
 **角色填写人：**小可
 
@@ -63,8 +63,10 @@ approx_tokens: 2199
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十月 29, 2025, 02:20 下午
+- Posted at raw: 十月 29, 2025, 02:20 下午
+- Posted at iso: 2025-10-29T14:20:00+08:00
 
 > 引用最强的魔法少女
 > KP，这是我所能构建的、最能体现"魔法少女之顶点"这一概念的角色卡。
@@ -75,8 +77,10 @@ approx_tokens: 2199
 
 ## 3F
 
+- floor_index: 3
 - Author: 小可
-- Posted at: 十一月 07, 2025, 01:18 下午
+- Posted at raw: 十一月 07, 2025, 01:18 下午
+- Posted at iso: 2025-11-07T13:18:00+08:00
 
 **角色强度分析：圆环之理 / 鹿目圆**
 

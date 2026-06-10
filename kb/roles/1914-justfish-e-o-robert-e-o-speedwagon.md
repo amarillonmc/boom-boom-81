@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1914.0"
 author: "Justfish"
 created_at_raw: "十月 24, 2025, 01:14 下午"
 created_at_iso: "2025-10-24T13:14:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:38 +0800"
-fetched_at_iso: "2026-02-26T10:11:38+08:00"
+fetched_at_raw: "2026-06-10 10:47:42 +0800"
+fetched_at_iso: "2026-06-10T10:47:42.188809+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3411
-approx_tokens: 1706
 ---
 
 # Justfish的角色 - 罗伯特·E·O·史比特瓦根 (Robert E. O. Speedwagon)
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 24, 2025, 01:14 下午
+- Posted at raw: 十月 24, 2025, 01:14 下午
+- Posted at iso: 2025-10-24T13:14:00+08:00
 
 **角色填写人：**Justfish
 

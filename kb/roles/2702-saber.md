@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2702.0"
 author: "小可"
 created_at_raw: "十一月 15, 2025, 06:42 上午"
 created_at_iso: "2025-11-15T06:42:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:15 +0800"
-fetched_at_iso: "2026-02-26T10:16:15+08:00"
+fetched_at_raw: "2026-06-10 10:51:53 +0800"
+fetched_at_iso: "2026-06-10T10:51:53.302164+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2837
-approx_tokens: 1419
 ---
 
 # 小可的角色 - 米迦勒（saber）
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 十一月 15, 2025, 06:42 上午
+- Posted at raw: 十一月 15, 2025, 06:42 上午
+- Posted at iso: 2025-11-15T06:42:00+08:00
 
 **角色填写人：**小可
 

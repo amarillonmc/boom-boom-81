@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1926.0"
 author: "全装甲高达七号机"
 created_at_raw: "十月 25, 2025, 02:13 上午"
 created_at_iso: "2025-10-25T02:13:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:42 +0800"
-fetched_at_iso: "2026-02-26T10:11:42+08:00"
+fetched_at_raw: "2026-06-10 10:47:46 +0800"
+fetched_at_iso: "2026-06-10T10:47:46.774697+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2313
-approx_tokens: 1157
 ---
 
 # 全装甲高达七号机的角色 - 翔烈帝 龙装 刘备高达
 
 ## 1F
 
+- floor_index: 1
 - Author: 全装甲高达七号机
-- Posted at: 十月 25, 2025, 02:13 上午
+- Posted at raw: 十月 25, 2025, 02:13 上午
+- Posted at iso: 2025-10-25T02:13:00+08:00
 
 **角色填写人：**全装甲高达七号机
 

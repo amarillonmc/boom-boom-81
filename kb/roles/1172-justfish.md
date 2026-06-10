@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1172.0"
 author: "Justfish"
 created_at_raw: "十月 02, 2025, 02:10 上午"
 created_at_iso: "2025-10-02T02:10:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:10 +0800"
-fetched_at_iso: "2026-02-26T10:06:10+08:00"
+fetched_at_raw: "2026-06-10 10:42:52 +0800"
+fetched_at_iso: "2026-06-10T10:42:52.863685+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3226
-approx_tokens: 1613
 ---
 
 # Justfish的角色 - 「炎杀姬」藤原妹红
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 02, 2025, 02:10 上午
+- Posted at raw: 十月 02, 2025, 02:10 上午
+- Posted at iso: 2025-10-02T02:10:00+08:00
 
 **角色填写人：**Justfish
 

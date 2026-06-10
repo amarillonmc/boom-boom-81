@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=237.0"
 author: "增熵星"
 created_at_raw: "九月 13, 2025, 11:20 上午"
 created_at_iso: "2025-09-13T11:20:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:41 +0800"
-fetched_at_iso: "2026-02-26T09:58:41+08:00"
+fetched_at_raw: "2026-06-10 10:36:05 +0800"
+fetched_at_iso: "2026-06-10T10:36:05.259206+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 731
-approx_tokens: 366
 ---
 
 # 增熵星的角色 - 环彩羽
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 13, 2025, 11:20 上午
+- Posted at raw: 九月 13, 2025, 11:20 上午
+- Posted at iso: 2025-09-13T11:20:00+08:00
 
 **角色填写人：**增熵星
 
@@ -39,15 +39,19 @@ doppel:沉默的魔女化身，其姿态为呼子鸟
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 九月 13, 2025, 11:23 上午
+- Posted at raw: 九月 13, 2025, 11:23 上午
+- Posted at iso: 2025-09-13T11:23:00+08:00
 
 环妈巅峰战力是什么量级来着
 
 ## 3F
 
+- floor_index: 3
 - Author: 增熵星
-- Posted at: 九月 13, 2025, 11:26 上午
+- Posted at raw: 九月 13, 2025, 11:26 上午
+- Posted at iso: 2025-09-13T11:26:00+08:00
 
 按汪吧说法无限环是无限多元
 当然这个状态肯定没有就是了

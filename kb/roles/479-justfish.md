@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=479.0"
 author: "Justfish"
 created_at_raw: "九月 18, 2025, 11:03 下午"
 created_at_iso: "2025-09-18T23:03:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:56 +0800"
-fetched_at_iso: "2026-02-26T10:00:56+08:00"
+fetched_at_raw: "2026-06-10 10:38:13 +0800"
+fetched_at_iso: "2026-06-10T10:38:13.789373+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1108
-approx_tokens: 554
 ---
 
 # Justfish的角色 - 漂浮电晶之壳
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 18, 2025, 11:03 下午
+- Posted at raw: 九月 18, 2025, 11:03 下午
+- Posted at iso: 2025-09-18T23:03:00+08:00
 
 **角色填写人：**Justfish
 

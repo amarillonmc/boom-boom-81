@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1973.0"
 author: "Justfish"
 created_at_raw: "十月 26, 2025, 09:25 上午"
 created_at_iso: "2025-10-26T09:25:00+08:00"
-fetched_at_raw: "2026-02-26 10:11:58 +0800"
-fetched_at_iso: "2026-02-26T10:11:58+08:00"
+fetched_at_raw: "2026-06-10 10:48:01 +0800"
+fetched_at_iso: "2026-06-10T10:48:01.311335+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5752
-approx_tokens: 2876
 ---
 
 # Justfish的角色 - 剑魔-独孤求败
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 十月 26, 2025, 09:25 上午
+- Posted at raw: 十月 26, 2025, 09:25 上午
+- Posted at iso: 2025-10-26T09:25:00+08:00
 
 **角色填写人：**Justfish
 

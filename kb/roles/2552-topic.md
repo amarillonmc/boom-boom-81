@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2552.0"
 author: "紫宵"
 created_at_raw: "十一月 10, 2025, 06:34 上午"
 created_at_iso: "2025-11-10T06:34:00+08:00"
-fetched_at_raw: "2026-02-26 10:15:20 +0800"
-fetched_at_iso: "2026-02-26T10:15:20+08:00"
+fetched_at_raw: "2026-06-10 10:51:03 +0800"
+fetched_at_iso: "2026-06-10T10:51:03.786082+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 12480
-approx_tokens: 6240
 ---
 
 # 紫宵的角色 - 超级地球征兵官
 
 ## 1F
 
+- floor_index: 1
 - Author: 紫宵
-- Posted at: 十一月 10, 2025, 06:34 上午
+- Posted at raw: 十一月 10, 2025, 06:34 上午
+- Posted at iso: 2025-11-10T06:34:00+08:00
 
 **角色填写人：**紫宵
 
@@ -134,8 +134,10 @@ approx_tokens: 6240
 
 ## 2F
 
+- floor_index: 2
 - Author: 紫宵
-- Posted at: 十一月 11, 2025, 02:01 下午
+- Posted at raw: 十一月 11, 2025, 02:01 下午
+- Posted at iso: 2025-11-11T14:01:00+08:00
 
 更新1.1版本。处理刻板印象问题。
 1.0**角色填写人：**紫宵

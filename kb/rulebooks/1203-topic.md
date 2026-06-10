@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1203.0"
 author: "zweizergain"
 created_at_raw: "十月 02, 2025, 02:31 下午"
 created_at_iso: "2025-10-02T14:31:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:42 +0800"
-fetched_at_iso: "2026-02-26T10:19:42+08:00"
+fetched_at_raw: "2026-06-10 11:00:58 +0800"
+fetched_at_iso: "2026-06-10T11:00:58.643047+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 11307
-approx_tokens: 5654
 ---
 
 # 【极暗地牢】
 
 ## 1F
 
+- floor_index: 1
 - Author: zweizergain
-- Posted at: 十月 02, 2025, 02:31 下午
+- Posted at raw: 十月 02, 2025, 02:31 下午
+- Posted at iso: 2025-10-02T14:31:00+08:00
 
 ### **【导演手册：血与尘 - V13.0 最终版 - Part 1/6】**
 

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1216.0"
 author: "无羁"
 created_at_raw: "十月 03, 2025, 07:13 上午"
 created_at_iso: "2025-10-03T07:13:00+08:00"
-fetched_at_raw: "2026-02-26 10:06:23 +0800"
-fetched_at_iso: "2026-02-26T10:06:23+08:00"
+fetched_at_raw: "2026-06-10 10:43:05 +0800"
+fetched_at_iso: "2026-06-10T10:43:05.167871+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 760
-approx_tokens: 380
 ---
 
 # 无羁的角色 - 法海
 
 ## 1F
 
+- floor_index: 1
 - Author: 无羁
-- Posted at: 十月 03, 2025, 07:13 上午
+- Posted at raw: 十月 03, 2025, 07:13 上午
+- Posted at iso: 2025-10-03T07:13:00+08:00
 
 **角色填写人：**无羁
 

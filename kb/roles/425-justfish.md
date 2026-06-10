@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=425.0"
 author: "Justfish"
 created_at_raw: "九月 18, 2025, 02:27 上午"
 created_at_iso: "2025-09-18T02:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:00:32 +0800"
-fetched_at_iso: "2026-02-26T10:00:32+08:00"
+fetched_at_raw: "2026-06-10 10:37:51 +0800"
+fetched_at_iso: "2026-06-10T10:37:51.766246+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3006
-approx_tokens: 1503
 ---
 
 # Justfish的角色 - 基底勇者（原初代号：阿德恩特）
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 18, 2025, 02:27 上午
+- Posted at raw: 九月 18, 2025, 02:27 上午
+- Posted at iso: 2025-09-18T02:27:00+08:00
 
 **角色填写人：**Justfish
 

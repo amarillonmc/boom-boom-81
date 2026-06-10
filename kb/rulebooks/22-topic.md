@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=22.0"
 author: "增熵星"
 created_at_raw: "九月 08, 2025, 01:52 上午"
 created_at_iso: "2025-09-08T01:52:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:04 +0800"
-fetched_at_iso: "2026-02-26T10:19:04+08:00"
+fetched_at_raw: "2026-06-10 11:00:23 +0800"
+fetched_at_iso: "2026-06-10T11:00:23.136965+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 5773
-approx_tokens: 2887
 ---
 
 # 大乱斗规则（旧）
 
 ## 1F
 
+- floor_index: 1
 - Author: 增熵星
-- Posted at: 九月 08, 2025, 01:52 上午
+- Posted at raw: 九月 08, 2025, 01:52 上午
+- Posted at iso: 2025-09-08T01:52:00+08:00
 
 零、注意事项
 1.不要在叙事中完全忽视某名角色，或无视其能力/无视其行为逻辑。如果你计划在后续的合适时机再让某名角色行动，需在回复末尾说明，以避免遗忘。

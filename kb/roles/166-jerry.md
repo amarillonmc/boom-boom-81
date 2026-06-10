@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=166.0"
 author: "Jerry"
 created_at_raw: "九月 10, 2025, 10:32 上午"
 created_at_iso: "2025-09-10T10:32:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:06 +0800"
-fetched_at_iso: "2026-02-26T09:58:06+08:00"
+fetched_at_raw: "2026-06-10 10:35:34 +0800"
+fetched_at_iso: "2026-06-10T10:35:34.676187+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3956
-approx_tokens: 1978
 ---
 
 # Jerry的角色 - 伦道夫·卡特
 
 ## 1F
 
+- floor_index: 1
 - Author: Jerry
-- Posted at: 九月 10, 2025, 10:32 上午
+- Posted at raw: 九月 10, 2025, 10:32 上午
+- Posted at iso: 2025-09-10T10:32:00+08:00
 
 **角色填写人：**Jerry
 

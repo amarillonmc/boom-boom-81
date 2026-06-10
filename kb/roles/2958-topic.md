@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2958.0"
 author: "塔."
 created_at_raw: "十一月 21, 2025, 01:40 上午"
 created_at_iso: "2025-11-21T01:40:00+08:00"
-fetched_at_raw: "2026-02-26 10:17:22 +0800"
-fetched_at_iso: "2026-02-26T10:17:22+08:00"
+fetched_at_raw: "2026-06-10 10:52:53 +0800"
+fetched_at_iso: "2026-06-10T10:52:53.711987+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 4500
-approx_tokens: 2250
 ---
 
 # 塔.的角色 - 伊藤诚
 
 ## 1F
 
+- floor_index: 1
 - Author: 塔.
-- Posted at: 十一月 21, 2025, 01:40 上午
+- Posted at raw: 十一月 21, 2025, 01:40 上午
+- Posted at iso: 2025-11-21T01:40:00+08:00
 
 **角色填写人：**塔.
 
@@ -143,8 +143,10 @@ approx_tokens: 2250
 
 ## 2F
 
+- floor_index: 2
 - Author: 塔.
-- Posted at: 十一月 21, 2025, 08:21 上午
+- Posted at raw: 十一月 21, 2025, 08:21 上午
+- Posted at iso: 2025-11-21T08:21:00+08:00
 
 警告：检测到该御主相性极度不稳定。
 其魔术回路具有高度的"魅惑/精神干涉"诱变性，极易导致Berserker或Avenger职阶从者失控。
@@ -203,7 +205,9 @@ approx_tokens: 2250
 
 ## 3F
 
+- floor_index: 3
 - Author: 小兵
-- Posted at: 十一月 21, 2025, 08:24 上午
+- Posted at raw: 十一月 21, 2025, 08:24 上午
+- Posted at iso: 2025-11-21T08:24:00+08:00
 
 "取汝狗头，如探囊取物"

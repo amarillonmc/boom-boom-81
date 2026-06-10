@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=715.0"
 author: "Ombre"
 created_at_raw: "九月 23, 2025, 01:23 上午"
 created_at_iso: "2025-09-23T01:23:00+08:00"
-fetched_at_raw: "2026-02-26 10:19:22 +0800"
-fetched_at_iso: "2026-02-26T10:19:22+08:00"
+fetched_at_raw: "2026-06-10 11:00:39 +0800"
+fetched_at_iso: "2026-06-10T11:00:39.563359+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3019
-approx_tokens: 1510
 ---
 
 # 适配于限制强度对局的【灵魂武装】转化规则
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 23, 2025, 01:23 上午
+- Posted at raw: 九月 23, 2025, 01:23 上午
+- Posted at iso: 2025-09-23T01:23:00+08:00
 
 新增玩法【能力转换与灵魂武装系统】
 能力转化规则

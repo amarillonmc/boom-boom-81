@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=814.0"
 author: "Ombre"
 created_at_raw: "九月 24, 2025, 11:04 上午"
 created_at_iso: "2025-09-24T11:04:00+08:00"
-fetched_at_raw: "2026-02-26 10:03:42 +0800"
-fetched_at_iso: "2026-02-26T10:03:42+08:00"
+fetched_at_raw: "2026-06-10 10:40:39 +0800"
+fetched_at_iso: "2026-06-10T10:40:39.549671+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 10857
-approx_tokens: 5429
 ---
 
 # Ombre的角色 - 楚子航
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 24, 2025, 11:04 上午
+- Posted at raw: 九月 24, 2025, 11:04 上午
+- Posted at iso: 2025-09-24T11:04:00+08:00
 
 ### **角色档案：楚子航**
 
@@ -142,8 +142,10 @@ approx_tokens: 5429
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 13, 2025, 02:54 上午
+- Posted at raw: 十一月 13, 2025, 02:54 上午
+- Posted at iso: 2025-11-13T02:54:00+08:00
 
 旧角色卡> [引用自: Ombre 于 九月 24, 2025, 11:04 上午](https://number81.xyz/index.php?msg=4374)**角色填写人：**Ombre
 >
@@ -216,8 +218,10 @@ approx_tokens: 5429
 
 ## 3F
 
+- floor_index: 3
 - Author: Ombre
-- Posted at: 十一月 13, 2025, 04:46 上午
+- Posted at raw: 十一月 13, 2025, 04:46 上午
+- Posted at iso: 2025-11-13T04:46:00+08:00
 
 御主档案### **第一部分：核心身份 (Core Identity)**
 

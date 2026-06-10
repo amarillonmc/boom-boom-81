@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=175.0"
 author: "Justfish"
 created_at_raw: "九月 11, 2025, 03:09 上午"
 created_at_iso: "2025-09-11T03:09:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:09 +0800"
-fetched_at_iso: "2026-02-26T09:58:09+08:00"
+fetched_at_raw: "2026-06-10 10:35:37 +0800"
+fetched_at_iso: "2026-06-10T10:35:37.522460+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 481
-approx_tokens: 241
 ---
 
 # Justfish的角色 - 噬界兽
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 11, 2025, 03:09 上午
+- Posted at raw: 九月 11, 2025, 03:09 上午
+- Posted at iso: 2025-09-11T03:09:00+08:00
 
 **角色填写人：**Justfish
 

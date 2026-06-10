@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=153.0"
 author: "小可"
 created_at_raw: "九月 09, 2025, 11:09 下午"
 created_at_iso: "2025-09-09T23:09:00+08:00"
-fetched_at_raw: "2026-02-26 09:57:56 +0800"
-fetched_at_iso: "2026-02-26T09:57:56+08:00"
+fetched_at_raw: "2026-06-10 10:35:25 +0800"
+fetched_at_iso: "2026-06-10T10:35:25.969499+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3879
-approx_tokens: 1940
 ---
 
 # 小可的角色 - 提线者·莫洛斯
 
 ## 1F
 
+- floor_index: 1
 - Author: 小可
-- Posted at: 九月 09, 2025, 11:09 下午
+- Posted at raw: 九月 09, 2025, 11:09 下午
+- Posted at iso: 2025-09-09T23:09:00+08:00
 
 **角色填写人：**小可
 
@@ -55,8 +55,10 @@ approx_tokens: 1940
 
 ## 2F
 
+- floor_index: 2
 - Author: 小可
-- Posted at: 十一月 07, 2025, 02:00 下午
+- Posted at raw: 十一月 07, 2025, 02:00 下午
+- Posted at iso: 2025-11-07T14:00:00+08:00
 
 **角色强度分析：提线者·莫洛斯**
 

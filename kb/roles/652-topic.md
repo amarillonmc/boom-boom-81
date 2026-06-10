@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=652.0"
 author: "小兵"
 created_at_raw: "九月 22, 2025, 04:46 上午"
 created_at_iso: "2025-09-22T04:46:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:23 +0800"
-fetched_at_iso: "2026-02-26T10:02:23+08:00"
+fetched_at_raw: "2026-06-10 10:39:33 +0800"
+fetched_at_iso: "2026-06-10T10:39:33.489560+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1002
-approx_tokens: 501
 ---
 
 # 小兵的角色 - 丹因斯莱夫
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 九月 22, 2025, 04:46 上午
+- Posted at raw: 九月 22, 2025, 04:46 上午
+- Posted at iso: 2025-09-22T04:46:00+08:00
 
 **角色填写人：**小兵
 

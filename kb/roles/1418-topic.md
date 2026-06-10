@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1418.0"
 author: "普通人的无聊生活"
 created_at_raw: "十月 09, 2025, 09:27 上午"
 created_at_iso: "2025-10-09T09:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:03 +0800"
-fetched_at_iso: "2026-02-26T10:08:03+08:00"
+fetched_at_raw: "2026-06-10 10:44:32 +0800"
+fetched_at_iso: "2026-06-10T10:44:32.606998+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 6097
-approx_tokens: 3049
 ---
 
 # 普通人的无聊生活的角色 - 公孙求胜
 
 ## 1F
 
+- floor_index: 1
 - Author: 普通人的无聊生活
-- Posted at: 十月 09, 2025, 09:27 上午
+- Posted at raw: 十月 09, 2025, 09:27 上午
+- Posted at iso: 2025-10-09T09:27:00+08:00
 
 **角色填写人：**普通人的无聊生活
 
@@ -88,8 +88,10 @@ approx_tokens: 3049
 
 ## 2F
 
+- floor_index: 2
 - Author: 普通人的无聊生活
-- Posted at: 十一月 14, 2025, 10:34 下午
+- Posted at raw: 十一月 14, 2025, 10:34 下午
+- Posted at iso: 2025-11-14T22:34:00+08:00
 
 御主档案转录协议 (Chaldea Master Archive Transcription Protocol)
 【AI指令前言】

@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1345.0"
 author: "Ombre"
 created_at_raw: "十月 06, 2025, 09:03 上午"
 created_at_iso: "2025-10-06T09:03:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:28 +0800"
-fetched_at_iso: "2026-02-26T10:07:28+08:00"
+fetched_at_raw: "2026-06-10 10:44:07 +0800"
+fetched_at_iso: "2026-06-10T10:44:07.632870+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 11188
-approx_tokens: 5594
 ---
 
 # Ombre的角色 - 楚天骄
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 十月 06, 2025, 09:03 上午
+- Posted at raw: 十月 06, 2025, 09:03 上午
+- Posted at iso: 2025-10-06T09:03:00+08:00
 
 ### **角色档案：楚天骄**
 
@@ -150,8 +150,10 @@ approx_tokens: 5594
 
 ## 2F
 
+- floor_index: 2
 - Author: Ombre
-- Posted at: 十一月 10, 2025, 01:55 上午
+- Posted at raw: 十一月 10, 2025, 01:55 上午
+- Posted at iso: 2025-11-10T01:55:00+08:00
 
 旧人物卡**角色填写人：**Ombre
 

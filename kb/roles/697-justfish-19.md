@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=697.0"
 author: "Justfish"
 created_at_raw: "九月 22, 2025, 03:27 下午"
 created_at_iso: "2025-09-22T15:27:00+08:00"
-fetched_at_raw: "2026-02-26 10:02:45 +0800"
-fetched_at_iso: "2026-02-26T10:02:45+08:00"
+fetched_at_raw: "2026-06-10 10:39:53 +0800"
+fetched_at_iso: "2026-06-10T10:39:53.765909+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3346
-approx_tokens: 1673
 ---
 
 # Justfish的角色 - 【钱-19】
 
 ## 1F
 
+- floor_index: 1
 - Author: Justfish
-- Posted at: 九月 22, 2025, 03:27 下午
+- Posted at raw: 九月 22, 2025, 03:27 下午
+- Posted at iso: 2025-09-22T15:27:00+08:00
 
 **角色填写人：**Justfish
 

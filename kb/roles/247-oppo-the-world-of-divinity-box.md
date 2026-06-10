@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=247.0"
 author: "OPPO"
 created_at_raw: "九月 13, 2025, 12:59 下午"
 created_at_iso: "2025-09-13T12:59:00+08:00"
-fetched_at_raw: "2026-02-26 09:58:43 +0800"
-fetched_at_iso: "2026-02-26T09:58:43+08:00"
+fetched_at_raw: "2026-06-10 10:36:07 +0800"
+fetched_at_iso: "2026-06-10T10:36:07.889798+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 3144
-approx_tokens: 1572
 ---
 
 # OPPO的角色 - 神盒世界【The World of Divinity Box】
 
 ## 1F
 
+- floor_index: 1
 - Author: OPPO
-- Posted at: 九月 13, 2025, 12:59 下午
+- Posted at raw: 九月 13, 2025, 12:59 下午
+- Posted at iso: 2025-09-13T12:59:00+08:00
 
 **角色填写人：**OPPO
 

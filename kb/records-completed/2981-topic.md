@@ -6,36 +6,40 @@ source_url: "https://number81.xyz/index.php?topic=2981.0"
 author: "塔."
 created_at_raw: "十一月 22, 2025, 02:29 上午"
 created_at_iso: "2025-11-22T02:29:00+08:00"
-fetched_at_raw: "2026-02-26 10:27:19 +0800"
-fetched_at_iso: "2026-02-26T10:27:19+08:00"
+fetched_at_raw: "2026-06-10 11:09:49 +0800"
+fetched_at_iso: "2026-06-10T11:09:49.642336+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2669
-approx_tokens: 1335
 ---
 
 # 塔的神人圣杯战争风味大乱斗第一期提问楼
 
 ## 1F
 
+- floor_index: 1
 - Author: 塔.
-- Posted at: 十一月 22, 2025, 02:29 上午
+- Posted at raw: 十一月 22, 2025, 02:29 上午
+- Posted at iso: 2025-11-22T02:29:00+08:00
 
 不可输入空白文本
 
 ## 2F
 
+- floor_index: 2
 - Author: Jessie
-- Posted at: 十一月 22, 2025, 02:32 上午
+- Posted at raw: 十一月 22, 2025, 02:32 上午
+- Posted at iso: 2025-11-22T02:32:00+08:00
 
 为何奥米加兽 Alter-B和"播种者"杰西的御主从者关系完全相反，以及"播种者"杰西为何会成为反派？
 
 ## 3F
 
+- floor_index: 3
 - Author: 塔.
-- Posted at: 十一月 22, 2025, 02:43 上午
+- Posted at raw: 十一月 22, 2025, 02:43 上午
+- Posted at iso: 2025-11-22T02:43:00+08:00
 
 > [引用自: Jessie 于 十一月 22, 2025, 02:32 上午](https://number81.xyz/index.php?msg=28486)为何奥米加兽 Alter-B和"播种者"杰西的御主从者关系完全相反，以及"播种者"杰西为何会成为反派？
 
@@ -123,7 +127,9 @@ Beast的诞生： 最终BOSS【灾厄女王】和【Beast VI/G】就是这种执
 
 ## 4F
 
+- floor_index: 4
 - Author: 烛火
-- Posted at: 十一月 22, 2025, 12:46 下午
+- Posted at raw: 十一月 22, 2025, 12:46 下午
+- Posted at iso: 2025-11-22T12:46:00+08:00
 
 给咕哒结算一下本次的任务奖励（圣晶石以及稀有魔力棱镜）吧

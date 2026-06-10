@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1435.0"
 author: "玄羽"
 created_at_raw: "十月 10, 2025, 03:02 上午"
 created_at_iso: "2025-10-10T03:02:00+08:00"
-fetched_at_raw: "2026-02-26 10:08:11 +0800"
-fetched_at_iso: "2026-02-26T10:08:11+08:00"
+fetched_at_raw: "2026-06-10 10:44:40 +0800"
+fetched_at_iso: "2026-06-10T10:44:40.646808+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 11397
-approx_tokens: 5699
 ---
 
 # 玄羽的角色 - 锦绣黛眉
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 十月 10, 2025, 03:02 上午
+- Posted at raw: 十月 10, 2025, 03:02 上午
+- Posted at iso: 2025-10-10T03:02:00+08:00
 
 **角色填写人：**玄羽
 
@@ -185,8 +185,10 @@ approx_tokens: 5699
 
 ## 2F
 
+- floor_index: 2
 - Author: 玄羽
-- Posted at: 十月 10, 2025, 11:30 上午
+- Posted at raw: 十月 10, 2025, 11:30 上午
+- Posted at iso: 2025-10-10T11:30:00+08:00
 
 进入的副本
 https://number81.xyz/index.php?topic=1441.15 （瓶颈松动）
@@ -197,8 +199,10 @@ https://number81.xyz/index.php?topic=1550.msg12695#msg12695 突破50级
 
 ## 3F
 
+- floor_index: 3
 - Author: 玄羽
-- Posted at: 十月 10, 2025, 11:55 上午
+- Posted at raw: 十月 10, 2025, 11:55 上午
+- Posted at iso: 2025-10-10T11:55:00+08:00
 
 非梦想大陆体系：
 法术招式：【感念之心II】单体增益，只能对自己使用。当锦绣黛眉静心感怀来自他人的纯粹"善意之举"时，可恢复中量【浩然之气】。每日限2次；若感怀的是重大恩情，则可恢复大量【浩然之气】。
@@ -238,8 +242,10 @@ https://number81.xyz/index.php?topic=1550.msg12695#msg12695 突破50级
 
 ## 4F
 
+- floor_index: 4
 - Author: 玄羽
-- Posted at: 十月 11, 2025, 12:25 上午
+- Posted at raw: 十月 11, 2025, 12:25 上午
+- Posted at iso: 2025-10-11T00:25:00+08:00
 
 儒家法术领悟和升级条件：
 每个技能都有领悟等级，没有奇遇和被动技能的情况下，【儒家理论】的等级达到具体等级才能领悟法术，领悟后的法术可立即提升1级，之后每5级可提升技能1级。部分技能满级后可开启技能精修，精修的法术会提升法术威力或拥有额外能力。

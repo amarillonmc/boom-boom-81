@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1401.0"
 author: "小兵"
 created_at_raw: "十月 08, 2025, 06:05 上午"
 created_at_iso: "2025-10-08T06:05:00+08:00"
-fetched_at_raw: "2026-02-26 10:07:53 +0800"
-fetched_at_iso: "2026-02-26T10:07:53+08:00"
+fetched_at_raw: "2026-06-10 10:44:26 +0800"
+fetched_at_iso: "2026-06-10T10:44:26.958239+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2176
-approx_tokens: 1088
 ---
 
 # 小兵的角色 - 拉法姆
 
 ## 1F
 
+- floor_index: 1
 - Author: 小兵
-- Posted at: 十月 08, 2025, 06:05 上午
+- Posted at raw: 十月 08, 2025, 06:05 上午
+- Posted at iso: 2025-10-08T06:05:00+08:00
 
 **角色填写人：**小兵
 
@@ -62,8 +62,10 @@ approx_tokens: 1088
 
 ## 2F
 
+- floor_index: 2
 - Author: 小兵
-- Posted at: 十月 09, 2025, 04:29 上午
+- Posted at raw: 十月 09, 2025, 04:29 上午
+- Posted at iso: 2025-10-09T04:29:00+08:00
 
 已参加对局
 https://number81.xyz/index.php?topic=1410.0
@@ -73,8 +75,10 @@ https://number81.xyz/index.php?topic=1502.0
 
 ## 3F
 
+- floor_index: 3
 - Author: 小兵
-- Posted at: 十月 09, 2025, 08:00 上午
+- Posted at raw: 十月 09, 2025, 08:00 上午
+- Posted at iso: 2025-10-09T08:00:00+08:00
 
 魔法物品
 

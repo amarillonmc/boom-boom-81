@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2185.0"
 author: "玄羽"
 created_at_raw: "十月 31, 2025, 09:06 上午"
 created_at_iso: "2025-10-31T09:06:00+08:00"
-fetched_at_raw: "2026-02-26 10:13:18 +0800"
-fetched_at_iso: "2026-02-26T10:13:18+08:00"
+fetched_at_raw: "2026-06-10 10:49:08 +0800"
+fetched_at_iso: "2026-06-10T10:49:08.816357+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 11561
-approx_tokens: 5781
 ---
 
 # 玄羽的角色 - 花清漪（一代宗师）
 
 ## 1F
 
+- floor_index: 1
 - Author: 玄羽
-- Posted at: 十月 31, 2025, 09:06 上午
+- Posted at raw: 十月 31, 2025, 09:06 上午
+- Posted at iso: 2025-10-31T09:06:00+08:00
 
 **角色填写人：**玄羽
 
@@ -125,8 +125,10 @@ approx_tokens: 5781
 
 ## 2F
 
+- floor_index: 2
 - Author: 玄羽
-- Posted at: 十一月 16, 2025, 09:28 下午
+- Posted at raw: 十一月 16, 2025, 09:28 下午
+- Posted at iso: 2025-11-16T21:28:00+08:00
 
 好的，御主。已收到您提供的"花清漪"的完整设定。此角色融合了古典武侠与现代魂穿的特质，极具深度。现在，开始根据协议，将其转录为符合FGO世界观的御主档案。
 
@@ -197,8 +199,10 @@ approx_tokens: 5781
 
 ## 3F
 
+- floor_index: 3
 - Author: 玄羽
-- Posted at: 二月 25, 2026, 08:59 上午
+- Posted at raw: 二月 25, 2026, 08:59 上午
+- Posted at iso: 2026-02-25T08:59:00+08:00
 
 # 【Fate/stay night 圣杯战争模式 · 从者卡生成】
 

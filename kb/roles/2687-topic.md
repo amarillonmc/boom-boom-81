@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=2687.0"
 author: "Ender_Eragon"
 created_at_raw: "十一月 14, 2025, 11:11 下午"
 created_at_iso: "2025-11-14T23:11:00+08:00"
-fetched_at_raw: "2026-02-26 10:16:08 +0800"
-fetched_at_iso: "2026-02-26T10:16:08+08:00"
+fetched_at_raw: "2026-06-10 10:51:46 +0800"
+fetched_at_iso: "2026-06-10T10:51:46.594092+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2774
-approx_tokens: 1387
 ---
 
 # 终末的角色 - 御主伊尔塞斯
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十一月 14, 2025, 11:11 下午
+- Posted at raw: 十一月 14, 2025, 11:11 下午
+- Posted at iso: 2025-11-14T23:11:00+08:00
 
 第一部分：核心身份 (Core Identity)
 

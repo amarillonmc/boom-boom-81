@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=280.0"
 author: "Ombre"
 created_at_raw: "九月 14, 2025, 08:55 上午"
 created_at_iso: "2025-09-14T08:55:00+08:00"
-fetched_at_raw: "2026-02-26 09:59:06 +0800"
-fetched_at_iso: "2026-02-26T09:59:06+08:00"
+fetched_at_raw: "2026-06-10 10:36:30 +0800"
+fetched_at_iso: "2026-06-10T10:36:30.067484+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 2110
-approx_tokens: 1055
 ---
 
 # Ombre的角色 - “哑舍”
 
 ## 1F
 
+- floor_index: 1
 - Author: Ombre
-- Posted at: 九月 14, 2025, 08:55 上午
+- Posted at raw: 九月 14, 2025, 08:55 上午
+- Posted at iso: 2025-09-14T08:55:00+08:00
 
 **角色填写人：**Ombre
 
