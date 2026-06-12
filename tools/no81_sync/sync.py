@@ -1529,6 +1529,52 @@ def try_report_post(
         )
 
 
+def prepare_report_client(
+    cfg: Dict[str, str],
+    warning_entries: List[WarningEntry],
+    run_id: str,
+    report_topic_id: int,
+    snippet: str,
+    dry_run: bool,
+) -> Tuple[Optional[ForumClient], bool]:
+    if dry_run or not env_bool(cfg, "ENABLE_REPORT_POST", False):
+        return None, False
+
+    cookie_header = (cfg.get("SMF_COOKIE") or "").strip()
+    can_login_with_password = bool(cfg.get("SMF_USERNAME") and cfg.get("SMF_PASSWORD"))
+    if not cfg.get("SMF_BASE_URL") or not (cookie_header or can_login_with_password):
+        return None, False
+
+    client = ForumClient(
+        cfg["SMF_BASE_URL"],
+        delay_ms=int(cfg.get("REQUEST_DELAY_MS", "500")),
+        user_agent=cfg.get("USER_AGENT", "no81-kb-sync/1.0"),
+    )
+    try:
+        if cookie_header:
+            client.set_auth_cookies(cookie_header, cookie_name=cfg.get("SMF_COOKIE_NAME"))
+            if not client.verify_logged_in(cfg.get("SMF_USERNAME")):
+                raise RuntimeError("SMF_COOKIE provided but session is not authenticated.")
+        else:
+            client.login(cfg["SMF_USERNAME"], cfg["SMF_PASSWORD"])
+        return client, True
+    except Exception as exc:
+        warning_entries.append(
+            WarningEntry(
+                run_id=run_id,
+                topic_id=report_topic_id,
+                category="report",
+                file_path="",
+                floor_index=None,
+                warning_type="report_login_failed",
+                message=str(exc),
+                snippet=snippet,
+                created_at_iso=now_forum_iso(),
+            )
+        )
+        return None, False
+
+
 def run_maintenance_local(repo_root: Path, config_path: Path, category: str, dry_run: bool) -> int:
     cfg = load_env_file(config_path)
     ensure_dirs(repo_root)
@@ -1543,39 +1589,14 @@ def run_maintenance_local(repo_root: Path, config_path: Path, category: str, dry
     run_id = uuid.uuid4().hex[:12]
     run_start = time.time()
 
-    client: Optional[ForumClient] = None
-    can_report = False
-    if report_enabled and not dry_run:
-        cookie_header = (cfg.get("SMF_COOKIE") or "").strip()
-        can_login_with_password = bool(cfg.get("SMF_USERNAME") and cfg.get("SMF_PASSWORD"))
-        if cfg.get("SMF_BASE_URL") and (cookie_header or can_login_with_password):
-            client = ForumClient(
-                cfg["SMF_BASE_URL"],
-                delay_ms=int(cfg.get("REQUEST_DELAY_MS", "500")),
-                user_agent=cfg.get("USER_AGENT", "no81-kb-sync/1.0"),
-            )
-            try:
-                if cookie_header:
-                    client.set_auth_cookies(cookie_header, cookie_name=cfg.get("SMF_COOKIE_NAME"))
-                    if not client.verify_logged_in(cfg.get("SMF_USERNAME")):
-                        raise RuntimeError("SMF_COOKIE provided but session is not authenticated.")
-                else:
-                    client.login(cfg["SMF_USERNAME"], cfg["SMF_PASSWORD"])
-                can_report = True
-            except Exception as exc:
-                warning_entries.append(
-                    WarningEntry(
-                        run_id=run_id,
-                        topic_id=report_topic_id,
-                        category="report",
-                        file_path="",
-                        floor_index=None,
-                        warning_type="report_login_failed",
-                        message=str(exc),
-                        snippet="maintenance-local",
-                        created_at_iso=now_forum_iso(),
-                    )
-                )
+    client, can_report = prepare_report_client(
+        cfg=cfg,
+        warning_entries=warning_entries,
+        run_id=run_id,
+        report_topic_id=report_topic_id,
+        snippet="maintenance-local",
+        dry_run=dry_run,
+    )
 
     if can_report and report_on_start and client is not None:
         start_msg = f"{now_forum_compact()}开始工作\nrun_id={run_id}\nmode=maintenance-local\ncategory={category}"
@@ -1693,6 +1714,22 @@ def run_delete_authors(
     action = coerce_missing_action(missing_action or cfg.get("MISSING_TOPIC_ACTION", "archive"))
     sample_size = int(cfg.get("AUTHOR_SAMPLE_SIZE", str(DEFAULT_SAMPLE_SIZE)))
     base_url = cfg.get("SMF_BASE_URL", "https://number81.xyz")
+    report_on_start = env_bool(cfg, "REPORT_ON_START", True)
+    report_on_finish = env_bool(cfg, "REPORT_ON_FINISH", True)
+    report_topic_id = int(cfg.get("REPORT_TOPIC_ID", str(DEFAULT_REPORT_TOPIC_ID)))
+    warning_entries: List[WarningEntry] = []
+    run_id = uuid.uuid4().hex[:12]
+    run_start = time.time()
+    author_msg = ",".join(authors)
+
+    client, can_report = prepare_report_client(
+        cfg=cfg,
+        warning_entries=warning_entries,
+        run_id=run_id,
+        report_topic_id=report_topic_id,
+        snippet=f"delete-author:{author_msg}",
+        dry_run=dry_run,
+    )
 
     state_path = repo_root / "tools" / "no81_sync" / "state" / "state.json"
     state = load_state(state_path)
@@ -1705,10 +1742,28 @@ def run_delete_authors(
     targets = active_state_items_for(topic_state, category, author_filters)
     print(f"Author delete targets: {len(targets)} action={action}")
 
+    if can_report and report_on_start and client is not None:
+        start_msg = (
+            f"{now_forum_compact()}开始工作\n"
+            f"run_id={run_id}\n"
+            f"mode=delete-author\n"
+            f"category={category}\n"
+            f"author={author_msg}\n"
+            f"missing_action={action}\n"
+            f"targets={len(targets)}"
+        )
+        try_report_post(
+            client=client,
+            enabled=True,
+            report_topic_id=report_topic_id,
+            subject="[KB删除] 开始",
+            message=start_msg,
+            warnings=warning_entries,
+            run_id=run_id,
+        )
+
     removed_count = 0
     kept_count = 0
-    warning_entries: List[WarningEntry] = []
-    run_id = uuid.uuid4().hex[:12]
 
     for idx, (state_key, entry) in enumerate(targets, start=1):
         row = topic_result_from_state_entry(repo_root, state_key, entry, base_url)
@@ -1750,6 +1805,28 @@ def run_delete_authors(
         write_indexes(repo_root, index_rows)
         write_warnings(repo_root, warning_entries)
         write_author_indexes(repo_root, index_rows, sample_size=sample_size)
+
+    duration = int(time.time() - run_start)
+    if can_report and report_on_finish and client is not None and not dry_run:
+        finish_msg = (
+            f"{now_forum_compact()}结束工作\n"
+            f"run_id={run_id}\n"
+            f"mode=delete-author\n"
+            f"category={category}\n"
+            f"author={author_msg}\n"
+            f"missing_action={action}\n"
+            f"目标{len(targets)}条，移除{removed_count}条，保留{kept_count}条，告警{len(warning_entries)}条，耗时{duration}秒"
+        )
+        try_report_post(
+            client=client,
+            enabled=True,
+            report_topic_id=report_topic_id,
+            subject="[KB删除] 结束",
+            message=finish_msg,
+            warnings=warning_entries,
+            run_id=run_id,
+        )
+        write_warnings(repo_root, warning_entries)
 
     print(
         f"Author delete complete. removed={removed_count}, kept={kept_count}, warnings={len(warning_entries)}"

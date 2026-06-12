@@ -107,7 +107,8 @@ python tools/no81_sync/sync.py --delete-author OPPO --missing-action delete
 
 ## Reporting posts (topic reply)
 
-The sync can post start/finish status replies to a forum topic (default `topic=35`) using the same SMF credentials.
+The tool can post start/finish status replies to a forum topic (default `topic=35`) using the same SMF credentials.
+This covers normal sync, local maintenance, and author delete/archive operations.
 
 Config keys:
 
@@ -116,7 +117,7 @@ Config keys:
 - `REPORT_ON_FINISH=true|false`
 - `REPORT_TOPIC_ID=35`
 
-Finish report includes counters: added / updated / unchanged / warnings / failed.
+Finish report includes counters such as added / updated / unchanged / removed / warnings / failed.
 
 ## Differential behavior
 
