@@ -6,22 +6,22 @@ source_url: "https://number81.xyz/index.php?topic=1729.0"
 author: "Ender_Eragon"
 created_at_raw: "十月 18, 2025, 12:42 下午"
 created_at_iso: "2025-10-18T12:42:00+08:00"
-fetched_at_raw: "2026-02-26 10:10:19 +0800"
-fetched_at_iso: "2026-02-26T10:10:19+08:00"
+fetched_at_raw: "2026-06-13 00:03:04 +0800"
+fetched_at_iso: "2026-06-13T00:03:04.893137+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
 data_quality: "ok"
-approx_chars: 1486
-approx_tokens: 743
 ---
 
 # 终末的角色 - 终局入侵-卫灵天玑（未完成
 
 ## 1F
 
+- floor_index: 1
 - Author: Ender_Eragon
-- Posted at: 十月 18, 2025, 12:42 下午
+- Posted at raw: 十月 18, 2025, 12:42 下午
+- Posted at iso: 2025-10-18T12:42:00+08:00
 
 **角色填写人：**终末
 

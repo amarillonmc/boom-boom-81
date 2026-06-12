@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=797.0"
 author: "Justfish"
 created_at_raw: "九月 24, 2025, 07:49 上午"
 created_at_iso: "2025-09-24T07:49:00+08:00"
-fetched_at_raw: "2026-06-10 10:40:32 +0800"
-fetched_at_iso: "2026-06-10T10:40:32.159976+08:00"
+fetched_at_raw: "2026-06-12 23:56:58 +0800"
+fetched_at_iso: "2026-06-12T23:56:58.280553+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -98,6 +98,7 @@ VERSUS (https://number81.xyz/index.php?topic=4164)
 你应该知道，力的作用是相互的 (https://number81.xyz/index.php?topic=4294)
 超模超模超模 (https://number81.xyz/index.php?topic=4300)
 羽一 (https://number81.xyz/index.php?topic=4360)
+念星歌 (https://number81.xyz/index.php?topic=4468)
 
 **神上（位面之主~单体）：**
 恐怖铁皮人 (https://number81.xyz/index.php?topic=2562)
@@ -131,6 +132,7 @@ CV：若本规夫 (Character Voice : Norio Wakamoto) (https://number81.xyz/index
 「死神/银剑之圣人」拉格纳 (Ragna) (https://number81.xyz/index.php?topic=3982)
 红 超 人 (https://number81.xyz/index.php?topic=4293)
 破军 (https://number81.xyz/index.php?topic=4387)
+DOOM (https://number81.xyz/index.php?topic=4466)
 
 **神下~神中（概念神/规则神/大部分【异态魔女】的上限战力）：**
 琉彩 (https://number81.xyz/index.php?topic=506)
