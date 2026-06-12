@@ -41,6 +41,13 @@ RECORD_BOARD_ID = 14
 RECORD_PREFIX = 3
 DEFAULT_REPORT_TOPIC_ID = 35
 DEFAULT_SAMPLE_SIZE = 7
+VALID_MISSING_ACTIONS = {"archive", "delete", "keep"}
+VOLATILE_HASH_FRONTMATTER_KEYS = {
+    "fetched_at_raw",
+    "fetched_at_iso",
+    "approx_chars",
+    "approx_tokens",
+}
 
 
 @dataclass
@@ -87,6 +94,10 @@ class WarningEntry:
     message: str
     snippet: str
     created_at_iso: str
+
+
+class TopicMissingError(RuntimeError):
+    pass
 
 
 def compact_blank_lines(text: str) -> str:
@@ -805,6 +816,26 @@ def parse_topic_from_printpage(html: str) -> Tuple[str, List[PostBlock]]:
     return topic_title, posts
 
 
+def looks_like_missing_topic_page(html: str) -> bool:
+    soup = BeautifulSoup(html, "html.parser")
+    posts_container = soup.select_one("#posts")
+    if posts_container and posts_container.select("div.postbody"):
+        return False
+
+    text = compact_blank_lines(soup.get_text("\n", strip=True)).casefold()
+    missing_markers = [
+        "topic or board you are looking for appears to be either missing or off limits",
+        "topic is missing or off limits",
+        "主题不存在",
+        "帖子不存在",
+        "您所请求的主题不存在",
+        "您要查看的主题不存在",
+        "您无权查看这个主题",
+        "您没有权限查看这个主题",
+    ]
+    return any(marker.casefold() in text for marker in missing_markers)
+
+
 def build_markdown(
     topic_id: int,
     title: str,
@@ -884,6 +915,18 @@ def sha256_text(content: str) -> str:
     return hashlib.sha256(content.encode("utf-8")).hexdigest()
 
 
+def stable_content_hash(markdown: str) -> str:
+    front, body = split_frontmatter(markdown)
+    if not front:
+        return sha256_text(markdown)
+
+    stable_front = dict(front)
+    for key in VOLATILE_HASH_FRONTMATTER_KEYS:
+        stable_front.pop(key, None)
+    stable_text = render_frontmatter(stable_front) + "\n\n" + body.lstrip("\n")
+    return sha256_text(stable_text)
+
+
 def load_state(path: Path) -> Dict[str, object]:
     if not path.exists():
         return {"topics": {}}
@@ -909,6 +952,7 @@ def ensure_dirs(repo_root: Path) -> None:
         repo_root / "kb" / "roles",
         repo_root / "kb" / "rulebooks",
         repo_root / "kb" / "records-completed",
+        repo_root / "kb" / "deleted",
         repo_root / "kb" / "index",
         repo_root / "tools" / "no81_sync" / "state",
     ]:
@@ -1006,6 +1050,108 @@ def parse_fetched_raw_to_iso(raw: str) -> Optional[str]:
         return None
 
 
+def categories_for_selection(category: str) -> Set[str]:
+    return {"roles", "rulebooks", "records"} if category == "all" else {category}
+
+
+def normalize_author_filter(authors: Optional[List[str]]) -> Set[str]:
+    if not authors:
+        return set()
+    return {a.strip().casefold() for a in authors if a and a.strip()}
+
+
+def author_matches(author: str, author_filters: Set[str]) -> bool:
+    if not author_filters:
+        return True
+    return author.strip().casefold() in author_filters
+
+
+def coerce_missing_action(action: str) -> str:
+    normalized = action.strip().lower()
+    if normalized not in VALID_MISSING_ACTIONS:
+        raise RuntimeError(f"Invalid missing-topic action: {action}. Expected archive, delete, or keep.")
+    return normalized
+
+
+def unique_destination_path(path: Path) -> Path:
+    if not path.exists():
+        return path
+    stem = path.stem
+    suffix = path.suffix
+    for idx in range(1, 10000):
+        candidate = path.with_name(f"{stem}-{idx}{suffix}")
+        if not candidate.exists():
+            return candidate
+    raise RuntimeError(f"Unable to find unique destination path for {path}")
+
+
+def topic_result_from_state_entry(
+    repo_root: Path,
+    state_key: str,
+    entry: Dict[str, str],
+    default_base_url: str,
+    status: str = "unchanged",
+) -> TopicResult:
+    if ":" in state_key:
+        default_category, default_topic_id = state_key.split(":", 1)
+    else:
+        default_category, default_topic_id = "roles", "0"
+
+    topic_id = to_int(entry.get("topic_id", default_topic_id), to_int(default_topic_id, 0))
+    category = str(entry.get("category", default_category))
+    source_url = str(entry.get("source_url", f"{default_base_url.rstrip('/')}/index.php?topic={topic_id}.0"))
+    old_file_rel = str(entry.get("file_path", ""))
+    old_path = (repo_root / old_file_rel) if old_file_rel else None
+    approx_chars = to_int(entry.get("approx_chars", 0), 0)
+    approx_tokens = to_int(entry.get("approx_tokens", 0), 0)
+    if old_path and old_path.exists() and (approx_chars <= 0 or approx_tokens <= 0):
+        try:
+            raw = old_path.read_text(encoding="utf-8")
+            approx_chars = len(raw)
+            approx_tokens = max(1, math.ceil(approx_chars / 2))
+        except Exception:
+            pass
+
+    return TopicResult(
+        topic_id=topic_id,
+        category=category,
+        title=str(entry.get("title", "")),
+        author=str(entry.get("author", "unknown")),
+        created_at_raw=str(entry.get("created_at_raw", "unknown")),
+        created_at_iso=(str(entry.get("created_at_iso")) if entry.get("created_at_iso") else None),
+        fetched_at_raw=str(entry.get("fetched_at_raw", "")),
+        fetched_at_iso=str(entry.get("fetched_at_iso", now_forum_iso())),
+        source_url=source_url,
+        file_path=old_file_rel.replace("\\", "/"),
+        status=status,
+        approx_chars=approx_chars,
+        approx_tokens=approx_tokens,
+        data_quality=str(entry.get("data_quality", "ok")),
+    )
+
+
+def build_index_rows_from_state(
+    repo_root: Path,
+    topic_state: Dict[str, Dict[str, str]],
+    base_url: str,
+    category: str = "all",
+) -> List[TopicResult]:
+    cats = categories_for_selection(category)
+    rows: List[TopicResult] = []
+    for state_key, entry in sorted(topic_state.items()):
+        if not isinstance(entry, dict):
+            continue
+        row = topic_result_from_state_entry(repo_root, state_key, entry, base_url)
+        if row.category not in cats:
+            continue
+        file_path = repo_root / row.file_path if row.file_path else None
+        if file_path is not None and not file_path.exists():
+            continue
+        rows.append(row)
+    rows.sort(key=lambda r: (r.category, r.topic_id))
+    return rows
+
+
 def gather_local_topic_files(repo_root: Path, category: str) -> List[Tuple[str, Path]]:
     mapping = {
         "roles": repo_root / "kb" / "roles",
@@ -1021,6 +1167,89 @@ def gather_local_topic_files(repo_root: Path, category: str) -> List[Tuple[str, 
         for p in sorted(base.glob("*.md")):
             out.append((c, p))
     return out
+
+
+def active_state_items_for(
+    topic_state: Dict[str, Dict[str, str]],
+    category: str,
+    author_filters: Set[str],
+) -> List[Tuple[str, Dict[str, str]]]:
+    cats = categories_for_selection(category)
+    items: List[Tuple[str, Dict[str, str]]] = []
+    for state_key, entry in topic_state.items():
+        if not isinstance(entry, dict):
+            continue
+        entry_category = str(entry.get("category", state_key.split(":", 1)[0] if ":" in state_key else ""))
+        if entry_category not in cats:
+            continue
+        if not author_matches(str(entry.get("author", "unknown")), author_filters):
+            continue
+        items.append((state_key, entry))
+    return sorted(items, key=lambda item: item[0])
+
+
+def archive_or_delete_topic_file(
+    repo_root: Path,
+    file_rel: str,
+    category: str,
+    missing_action: str,
+    dry_run: bool,
+) -> Tuple[str, str]:
+    old_path = repo_root / file_rel
+    if missing_action == "keep":
+        return "kept", file_rel.replace("\\", "/")
+
+    if missing_action == "delete":
+        if old_path.exists() and not dry_run:
+            old_path.unlink()
+        return "deleted", file_rel.replace("\\", "/")
+
+    archive_dir = repo_root / "kb" / "deleted" / category
+    archive_path = unique_destination_path(archive_dir / old_path.name)
+    if old_path.exists() and not dry_run:
+        archive_dir.mkdir(parents=True, exist_ok=True)
+        old_path.replace(archive_path)
+    return "archived", str(archive_path.relative_to(repo_root)).replace("\\", "/")
+
+
+def mark_topic_removed(
+    repo_root: Path,
+    state: Dict[str, object],
+    topic_state: Dict[str, Dict[str, str]],
+    state_key: str,
+    entry: Dict[str, str],
+    missing_action: str,
+    dry_run: bool,
+) -> Tuple[str, str]:
+    category = str(entry.get("category", state_key.split(":", 1)[0] if ":" in state_key else "roles"))
+    file_rel = str(entry.get("file_path", ""))
+    if not file_rel:
+        if not dry_run and missing_action != "keep":
+            topic_state.pop(state_key, None)
+        return ("missing-file", "")
+
+    action_status, new_file_rel = archive_or_delete_topic_file(
+        repo_root=repo_root,
+        file_rel=file_rel,
+        category=category,
+        missing_action=missing_action,
+        dry_run=dry_run,
+    )
+
+    if not dry_run and missing_action != "keep":
+        deleted_raw = state.setdefault("deleted_topics", {})
+        if not isinstance(deleted_raw, dict):
+            deleted_raw = {}
+            state["deleted_topics"] = deleted_raw
+        deleted_entry = dict(entry)
+        deleted_entry["deleted_at_iso"] = now_forum_iso()
+        deleted_entry["deleted_action"] = action_status
+        deleted_entry["original_file_path"] = file_rel.replace("\\", "/")
+        deleted_entry["file_path"] = new_file_rel
+        deleted_raw[state_key] = deleted_entry
+        topic_state.pop(state_key, None)
+
+    return action_status, new_file_rel
 
 
 def topic_id_from_path(path: Path) -> Optional[int]:
@@ -1108,7 +1337,8 @@ def migrate_local_file(
         "fetched_at_raw": fetched_at_raw,
         "fetched_at_iso": fetched_at_iso,
         "source_url": source_url,
-        "hash": sha256_text(migrated_text),
+        "hash": stable_content_hash(migrated_text),
+        "content_hash": stable_content_hash(migrated_text),
         "file_path": file_rel,
         "approx_chars": str(approx_chars),
         "approx_tokens": str(approx_tokens),
@@ -1445,7 +1675,148 @@ def run_maintenance_local(repo_root: Path, config_path: Path, category: str, dry
     return 0
 
 
-def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -> int:
+def run_delete_authors(
+    repo_root: Path,
+    config_path: Path,
+    authors: List[str],
+    category: str,
+    missing_action: Optional[str],
+    dry_run: bool,
+) -> int:
+    cfg = load_env_file(config_path)
+    ensure_dirs(repo_root)
+
+    author_filters = normalize_author_filter(authors)
+    if not author_filters:
+        raise RuntimeError("--delete-author requires at least one non-empty author name.")
+
+    action = coerce_missing_action(missing_action or cfg.get("MISSING_TOPIC_ACTION", "archive"))
+    sample_size = int(cfg.get("AUTHOR_SAMPLE_SIZE", str(DEFAULT_SAMPLE_SIZE)))
+    base_url = cfg.get("SMF_BASE_URL", "https://number81.xyz")
+
+    state_path = repo_root / "tools" / "no81_sync" / "state" / "state.json"
+    state = load_state(state_path)
+    topic_state_raw = state.setdefault("topics", {})
+    if not isinstance(topic_state_raw, dict):
+        topic_state_raw = {}
+        state["topics"] = topic_state_raw
+    topic_state: Dict[str, Dict[str, str]] = topic_state_raw  # type: ignore[assignment]
+
+    targets = active_state_items_for(topic_state, category, author_filters)
+    print(f"Author delete targets: {len(targets)} action={action}")
+
+    removed_count = 0
+    kept_count = 0
+    warning_entries: List[WarningEntry] = []
+    run_id = uuid.uuid4().hex[:12]
+
+    for idx, (state_key, entry) in enumerate(targets, start=1):
+        row = topic_result_from_state_entry(repo_root, state_key, entry, base_url)
+        print(f"[{idx}/{len(targets)}] {action} author topic {row.topic_id} ({row.author})")
+        try:
+            status, new_file_rel = mark_topic_removed(
+                repo_root=repo_root,
+                state=state,
+                topic_state=topic_state,
+                state_key=state_key,
+                entry=entry,
+                missing_action=action,
+                dry_run=dry_run,
+            )
+            if status == "kept":
+                kept_count += 1
+            else:
+                removed_count += 1
+            if dry_run:
+                print(f"  would-{status}: {new_file_rel}")
+        except Exception as exc:
+            warning_entries.append(
+                WarningEntry(
+                    run_id=run_id,
+                    topic_id=row.topic_id,
+                    category=row.category,
+                    file_path=row.file_path,
+                    floor_index=None,
+                    warning_type="author_delete_failed",
+                    message=str(exc),
+                    snippet=row.author,
+                    created_at_iso=now_forum_iso(),
+                )
+            )
+
+    if not dry_run:
+        index_rows = build_index_rows_from_state(repo_root, topic_state, base_url, category="all")
+        save_state(state_path, state)
+        write_indexes(repo_root, index_rows)
+        write_warnings(repo_root, warning_entries)
+        write_author_indexes(repo_root, index_rows, sample_size=sample_size)
+
+    print(
+        f"Author delete complete. removed={removed_count}, kept={kept_count}, warnings={len(warning_entries)}"
+    )
+    return 0
+
+
+def filter_refs_by_author(
+    client: ForumClient,
+    refs: List[TopicRef],
+    topic_state: Dict[str, Dict[str, str]],
+    author_filters: Set[str],
+    prefetched: Dict[str, Tuple[str, List[PostBlock]]],
+    warnings: List[WarningEntry],
+    run_id: str,
+) -> List[TopicRef]:
+    if not author_filters:
+        return refs
+
+    filtered: List[TopicRef] = []
+    for idx, ref in enumerate(refs, start=1):
+        state_key = f"{ref.category}:{ref.topic_id}"
+        old = topic_state.get(state_key, {})
+        old_author = str(old.get("author", "")).strip()
+        if old_author and old_author != "unknown":
+            if author_matches(old_author, author_filters):
+                filtered.append(ref)
+            continue
+
+        print(f"[{idx}/{len(refs)}] Identifying author for topic {ref.topic_id} ({ref.category})")
+        try:
+            html = client.fetch_printpage(ref.topic_id)
+            if looks_like_missing_topic_page(html):
+                raise TopicMissingError("Topic appears to be missing or inaccessible.")
+            title, posts = parse_topic_from_printpage(html)
+            prefetched[state_key] = (title, posts)
+            first_author = posts[0].author if posts else "unknown"
+            if author_matches(first_author, author_filters):
+                filtered.append(ref)
+        except Exception as exc:
+            warnings.append(
+                WarningEntry(
+                    run_id=run_id,
+                    topic_id=ref.topic_id,
+                    category=ref.category,
+                    file_path="",
+                    floor_index=None,
+                    warning_type="author_identify_failed",
+                    message=str(exc),
+                    snippet="",
+                    created_at_iso=now_forum_iso(),
+                )
+            )
+
+    return filtered
+
+
+def run_sync(
+    repo_root: Path,
+    config_path: Path,
+    category: str,
+    dry_run: bool,
+    authors: Optional[List[str]] = None,
+    force_existing: bool = False,
+    skip_existing_override: Optional[bool] = None,
+    missing_action: Optional[str] = None,
+) -> int:
     cfg = load_env_file(config_path)
     if not cfg.get("SMF_BASE_URL"):
         raise RuntimeError("Missing required config key: SMF_BASE_URL")
@@ -1466,7 +1837,13 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
     report_on_finish = env_bool(cfg, "REPORT_ON_FINISH", True)
     report_topic_id = int(cfg.get("REPORT_TOPIC_ID", str(DEFAULT_REPORT_TOPIC_ID)))
     sample_size = int(cfg.get("AUTHOR_SAMPLE_SIZE", str(DEFAULT_SAMPLE_SIZE)))
-    skip_existing = env_bool(cfg, "SKIP_EXISTING_TOPICS", True)
+    skip_existing = env_bool(cfg, "SKIP_EXISTING_TOPICS", False)
+    if skip_existing_override is not None:
+        skip_existing = skip_existing_override
+    if force_existing:
+        skip_existing = False
+    action = coerce_missing_action(missing_action or cfg.get("MISSING_TOPIC_ACTION", "archive"))
+    author_filters = normalize_author_filter(authors)
     client = ForumClient(cfg["SMF_BASE_URL"], delay_ms=delay_ms, user_agent=ua)
     cookie_header = (cfg.get("SMF_COOKIE") or "").strip()
     if cookie_header:
@@ -1484,7 +1861,15 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
     warning_entries: List[WarningEntry] = []
 
     if not dry_run and report_on_start:
-        start_msg = f"{now_forum_compact()}开始工作\nrun_id={run_id}\ncategory={category}"
+        author_msg = ",".join(authors or []) if authors else "all"
+        start_msg = (
+            f"{now_forum_compact()}开始工作\n"
+            f"run_id={run_id}\n"
+            f"category={category}\n"
+            f"author={author_msg}\n"
+            f"skip_existing={skip_existing}\n"
+            f"missing_action={action}"
+        )
         try_report_post(
             client=client,
             enabled=report_enabled,
@@ -1497,6 +1882,7 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
 
     refs = build_topic_refs(client, category)
     print(f"Collected topic refs: {len(refs)}")
+    all_remote_keys = {f"{ref.category}:{ref.topic_id}" for ref in refs}
 
     state_path = repo_root / "tools" / "no81_sync" / "state" / "state.json"
     state = load_state(state_path)
@@ -1505,12 +1891,25 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
         topic_state_raw = {}
         state["topics"] = topic_state_raw
     topic_state: Dict[str, Dict[str, str]] = topic_state_raw  # type: ignore[assignment]
+    prefetched: Dict[str, Tuple[str, List[PostBlock]]] = {}
+    refs = filter_refs_by_author(
+        client=client,
+        refs=refs,
+        topic_state=topic_state,
+        author_filters=author_filters,
+        prefetched=prefetched,
+        warnings=warning_entries,
+        run_id=run_id,
+    )
+    if author_filters:
+        print(f"Author-filtered topic refs: {len(refs)}")
 
     index_rows: List[TopicResult] = []
     added_count = 0
     updated_count = 0
     unchanged_count = 0
     failed_count = 0
+    removed_count = 0
 
     for i, ref in enumerate(refs, start=1):
         state_key = f"{ref.category}:{ref.topic_id}"
@@ -1519,30 +1918,18 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
         old_path = (repo_root / old_file_rel) if old_file_rel else None
         if skip_existing and old_file_rel and old_path and old_path.exists():
             unchanged_count += 1
-            index_rows.append(
-                TopicResult(
-                    topic_id=ref.topic_id,
-                    category=ref.category,
-                    title=str(old.get("title", "")),
-                    author=str(old.get("author", "unknown")),
-                    created_at_raw=str(old.get("created_at_raw", "unknown")),
-                    created_at_iso=(str(old.get("created_at_iso")) if old.get("created_at_iso") else None),
-                    fetched_at_raw=str(old.get("fetched_at_raw", "")),
-                    fetched_at_iso=str(old.get("fetched_at_iso", now_forum_iso())),
-                    source_url=str(old.get("source_url", f"{cfg['SMF_BASE_URL'].rstrip('/')}/index.php?topic={ref.topic_id}.0")),
-                    file_path=old_file_rel.replace("\\", "/"),
-                    status="unchanged",
-                    approx_chars=to_int(old.get("approx_chars", 0), 0),
-                    approx_tokens=to_int(old.get("approx_tokens", 0), 0),
-                    data_quality=str(old.get("data_quality", "ok")),
-                )
-            )
+            index_rows.append(topic_result_from_state_entry(repo_root, state_key, old, cfg["SMF_BASE_URL"], status="unchanged"))
             continue
 
         print(f"[{i}/{len(refs)}] Fetching topic {ref.topic_id} ({ref.category})")
         try:
-            html = client.fetch_printpage(ref.topic_id)
-            title, posts = parse_topic_from_printpage(html)
+            if state_key in prefetched:
+                title, posts = prefetched[state_key]
+            else:
+                html = client.fetch_printpage(ref.topic_id)
+                if looks_like_missing_topic_page(html):
+                    raise TopicMissingError("Topic appears to be missing or inaccessible.")
+                title, posts = parse_topic_from_printpage(html)
 
             source_url = f"{cfg['SMF_BASE_URL'].rstrip('/')}/index.php?topic={ref.topic_id}.0"
             markdown, meta = build_markdown(
@@ -1568,14 +1955,22 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
                     )
                 )
 
-            content_hash = sha256_text(markdown)
+            content_hash = stable_content_hash(markdown)
+            old_content_hash = str(old.get("content_hash") or "")
+            if old_path and old_path.exists():
+                try:
+                    old_content_hash = stable_content_hash(old_path.read_text(encoding="utf-8"))
+                except Exception:
+                    old_content_hash = str(old.get("hash") or "")
+            if not old_content_hash:
+                old_content_hash = str(old.get("hash") or "")
 
             output_dir = category_output_dir(repo_root, ref.category)
             filename = f"{ref.topic_id}-{slugify_title(title)}.md"
             output_path = output_dir / filename
 
             existed_before = output_path.exists() or (old_path.exists() if old_path else False)
-            changed = content_hash != old.get("hash") or not output_path.exists()
+            changed = content_hash != old_content_hash or not existed_before
             if not changed and existed_before:
                 status = "unchanged"
                 unchanged_count += 1
@@ -1586,8 +1981,14 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
                 status = "added"
                 added_count += 1
 
+            if not changed and old_path and old_path.exists():
+                output_path = old_path
+
             if changed and not dry_run:
+                output_path.parent.mkdir(parents=True, exist_ok=True)
                 output_path.write_text(markdown, encoding="utf-8")
+                if old_path and old_path.exists() and old_path.resolve() != output_path.resolve():
+                    old_path.unlink()
 
             file_rel = str(output_path.relative_to(repo_root)).replace("\\", "/")
             topic_state[state_key] = {
@@ -1601,6 +2002,7 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
                 "fetched_at_iso": str(meta.get("fetched_at_iso", "")),
                 "source_url": source_url,
                 "hash": content_hash,
+                "content_hash": content_hash,
                 "file_path": file_rel,
                 "approx_chars": str(meta.get("approx_chars", 0)),
                 "approx_tokens": str(meta.get("approx_tokens", 0)),
@@ -1625,6 +2027,60 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
                     data_quality=str(meta.get("data_quality", "ok")),
                 )
             )
+        except TopicMissingError as exc:
+            if old_file_rel and old_path and old_path.exists():
+                try:
+                    status, new_file_rel = mark_topic_removed(
+                        repo_root=repo_root,
+                        state=state,
+                        topic_state=topic_state,
+                        state_key=state_key,
+                        entry=old,
+                        missing_action=action,
+                        dry_run=dry_run,
+                    )
+                    if status != "kept":
+                        removed_count += 1
+                    if dry_run:
+                        row = topic_result_from_state_entry(
+                            repo_root,
+                            state_key,
+                            old,
+                            cfg["SMF_BASE_URL"],
+                            status=f"would-{status}",
+                        )
+                        row.file_path = new_file_rel or row.file_path
+                        index_rows.append(row)
+                except Exception as remove_exc:
+                    failed_count += 1
+                    warning_entries.append(
+                        WarningEntry(
+                            run_id=run_id,
+                            topic_id=ref.topic_id,
+                            category=ref.category,
+                            file_path=old_file_rel.replace("\\", "/"),
+                            floor_index=None,
+                            warning_type="missing_topic_action_failed",
+                            message=str(remove_exc),
+                            snippet=str(exc),
+                            created_at_iso=now_forum_iso(),
+                        )
+                    )
+            else:
+                failed_count += 1
+                warning_entries.append(
+                    WarningEntry(
+                        run_id=run_id,
+                        topic_id=ref.topic_id,
+                        category=ref.category,
+                        file_path="",
+                        floor_index=None,
+                        warning_type="topic_missing",
+                        message=str(exc),
+                        snippet="",
+                        created_at_iso=now_forum_iso(),
+                    )
+                )
         except Exception as exc:
             failed_count += 1
             warning_entries.append(
@@ -1641,7 +2097,50 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
                 )
             )
 
+    missing_candidates = [
+        (state_key, entry)
+        for state_key, entry in active_state_items_for(topic_state, category, author_filters)
+        if state_key not in all_remote_keys
+    ]
+    if missing_candidates:
+        print(f"Missing remote topics: {len(missing_candidates)} action={action}")
+    for state_key, entry in missing_candidates:
+        row = topic_result_from_state_entry(repo_root, state_key, entry, cfg["SMF_BASE_URL"], status="removed")
+        try:
+            status, new_file_rel = mark_topic_removed(
+                repo_root=repo_root,
+                state=state,
+                topic_state=topic_state,
+                state_key=state_key,
+                entry=entry,
+                missing_action=action,
+                dry_run=dry_run,
+            )
+            if status != "kept":
+                removed_count += 1
+            if dry_run:
+                row.status = f"would-{status}"
+                row.file_path = new_file_rel or row.file_path
+                index_rows.append(row)
+        except Exception as exc:
+            failed_count += 1
+            warning_entries.append(
+                WarningEntry(
+                    run_id=run_id,
+                    topic_id=row.topic_id,
+                    category=row.category,
+                    file_path=row.file_path,
+                    floor_index=None,
+                    warning_type="missing_topic_action_failed",
+                    message=str(exc),
+                    snippet=action,
+                    created_at_iso=now_forum_iso(),
+                )
+            )
+
     if not dry_run:
+        if author_filters or missing_candidates:
+            index_rows = build_index_rows_from_state(repo_root, topic_state, cfg["SMF_BASE_URL"], category="all")
         save_state(state_path, state)
         write_indexes(repo_root, index_rows)
         write_warnings(repo_root, warning_entries)
@@ -1653,7 +2152,7 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
         finish_msg = (
             f"{now_forum_compact()}结束工作\n"
             f"run_id={run_id}\n"
-            f"追加{added_count}条，更新{updated_count}条，未变更{unchanged_count}条，告警{warning_count}条，失败{failed_count}条，耗时{duration}秒"
+            f"追加{added_count}条，更新{updated_count}条，未变更{unchanged_count}条，移除{removed_count}条，告警{warning_count}条，失败{failed_count}条，耗时{duration}秒"
         )
         try_report_post(
             client=client,
@@ -1666,7 +2165,7 @@ def run_sync(repo_root: Path, config_path: Path, category: str, dry_run: bool) -
         )
 
     print(
-        f"Sync complete. added={added_count}, updated={updated_count}, unchanged={unchanged_count}, warnings={warning_count}, failed={failed_count}"
+        f"Sync complete. added={added_count}, updated={updated_count}, unchanged={unchanged_count}, removed={removed_count}, warnings={warning_count}, failed={failed_count}"
     )
 
     return 0
@@ -1691,6 +2190,34 @@ def parse_args(argv: Iterable[str]) -> argparse.Namespace:
         default="tools/no81_sync/.env",
         help="Path to local config file",
     )
+    parser.add_argument(
+        "--author",
+        action="append",
+        default=[],
+        help="Limit sync to topics whose first-floor author matches this exact author. Can be passed multiple times.",
+    )
+    parser.add_argument(
+        "--force-existing",
+        action="store_true",
+        help="Fetch existing local topics even when SKIP_EXISTING_TOPICS=true.",
+    )
+    parser.add_argument(
+        "--skip-existing",
+        action="store_true",
+        help="Do not fetch existing local topics; useful for a quick append-only run.",
+    )
+    parser.add_argument(
+        "--missing-action",
+        choices=sorted(VALID_MISSING_ACTIONS),
+        default=None,
+        help="What to do when a previously synced topic is no longer present remotely. Defaults to MISSING_TOPIC_ACTION or archive.",
+    )
+    parser.add_argument(
+        "--delete-author",
+        action="append",
+        default=[],
+        help="Archive/delete all local topics by this first-floor author, then rebuild indexes. Can be passed multiple times.",
+    )
     parser.add_argument("--dry-run", action="store_true", help="Run without writing files")
     return parser.parse_args(list(argv))
 
@@ -1701,6 +2228,15 @@ def main(argv: Iterable[str]) -> int:
     config_path = (repo_root / args.config).resolve()
 
     try:
+        if args.delete_author:
+            return run_delete_authors(
+                repo_root=repo_root,
+                config_path=config_path,
+                authors=args.delete_author,
+                category=args.category,
+                missing_action=args.missing_action,
+                dry_run=args.dry_run,
+            )
         if args.mode == "maintenance-local":
             return run_maintenance_local(
                 repo_root=repo_root,
@@ -1708,11 +2244,16 @@ def main(argv: Iterable[str]) -> int:
                 category=args.category,
                 dry_run=args.dry_run,
             )
+        skip_existing_override = True if args.skip_existing else None
         return run_sync(
             repo_root=repo_root,
             config_path=config_path,
             category=args.category,
             dry_run=args.dry_run,
+            authors=args.author,
+            force_existing=args.force_existing,
+            skip_existing_override=skip_existing_override,
+            missing_action=args.missing_action,
         )
     except Exception as exc:
         print(f"Error: {exc}", file=sys.stderr)

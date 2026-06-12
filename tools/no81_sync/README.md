@@ -13,6 +13,7 @@ Syncs No.81 forum content into local Markdown knowledge base files.
 - `kb/roles/`
 - `kb/rulebooks/`
 - `kb/records-completed/`
+- `kb/deleted/` (archived topics that disappeared from the forum)
 - `kb/index/`
 
 ## Setup
@@ -69,6 +70,32 @@ Dry run (no file writes):
 python tools/no81_sync/sync.py --dry-run
 ```
 
+Fast append-only run (do not re-fetch existing topics):
+
+```bash
+python tools/no81_sync/sync.py --skip-existing
+```
+
+Force re-check existing topics even if `SKIP_EXISTING_TOPICS=true` in config:
+
+```bash
+python tools/no81_sync/sync.py --force-existing
+```
+
+Sync only topics whose first-floor author matches an author:
+
+```bash
+python tools/no81_sync/sync.py --author OPPO
+python tools/no81_sync/sync.py --category roles --author OPPO --force-existing
+```
+
+Archive/delete local KB topics by first-floor author:
+
+```bash
+python tools/no81_sync/sync.py --delete-author OPPO
+python tools/no81_sync/sync.py --delete-author OPPO --missing-action delete
+```
+
 ## New index outputs
 
 - `kb/index/topics.csv`
@@ -93,9 +120,24 @@ Finish report includes counters: added / updated / unchanged / warnings / failed
 
 ## Differential behavior
 
-By default `SKIP_EXISTING_TOPICS=true` to avoid re-fetching already-synced topics in large libraries.
+By default `SKIP_EXISTING_TOPICS=false`, so existing topics are re-fetched and compared by a stable content hash. This detects edited posts without treating the changing `fetched_at_*` metadata as a content change.
 
-Set `SKIP_EXISTING_TOPICS=false` if you want to force re-check existing topics.
+Set `SKIP_EXISTING_TOPICS=true` or pass `--skip-existing` if you want a quick append-only run.
+
+When a previously synced topic no longer appears in the remote category list, the sync treats it as removed from the forum. The default `MISSING_TOPIC_ACTION=archive` moves its Markdown file to:
+
+```text
+kb/deleted/<category>/
+```
+
+Other options:
+
+```bash
+python tools/no81_sync/sync.py --missing-action keep
+python tools/no81_sync/sync.py --missing-action delete
+```
+
+`archive` and `delete` remove the topic from the active state/index and keep a tombstone entry under `deleted_topics` in `tools/no81_sync/state/state.json`.
 
 If you already completed a full sync before new metadata/index features were added, run:
 
