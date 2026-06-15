@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3516.0"
 author: "烛火"
 created_at_raw: "三月 05, 2026, 06:57 下午"
 created_at_iso: "2026-03-05T18:57:00+08:00"
-fetched_at_raw: "2026-06-10 10:55:14 +0800"
-fetched_at_iso: "2026-06-10T10:55:14.636818+08:00"
+fetched_at_raw: "2026-06-15 23:34:05 +0800"
+fetched_at_iso: "2026-06-15T23:34:05.176476+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -187,3 +187,5 @@ data_quality: "ok"
 **角色定位：**搅局者/娱乐角色　策略家/指挥官
 **行动倾向：**
 机会主义型
+
+如果遇上了瓦勒里乌斯或者三日月陇影，可别忘了淑女的社交礼仪。

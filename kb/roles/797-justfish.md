@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=797.0"
 author: "Justfish"
 created_at_raw: "九月 24, 2025, 07:49 上午"
 created_at_iso: "2025-09-24T07:49:00+08:00"
-fetched_at_raw: "2026-06-12 23:56:58 +0800"
-fetched_at_iso: "2026-06-12T23:56:58.280553+08:00"
+fetched_at_raw: "2026-06-15 23:18:53 +0800"
+fetched_at_iso: "2026-06-15T23:18:53.040221+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -99,6 +99,7 @@ VERSUS (https://number81.xyz/index.php?topic=4164)
 超模超模超模 (https://number81.xyz/index.php?topic=4300)
 羽一 (https://number81.xyz/index.php?topic=4360)
 念星歌 (https://number81.xyz/index.php?topic=4468)
+GigaChad (https://number81.xyz/index.php?topic=4495)
 
 **神上（位面之主~单体）：**
 恐怖铁皮人 (https://number81.xyz/index.php?topic=2562)
