@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=872.0"
 author: "小兵"
 created_at_raw: "九月 25, 2025, 09:40 上午"
 created_at_iso: "2025-09-25T09:40:00+08:00"
-fetched_at_raw: "2026-06-10 10:41:01 +0800"
-fetched_at_iso: "2026-06-10T10:41:01.845657+08:00"
+fetched_at_raw: "2026-07-03 22:57:40 +0800"
+fetched_at_iso: "2026-07-03T22:57:40.763810+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -30,6 +30,7 @@ data_quality: "ok"
 **角色名称：**脩杜·月咒
 
 **角色背景：**
+出自游戏《吸血鬼幸存者》
 本来要成为武士家族的下一任当家：脩杜不辞而别。
 在获得家传宝太宵一文字后，恐怕因为是共鸣在夜晚满月时分脩杜会变成白发，手甲变尖和面部狰狞的极恶化。因为这个诅咒他现在云游四方寻找破除诅咒的方法。
 

@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=4498.0"
 author: "夏露"
 created_at_raw: "六月 15, 2026, 09:26 上午"
 created_at_iso: "2026-06-15T09:26:00+08:00"
-fetched_at_raw: "2026-06-15 23:40:00 +0800"
-fetched_at_iso: "2026-06-15T23:40:00.930837+08:00"
+fetched_at_raw: "2026-07-03 23:19:05 +0800"
+fetched_at_iso: "2026-07-03T23:19:05.174566+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -146,5 +146,7 @@ data_quality: "ok"
 
 【电击蜈蚣AEDD-目灯凝视 -AEDD】
 不断的放电以做到为自己的队友辅助充电的同时强化自身不会有任何漏电的风险。在战斗开始时随机使用目灯魅惑某人。
+
+夏露的22张塔罗牌无法被以任何方式夺走，且在正式开始时全部适用它们的效果
 
 **行为逻辑：**正面战斗
