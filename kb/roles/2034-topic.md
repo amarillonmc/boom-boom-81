@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=2034.0"
 author: "增熵星"
 created_at_raw: "十月 28, 2025, 03:34 上午"
 created_at_iso: "2025-10-28T03:34:00+08:00"
-fetched_at_raw: "2026-06-10 10:48:25 +0800"
-fetched_at_iso: "2026-06-10T10:48:25.549000+08:00"
+fetched_at_raw: "2026-08-12 23:42:40 +0800"
+fetched_at_iso: "2026-08-12T23:42:40.510871+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -75,3 +75,24 @@ data_quality: "ok"
 商业中心老板看起来只是一个普通人，没有任何科技或能量的表现，但其会展现出与外表完全不符的战斗力，对于其他参赛者而言这是完全无法理解的。
 在需要称呼创造角色，编写规则的"人"时，他会用[you]来指代。这个称呼在其他人耳中会自动被屏蔽，听起来只是一段无意义的呓语。商业中心老板在和其他角色交流时会尽可能避免提及自己的背景，且对象越容易猜出真相，相关内容就会越模糊。
 如果有人尝试窥探商业中心老板的思维，他会进行警告，但警告无效后不会继续阻止。
+
+## 2F
+
+- floor_index: 2
+- Author: 增熵星
+- Posted at raw: 八月 07, 2026, 11:48 上午
+- Posted at iso: 2026-08-07T11:48:00+08:00
+
+[roll]2d20k1+10[/roll]
+/me
+[shadow=blue,bottom]阴影[/shadow]
+锚点外文本锚点文本锚点外文本。
+
+## 3F
+
+- floor_index: 3
+- Author: 增熵星
+- Posted at raw: 八月 07, 2026, 11:49 上午
+- Posted at iso: 2026-08-07T11:49:00+08:00
+
+跳转用的超链接 (#post_test1)

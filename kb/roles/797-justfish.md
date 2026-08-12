@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=797.0"
 author: "Justfish"
 created_at_raw: "九月 24, 2025, 07:49 上午"
 created_at_iso: "2025-09-24T07:49:00+08:00"
-fetched_at_raw: "2026-06-15 23:18:53 +0800"
-fetched_at_iso: "2026-06-15T23:18:53.040221+08:00"
+fetched_at_raw: "2026-08-12 23:34:44 +0800"
+fetched_at_iso: "2026-08-12T23:34:44.173115+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -134,6 +134,7 @@ CV：若本规夫 (Character Voice : Norio Wakamoto) (https://number81.xyz/index
 红 超 人 (https://number81.xyz/index.php?topic=4293)
 破军 (https://number81.xyz/index.php?topic=4387)
 DOOM (https://number81.xyz/index.php?topic=4466)
+The B.E.S.T. (https://number81.xyz/index.php?topic=4582)
 
 **神下~神中（概念神/规则神/大部分【异态魔女】的上限战力）：**
 琉彩 (https://number81.xyz/index.php?topic=506)
@@ -189,6 +190,7 @@ Lord·of·罪罚 (ロード・オブ・ザイバツ) (https://number81.xyz/index
 骷髅王和他的冷知识(Skeletor facts) (https://number81.xyz/index.php?topic=3985)
 【白胡子】爱德华·纽盖特 (https://number81.xyz/index.php?topic=4161)
 天体之魔法少女 - 满天星 (https://number81.xyz/index.php?topic=4223)
+网友手操五条悟 (https://number81.xyz/index.php?topic=4558)
 
 **准神（理论上应该是神级，但表现不到神级）：**
 「万象天灵」坤仑 (https://number81.xyz/index.php?topic=424)
@@ -216,6 +218,7 @@ Lord·of·罪罚 (ロード・オブ・ザイバツ) (https://number81.xyz/index
 共鸣者-雨藜 (Yu Li) (https://number81.xyz/index.php?topic=2499)
 大力·D·一聋 (https://number81.xyz/index.php?topic=1230)
 Mega图图犬 (Mega Smeargle) (https://number81.xyz/index.php?topic=3920)
+那个打群架永远会来撑场面的很强很强但永远没声没息躺下的哥们 (https://number81.xyz/index.php?topic=4557)
 
 **狂（战斗力远超常人/大多数异态魔女的常态战力）：**
 Hank (https://number81.xyz/index.php?topic=683)
