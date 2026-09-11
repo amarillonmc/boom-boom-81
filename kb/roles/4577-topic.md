@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=4577.0"
 author: "Ender_Eragon"
 created_at_raw: "七月 16, 2026, 04:44 上午"
 created_at_iso: "2026-07-16T04:44:00+08:00"
-fetched_at_raw: "2026-08-12 23:55:58 +0800"
-fetched_at_iso: "2026-08-12T23:55:58.599592+08:00"
+fetched_at_raw: "2026-09-11 10:52:03 +0800"
+fetched_at_iso: "2026-09-11T10:52:03.079731+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -27,7 +27,7 @@ data_quality: "ok"
 
 **基础信息：**
 
-**角色名称：**新时系-闪光勇者（未完成）
+**角色名称：**新时系-闪光勇者
 
 **角色背景：**
 来自无比遥远的未来的「新时系世界」的少年，拥有者从无限遥远的未来所带来的神一般的科技力量。

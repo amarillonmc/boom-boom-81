@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=3181.0"
 author: "烛火"
 created_at_raw: "十二月 04, 2025, 06:21 上午"
 created_at_iso: "2025-12-04T06:21:00+08:00"
-fetched_at_raw: "2026-06-10 10:53:37 +0800"
-fetched_at_iso: "2026-06-10T10:53:37.094408+08:00"
+fetched_at_raw: "2026-09-11 10:43:58 +0800"
+fetched_at_iso: "2026-09-11T10:43:58.146610+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -523,11 +523,11 @@ FGO风格从者角色转录协议 (Complete Ver.)
 第三部分：战斗数据 (Combat Data)
 参数 (Parameters):
 
-筋力: EX (神话之躯)
-耐久: EX (恶魔熔炉)
-敏捷: A+++ (黑色闪电)
-魔力: E (无魔力体质/反魔法)
-幸运: A+ (王之器量)
+筋力: EX
+耐久: EX
+敏捷: A+++
+魔力: E
+幸运: A+
 宝具: EX
 职阶技能 (Class Skills):
 

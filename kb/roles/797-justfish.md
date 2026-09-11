@@ -6,8 +6,8 @@ source_url: "https://number81.xyz/index.php?topic=797.0"
 author: "Justfish"
 created_at_raw: "九月 24, 2025, 07:49 上午"
 created_at_iso: "2025-09-24T07:49:00+08:00"
-fetched_at_raw: "2026-08-12 23:34:44 +0800"
-fetched_at_iso: "2026-08-12T23:34:44.173115+08:00"
+fetched_at_raw: "2026-09-11 10:30:25 +0800"
+fetched_at_iso: "2026-09-11T10:30:25.587553+08:00"
 has_spoiler: false
 spoiler_export_ok: true
 missing_sections: []
@@ -135,6 +135,8 @@ CV：若本规夫 (Character Voice : Norio Wakamoto) (https://number81.xyz/index
 破军 (https://number81.xyz/index.php?topic=4387)
 DOOM (https://number81.xyz/index.php?topic=4466)
 The B.E.S.T. (https://number81.xyz/index.php?topic=4582)
+The DOOM (https://number81.xyz/index.php?topic=4731)
+"话怒无（Hunumu）"贝利尔（Belial） (https://number81.xyz/index.php?topic=4798)
 
 **神下~神中（概念神/规则神/大部分【异态魔女】的上限战力）：**
 琉彩 (https://number81.xyz/index.php?topic=506)
@@ -259,6 +261,7 @@ The Peace Keeper: AL-2S / 天童爱丽丝#2 (https://number81.xyz/index.php?topi
 伊利丹·怒风 (https://number81.xyz/index.php?topic=2805)
 史蒂夫 (操作者：Dream) (https://number81.xyz/index.php?topic=4115)
 日车宽见 (Hiromi Higuruma) (https://number81.xyz/index.php?topic=4116)
+重岳 (https://number81.xyz/index.php?topic=4681)
 
 **强/凶（战斗力超出绝大多数人）：**
 "不幸的幸运枪手" 蓝芸 (https://number81.xyz/index.php?topic=1530)
@@ -376,6 +379,12 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=4023"]多元宇宙老资历（The Oldest）[/url]
 [url="https://number81.xyz/index.php?topic=4164"]VERSUS[/url]
 [url="https://number81.xyz/index.php?topic=4182"]那是鸟！那是飞机！不，那是鲨鱼！[/url]
+[url="https://number81.xyz/index.php?topic=4189"]真实的圣诞老人[/url]
+[url="https://number81.xyz/index.php?topic=4294"]你应该知道，力的作用是相互的[/url]
+[url="https://number81.xyz/index.php?topic=4300"]超模超模超模[/url]
+[url="https://number81.xyz/index.php?topic=4360"]羽一[/url]
+[url="https://number81.xyz/index.php?topic=4468"]念星歌[/url]
+[url="https://number81.xyz/index.php?topic=4495"]GigaChad[/url]
 
 [b][size=4]神上（位面之主~单体）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=2562"]恐怖铁皮人[/url]
@@ -407,6 +416,10 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=3712"]某不愿透露姓名的拼字爱心人[/url]
 [url="https://number81.xyz/index.php?topic=3726"]物理学死神 (Phenomenon: Physical Death)[/url]
 [url="https://number81.xyz/index.php?topic=3982"]「死神/银剑之圣人」拉格纳 (Ragna)[/url]
+[url="https://number81.xyz/index.php?topic=4293"]红 超 人[/url]
+[url="https://number81.xyz/index.php?topic=4387"]破军[/url]
+[url="https://number81.xyz/index.php?topic=4466"]DOOM[/url]
+[url="https://number81.xyz/index.php?topic=4582"]The B.E.S.T.[/url]
 
 [b][size=4]神下~神中（概念神/规则神/大部分【异态魔女】的上限战力）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=506"]琉彩[/url]
@@ -460,6 +473,9 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=3791"]星态龙 (Star Eater)[/url]
 [url="https://number81.xyz/index.php?topic=3860"]储君 (Regent)[/url]
 [url="https://number81.xyz/index.php?topic=3985"]骷髅王和他的冷知识(Skeletor facts)[/url]
+[url="https://number81.xyz/index.php?topic=4161"]【白胡子】爱德华·纽盖特[/url]
+[url="https://number81.xyz/index.php?topic=4223"]天体之魔法少女 - 满天星[/url]
+[url="https://number81.xyz/index.php?topic=4558"]网友手操五条悟[/url]
 
 [b][size=4]准神（理论上应该是神级，但表现不到神级）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=424"]「万象天灵」坤仑[/url]
@@ -487,6 +503,7 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=2499"]共鸣者-雨藜 (Yu Li)[/url]
 [url="https://number81.xyz/index.php?topic=1230"]大力·D·一聋[/url]
 [url="https://number81.xyz/index.php?topic=3920"]Mega图图犬 (Mega Smeargle)[/url]
+[url="https://number81.xyz/index.php?topic=4557"]那个打群架永远会来撑场面的很强很强但永远没声没息躺下的哥们[/url]
 
 [b][size=4]狂（战斗力远超常人/大多数异态魔女的常态战力）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=683"]Hank[/url]
@@ -527,6 +544,7 @@ KING (https://number81.xyz/index.php?topic=982)
 [url="https://number81.xyz/index.php?topic=2805"]伊利丹·怒风[/url]
 [url="https://number81.xyz/index.php?topic=4115"]史蒂夫 (操作者：Dream)[/url]
 [url="https://number81.xyz/index.php?topic=4116"]日车宽见 (Hiromi Higuruma)[/url]
+[url="https://number81.xyz/index.php?topic=4681"]重岳[/url]
 
 [b][size=4]强/凶（战斗力超出绝大多数人）：[/size][/b]
 [url="https://number81.xyz/index.php?topic=1530"]"不幸的幸运枪手" 蓝芸[/url]
@@ -551,6 +569,7 @@ KING (https://number81.xyz/index.php?topic=982)
 
 [b][size=4]成龙：[/size][/b]
 [url="https://number81.xyz/index.php?topic=337"]路过的普通人类（不是成龙）[/url]
+[url="https://number81.xyz/index.php?topic=4157"]传奇·成龙（准神）[/url]
 [url="https://number81.xyz/index.php?topic=982"]KING[/url]
 [url=https://number81.xyz/index.php?topic=1759]野比大雄[/url]
 
